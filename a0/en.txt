@@ -1,0 +1,2011 @@
+# A0 Goal-Based Course — All 5 Tracks, 18 Stories (Location Labels)
+
+---
+
+# 💖 PERSONAL INTEREST (casual) >> American Daily Life
+
+# PI-1: Hey, I'm ___!
+
+- Category: Personal Interest
+- Subcategory: First Meeting
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+First meeting in New York.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, say where you're from, and share one reason you like the US.
+
+**📍 Location:** Outside (SoHo, NYC)
+
+**intro_text:**
+First meeting in New York.
+Deep breath... say hi!
+
+**Opening — First Hello [Set 1]**
+AI: Hey! I'm Alex (Jamie)! What's your name?
+User: I'm ___! / My name is ___!
+AI: Nice to meet you! Where are you from?
+User: I'm from ___!
+
+**Outro:**
+> First impression: Passed! 🎯
+> But wait... why are you *really* here in New York?
+>
+
+**Getting Closer — Likes [Set 2]**
+AI: Do you like it here?
+User: Yeah, I love it! / It's so cool!
+AI: What do you like about it?
+User: The food! / The people!
+
+**Outro:**
+> They loved your answer! 👀
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with American food.
+
+**📍 Location:** Outside (same)
+
+**intro_text:**
+You're still talking. Good sign!
+Time to find out what you have in common.
+
+**Hobbies — What Do You Like? [Set 3]**
+User: Alex (Jamie), what do you like?
+AI: Me? I love music! What about you?
+User: Me too! / I like movies!
+AI: Oh really? American music?
+
+**Outro:**
+> Vibe check passed! ✔️
+> Now, prepare for the ultimate American obsession... Food.
+>
+
+**Food — Have You Tried It? [Set 4]**
+AI: Have you tried BBQ here?
+User: Yeah! / Not yet!
+AI: You have to try it! It's so good!
+User: I want to! / Yeah, it was amazing!
+
+**Outro:**
+> Enough talking! 🛑
+> This is your golden chance. Make a move and ask them to hang out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange numbers to stay in touch.
+
+**📍 Location:** Outside (same)
+
+**intro_text:**
+The vibe is good. Really good.
+Time to make this official!
+
+**Plans — This Weekend [Set 5]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Wanna hang out?
+User: Yeah! What should we do?
+AI: Let's grab some food!
+
+**Outro:**
+> It's officially a date! 🥂
+> ...Wait! Don't let them walk away without getting their number!
+>
+
+**Contact — Let's Stay in Touch [Set 6]**
+User: Can I get your number?
+AI: Yeah, for sure! Here you go!
+User: Got it!
+AI: Text me! See you soon!
+
+**Outro:**
+> Contact secured! 🔒
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---
+
+# PI-2: What's Your Sign?
+
+- Category: Personal Interest
+- Subcategory: Small Talk
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: The Basics
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Location:** Coffee shop (SoHo)
+
+**intro_text:**
+You made it to the coffee shop. Now the real small talk begins.
+Age, location... and then the question everyone asks.
+
+**Opening — Age [Set 1]**
+AI: How old are you?
+User: I'm ___! / I'm ___ years old!
+AI: Oh, same as me! I'm 25!
+User: Really? / No way!
+
+**Outro:**
+> Age revealed! 🎂
+> Now find out where they actually live.
+>
+
+**Where Do You Live? [Set 2]**
+User: Where do you live?
+AI: Me? I live in Brooklyn! What about you?
+User: I live in Manhattan! / I live near here!
+AI: Oh, that's close!
+
+**Outro:**
+> Neighbors? Maybe! 📍
+> Get ready — the astrology question is coming.
+>
+
+---
+
+### sim2: Astrology Talk
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+The coffee is good. The conversation is better.
+Time for the question everyone in NYC asks.
+
+**Star Sign [Set 3]**
+User: What's your sign?
+AI: I'm a Scorpio! What about you?
+User: I'm a Leo! / I don't know!
+AI: A Leo? That makes sense!
+
+**Outro:**
+> Compatibility check: Passed! 💫
+> Now dig a little deeper into who they really are.
+>
+
+**Personality [Set 4]**
+AI: Are you more of a homebody or do you go out a lot?
+User: I go out a lot! / I stay home mostly!
+AI: Me too, I love going out!
+User: Same! / Oh really?
+
+**Outro:**
+> Same energy! ✨
+> One more round — what are they up to these days?
+>
+
+---
+
+### sim3: More About You
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+You're on your second coffee. This is going well.
+Time to get a little more personal.
+
+**Lately [Set 5]**
+AI: What have you been up to lately?
+User: Learning English! / Watching Netflix!
+AI: Nice! How's that going?
+User: It's fun! / It's a little hard.
+
+**Outro:**
+> Honest answer! 😄
+> Time to wrap this up and make plans to talk again.
+>
+
+**Wrap Up [Set 6]**
+AI: We should hang out again!
+User: Yeah, for sure!
+AI: Text me, okay?
+User: I will!
+
+**Outro:**
+> New friend unlocked! 🔓
+> Next up: Turn that chat into actual plans.
+>
+
+---
+
+# PI-3: What Are You Doing This Weekend?
+
+- Category: Personal Interest
+- Subcategory: Making Plans
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+The message bubble is blinking.
+Time to shoot your shot — ask them to hang out!
+
+**Opening — Weekend [Set 1]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Why?
+User: Let's hang out!
+AI: Yeah! What do you wanna do?
+
+**Outro:**
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
+**Where? [Set 2]**
+User: Wanna get coffee? Or grab food?
+AI: Food! I'm hungry. Where?
+User: How about SoHo?
+AI: Let's do it!
+
+**Outro:**
+> Destination: SoHo! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
+---
+
+### sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+Plans are set. Now lock in the details.
+Don't be that person who shows up at the wrong time.
+
+**Time [Set 3]**
+AI: What time should we meet?
+User: 2pm? / In the evening!
+AI: 2pm works! Spring Street station?
+User: Perfect!
+
+**Outro:**
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
+**Confirm [Set 4]**
+AI: So Saturday at 2, Spring Street!
+User: Yes!
+AI: Don't be late!
+User: I won't! / I'll be there!
+
+**Outro:**
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
+---
+
+### sim3: Day Of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 Location:** Spring Street Station, SoHo
+
+**intro_text:**
+It's Saturday. You're almost there.
+One last text to find each other!
+
+**Day Of [Set 5]**
+AI: Are you on your way?
+User: Yeah, almost there! / I'm here!
+AI: I'm here already! Hurry!
+User: Coming now!
+
+**Outro:**
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
+**Found You [Set 6]**
+User: Where are you?
+AI: I'm right here! Over here!
+User: Oh, I see you!
+AI: Let's go!
+
+**Outro:**
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
+
+---
+
+# PI-4: Text Me!
+
+- Category: Personal Interest
+- Subcategory: Staying in Touch
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Text
+
+**Goal:** To start a casual conversation over text.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+You have their number.
+Now what? Just... text them!
+
+**Opening — First Text [Set 1]**
+User: What are you up to?
+AI: Just at home! What about you?
+User: Same, I'm bored.
+AI: Me too! Wanna go out?
+
+**Outro:**
+> Conversation started! 💬
+> Now keep it going — ask about their day.
+>
+
+**Chat — How Was Your Day? [Set 2]**
+AI: What did you do today?
+User: Studied English. / Watched Netflix.
+AI: Oh nice, what did you watch?
+User: Something new! / It's a secret!
+
+**Outro:**
+> Chatting like pros! 😎
+> Time to take it up a notch — share something fun.
+>
+
+---
+
+### sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+The conversation is flowing.
+Time to send something fun!
+
+**Photo [Set 3]**
+AI: Look where I am! (photo)
+User: Where is that? / Wow, that's beautiful!
+AI: Central Park! We should go together sometime!
+User: Let's do it! / Yeah, I'd love that!
+
+**Outro:**
+> Central Park plans made! 🌿
+> Now send them something funny.
+>
+
+**Fun Stuff [Set 4]**
+User: Did you see this? (link)
+AI: What is it? I haven't seen it!
+User: It's so funny! Watch it!
+AI: Okay, I'll check it out!
+
+**Outro:**
+> Link sent! 😂
+> The night is winding down... time to say goodnight.
+>
+
+---
+
+### sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+It's getting late.
+Time to wrap up the night.
+
+**Evening [Set 5]**
+AI: Did you eat dinner?
+User: Yeah, I did. / Not yet!
+AI: Me too! I had pizza!
+User: Nice! / Really?
+
+**Outro:**
+> Dinner check done! 🍕
+> Almost time to wrap up for the night.
+>
+
+**Goodnight [Set 6]**
+AI: I'm gonna sleep now! Goodnight!
+User: Goodnight! Talk soon!
+AI: Yeah, talk soon! Text me tomorrow!
+User: I will!
+
+**Outro:**
+> Goodnight said! 🌙
+> Next up: Taking your English out into the real world.
+>
+
+---
+
+# ✈️ TRAVEL & PLACES (polite) >> US Travel
+
+# TR-1: Can I Get a Coffee?
+
+- Category: Travel & Places
+- Subcategory: Coffee Shop
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like pastries.
+
+**📍 Location:** Coffee shop counter (Starbucks, NYC)
+
+**intro_text:**
+First American coffee order. You got this... just say it!
+
+**Opening — Order [Set 1]**
+AI: Hi there! What can I get for you?
+User: Can I get an iced coffee, please? / Can I get an iced latte, please?
+AI: What size?
+User: Medium, please. / Large, please.
+
+**Outro:**
+> Drink ordered! ☕
+> But wait... that muffin in the display is calling your name.
+>
+
+**Add-On [Set 2]**
+AI: Anything else for you?
+User: Do you have muffins? / That's all, thank you.
+AI: We have blueberry and chocolate chip!
+User: I'll take a blueberry one, please. / I'll take the chocolate chip, please.
+
+**Outro:**
+> Order complete! 🧁
+> Now, time to pay like a pro.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about payment methods and give your name for the order.
+
+**📍 Location:** Coffee shop counter (same)
+
+**intro_text:**
+Order placed. Now comes the moment of truth.
+Time to pay and give your name!
+
+**Payment [Set 3]**
+AI: That'll be $7.50!
+User: Can I pay by card? / I'll pay with cash.
+AI: Of course, go ahead.
+User: Thank you so much.
+
+**Outro:**
+> Payment done! 💳
+> Just one more thing before you wait...
+>
+
+**Name [Set 4]**
+AI: Can I get a name for the order?
+User: It's ___.
+AI: Got it! We'll call your name when it's ready!
+User: Thank you!
+
+**Outro:**
+> Name given! 📝
+> Now, the hardest part: waiting for coffee.
+>
+
+---
+
+### sim3: Getting Your Order
+
+**Goal:** To pick up your order, ask for extras, and find a seat.
+
+**📍 Location:** Coffee shop pickup → seating area
+
+**intro_text:**
+Your name is about to be called.
+Get ready to grab your order!
+
+**Pickup [Set 5]**
+AI: ___, your iced coffee is ready!
+User: Thank you so much!
+AI: Do you need a straw?
+User: Yes, please. / No, I'm good, thanks.
+
+**Outro:**
+> Coffee in hand! ☕
+> Now, find the perfect spot to enjoy it.
+>
+
+**Seat [Set 6]**
+User: Is this seat taken?
+AI: No, go ahead!
+User: Thank you!
+AI: Enjoy!
+
+**Outro:**
+> Mission accomplished! ☕🧁
+> You're officially a US coffee shop regular. Next up: Time to eat!
+>
+
+---
+
+# TR-2: Table for Two, Please
+
+- Category: Travel & Places
+- Subcategory: Restaurant
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
+
+**📍 Location:** Restaurant (NYC)
+
+**intro_text:**
+First American restaurant experience.
+Get ready for some serious flavor!
+
+**Opening — Getting Seated [Set 1]**
+AI: Hi! How many?
+User: Just me. / Two, please.
+AI: Right this way!
+User: Thank you.
+
+**Outro:**
+> Survived the seating! 🪑
+> Now, the real challenge begins: the menu.
+>
+
+**Order [Set 2]**
+AI: What can I get for you?
+User: Can I get a burger, please?
+AI: Sure! And to drink?
+User: Water, please. / A Coke, please.
+
+**Outro:**
+> Order placed! 🍔
+> But wait... is the burger too big for you?
+>
+
+---
+
+### sim2: The Flavor Check
+
+**Goal:** To adjust your order and politely request extra items.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+The food is on its way.
+Time to make sure everything is right!
+
+**Spice Check [Set 3]**
+AI: Just so you know, the sauce is a little spicy!
+User: Is it spicy? / That's okay, I like spicy!
+AI: Yeah, just a little bit.
+User: Can I get it on the side, please? / Spicy is fine!
+
+**Outro:**
+> Crisis averted! 🌶️
+> Time to discover the magic of American sides.
+>
+
+**Extras [Set 4]**
+User: Excuse me! Can I get a refill?
+AI: Of course! What would you like?
+User: More water, please. / More Coke, please.
+AI: Coming right up!
+
+**Outro:**
+> The food is amazing! 🍟
+> Now, how do you politely finish the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill, handle payment, and offer polite closing greetings.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+You're full. It was delicious.
+Time to pay and head out!
+
+**Bill [Set 5]**
+User: Excuse me! Can I get the check, please?
+AI: Of course! Here you go. It's $18.
+User: Can I pay by card? / I'll pay cash.
+AI: Do you need change?
+
+**Outro:**
+> Bill sorted! 💳
+> Just one last thing to say before you walk out.
+>
+
+**Goodbye [Set 6]**
+User: Yes, please. / No, keep the change!
+AI: Thank you so much! Have a great day!
+User: Thank you! The food was great!
+AI: Come back soon!
+
+**Outro:**
+> Meal complete! 🍔
+> You're officially a US restaurant regular. Next up: Time to navigate the city!
+>
+
+---
+
+# TR-3: Excuse Me, Where Is...?
+
+- Category: Travel & Places
+- Subcategory: Asking Directions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Finding the Subway
+
+**Goal:** To ask for directions to the subway and understand basic directional responses.
+
+**📍 Location:** Street (Times Square, NYC)
+
+**intro_text:**
+You're lost in Times Square.
+Time to ask a local for help!
+
+**Opening — Directions [Set 1]**
+User: Excuse me! Where is the subway?
+AI: The subway? Go straight down this street.
+User: Straight down?
+AI: Yes, then turn left at the corner.
+
+**Outro:**
+> Directions received! 🗺️
+> But wait... which line do you need?
+>
+
+**Which Line? [Set 2]**
+User: Thank you! Which line goes to Brooklyn?
+AI: Take the A or C train.
+User: The A or C train. Got it, thank you!
+AI: No problem! Have a good one!
+
+**Outro:**
+> Line confirmed! 🚇
+> Now, can you actually get there on time?
+>
+
+---
+
+### sim2: At the Ticket Machine
+
+**Goal:** To buy a MetroCard and ask about the fare.
+
+**📍 Location:** Subway station (Times Square)
+
+**intro_text:**
+You found the station. Now you need a MetroCard.
+Let's figure this out!
+
+**Ticket [Set 3]**
+User: Excuse me! How much is the subway?
+AI: It's $2.90 per ride.
+User: Thank you!
+AI: No problem!
+
+**Outro:**
+> Fare found! 🎫
+> Now, figure out which platform to go to.
+>
+
+**Platform [Set 4]**
+User: Excuse me! Which platform for the A train?
+AI: It's on the lower level.
+User: Lower level. Got it, thank you!
+AI: Sure thing!
+
+**Outro:**
+> Platform found! 🚃
+> Almost there — just one more thing to check.
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm your stop and ask a fellow passenger for help.
+
+**📍 Location:** On the subway
+
+**intro_text:**
+You're on the train. Almost there.
+Just make sure you get off at the right stop!
+
+**On the Train [Set 5]**
+User: Excuse me! Is the next stop Brooklyn?
+AI: Yes, next stop!
+User: Thank you!
+AI: Sure!
+
+**Outro:**
+> Almost at your stop! 🚉
+> Just one more step — get off at the right place.
+>
+
+**Arrived [Set 6]**
+User: Excuse me! Is this my stop?
+AI: Yes, this is it!
+User: Thank you so much!
+AI: Have a good one!
+
+**Outro:**
+> Arrived safely! 🎉
+> Next up: Checking into your hotel.
+>
+
+---
+
+# TR-4: I Have a Reservation
+
+- Category: Travel & Places
+- Subcategory: Hotel / Airbnb
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Check-In
+
+**Goal:** To check in at the hotel, confirm your reservation, and get your room key.
+
+**📍 Location:** Hotel front desk (NYC)
+
+**intro_text:**
+Long day of travel. Finally, the hotel.
+Let's get that room key!
+
+**Opening — Check-In [Set 1]**
+AI: Welcome! Do you have a reservation?
+User: Yes, under the name ___.
+AI: Let me pull that up. Can I see your ID?
+User: Sure, here you go.
+
+**Outro:**
+> Check-in started! 🏨
+> But wait... what floor is your room on?
+>
+
+**Room Info [Set 2]**
+AI: You're in room 305, on the third floor.
+User: Thank you! Where's the elevator?
+AI: Right over there!
+User: Thank you so much!
+
+**Outro:**
+> Room confirmed! 🗝️
+> Now, find out what's included in your stay.
+>
+
+---
+
+### sim2: Room Amenities
+
+**Goal:** To ask about breakfast, Wi-Fi, and other hotel services.
+
+**📍 Location:** Hotel front desk (same)
+
+**intro_text:**
+Room key in hand. But first — a few questions.
+Let's find out what's included!
+
+**Breakfast [Set 3]**
+User: Is breakfast included?
+AI: Yes! It's from 7 to 10am.
+User: Great! Where is it?
+AI: In the restaurant on the first floor.
+
+**Outro:**
+> Breakfast info secured! 🍳
+> Now, get connected.
+>
+
+**Wi-Fi [Set 4]**
+User: Is there Wi-Fi?
+AI: Yes! Here's the password.
+User: Thank you!
+AI: Enjoy your stay!
+
+**Outro:**
+> Connected! 📶
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: Check-Out
+
+**Goal:** To check out of the hotel and confirm the bill.
+
+**📍 Location:** Hotel front desk
+
+**intro_text:**
+Time to check out. It was a great stay.
+Let's wrap it up!
+
+**Check-Out [Set 5]**
+User: I'd like to check out, please.
+AI: Of course! Let me get your bill. One moment.
+User: Sure.
+AI: Your total is $150. How would you like to pay?
+
+**Outro:**
+> Bill ready! 💳
+> Just one last thing before you head out.
+>
+
+**Goodbye [Set 6]**
+User: By card, please.
+AI: Perfect! Thank you for staying with us!
+User: Thank you! I had a great time!
+AI: Come back soon! Safe travels!
+
+**Outro:**
+> Check-out complete! 🧳
+> Next up: Time to explore pop culture!
+>
+
+---
+
+# 📺 POP CULTURE / TV (casual) >> American Entertainment
+
+# KD-1: Have You Seen This Show?
+
+- Category: Pop Culture / TV
+- Subcategory: Netflix Shows
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Netflix Talk
+
+**Goal:** To talk about your favorite Netflix show and find out what your friend is watching.
+
+**📍 Location:** Someone's apartment (Brooklyn)
+
+**intro_text:**
+Netflix is open. Snacks are ready.
+Time to find out what they're watching!
+
+**Opening — Shows [Set 1]**
+AI: Hey, do you watch Netflix?
+User: Yeah, all the time! / Sometimes!
+AI: What are you watching right now?
+User: Stranger Things! / The Crown!
+
+**Outro:**
+> Binge-watcher: Confirmed! 📺
+> But wait... what's their all-time favorite?
+>
+
+**Favorite Show [Set 2]**
+AI: What's your all-time favorite show?
+User: Breaking Bad! / Friends!
+AI: Oh, I love that one too!
+User: Right? It's so good!
+
+**Outro:**
+> Same taste! ✨
+> Now, find out how deep their Netflix knowledge goes.
+>
+
+---
+
+### sim2: Deep Dive
+
+**Goal:** To discuss characters and share opinions about a show.
+
+**📍 Location:** Apartment (same)
+
+**intro_text:**
+The conversation is getting good.
+Time to go deeper!
+
+**Characters [Set 3]**
+User: Who's your favorite character?
+AI: Me? I love Michael Scott! What about you?
+User: Jim! / Pam!
+AI: Oh nice! Why?
+
+**Outro:**
+> Character debate: Started! 🎬
+> Now, talk about the story itself.
+>
+
+**Story [Set 4]**
+AI: What do you think of the ending?
+User: It was so good! / It was a little sad.
+AI: I know! I cried at the last episode!
+User: Me too! / Really? I didn't!
+
+**Outro:**
+> No spoilers! 🛑
+> This is your chance — recommend something new!
+>
+
+---
+
+### sim3: Recommendations
+
+**Goal:** To recommend a show and make plans to watch together.
+
+**📍 Location:** Apartment (same)
+
+**intro_text:**
+They need a new show. You have the perfect one.
+Time to make your recommendation!
+
+**Recommend [Set 5]**
+User: Do you have any recommendations?
+AI: Have you seen Succession? It's so good!
+User: Not yet! Is it good? / I've seen it! It's amazing!
+AI: It's so good! You have to watch it!
+
+**Outro:**
+> Recommendation made! 📺
+> Now, make plans to watch together!
+>
+
+**Watch Together [Set 6]**
+AI: Wanna watch it together?
+User: Yes! When?
+AI: How about this weekend?
+User: Let's do it!
+
+**Outro:**
+> Watch party planned! 🍿
+> Next up: Time to talk about movies!
+>
+
+---
+
+# KD-2: Did You See That Movie?
+
+- Category: Pop Culture / TV
+- Subcategory: Movies
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Movie Talk
+
+**Goal:** To talk about your favorite movies and find out what your friend likes.
+
+**📍 Location:** Coffee shop (Brooklyn)
+
+**intro_text:**
+The movie talk is getting serious.
+Time to find out if they have good taste!
+
+**Opening — Movies [Set 1]**
+AI: Do you like movies?
+User: Yeah, I love them! / They're okay!
+AI: What's your favorite?
+User: Interstellar! / The Dark Knight!
+
+**Outro:**
+> Movie fan: Confirmed! 🎬
+> But wait... do they know the best scenes?
+>
+
+**Favorite Scene [Set 2]**
+AI: What's your favorite scene?
+User: The ending! / The first scene!
+AI: Oh, that part is so good!
+User: Right? It's amazing!
+
+**Outro:**
+> Scene appreciation: Unlocked! 🔓
+> Now, find out if they've been to the movies recently.
+>
+
+---
+
+### sim2: At the Theater
+
+**Goal:** To talk about going to the movies and make plans.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+The movie talk is heating up.
+Time to make some plans!
+
+**Recent Movies [Set 3]**
+User: Have you seen anything good lately?
+AI: Yeah! I just saw the new Marvel movie!
+User: How was it? / I saw that too!
+AI: It was so good! So many action scenes!
+
+**Outro:**
+> Movie talk: Started! 🎥
+> Now, talk about going together.
+>
+
+**Plans [Set 4]**
+AI: Wanna go see a movie sometime?
+User: Yeah! What's playing? / I'd love to! When?
+AI: Let me check... there's a new one this Friday!
+User: This Friday works!
+
+**Outro:**
+> Movie plans: In progress! 📅
+> Almost there — just confirm the details!
+>
+
+---
+
+### sim3: Movie Night
+
+**Goal:** To confirm movie plans and talk about snacks.
+
+**📍 Location:** Movie theater (Times Square)
+
+**intro_text:**
+It's movie night. You're at the theater.
+Time to get snacks and find your seats!
+
+**Snacks [Set 5]**
+User: Do you want popcorn?
+AI: Yes! I always get popcorn!
+User: Sweet or salty? / Large or small?
+AI: Salty! And large, obviously!
+
+**Outro:**
+> Snacks secured! 🍿
+> Now, find your seats!
+>
+
+**Seats [Set 6]**
+AI: Where do you want to sit?
+User: In the middle! / Near the back!
+AI: Good call! Let's go!
+User: This is gonna be so good!
+
+**Outro:**
+> Movie night confirmed! 🎉
+> Next up: Time to talk about sports!
+>
+
+---
+
+# KD-3: Did You Watch the Game?
+
+- Category: Pop Culture / TV
+- Subcategory: Sports
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Sports Talk
+
+**Goal:** To talk about your favorite sport and team and find out what your friend follows.
+
+**📍 Location:** Sports bar (NYC)
+
+**intro_text:**
+The game is on. The bar is loud.
+Time to find out if they're a real fan!
+
+**Opening — Sports [Set 1]**
+AI: Hey, do you like sports?
+User: Yeah, I love them! / They're okay!
+AI: What's your favorite?
+User: Basketball! / Football!
+
+**Outro:**
+> Sports fan: Confirmed! 🏀
+> But wait... what's their team?
+>
+
+**Favorite Team [Set 2]**
+AI: What team do you root for?
+User: The Lakers! / The Knicks!
+AI: Oh nice! I'm a Knicks fan!
+User: No way! / Same!
+
+**Outro:**
+> Team loyalty: Revealed! 🏆
+> Now, find out how they watch the games.
+>
+
+---
+
+### sim2: Watching the Game
+
+**Goal:** To talk about watching games and share reactions.
+
+**📍 Location:** Sports bar (same)
+
+**intro_text:**
+The game just started. The energy is high.
+Time to react!
+
+**Game Reactions [Set 3]**
+User: Did you see that play?
+AI: Yes! That was insane!
+User: I know! So good! / I can't believe it!
+AI: This is the best game all season!
+
+**Outro:**
+> Game reactions: Shared! 🔥
+> Now, talk about your favorite player.
+>
+
+**Favorite Player [Set 4]**
+AI: Who's your favorite player?
+User: LeBron! / Steph Curry!
+AI: Oh, he's amazing!
+User: Right? The best!
+
+**Outro:**
+> Player debate: Started! ⭐
+> Almost done — make plans for the next game!
+>
+
+---
+
+### sim3: Next Game
+
+**Goal:** To make plans to watch the next game together.
+
+**📍 Location:** Sports bar (same)
+
+**intro_text:**
+The game is almost over. The night is winding down.
+Time to plan the next one!
+
+**Next Game [Set 5]**
+User: Wanna watch the next game together?
+AI: Yeah! When is it?
+User: Next Sunday! / This Friday!
+AI: I'm in! Where?
+
+**Outro:**
+> Game plans: In progress! 📅
+> Almost there — just confirm the details!
+>
+
+**Confirm [Set 6]**
+User: Here? Same bar?
+AI: Yeah, this place is great!
+User: Let's do it!
+AI: Can't wait! It's gonna be so good!
+
+**Outro:**
+> Game night confirmed! 🎉
+> Next up: Time to talk about gaming!
+>
+
+---
+
+# KD-4: What Are You Playing?
+
+- Category: Pop Culture / TV
+- Subcategory: Gaming
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Gaming Talk
+
+**Goal:** To talk about your favorite games and find out what your friend plays.
+
+**📍 Location:** Gaming lounge (Brooklyn)
+
+**intro_text:**
+You just finished a game. The controller is still warm.
+Time to find out if they're a real gamer!
+
+**Opening — Games [Set 1]**
+AI: Hey, do you play video games?
+User: Yeah, all the time! / Sometimes!
+AI: What are you playing right now?
+User: Fortnite! / Minecraft!
+
+**Outro:**
+> Gamer: Confirmed! 🎮
+> But wait... what's their all-time favorite?
+>
+
+**Favorite Game [Set 2]**
+AI: What's your all-time favorite game?
+User: The Last of Us! / Zelda!
+AI: Oh, that's so good!
+User: Right? It's amazing!
+
+**Outro:**
+> Same taste! ✨
+> Now, find out how long they've been gaming.
+>
+
+---
+
+### sim2: Gaming Deep Dive
+
+**Goal:** To discuss gaming habits and share opinions.
+
+**📍 Location:** Gaming lounge (same)
+
+**intro_text:**
+The gaming talk is getting serious.
+Time to go deeper!
+
+**Gaming Habits [Set 3]**
+User: How long do you play every day?
+AI: Like two or three hours! What about you?
+User: Same! / Way too much!
+AI: Ha! Same. It's hard to stop!
+
+**Outro:**
+> Gaming habits: Shared! 🕹️
+> Now, talk about your favorite genre.
+>
+
+**Genre [Set 4]**
+AI: What kind of games do you like?
+User: Action games! / RPGs!
+AI: Nice! Me too!
+User: We should play together sometime!
+
+**Outro:**
+> Gaming bond: Formed! 🤝
+> Almost done — make plans to play together!
+>
+
+---
+
+### sim3: Play Together
+
+**Goal:** To make plans to play games together online.
+
+**📍 Location:** Gaming lounge (same)
+
+**intro_text:**
+You're both gamers. This was meant to be.
+Time to make it official!
+
+**Play Together [Set 5]**
+User: Wanna play online sometime?
+AI: Yeah! What do you play online?
+User: Fortnite! / Call of Duty!
+AI: I play that! Let's do it!
+
+**Outro:**
+> Online gaming plans: Made! 🎮
+> Almost there — just share your username!
+>
+
+**Username [Set 6]**
+AI: What's your username?
+User: It's ___!
+AI: Got it! I'll add you!
+User: Let's play tonight!
+
+**Outro:**
+> Gaming squad: Formed! 🎉
+> Next up: Time to talk about music!
+>
+
+---
+
+# 🎵 MUSIC & CONCERTS (casual + polite) >> American Music Scene
+
+# KP-1: Do You Like Taylor Swift?
+
+- Category: Music & Concerts
+- Subcategory: Music Taste
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Music Talk
+
+**Goal:** To talk about your favorite artist and find out what your friend listens to.
+
+**📍 Location:** Coffee shop (SoHo)
+
+**intro_text:**
+The playlist is on. The vibes are immaculate.
+Time to find out if they have good taste!
+
+**Opening — Music [Set 1]**
+AI: Hey, do you like music?
+User: Yeah, I love it! / It's okay!
+AI: Who's your favorite artist?
+User: Taylor Swift! / Beyoncé!
+
+**Outro:**
+> Music taste: Confirmed! 🎵
+> But wait... what's their favorite song?
+>
+
+**Favorite Song [Set 2]**
+AI: What's your favorite song right now?
+User: "Anti-Hero"! / "Cruel Summer"!
+AI: Oh, that's such a good song!
+User: Right? I can't stop listening!
+
+**Outro:**
+> Same taste! 🎶
+> Now, find out how they discovered their favorite artist.
+>
+
+---
+
+### sim2: Discovery
+
+**Goal:** To talk about how you discovered your favorite artist and share recommendations.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+The music talk is getting good.
+Time to go deeper!
+
+**How Did You Find Them? [Set 3]**
+User: How did you find Taylor Swift?
+AI: I heard her on the radio! What about you?
+User: I saw her on TikTok! / My friend showed me!
+AI: Oh nice! Which song?
+
+**Outro:**
+> Discovery story: Shared! 📖
+> Now, talk about your favorite album.
+>
+
+**Favorite Album [Set 4]**
+AI: Do you have a favorite album?
+User: "Midnights"! / I haven't heard them all yet!
+AI: "Midnights" is so good!
+User: I know! / I'll listen to it!
+
+**Outro:**
+> Album love: Confirmed! 💿
+> Now, find out if they want to go to a concert!
+>
+
+---
+
+### sim3: Concert Plans
+
+**Goal:** To talk about going to a concert together.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+The music talk is at its peak.
+Time to make some real plans!
+
+**Concert [Set 5]**
+User: I want to see Taylor Swift live!
+AI: Me too! Did you get tickets?
+User: Not yet! Wanna try together? / I already got them!
+AI: We have to go! It's gonna be amazing!
+
+**Outro:**
+> Concert dreams! 🎤
+> Almost there — just confirm the details!
+>
+
+**Tickets [Set 6]**
+AI: When is the concert?
+User: Next month!
+AI: Let's go! I'm so excited!
+User: Me too! It's gonna be amazing!
+
+**Outro:**
+> Concert confirmed! 🎉
+> Next up: Time to actually go to the concert!
+>
+
+---
+
+# KP-2: That Concert Was Insane!
+
+- Category: Music & Concerts
+- Subcategory: Concert Experience
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Before the Concert
+
+**Goal:** To meet up before the concert and talk about your excitement.
+
+**📍 Location:** Outside the concert venue (Madison Square Garden)
+
+**intro_text:**
+The day is finally here.
+You're about to see your favorite artist live!
+
+**Opening — Before [Set 1]**
+AI: You made it! Are you excited?
+User: So excited! / A little nervous!
+AI: Me too! What song do you want to hear?
+User: "Anti-Hero"! / All of them!
+
+**Outro:**
+> Excitement level: MAX! 🎤
+> But wait... did they get the merch?
+>
+
+**Merch [Set 2]**
+AI: Did you get any merch?
+User: Yeah, I got a shirt! / Not yet! Wanna go look?
+AI: Nice! Let's go look too!
+User: Let's go!
+
+**Outro:**
+> Merch secured! 🛍️
+> Now, time to go in!
+>
+
+---
+
+### sim2: During the Concert
+
+**Goal:** To react to the concert and share your excitement with your friend.
+
+**📍 Location:** Inside the concert venue
+
+**intro_text:**
+The lights go down. The crowd goes wild.
+This is it!
+
+**Concert Reactions [Set 3]**
+User: Oh my god, this is amazing!
+AI: I know! Her voice is insane!
+User: Right? I'm gonna cry! / This is the best night ever!
+AI: Me too! I'm already crying!
+
+**Outro:**
+> Feelings: Overflowing! 😭
+> Now, react to your favorite song!
+>
+
+**Favorite Song [Set 4]**
+AI: Oh! "Anti-Hero" is next!
+User: No way! My favorite song! / Let's go!
+AI: Sing it with me!
+User: I'm singing!
+
+**Outro:**
+> Singing together! 🎶
+> Almost at the end — make it count!
+>
+
+---
+
+### sim3: After the Concert
+
+**Goal:** To talk about the concert after it ends and make plans to come again.
+
+**📍 Location:** Outside the venue
+
+**intro_text:**
+The concert is over. Your ears are ringing.
+But you don't want it to end!
+
+**After [Set 5]**
+User: That was incredible!
+AI: Best concert ever!
+User: I want to go again! / Let's go next time too!
+AI: We have to go again!
+
+**Outro:**
+> Concert memories: Made! 🌟
+> Now, talk about your favorite moment!
+>
+
+**Best Moment [Set 6]**
+AI: What was your favorite part?
+User: "Anti-Hero"! / The last song!
+AI: Same! That part was insane!
+User: I want to go again!
+
+**Outro:**
+> Night to remember! 🎤
+> Next up: Time for the ultimate fan experience — the meet and greet!
+>
+
+---
+
+# KP-3: I Met Her at the Meet and Greet!
+
+- Category: Music & Concerts
+- Subcategory: Fan Culture
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Before the Event
+
+**Goal:** To talk about your excitement before a meet and greet and prepare.
+
+**📍 Location:** Outside the event venue
+
+**intro_text:**
+The meet and greet is today.
+You're about to meet your favorite artist!
+
+**Opening — Before [Set 1]**
+AI: Are you nervous?
+User: So nervous! / Just a little!
+AI: You'll be fine! What are you gonna say?
+User: "I love your music"! / I don't know yet!
+
+**Outro:**
+> Preparation: In progress! 💪
+> But wait... what do you want to ask them?
+>
+
+**What to Ask [Set 2]**
+AI: Are you gonna ask anything?
+User: "What's your favorite song to perform?" / I don't know yet!
+AI: That's a great question! Keep it simple!
+User: Okay! I'll try!
+
+**Outro:**
+> Question ready! 🎯
+> Now, time to actually meet them!
+>
+
+---
+
+### sim2: At the Meet and Greet
+
+**Goal:** To interact with an artist at a meet and greet using polite English.
+
+**📍 Location:** Inside the event venue
+
+**intro_text:**
+It's your turn. Deep breath.
+You've got this!
+
+**Meet and Greet [Set 3]**
+User: Hi! I'm such a big fan!
+AI: Thank you so much! That means a lot!
+User: What's your favorite song to perform? / I love your music so much!
+AI: Thank you! I love performing "Anti-Hero"!
+
+**Outro:**
+> Artist met! 🌟
+> Now, share the experience with your friend!
+>
+
+**Tell Your Friend [Set 4]**
+AI: How was it? What happened?
+User: It was amazing! She was so nice! / I was so nervous!
+AI: What did you say?
+User: I said "I love your music"! / I asked about her favorite song!
+
+**Outro:**
+> Story shared! 💬
+> Now, talk about what they said to you!
+>
+
+---
+
+### sim3: After the Event
+
+**Goal:** To talk about the meet and greet experience and make plans to come again.
+
+**📍 Location:** Outside the venue
+
+**intro_text:**
+The event is over. You're still shaking.
+Time to process what just happened!
+
+**After [Set 5]**
+User: That was the best day of my life!
+AI: I know! Are you gonna come to the next one?
+User: Yes! When is it? / Of course!
+AI: Let's look it up!
+
+**Outro:**
+> Next event: Planned! 📅
+> Almost there — just one more thing to share!
+>
+
+**Wrap Up [Set 6]**
+AI: Did you have fun today?
+User: So much fun! Best day ever!
+AI: Let's do it again next time!
+User: Yes! I can't wait!
+
+**Outro:**
+> Fan life: Unlocked! 🎤
+> Next up: Time to take your English to the workplace!
+>
+
+---
+
+# 💼 WORKPLACE (formal) >> American Professional Life
+
+# CR-1: Nice to Meet You, I'm ___
+
+- Category: Workplace
+- Subcategory: Introductions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Day Introduction
+
+**Goal:** To introduce yourself formally on your first day at an American company.
+
+**📍 Location:** Office (conference room, NYC)
+
+**intro_text:**
+First day at an American company.
+Time to make a great first impression!
+
+**Opening — Introduction [Set 1]**
+AI: Hi! I'm Sarah (David). Nice to meet you!
+User: Nice to meet you! I'm ___.
+AI: Welcome to the team! Where are you from?
+User: I'm from ___.
+
+**Outro:**
+> Introduction: Nailed it! 🤝
+> But wait... time to exchange contact info!
+>
+
+**Contact Info [Set 2]**
+AI: Here's my card. Feel free to reach out!
+User: Thank you! Here's mine as well.
+AI: Great! Which department are you in?
+User: I'm in sales. / I'm in marketing.
+
+**Outro:**
+> Cards exchanged! 💼
+> Now, find out more about your new colleague.
+>
+
+---
+
+### sim2: Getting to Know the Office
+
+**Goal:** To ask about the office layout and daily routines.
+
+**📍 Location:** Office (open floor plan)
+
+**intro_text:**
+You have your badge. You have your desk.
+Now, figure out how things work around here!
+
+**Lunch [Set 3]**
+AI: Where do you usually eat lunch?
+User: I go to the deli nearby. / I bring my lunch.
+AI: I see. Would you like to join me today?
+User: I would love that, thank you.
+
+**Outro:**
+> Lunch buddy: Found! 🥪
+> Now, ask about the daily schedule.
+>
+
+**Schedule [Set 4]**
+AI: What time does your day start?
+User: I start at 9am. / I start at 8:30.
+AI: And when do you finish?
+User: I finish at 6. / It depends on the day.
+
+**Outro:**
+> Schedule confirmed! 📅
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: End of First Day
+
+**Goal:** To wrap up the first day and say goodbye to colleagues.
+
+**📍 Location:** Office
+
+**intro_text:**
+It's 6pm. First day is almost done.
+Time to say goodbye properly!
+
+**End of Day [Set 5]**
+AI: Great work today! How was your first day?
+User: It was great, thank you! / It was a lot to take in!
+AI: If you have any questions, just ask me.
+User: Thank you. I really appreciate that.
+
+**Outro:**
+> First day: Survived! 💪
+> Now, say goodbye properly!
+>
+
+**Goodbye [Set 6]**
+AI: I'm heading out. Have a good evening!
+User: You too! See you tomorrow!
+AI: See you tomorrow! Welcome again!
+User: Thank you! Good night!
+
+**Outro:**
+> First day: Complete! 🎉
+> Next up: Time to run a meeting!
+>
+
+---
+
+# CR-2: Let's Get Started
+
+- Category: Workplace
+- Subcategory: Meetings
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting room is filling up.
+Time to show them you're prepared!
+
+**Opening — Preparation [Set 1]**
+AI: Are you ready for the meeting?
+User: Yes, I'm ready. / Almost, one more minute.
+AI: Do you have the slides?
+User: Yes, right here. / I'm printing them now.
+
+**Outro:**
+> Preparation: Confirmed! 📋
+> But wait... is everyone here?
+>
+
+**Start Meeting [Set 2]**
+AI: Okay, let's get started. Thank you all for coming.
+User: Thank you for having me.
+AI: Today's agenda is the Q3 report.
+User: Understood.
+
+**Outro:**
+> Meeting started! 🤝
+> Now, time to present your ideas!
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To present an idea and respond to questions in a meeting.
+
+**📍 Location:** Office (conference room, same)
+
+**intro_text:**
+The meeting is underway.
+Time to speak up!
+
+**Present [Set 3]**
+AI: Could you share your thoughts on this?
+User: Yes. I think we should focus on social media.
+AI: Interesting. Can you tell us more?
+User: Of course. It would help us reach more people.
+
+**Outro:**
+> Opinion shared! 💡
+> Now, respond to a question.
+>
+
+**Question [Set 4]**
+AI: I have a question, if that's okay.
+User: Of course, go ahead.
+AI: When would this plan start?
+User: We could start next month. / That's still being decided.
+
+**Outro:**
+> Question answered! ✅
+> Almost done — just wrap up the meeting!
+>
+
+---
+
+### sim3: End of Meeting
+
+**Goal:** To wrap up a meeting and confirm next steps.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting is wrapping up.
+Time to confirm next steps and close it out!
+
+**Wrap Up [Set 5]**
+AI: Okay, let me summarize. The next step is the report.
+User: Understood.
+AI: Does anyone have any questions?
+User: No, I'm good. / Yes, I have one.
+
+**Outro:**
+> Summary: Done! 📋
+> Now, close the meeting properly!
+>
+
+**Close Meeting [Set 6]**
+AI: Alright, that's all for today. Thank you everyone.
+User: Thank you. It was a productive meeting.
+AI: Next meeting is next week. See you then!
+User: See you then. Thank you!
+
+**Outro:**
+> Meeting complete! 🎉
+> Next up: Time to write a professional email!
+>
+
+---
+
+# CR-3: Please See the Attached
+
+- Category: Workplace
+- Subcategory: Professional Emails
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Writing an Email
+
+**Goal:** To write a simple professional email to a colleague.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+Monday morning. Your inbox is full.
+Time to write your first professional email!
+
+**Opening — Email [Set 1]**
+AI: Have you sent the report yet?
+User: Not yet. I'm writing the email now.
+AI: Okay. Don't forget to attach the file.
+User: Got it. I will.
+
+**Outro:**
+> Email started! 📧
+> But wait... what's the right way to open it?
+>
+
+**Opening Line [Set 2]**
+AI: How do you usually start an email?
+User: I write "Hi" and their name. / I write "Dear" and their name.
+AI: Both work! "Hi" is more casual, "Dear" is more formal.
+User: I see. Thank you!
+
+**Outro:**
+> Email etiquette: Learned! ✉️
+> Now, write the body of the email.
+>
+
+---
+
+### sim2: The Email Body
+
+**Goal:** To write the main content of a professional email.
+
+**📍 Location:** Office (at your desk, same)
+
+**intro_text:**
+The opening is done. Now the hard part.
+What do you actually say?
+
+**Body [Set 3]**
+User: How do I ask for something politely?
+AI: You can say "Could you please..." or "I would appreciate it if..."
+User: That's helpful! Thank you.
+AI: No problem! Keep it short and clear.
+
+**Outro:**
+> Email body: Written! 📝
+> Now, how do you close the email?
+>
+
+**Closing [Set 4]**
+AI: How do you end your emails?
+User: I write "Best regards" and my name. / I write "Thanks" and my name.
+AI: Good! "Best regards" is more formal. "Thanks" is more casual.
+User: Got it. I'll use "Best regards."
+
+**Outro:**
+> Email closing: Confirmed! ✅
+> Almost done — just send it!
+>
+
+---
+
+### sim3: Sending and Following Up
+
+**Goal:** To send an email and follow up professionally.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+The email is ready. Deep breath.
+Time to hit send!
+
+**Send [Set 5]**
+User: I sent the email!
+AI: Great! Did you attach the file?
+User: Yes, I did. / Oh no, I forgot!
+AI: Always double-check the attachment!
+
+**Outro:**
+> Email sent! 📤
+> Now, what if they don't reply?
+>
+
+**Follow Up [Set 6]**
+AI: Did you hear back from them?
+User: Not yet. Should I follow up?
+AI: Yes. Wait one or two days, then send a short follow-up.
+User: Okay. Thank you for the advice!
+
+**Outro:**
+> Professional skills: Unlocked! 🎉
+> You've mastered the American workplace. The world is yours!
+>
