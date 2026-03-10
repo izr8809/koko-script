@@ -115,7 +115,13 @@ AI: 연락할게! 또 봐!
 
 ## sim1: The Basics
 
+**Goal:** To ask and answer questions about age and where you live.
+
 📍 장소: 카페
+
+**intro_text:**
+You made it to the café. Now the real small talk begins.
+Age, location... and then the question everyone asks.
 
 ### 기 — 나이 [세트 1]
 
@@ -125,6 +131,10 @@ User: ___살이야!
 AI: 오, 나랑 비슷해! 나는 25살!
 User: 진짜? / 오, 그래?
 
+> Age revealed! 🎂
+> Now find out where they actually live.
+>
+
 ### 승 — 어디 살아 [세트 2]
 
 User: 어디 살아?
@@ -133,7 +143,13 @@ AI: 나? 강남이야! 너는?
 User: 서울이야! / 홍대 근처야!
 AI: 오, 가깝다!
 
+> Neighbors? Maybe! 📍
+> Get ready — the MBTI question is coming.
+>
+
 ## sim2: MBTI Talk
+
+**Goal:** To discuss MBTI types and talk about personality.
 
 📍 장소: 카페 (동일)
 
@@ -145,6 +161,10 @@ AI: 나는 INFJ야! 너는?
 User: ENFP야! / 모르겠어!
 AI: ENFP? 잘 맞을 것 같아!
 
+> Compatibility check: Passed! 💫
+> Now dig a little deeper into who they really are.
+>
+
 ### 전 — 성격 [세트 4]
 
 AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
@@ -153,7 +173,13 @@ User: 밖에 나가는 거! / 집이 좋아!
 AI: 나도 밖에 나가는 거 좋아해!
 User: 오, 같다!
 
+> Same energy! ✨
+> One more round — what are they up to these days?
+>
+
 ## sim3: More About You
+
+**Goal:** To talk about what you've been doing lately.
 
 📍 장소: 카페 (동일)
 
@@ -165,6 +191,10 @@ User: 한국어 공부! / 드라마 봐!
 AI: 한국어 어때? 재밌어?
 User: 응, 재밌어! / 좀 어려워.
 
+> Honest answer! 😄
+> Time to wrap this up and make plans to talk again.
+>
+
 ### 결 — 마무리 [세트 6]
 
 AI: 다음에 더 얘기하자!
@@ -172,6 +202,10 @@ User: 응, 좋아!
 
 AI: 카톡 해!
 User: 응!
+
+> New friend unlocked! 🔓
+> Next up: Turn that chat into actual plans.
+>
 
 ---
 
@@ -186,7 +220,13 @@ User: 응!
 
 ## sim1: This Weekend
 
+**Goal:** To suggest and agree on weekend plans.
+
 📍 장소: 온라인 (카톡)
+
+**intro_text:**
+The text bubble is blinking.
+Time to shoot your shot — ask them to hang out!
 
 ### 기 — 주말 [세트 1]
 
@@ -196,6 +236,10 @@ AI: 나? 아직 없어! 왜?
 User: 같이 놀래?
 AI: 좋아! 뭐 할까?
 
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
 ### 승 — 어디 갈까 [세트 2]
 
 User: 카페 갈래? 밥 먹으러 갈래?
@@ -204,7 +248,13 @@ AI: 밥! 배고파! 어디?
 User: 홍대 어때?
 AI: 좋아!
 
+> Destination: Hongdae! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
 ## sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
 
 📍 장소: 온라인 (카톡, 동일)
 
@@ -216,6 +266,10 @@ User: 2시? / 저녁에!
 AI: 2시 좋아! 홍대역 앞?
 User: 응!
 
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
 ### 전 — 확인 [세트 4]
 
 AI: 그럼 토요일 2시, 홍대역!
@@ -224,7 +278,13 @@ User: 응!
 AI: 늦으면 안 돼!
 User: 알겠어! / 안 늦어!
 
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
 ## sim3: Day of
+
+**Goal:** To coordinate arrival and find each other in real time.
 
 📍 장소: 홍대역 앞 (야외)
 
@@ -236,6 +296,10 @@ User: 응, 거의 다 왔어! / 나가고 있어!
 AI: 나 도착했어! 빨리 와!
 User: 금방 가!
 
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
 ### 결 — 만남 [세트 6]
 
 User: 어디야?
@@ -243,6 +307,10 @@ AI: 여기! 이쪽!
 
 User: 아, 봤어!
 AI: 가자!
+
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
 
 ---
 
@@ -257,7 +325,13 @@ AI: 가자!
 
 ## sim1: First Text
 
+**Goal:** To start a casual conversation over text.
+
 📍 장소: 온라인 (카톡)
+
+**intro_text:**
+You have their KakaoTalk ID.
+Now what? Just... text them!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -267,6 +341,10 @@ AI: 집에 있어! 너는?
 User: 나도 집! 심심해.
 AI: 나도! 나갈까?
 
+> Conversation started! 💬
+> Now keep it going — ask about their day.
+>
+
 ### 승 — 대화 [세트 2]
 
 AI: 오늘 뭐 했어?
@@ -275,7 +353,13 @@ User: 한국어 공부했어. / 드라마 봤어.
 AI: 오, 뭐 봤어?
 User: 새로 나온 거! / 비밀!
 
+> Chatting like pros! 😎
+> Time to take it up a notch — share something fun.
+>
+
 ## sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
 
 📍 장소: 온라인 (카톡, 동일)
 
@@ -287,6 +371,10 @@ User: 어디야? / 와, 예쁘다!
 AI: 한강이야! 다음에 같이 가자!
 User: 가자! / 응, 가고 싶어!
 
+> Han River plans made! 🌊
+> Now send them something funny.
+>
+
 ### 전 — 재미 [세트 4]
 
 User: 이거 봤어? (링크)
@@ -295,7 +383,13 @@ AI: 뭐야? 안 봤어!
 User: 진짜 웃겨! 봐봐!
 AI: 알겠어! 볼게!
 
+> Link sent! 😂
+> The night is winding down... time to say goodnight.
+>
+
 ## sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
 
 📍 장소: 온라인 (카톡, 동일)
 
@@ -307,6 +401,10 @@ User: 응, 먹었어. / 아직!
 User: 너는?
 AI: 나도 먹었어! 라면!
 
+> Dinner check done! 🍜
+> Almost time to wrap up for the night.
+>
+
 ### 결 — 잘 자 [세트 6]
 
 AI: 나 이제 잘 거야! 잘 자!
@@ -314,6 +412,10 @@ User: 잘 자!
 
 User: 내일 봐!
 AI: 응, 내일 봐!
+
+> Goodnight said! 🌙
+> Next up: Taking your Korean out into the real world.
+>
 
 ---
 
@@ -524,7 +626,13 @@ AI: 또 오세요!
 
 ## sim1: Getting In
 
+**Goal:** To give your destination to a taxi driver and handle basic questions during the ride.
+
 📍 장소: 택시 안
+
+**intro_text:**
+You flagged down a taxi. The driver is waiting.
+Just say where you're going!
 
 ### 기 — 타기 [세트 1]
 
@@ -534,6 +642,10 @@ User: 명동역이요. / 강남역이요.
 AI: 네, 타세요!
 User: 네!
 
+> Destination set! 🚕
+> Now settle in — it might take a while.
+>
+
 ### 승 — 가는 중 [세트 2]
 
 AI: 좀 막히는데 괜찮으세요?
@@ -542,7 +654,13 @@ User: 괜찮아요. / 오래 걸려요?
 AI: 한 15분이면 돼요.
 User: 네!
 
+> Traffic? No problem! 🛣️
+> The driver wants to chat — can you keep up?
+>
+
 ## sim2: During the Ride
+
+**Goal:** To make polite small talk with a taxi driver.
 
 📍 장소: 택시 안 (동일)
 
@@ -554,6 +672,10 @@ User: 네! / 네, 처음이에요.
 AI: 한국 어떠세요?
 User: 좋아요! / 진짜 좋아요!
 
+> Friendly driver unlocked! 😊
+> Almost there — time to figure out exactly where to stop.
+>
+
 ### 전 — 도착 [세트 4]
 
 AI: 거의 다 왔어요! 어디쯤에서 세워 드릴까요?
@@ -562,7 +684,13 @@ User: 여기서 세워주세요. / 저기 앞에서요.
 AI: 네, 알겠어요!
 User: 네!
 
+> Almost out! 🏁
+> Now handle the payment and make a smooth exit.
+>
+
 ## sim3: Arriving
+
+**Goal:** To pay and exit the taxi politely.
 
 📍 장소: 택시 안 → 도착지 앞
 
@@ -574,6 +702,10 @@ User: 카드 돼요? / 여기요.
 AI: 네, 돼요!
 User: 네!
 
+> Payment sorted! 💳
+> One last exchange before you step out.
+>
+
 ### 결 — 내리기 [세트 6]
 
 User: 감사합니다!
@@ -581,6 +713,10 @@ AI: 조심해서 내리세요!
 
 User: 네!
 AI: 즐거운 여행 하세요!
+
+> Arrived safely! 🎌
+> Next up: What happens when you can't find what you're looking for?
+>
 
 ---
 
@@ -595,7 +731,13 @@ AI: 즐거운 여행 하세요!
 
 ## sim1: Bathroom
 
+**Goal:** To ask for directions to the bathroom.
+
 📍 장소: 쇼핑몰/건물 내부
+
+**intro_text:**
+You're in a shopping mall. Nature is calling.
+Find that bathroom — fast!
 
 ### 기 — 화장실 [세트 1]
 
@@ -605,6 +747,10 @@ AI: 저쪽이요! 오른쪽으로 가세요.
 User: 감사합니다!
 AI: 네!
 
+> Directions received! 🚻
+> But wait... you still can't find it.
+>
+
 ### 승 — 못 찾았어요 [세트 2]
 
 User: 저기요, 못 찾겠어요.
@@ -613,7 +759,13 @@ AI: 아, 제가 알려 드릴게요! 따라오세요!
 User: 감사합니다!
 AI: 여기예요!
 
+> Crisis solved! 😅
+> Next up: What if someone speaks too fast to understand?
+>
+
 ## sim2: I Don't Understand
+
+**Goal:** To ask someone to slow down or speak in English.
 
 📍 장소: 길거리
 
@@ -625,6 +777,10 @@ User: 천천히 말해주세요. / 다시 말해주세요.
 AI: 아, 네! (천천히 다시 말함)
 User: 아, 알겠어요!
 
+> Slow mode activated! 🐢
+> Still struggling? Try the English card.
+>
+
 ### 전 — 영어 돼요? [세트 4]
 
 AI: (한국어로 또 빠르게 말함)
@@ -633,7 +789,13 @@ User: 영어 가능하세요? / 한국어 잘 못해요.
 AI: 아, 조금이요! (영어로 도와줌)
 User: 감사합니다!
 
+> Language barrier cleared! 🌐
+> One more challenge — you're completely lost.
+>
+
 ## sim3: Getting Help
+
+**Goal:** To ask for and understand directions on the street.
 
 📍 장소: 길거리 (동일)
 
@@ -645,6 +807,10 @@ AI: 어디 가세요?
 User: 호텔이요. / 역이요.
 AI: 저쪽으로 가시면 돼요!
 
+> Direction received! 🗺️
+> Almost there — just confirm and go.
+>
+
 ### 결 — 해결 [세트 6]
 
 User: 감사합니다!
@@ -652,6 +818,10 @@ AI: 천천히 가세요!
 
 User: 네!
 AI: 즐거운 여행 하세요!
+
+> You found your way! 🏨
+> Next up: Time to feel all the feelings in Korean.
+>
 
 ---
 
@@ -762,7 +932,13 @@ User: 응!
 
 ## sim1: Frustration
 
+**Goal:** To express frustration and offer comfort to a friend.
+
 📍 장소: 버스 정류장
+
+**intro_text:**
+Your friend looks upset. Something went wrong.
+Ask what happened — and be there for them.
 
 ### 기 — 짜증 [세트 1]
 
@@ -772,6 +948,10 @@ User: 왜? / 무슨 일이야?
 AI: 버스 놓쳤어!
 User: 어떡해! / 다음 거 타!
 
+> Frustration vented! 😤
+> But the day isn't over yet — there's more to unpack.
+>
+
 ### 승 — 위로 [세트 2]
 
 AI: 오늘 하루 진짜 힘들었어.
@@ -780,7 +960,13 @@ User: 왜? 무슨 일이야? / 괜찮아?
 AI: 일이 너무 많았어.
 User: 수고했어! / 고생했어!
 
+> Comfort delivered! 🤗
+> Next up: What happens when the mood flips completely?
+>
+
 ## sim2: Happy
+
+**Goal:** To react to and celebrate a friend's good news.
 
 📍 장소: 카페
 
@@ -792,6 +978,10 @@ User: 뭐야? / 보여줘!
 AI: 나 시험 합격했어!
 User: 대박! 축하해! / 진짜? 잘했어!
 
+> Celebration mode ON! 🎉
+> And it turns out... you had something to do with it.
+>
+
 ### 전 — 감동 [세트 4]
 
 AI: 너 때문에 합격한 거야. 고마워.
@@ -800,7 +990,13 @@ User: 아니야! / 잘한 거야!
 AI: 진짜 고마워.
 User: 축하해!
 
+> Friendship goals! 💛
+> But the emotional rollercoaster isn't done yet.
+>
+
 ## sim3: Sad
+
+**Goal:** To express sadness and offer encouragement to a friend.
 
 📍 장소: 카페 (동일)
 
@@ -812,6 +1008,10 @@ User: 왜? / 괜찮아?
 AI: 친구가 한국 떠났어.
 User: 어떡해... / 슬프다.
 
+> Sad news hits different. 💙
+> Time to say the right thing.
+>
+
 ### 결 — 응원 [세트 6]
 
 AI: 보고 싶을 것 같아.
@@ -819,6 +1019,10 @@ User: 괜찮아, 또 만날 수 있어.
 
 AI: 고마워.
 User: 응!
+
+> You showed up for your friend! 🫂
+> Next up: What do you say when you just... miss someone?
+>
 
 ---
 
@@ -833,7 +1037,13 @@ User: 응!
 
 ## sim1: Missing You
 
+**Goal:** To express missing someone and make plans to meet up.
+
 📍 장소: 온라인 (카톡/전화)
+
+**intro_text:**
+You haven't seen them in a while.
+Three words. Just say it.
 
 ### 기 — 보고 싶어 [세트 1]
 
@@ -843,6 +1053,10 @@ AI: 집에 있어. 왜?
 User: 보고 싶어.
 AI: 나도. 지금 나올 수 있어?
 
+> You said it! 💗
+> Now make it happen — get out the door.
+>
+
 ### 승 — 만날까 [세트 2]
 
 User: 응, 나갈게!
@@ -851,7 +1065,13 @@ AI: 빨리 나와!
 User: 금방 갈게!
 AI: 기다릴게!
 
+> They're waiting! 🏃
+> Next up: The moment you actually see each other.
+>
+
 ## sim2: Together
+
+**Goal:** To greet and react when finally meeting someone.
 
 📍 장소: 공원/길거리 (만나는 장소)
 
@@ -863,6 +1083,10 @@ User: 응, 왔어! / 어디야?
 AI: 여기! 이쪽!
 User: 아, 봤어!
 
+> Found each other! 🌸
+> And then... they say something that makes your heart skip.
+>
+
 ### 전 — 설렘 [세트 4]
 
 AI: 오늘 예쁘다.
@@ -871,7 +1095,13 @@ User: 진짜? / 고마워.
 AI: 항상 예뻐.
 User: 부끄러워! / 고마워.
 
+> Heart: melted. 💕
+> But all good things must end... for now.
+>
+
 ## sim3: Don't Go
+
+**Goal:** To express reluctance to part and say goodbye.
 
 📍 장소: 공원/길거리 (동일)
 
@@ -883,6 +1113,10 @@ User: 벌써? / 가지 마.
 AI: 나도 가기 싫어.
 User: 조금만 더! / 좀 더 있자.
 
+> Five more minutes... 🥺
+> But eventually, you have to say goodbye.
+>
+
 ### 결 — 다음에 [세트 6]
 
 AI: 내일 또 보자.
@@ -890,6 +1124,10 @@ User: 응, 내일 봐.
 
 AI: 잘 자.
 User: 잘 자.
+
+> See you tomorrow! 🌙
+> Next up: What happens when things get a little... heated?
+>
 
 ---
 
@@ -904,7 +1142,13 @@ User: 잘 자.
 
 ## sim1: Argument
 
+**Goal:** To apologize and respond to someone who is angry.
+
 📍 장소: 길거리 (약속 장소 앞)
+
+**intro_text:**
+You're late. They've been waiting.
+This is going to take more than a sorry.
 
 ### 기 — 화남 [세트 1]
 
@@ -914,6 +1158,10 @@ User: 미안, 못 봤어. / 핸드폰 안 가지고 있었어.
 AI: 한 시간이나 기다렸어!
 User: 진짜 미안해. / 미안!
 
+> Anger level: high. 😤
+> It's not over yet — they have more to say.
+>
+
 ### 승 — 다툼 [세트 2]
 
 AI: 항상 이래! 나 화났어.
@@ -922,7 +1170,13 @@ User: 미안해. / 화내지 마.
 AI: 장난해? 세 번째야!
 User: 알아, 미안해. / 다음엔 안 그럴게.
 
+> Argument peaked! 💥
+> Now comes the hard part — making up.
+>
+
 ## sim2: Making Up
+
+**Goal:** To make up after a fight.
 
 📍 장소: 길거리 (동일)
 
@@ -934,6 +1188,10 @@ AI: 좀.
 User: 미안해. 밥 사줄게.
 AI: 진짜?
 
+> Offer accepted... maybe. 🍽️
+> One more push and you're back on good terms.
+>
+
 ### 전 — 화해 [세트 4]
 
 User: 응, 뭐 먹고 싶어?
@@ -942,7 +1200,13 @@ AI: 삼겹살!
 User: 가자!
 AI: 알겠어!
 
+> Samgyeopsal fixes everything! 🥩
+> Now seal the deal over food.
+>
+
 ## sim3: All Good
+
+**Goal:** To smooth things over and make promises after a fight.
 
 📍 장소: 삼겹살 식당
 
@@ -954,6 +1218,10 @@ User: 맛있지? / 많이 먹어!
 AI: 아까 미안해. 내가 너무 화냈어.
 User: 괜찮아. / 아니야.
 
+> Apology accepted over pork belly! 🤝
+> Now make it official with a promise.
+>
+
 ### 결 — 다시 [세트 6]
 
 AI: 다음엔 전화해! 알겠지?
@@ -961,6 +1229,10 @@ User: 알겠어! / 응!
 
 AI: 약속!
 User: 약속!
+
+> Pinky promise made! 🤙
+> Next up: Time to scream your heart out at a concert.
+>
 
 ---
 
@@ -1074,7 +1346,13 @@ User: 저도 사랑해요!
 
 ## sim1: Before the Show
 
+**Goal:** To make small talk with a fellow fan before the concert starts.
+
 📍 장소: 콘서트장 객석 (공연 전)
+
+**intro_text:**
+The lights are still on. The seat next to you is taken.
+Say hi — you might just make a new fan friend!
 
 ### 기 — 콘서트 전 [세트 1]
 
@@ -1084,6 +1362,10 @@ User: 네! / 네, 혼자요!
 AI: 저도요! 누구 팬이에요?
 User: ___이요! / 다 좋아해요!
 
+> New fan friend found! 🎪
+> The nerves are real — share the excitement.
+>
+
 ### 승 — 기다림 [세트 2]
 
 AI: 떨리지 않아요?
@@ -1092,7 +1374,13 @@ User: 떨려요! / 진짜 떨려요!
 AI: 저도요! 곧 시작해요!
 User: 빨리 보고 싶어요!
 
+> Countdown begins! ⏳
+> The lights are about to go dark...
+>
+
 ## sim2: During the Show
+
+**Goal:** To respond to stage calls and cheer during the concert.
 
 📍 장소: 콘서트장 객석 (공연 중)
 
@@ -1104,6 +1392,10 @@ User: 아아아! / (소리 질러!)
 AI: 사랑해요!
 User: 사랑해요! / 나도 사랑해!
 
+> Voice: gone. Heart: full. 🎤
+> The crowd wants more — time for the encore!
+>
+
 ### 전 — 앵콜 [세트 4]
 
 User: 앵콜! 앵콜!
@@ -1112,7 +1404,13 @@ AI: (팬들 다 같이) 앵콜! 앵콜!
 AI: (무대에서) 감사합니다! 한 곡 더 할게요!
 User: 대박! / 좋아요!
 
+> Encore secured! 🎶
+> The show is over... but the night isn't.
+>
+
 ## sim3: After the Show
+
+**Goal:** To share excitement and bond with a fellow fan after the concert.
 
 📍 장소: 콘서트장 밖 (공연 후)
 
@@ -1124,6 +1422,10 @@ AI: (옆 팬) 맞아요! 대박이었어요!
 AI: 목소리 다 나갔어요!
 User: 저도요!
 
+> Post-concert high! 🌟
+> Make it official — plan the next one together.
+>
+
 ### 결 — 인사 [세트 6]
 
 AI: 오늘 진짜 재밌었어요!
@@ -1131,6 +1433,10 @@ User: 네, 진짜요!
 
 AI: 다음 콘서트도 같이 가요!
 User: 네, 좋아요!
+
+> Concert buddy secured! 🎫
+> Next up: Show your idol some love online.
+>
 
 ---
 
@@ -1145,7 +1451,13 @@ User: 네, 좋아요!
 
 ## sim1: After a Performance
 
+**Goal:** To cheer and respond during an idol's live stream.
+
 📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Your idol just went live. The chat is moving fast.
+Type something — let them know you're here!
 
 ### 기 — 라이브 방송 [세트 1]
 
@@ -1155,6 +1467,10 @@ User: 네! / 잘 지냈어요!
 AI: 오늘 공연 했는데, 재밌었어요!
 User: 수고했어요! / 대박이었어요!
 
+> Your message got through! 💬
+> Keep the conversation going.
+>
+
 ### 승 — 대화 [세트 2]
 
 AI: 고마워요! 다들 뭐 하고 있어요?
@@ -1163,7 +1479,13 @@ User: 라이브 보고 있어요! / 집에서 봐요!
 AI: 와, 고마워요!
 User: 사랑해요!
 
+> Love sent! 💖
+> Next up: What do you say when they're having a hard time?
+>
+
 ## sim2: Encouragement
+
+**Goal:** To encourage and express support for your idol.
 
 📍 장소: 온라인 (버블/위버스 메시지)
 
@@ -1175,6 +1497,10 @@ User: 괜찮아요! / 파이팅!
 AI: (아이돌 답) 고마워요. 여러분 때문에 힘내요.
 User: 항상 응원할게요! / 힘내세요!
 
+> Your words reached them! 🌟
+> They want to say something back...
+>
+
 ### 전 — 감사 [세트 4]
 
 AI: 팬분들이 있어서 행복해요.
@@ -1183,7 +1509,13 @@ User: 저도 행복해요! / 고마워요!
 AI: 항상 감사해요!
 User: 저야말로 감사해요!
 
+> Mutual appreciation! 🥹
+> Time to send one last message before they go to sleep.
+>
+
 ## sim3: Sending Love
+
+**Goal:** To send heartfelt messages and say goodnight to your idol.
 
 📍 장소: 온라인 (버블/위버스, 동일)
 
@@ -1195,6 +1527,10 @@ AI: 진짜요? 고마워요!
 User: 진짜 좋았어요!
 AI: 감사해요!
 
+> Message delivered! 📩
+> One last thing before the night ends.
+>
+
 ### 결 — 잘 자 [세트 6]
 
 AI: 이제 잘 거예요! 잘 자요!
@@ -1202,6 +1538,10 @@ User: 잘 자요!
 
 AI: 꿈에서 봐요!
 User: 좋은 꿈 꿔요!
+
+> Goodnight said! 🌙
+> Next up: Time to put on your professional face.
+>
 
 ---
 
@@ -1315,7 +1655,13 @@ AI: 안녕히 가세요!
 
 ## sim1: Getting Instructions
 
+**Goal:** To receive and confirm work instructions from your boss.
+
 📍 장소: 사무실 (자기 자리)
+
+**intro_text:**
+Your boss just walked over. They have a task for you.
+Listen carefully and confirm — this is your moment.
 
 ### 기 — 업무 지시 [세트 1]
 
@@ -1325,6 +1671,10 @@ User: 네, 알겠습니다.
 AI: 질문 있으면 말해 주세요.
 User: 네, 감사합니다.
 
+> Instructions received! 📋
+> Now show them you're on top of it.
+>
+
 ### 승 — 진행 [세트 2]
 
 AI: 다 했어요?
@@ -1333,7 +1683,13 @@ User: 거의 다 했습니다. / 조금만 더 걸립니다.
 AI: 알겠어요. 천천히 하세요.
 User: 감사합니다.
 
+> Progress reported! ✅
+> Next up: Time to survive the meeting room.
+>
+
 ## sim2: Meeting
+
+**Goal:** To participate in a basic office meeting.
 
 📍 장소: 회의실
 
@@ -1345,6 +1701,10 @@ User: 네. / 네, 알겠습니다.
 AI: 이 부분 어떻게 생각해요?
 User: 좋은 것 같습니다. / 괜찮은 것 같습니다.
 
+> Opinion shared! 💼
+> Time to wrap up the meeting.
+>
+
 ### 전 — 마무리 [세트 4]
 
 AI: 그러면 이렇게 하겠습니다.
@@ -1353,7 +1713,13 @@ User: 네, 알겠습니다.
 AI: 수고하셨습니다!
 User: 수고하셨습니다!
 
+> Meeting survived! 🤝
+> One last task before you can go home.
+>
+
 ## sim3: End of Day
+
+**Goal:** To report task completion and say goodbye at the end of the workday.
 
 📍 장소: 사무실 (자기 자리)
 
@@ -1365,6 +1731,10 @@ AI: 네, 감사합니다! 볼게요.
 AI: 잘 했어요!
 User: 감사합니다.
 
+> Work approved! ⭐
+> Now say goodbye the right way.
+>
+
 ### 결 — 퇴근 [세트 6]
 
 AI: 오늘도 수고하셨습니다!
@@ -1372,6 +1742,10 @@ User: 수고하셨습니다!
 
 User: 먼저 가보겠습니다.
 AI: 네, 수고하세요!
+
+> Another day conquered! 🏆
+> Next up: What do you do when you don't understand something?
+>
 
 ---
 
@@ -1386,7 +1760,13 @@ AI: 네, 수고하세요!
 
 ## sim1: I Don't Understand
 
+**Goal:** To ask someone to repeat or clarify what they said.
+
 📍 장소: 사무실 (상사 자리 앞)
+
+**intro_text:**
+Your boss just explained something. Fast.
+You caught maybe half of it. Time to be brave.
 
 ### 기 — 못 알아들었어요 [세트 1]
 
@@ -1396,6 +1776,10 @@ User: 죄송하지만 다시 말씀해 주시겠어요?
 AI: 아, 네! (천천히 다시 설명)
 User: 감사합니다.
 
+> Clarification requested! 🙋
+> Now make sure you actually understood.
+>
+
 ### 승 — 확인 [세트 2]
 
 AI: 이해되셨어요?
@@ -1404,7 +1788,13 @@ User: 네, 알겠습니다. / 이 부분이 잘 모르겠습니다.
 AI: 이 부분은 이렇게 하시면 돼요.
 User: 아, 네. 알겠습니다.
 
+> Fully understood! ✅
+> Next up: What if a colleague can help instead?
+>
+
 ## sim2: Asking for Help
+
+**Goal:** To ask a colleague for help politely.
 
 📍 장소: 사무실 (동료 자리)
 
@@ -1416,6 +1806,10 @@ AI: 네, 말씀하세요!
 User: 이거 어떻게 해야 돼요?
 AI: 이렇게 하시면 됩니다!
 
+> Colleague to the rescue! 🤝
+> Don't forget to say thank you properly.
+>
+
 ### 전 — 감사 [세트 4]
 
 User: 아, 감사합니다.
@@ -1424,7 +1818,13 @@ AI: 또 모르는 거 있으면 말해 주세요!
 User: 네, 감사합니다.
 AI: 아닙니다!
 
+> Gratitude expressed! 🙏
+> One more situation — what if you can't meet a deadline?
+>
+
 ## sim3: Apologizing
+
+**Goal:** To apologize professionally and accept a deadline extension.
 
 📍 장소: 사무실 (자기 자리)
 
@@ -1436,6 +1836,10 @@ User: 죄송합니다, 좀 어려울 것 같습니다. / 네, 하겠습니다.
 AI: 그러면 모레까지 괜찮아요.
 User: 감사합니다. 죄송합니다.
 
+> Extension granted! 😮‍💨
+> Wrap it up with grace.
+>
+
 ### 결 — 마무리 [세트 6]
 
 AI: 괜찮아요! 천천히 하세요.
@@ -1443,6 +1847,10 @@ User: 감사합니다.
 
 AI: 수고하세요!
 User: 수고하셨습니다!
+
+> Office survival: complete! 🏢
+> You've made it through the full Korean workplace experience.
+>
 
 ---
 
