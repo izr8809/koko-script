@@ -27,7 +27,7 @@ First meeting in New York.
 Deep breath... say hi!
 
 **Opening — First Hello [Set 1]**
-AI: Hey! I'm Alex (Jamie)! What's your name?
+AI: Hey! I'm Alex! What's your name?
 User: I'm ___! / My name is ___!
 AI: Nice to meet you! Where are you from?
 User: I'm from ___!
@@ -61,7 +61,7 @@ You're still talking. Good sign!
 Time to find out what you have in common.
 
 **Hobbies — What Do You Like? [Set 3]**
-User: Alex (Jamie), what do you like?
+User: Alex, what do you like?
 AI: Me? I love music! What about you?
 User: Me too! / I like movies!
 AI: Oh really? American music?
@@ -394,7 +394,7 @@ The conversation is flowing.
 Time to send something fun!
 
 **Photo [Set 3]**
-AI: Look where I am! (photo)
+AI: Look where I am!
 User: Where is that? / Wow, that's beautiful!
 AI: Central Park! We should go together sometime!
 User: Let's do it! / Yeah, I'd love that!
@@ -405,7 +405,7 @@ User: Let's do it! / Yeah, I'd love that!
 >
 
 **Fun Stuff [Set 4]**
-User: Did you see this? (link)
+User: Did you see this?
 AI: What is it? I haven't seen it!
 User: It's so funny! Watch it!
 AI: Okay, I'll check it out!
@@ -1364,7 +1364,7 @@ First day at an American company.
 Time to make a great first impression!
 
 **Opening — Introduction [Set 1]**
-AI: Hi! I'm Sarah (David). Nice to meet you!
+AI: Hi! I'm Alex. Nice to meet you!
 User: Nice to meet you! I'm ___.
 AI: Welcome to the team! Where are you from?
 User: I'm from ___.

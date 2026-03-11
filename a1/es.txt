@@ -568,7 +568,7 @@ AI: ¡No, es directo!
 **📍 장소:** Vagón del metro
 
 **승 — En el metro [세트 3]**
-AI: (pasajero) ¿A dónde va?
+AI: ¿A dónde va?
 User: ¡A Insurgentes!
 AI: ¡Entonces bájese en tres estaciones más!
 User: ¿Tres estaciones? ¡Muchas gracias!
@@ -1359,7 +1359,7 @@ Bad Bunny's new song is on repeat. But what does it actually mean?
 
 **기 — La letra [세트 1]**
 User: ¿Qué dice esta canción?
-AI: (amigo/a) ¿Qué parte?
+AI: ¿Qué parte?
 User: ¡Esta parte de aquí!
 AI: ¡Dice que te extraña mucho!
 
@@ -1461,7 +1461,7 @@ You just got back from the meet and greet. Your hands are still shaking.
 
 **기 — ¡Fui! [세트 1]**
 User: ¡Ayer fui al meet and greet de Bad Bunny!
-AI: (amigo/a) ¡No manches! ¿Cómo estuvo?
+AI: ¡No manches! ¿Cómo estuvo?
 User: ¡Estaba muy nerviosa/o! / ¡Estuvo increíble!
 AI: ¡Qué envidia! ¿Qué pasó?
 

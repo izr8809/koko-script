@@ -568,7 +568,7 @@ AI: いいえ、直接行けますよ！
 **📍 장소:** 電車の中
 
 **승 — 電車の中 [세트 3]**
-AI: (隣の人) どちらまで行かれますか？
+AI: どちらまで行かれますか？
 User: 渋谷です！
 AI: それでしたらあと3駅ですよ！
 User: 3駅ですか？ありがとうございます！
@@ -1359,7 +1359,7 @@ Their new song is on repeat. But what does it actually mean?
 
 **기 — 歌詞 [세트 1]**
 User: この歌何て言ってるの？
-AI: (友達) どの部分？
+AI: どの部分？
 User: 「会いたい」この部分！
 AI: 「I miss you」って意味だよ！
 
@@ -1461,7 +1461,7 @@ You just got back from the concert. Your hands are still shaking.
 
 **기 — 行ってきた [세트 1]**
 User: 昨日ライブ行ってきた！
-AI: (友達) やばい！どうだった？
+AI: やばい！どうだった？
 User: 本当に震えた！ / 最高だった！
 AI: うらやましい！何したの？
 

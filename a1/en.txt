@@ -568,7 +568,7 @@ AI: Nope, it's a straight shot!
 **📍 Location:** On the subway
 
 **승 — On the train [Set 3]**
-AI: (fellow passenger) Where are you headed?
+AI: Where are you headed?
 User: SoHo!
 AI: You've got three more stops!
 User: Three stops? Thank you so much!
@@ -1359,7 +1359,7 @@ Her new song is on repeat. But what does it actually mean?
 
 **기 — The lyrics [Set 1]**
 User: What is she saying in this part?
-AI: (friend) Which part?
+AI: Which part?
 User: "I'm the problem, it's me" — this part!
 AI: It means she's saying she's the one causing the issues!
 
@@ -1461,7 +1461,7 @@ You just got back from the meet-and-greet. Your hands are still shaking.
 
 **기 — Just got back [Set 1]**
 User: I went to the meet-and-greet yesterday!
-AI: (friend) No way! How was it?
+AI: No way! How was it?
 User: I was shaking the whole time! / It was the best thing ever!
 AI: I'm so jealous! What happened?
 

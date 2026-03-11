@@ -27,7 +27,7 @@ Première rencontre à Paris.
 Respire un coup... et dis bonjour !
 
 **Ouverture — Premier Bonjour [Série 1]**
-AI: Salut ! Moi c'est Léa. Tu t'appelles comment ?
+AI: Salut ! Moi c'est Léo. Tu t'appelles comment ?
 User: Salut ! Moi c'est ___. / Je m'appelle ___.
 AI: Sympa ! Tu viens d'où ?
 User: Je viens de ___ !
@@ -61,7 +61,7 @@ Vous continuez à parler. Bon signe !
 C'est l'heure de voir ce que vous avez en commun.
 
 **Loisirs — Qu'est-ce que tu aimes faire ? [Série 3]**
-User: Léa, tu aimes quoi ?
+User: Léo, tu aimes quoi ?
 AI: Moi ? J'adore la musique ! Et toi ?
 User: Moi aussi ! / J'aime les films !
 AI: Ah bon ? La musique française ?
@@ -405,7 +405,7 @@ AI: Voilà ! Je t'envoie un message.
 >
 
 **Premier Message — Coucou ! [Série 4]**
-AI: Coucou ! C'est moi, Léa !
+AI: Coucou ! C'est moi, Léo !
 User: Coucou ! Je t'ai eu ! / Salut ! Ça marche !
 AI: Super ! On se reparle bientôt !
 User: Oui, à bientôt !

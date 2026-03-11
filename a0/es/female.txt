@@ -394,7 +394,7 @@ La conversación fluye.
 ¡Es hora de mandar algo divertido!
 
 **Foto [Set 3]**
-AI: ¡Mira dónde estoy! (foto)
+AI: ¡Mira dónde estoy!
 User: ¿Dónde es eso? / ¡Qué bonito!
 AI: ¡El Parque México! ¡Deberíamos ir juntos!
 User: ¡Vamos! / ¡Sí, me encantaría!
@@ -405,7 +405,7 @@ User: ¡Vamos! / ¡Sí, me encantaría!
 >
 
 **Cosas Divertidas [Set 4]**
-User: ¿Viste esto? (link)
+User: ¿Viste esto?
 AI: ¿Qué es? ¡No lo he visto!
 User: ¡Es muy gracioso! ¡Míralo!
 AI: ¡Bueno, lo veo ahorita!

@@ -140,7 +140,7 @@ User: Pour me faire des amis ici ! / Pour comprendre les films !
 
 **승 — La vie à Paris [세트 2]**
 AI: La vie à Paris, c'est comment pour toi ?
-User: C'est bien, mais parfois c'est dur. / Je me sens seul(e) des fois.
+User: C'est bien, mais parfois c'est dur. / Je me sens seule des fois.
 AI: C'est normal ! Si t'as besoin, tu peux me parler !
 User: Merci. / Oui, je sais.
 
@@ -242,7 +242,7 @@ User: La vie à Paris, c'est parfois compliqué. / J'ai trop de boulot.
 
 **승 — T'écoute [세트 2]**
 AI: C'est quoi le truc le plus dur ?
-User: Je me retrouve souvent seul(e). / Le français, c'est encore difficile.
+User: Je me retrouve souvent seule. / Le français, c'est encore difficile.
 AI: C'est dur, ça.
 User: Ouais, un peu.
 
@@ -568,7 +568,7 @@ AI: Non, c'est direct !
 **📍 장소:** Dans le métro
 
 **승 — Dans la rame [세트 3]**
-AI: (voisin) Vous allez où ?
+AI: Vous allez où ?
 User: Je vais au Marais !
 AI: Alors, encore trois stations !
 User: Trois stations ? Merci beaucoup !
@@ -611,7 +611,7 @@ AI: La sortie numéro 2, s'il vous plaît !
 **결 — Merci ! [세트 6]**
 User: Merci beaucoup !
 AI: De rien !
-User: Vous m'avez vraiment aidé(e) !
+User: Vous m'avez vraiment aidée !
 AI: Bonne journée !
 
 **Outro:**
@@ -860,7 +860,7 @@ AI: Sérieux ? C'est qui ?!
 AI: C'est quelqu'un que je connais ?
 User: Ouais. / Non, tu connais pas.
 AI: C'est comment comme personne ?
-User: Il/Elle est vraiment gentil(le). / Il/Elle a un super sourire.
+User: Il est vraiment gentil. / Il a un super sourire.
 
 **Outro:**
 > A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
@@ -876,7 +876,7 @@ User: Il/Elle est vraiment gentil(le). / Il/Elle a un super sourire.
 **📍 장소:** Café (même endroit)
 
 **승 — Comment vous vous êtes rencontré(e)s ? [세트 3]**
-AI: Vous vous êtes rencontré(e)s où ?
+AI: Vous vous êtes rencontrés où ?
 User: Au café ! / En cours !
 AI: C'est romantique ! Et alors ?
 User: J'ai pas encore osé lui parler. / J'ai eu son numéro !
@@ -949,9 +949,9 @@ A park bench. A tense silence. Someone saw something they didn't understand.
 
 **기 — C'est quoi ça ? [세트 1]**
 AI: Hier, t'étais avec qui ?
-User: Quoi ? De quoi tu parles ? / Tu m'as mal compris(e) !
-AI: Je t'ai vu(e). Au café.
-User: C'est juste un(e) ami(e) ! / Ah, c'est ça ?
+User: Quoi ? De quoi tu parles ? / Tu m'as mal comprise !
+AI: Je t'ai vue. Au café.
+User: C'est juste un ami ! / Ah, c'est ça ?
 
 **Outro:**
 > Caught! 😬 But it's not what it looks like — time to explain.
@@ -959,9 +959,9 @@ User: C'est juste un(e) ami(e) ! / Ah, c'est ça ?
 >
 
 **승 — L'explication [세트 2]**
-AI: C'est vraiment juste un(e) ami(e) ?
+AI: C'est vraiment juste un ami ?
 User: Oui, vraiment. On est dans le même cours. / Arrête de douter de moi.
-AI: Désolé(e). J'étais un peu jaloux/jalouse.
+AI: Désolé. J'étais un peu jaloux.
 User: C'est bon. / Ça peut arriver.
 
 **Outro:**
@@ -981,7 +981,7 @@ User: C'est bon. / Ça peut arriver.
 User: Pourquoi t'as pas demandé directement ?
 AI: J'osais pas trop.
 User: La prochaine fois, demande-moi. Pas de malentendu.
-AI: D'accord, désolé(e).
+AI: D'accord, désolé.
 
 **Outro:**
 > Communication rules established! 📋 This is how healthy relationships work.
@@ -989,7 +989,7 @@ AI: D'accord, désolé(e).
 >
 
 **전 — On règle ça [세트 4]**
-AI: Je suis vraiment désolé(e).
+AI: Je suis vraiment désolé.
 User: C'est bon. Mais fais-moi confiance.
 AI: Oui, je te fais confiance. Ça ne se reproduira pas.
 User: D'accord.
@@ -1008,7 +1008,7 @@ User: D'accord.
 **📍 장소:** Parc → rue (en marchant)
 
 **전 — On fait la paix [세트 5]**
-AI: T'es encore fâché(e) ?
+AI: T'es encore fâchée ?
 User: Non, c'est bon. / Presque.
 AI: On va manger quelque chose. C'est moi qui invite.
 User: D'accord !
@@ -1110,7 +1110,7 @@ User: J'ai trop hâte !
 **📍 장소:** Chacun chez soi (WhatsApp)
 
 **전 — Les messages [세트 5]**
-AI: T'es bien rentré(e) ?
+AI: T'es bien rentrée ?
 User: Oui, je viens d'arriver !
 AI: Ce soir, c'était vraiment bien.
 User: Moi aussi. / Je pense encore à toi.
@@ -1153,9 +1153,9 @@ Three days. No message. Something is definitely off.
 
 **기 — T'es bizarre [세트 1]**
 User: Pourquoi tu réponds plus ?
-AI: Désolé(e), j'ai été très occupé(e).
+AI: Désolé, j'ai été très occupé.
 User: Je comprends, mais là c'est trop.
-AI: Désolé(e).
+AI: Désolé.
 
 **Outro:**
 > "Désolé(e)." Is that enough? 😔 You need more than an apology.
@@ -1194,7 +1194,7 @@ User: T'es bête. Tu peux tout me dire.
 
 **전 — On se comprend [세트 4]**
 AI: Merci. Je vais faire mieux.
-User: Moi aussi, désolé(e), j'ai été un peu dur(e).
+User: Moi aussi, désolée, j'ai été un peu dure.
 AI: Non, t'avais raison.
 User: On se dit les choses, d'accord ?
 
@@ -1214,8 +1214,8 @@ User: On se dit les choses, d'accord ?
 **전 — On est bien [세트 5]**
 AI: À partir d'aujourd'hui, je fais mieux.
 User: Moi aussi !
-AI: Tu m'as manqué(e).
-User: Toi aussi, tu m'as manqué(e).
+AI: Tu m'as manquée.
+User: Toi aussi, tu m'as manqué.
 
 **Outro:**
 > "Tu m'as manqué(e)." Said out loud. 💗 That's the real turning point.
@@ -1359,7 +1359,7 @@ Stromae's new song is on repeat. But what does it actually mean?
 
 **기 — Les paroles [세트 1]**
 User: C'est quoi ce qu'il dit dans cette chanson ?
-AI: (ami(e)) Quelle partie ?
+AI: Quelle partie ?
 User: "Alors on danse" — ça veut dire quoi exactement ?
 AI: Ça veut dire "So we dance" — c'est une métaphore pour continuer malgré tout !
 
@@ -1461,9 +1461,9 @@ You just got back from the meet and greet. Your hands are still shaking.
 
 **기 — J'y étais ! [세트 1]**
 User: J'étais à la rencontre avec les fans hier !
-AI: (ami(e)) Sérieux ? C'était comment ?
-User: J'étais tellement stressé(e) ! / C'était incroyable !
-AI: Je suis jaloux/jalouse ! T'as fait quoi ?
+AI: Sérieux ? C'était comment ?
+User: J'étais tellement stressée ! / C'était incroyable !
+AI: Je suis jaloux ! T'as fait quoi ?
 
 **Outro:**
 > The story begins! 😱 Your friend is already jealous.
@@ -1522,7 +1522,7 @@ User: Oui, ils ont promis de tout lire !
 **전 — T'es encore sous le choc [세트 5]**
 AI: T'es encore sous le choc ?
 User: Oui, j'ai encore les mains qui tremblent ! / J'arrive pas à y croire !
-AI: Je suis jaloux/jalouse ! Montre-moi les photos !
+AI: Je suis jaloux ! Montre-moi les photos !
 User: Regarde ! Voilà !
 
 **Outro:**
@@ -1564,8 +1564,8 @@ User: Promis !
 Meeting in 2 hours. Almost ready... I think.
 
 **기 — La préparation [세트 1]**
-AI: Vous êtes prêt(e) pour la réunion de cet après-midi ?
-User: Oui, je suis prêt(e). / Presque, j'ai presque fini.
+AI: Vous êtes prête pour la réunion de cet après-midi ?
+User: Oui, je suis prête. / Presque, j'ai presque fini.
 AI: Vous avez imprimé les documents ?
 User: Oui, c'est fait. / Je le fais maintenant.
 
