@@ -1,0 +1,99 @@
+# PI-8: On part en voyage ?
+
+
+---
+
+### sim1: Où on va ?
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 장소:** Café (Paris)
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — Un voyage ! [세트 1]**
+User: T'as des plans pour le week-end prochain ?
+AI: Pas encore ! Pourquoi ?
+User: On part en voyage ensemble ?
+AI: Trop bien ! Où ça ?
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Lyon, Nice, or Bretagne? The debate begins.
+>
+
+**승 — On choisit [세트 2]**
+User: Lyon, ça te dit ? / J'ai envie d'aller à Nice !
+AI: Bonne idée ! J'ai toujours voulu y aller !
+AI: On part combien de jours ?
+User: Un week-end ? / Deux nuits ?
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: On organise
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 장소:** Café (même endroit)
+
+**승 — Comment on y va ? [세트 3]**
+AI: On prend quoi ? Le TGV ? La voiture ?
+User: Le TGV ! / C'est cher le TGV ?
+AI: C'est rapide et pas trop cher ! Deux heures pour Lyon !
+User: Parfait !
+
+**Outro:**
+> TGV it is! 🚄 Fast, comfortable, and very French.
+> Next up: where are we sleeping?
+>
+
+**전 — L'hébergement [세트 4]**
+AI: On dort où ? Hôtel ou Airbnb ?
+User: Airbnb ! C'est moins cher ! / L'hôtel, c'est plus confortable non ?
+AI: Je réserve un Airbnb !
+User: Super, merci !
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: L'excitation monte
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 장소:** Café (même endroit)
+
+**전 — Qu'est-ce qu'on fait ? [세트 5]**
+User: Qu'est-ce que tu veux faire là-bas ?
+AI: Je veux visiter le Vieux-Lyon ! Et toi ?
+User: Moi, je veux manger des quenelles ! / Je veux me balader !
+AI: Parfait ! On fait tout ça !
+
+**Outro:**
+> The itinerary is basically writing itself! 🌆 Old town, local food, strolling — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — Vivement le départ ! [세트 6]**
+AI: J'ai trop hâte !
+User: Moi aussi ! On part vite !
+AI: Prépare ta valise ! On se retrouve là-bas !
+User: D'accord !
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> Lyon is waiting — and so is the best quenelle of your life.
+>
+
+---
+
+# ✈️ VOYAGES (vous — poli) >> La France en voyage

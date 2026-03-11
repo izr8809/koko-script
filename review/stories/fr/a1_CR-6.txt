@@ -1,0 +1,95 @@
+# CR-6: Est-ce que je pourrais prendre congé demain ?
+
+
+---
+
+### sim1: La demande
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 장소:** Bureau (devant le bureau du/de la responsable)
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — La requête [세트 1]**
+User: Excusez-moi, je peux vous parler ?
+AI: Oui, bien sûr. Je vous écoute.
+User: Est-ce que je peux prendre congé demain ?
+AI: Demain ? C'est urgent ?
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — L'explication [세트 2]**
+User: Oui, j'ai un rendez-vous médical. / J'ai une obligation personnelle.
+AI: Je comprends.
+AI: Vous pouvez confier vos dossiers à quelqu'un ?
+User: Oui, je vais tout préparer avant de partir.
+
+**Outro:**
+> Proactive handover offer! 📋 That's exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: La confirmation
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 장소:** Bureau (même endroit)
+
+**승 — C'est accordé [세트 3]**
+AI: Très bien, vous pouvez prendre congé demain.
+User: Je vous remercie.
+AI: Reposez-vous bien !
+User: Oui, merci beaucoup.
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — La préparation [세트 4]**
+User: Je vais vous envoyer un récapitulatif par email ce soir.
+AI: Très bien, merci !
+User: Vous avez besoin d'autre chose ?
+AI: Non, c'est parfait ! Bon courage !
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you're free.
+>
+
+---
+
+### sim3: Le retour
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 장소:** Bureau
+
+**전 — De retour [세트 5]**
+User: Bonjour, merci de m'avoir accordé ce congé.
+AI: Pas de problème ! Vous allez mieux ?
+User: Oui, beaucoup mieux. / Oui, merci, ça va.
+AI: Tant mieux !
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that's a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — On reprend [세트 6]**
+AI: Prenez le temps de vous réinstaller !
+User: Oui, merci.
+AI: Bon courage !
+User: Merci, vous aussi !
+
+**Outro:**
+> "Bon courage !" 🏢 The most French way to end a workday.
+> You navigated French office culture like a true professional.
+>

@@ -1,0 +1,100 @@
+# PI-5: Let's grab food together
+
+
+---
+
+### sim1: Picking a Spot
+
+**Goal:** To suggest a meal idea, agree on a place, and figure out how to get there with your friend.
+
+**📍 Location:** Street in SoHo
+
+**intro_text:**
+Lunchtime in the city. So many options. What are we eating?
+
+**기 — What to eat [Set 1]**
+User: I'm starving! What should we eat?
+AI: Me too! What are you feeling?
+User: I could go for some BBQ! / How about BBQ?
+AI: Yes! I know a great spot. Let's go!
+
+**Outro:**
+> BBQ it is! 🔥 Now, how far is this place?
+> Your stomach is already counting down.
+>
+
+**승 — Getting there [Set 2]**
+AI: It's close! Wanna walk?
+User: Yeah, let's walk! / How long does it take?
+AI: Like five minutes! Come on!
+User: Okay, let's go!
+
+**Outro:**
+> Just a short walk! 🚶 The smell of grilling meat is calling.
+> Almost there — get ready for something good.
+>
+
+---
+
+### sim2: At the Restaurant
+
+**Goal:** To order food together and enjoy the meal like a true city local.
+
+**📍 Location:** BBQ restaurant
+
+**intro_text:**
+We're here. This place looks amazing.
+
+**승 — At the table [Set 3]**
+AI: Here we are! What do you think?
+User: Wow, I love it! / It's packed in here!
+AI: What should we order? Here's the menu!
+User: BBQ ribs for sure! / Let's get the brisket!
+
+**Outro:**
+> Order placed! 🥩 Now comes the most important question...
+> Who's getting the first bite? The real power move starts now.
+>
+
+**전 — Eating [Set 4]**
+AI: Want me to grab some extra sauce?
+User: Yes, please! / I'll get it!
+AI: This is so good!
+User: It really is! / Best BBQ I've had!
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: the check.
+> Brace yourself — who's paying?
+>
+
+---
+
+### sim3: After Eating
+
+**Goal:** To handle the check gracefully and make plans to keep the hangout going.
+
+**📍 Location:** BBQ restaurant → street outside
+
+**전 — After the meal [Set 5]**
+User: I got this one!
+AI: No way, let's split it!
+User: No, I'm treating you today!
+AI: Really? Thanks! I'll get it next time!
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with a full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — What's next [Set 6]**
+AI: I'm so full! What do we do now?
+User: Wanna get coffee? / Should we walk it off?
+AI: Yes! Let's go!
+User: Let's do it!
+
+**Outro:**
+> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---

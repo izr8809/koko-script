@@ -1,0 +1,102 @@
+# KD-2: 我喜欢这个演员
+
+- 大分类: Drama/Movie
+- 中分类: Favorite Actor
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Actor Obsession
+
+**Goal:** To talk about your favorite actor and share why you like them.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+You just finished a drama and you can't stop thinking about the lead actor.
+Time to gush about it with your friend!
+
+**기 — 喜欢的演员 [세트 1]**
+AI: 你最喜欢哪个演员？
+User: 我最喜欢肖战！ / 我最喜欢赵丽颖！
+AI: 哦！为什么喜欢他（她）？
+User: 因为他（她）演技很好！
+
+**Outro:**
+> Stan declared! ⭐
+> Now find out what they've been in!
+>
+
+**승 — 作品 [세트 2]**
+AI: 他（她）演过什么？
+User: 他（她）演过《陈情令》！ / 他（她）演过很多剧！
+AI: 哦！我看过！很好看！
+User: 对！超好看！
+
+**Outro:**
+> Shared taste confirmed! 🎭
+> Now talk about their latest project!
+>
+
+---
+
+### sim2: Latest News
+
+**Goal:** To discuss the actor's latest drama or movie and share excitement.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**승 — 最新作品 [세트 3]**
+User: 他（她）最近有新剧吗？
+AI: 有！新剧下个月播！
+User: 真的？叫什么名字？ / 真的？什么时候？
+AI: 叫《___》！很期待！
+
+**Outro:**
+> New drama incoming! 📅
+> Now check if your friend is going to watch it too!
+>
+
+**전 — 一起追剧 [세트 4]**
+AI: 你会看吗？
+User: 当然！一定看！ / 应该会看！
+AI: 我们一起追吧！
+User: 好啊！说好了！
+
+**Outro:**
+> Drama squad assembled! 📺
+> Now talk about what you love most about this actor!
+>
+
+---
+
+### sim3: Deep Fan Talk
+
+**Goal:** To share deeper feelings about the actor and talk about fan culture.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**전 — 粉丝文化 [세트 5]**
+AI: 你是他（她）的粉丝吗？
+User: 是！超级粉丝！ / 算是吧！
+AI: 你有没有在微博关注他（她）？
+User: 有！天天刷！ / 有！但不常看。
+
+**Outro:**
+> Fan status confirmed! 🌟
+> One last thing — would you go to a fan meet?
+>
+
+**결 — 粉丝见面会 [세트 6]**
+User: 你想去粉丝见面会吗？
+AI: 想！超想去！
+User: 我也想！一起去吧！
+AI: 好！到时候一起！
+
+**Outro:**
+> Fan meet plans made! 🎤
+> You're officially a drama fan. Welcome to the fandom!
+>
+
+---

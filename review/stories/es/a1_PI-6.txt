@@ -1,0 +1,97 @@
+# PI-6: Estudio español por ti
+
+
+---
+
+### sim1: Poniéndonos personales
+
+**Goal:** To open up about why you're learning Spanish and feel supported by your friend's encouragement.
+
+**📍 장소:** Cafetería en Condesa
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — Conversación profunda [세트 1]**
+AI: ¿Por qué estás aprendiendo español?
+User: ¡Quiero hacer amigos aquí! / ¡Quiero entender las canciones!
+AI: ¡Qué padre! ¡Ya lo hablas muy bien!
+User: ¡Todavía me falta mucho! / ¿De verdad? ¡Gracias!
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life in CDMX, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — La vida aquí [세트 2]**
+AI: ¿Hay algo difícil de vivir aquí?
+User: A veces me siento solo/a. / Cuando no entiendo bien.
+AI: ¡Si te pasa algo, dímelo!
+User: Gracias. / Sí, lo haré.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Palabras de aliento
+
+**Goal:** To reflect on how far you've come with Spanish and feel genuinely motivated to keep going.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**승 — Motivación [세트 3]**
+AI: ¿Cómo fue cuando empezaste a aprender español?
+User: ¡Fue muy difícil! / ¡No entendía nada!
+AI: ¡Pero mira cómo hablas ahora!
+User: ¿Sí? ¡Gracias! / ¡Todavía me falta!
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — Inspiración [세트 4]**
+User: Por ti quiero aprender más español.
+AI: ¿En serio? ¡Me da mucho gusto!
+User: ¡Es verdad!
+AI: ¡Yo también quiero aprender tu idioma!
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: Amigos de verdad
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**전 — Amigos de verdad [세트 5]**
+AI: ¿Cuánto tiempo llevamos de conocernos?
+User: ¿Un mes? / ¡Ya van dos meses!
+AI: ¡El tiempo vuela!
+User: ¡Sí, es verdad!
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — Haciendo planes [세트 6]**
+AI: ¡Tenemos que vernos más seguido!
+User: ¡Claro que sí!
+AI: ¡La próxima semana hagamos algo!
+User: ¡Sí! ¡Escríbeme por WhatsApp!
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Life in CDMX just got a whole lot better.
+>
+
+---

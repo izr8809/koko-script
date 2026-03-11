@@ -1,0 +1,97 @@
+# PI-7: ¿Tienes algo en mente?
+
+
+---
+
+### sim1: Algo está mal
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** Cafetería
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — El problema [세트 1]**
+AI: Últimamente te noto raro/a. ¿Estás bien?
+User: Estoy un poco mal. / Tengo algo en mente.
+AI: ¿Qué tienes? Cuéntame.
+User: La vida aquí es difícil. / Tengo mucho trabajo.
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — Escuchando [세트 2]**
+AI: ¿Qué es lo más difícil?
+User: Paso mucho tiempo solo/a. / El español es difícil.
+AI: Debe ser difícil.
+User: Sí, un poco.
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Consejos
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** Cafetería → Bosque de Chapultepec
+
+**승 — El consejo [세트 3]**
+AI: No te quedes con todo eso. ¡Dímelo!
+User: Gracias. / Sí, lo haré.
+AI: ¿No necesitas despejarte? ¡Salgamos!
+User: ¿A dónde? / ¡Buena idea!
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> Chapultepec has a way of making everything feel better.
+>
+
+**전 — Afuera [세트 4]**
+AI: ¡Vamos a Chapultepec! ¡El aire te va a hacer bien!
+User: ¡Sí, vamos!
+AI: ¿Compramos algo de comer en el camino?
+User: ¡Sí! / ¡Pasamos al OXXO!
+
+**Outro:**
+> OXXO snacks + Chapultepec = perfect combo! 🍜 Let's go.
+> The best conversations happen under the trees.
+>
+
+---
+
+### sim3: Sintiéndose mejor
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** Bosque de Chapultepec
+
+**전 — Mejor ánimo [세트 5]**
+AI: ¿Ya te sientes mejor?
+User: ¡Sí, mucho mejor! / ¡Gracias a ti!
+AI: ¡Qué bueno!
+User: De verdad, gracias.
+
+**Outro:**
+> From stressed to refreshed! 🌊 Chapultepec delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — Siempre aquí [세트 6]**
+AI: ¡Cuando estés mal, escríbeme!
+User: ¡Sí, lo haré!
+AI: ¡Lo prometo!
+User: ¡Prometido!
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Life in CDMX is tough, but with friends like this, you've got this.
+>
+
+---

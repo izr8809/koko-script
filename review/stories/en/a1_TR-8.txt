@@ -1,0 +1,99 @@
+# TR-8: What's this neighborhood known for?
+
+
+---
+
+### sim1: Asking Locals
+
+**Goal:** To ask a local for food recommendations and find out about a famous spot nearby.
+
+**📍 Location:** Street in Greenwich Village
+
+**intro_text:**
+You're in a new neighborhood. No plan, no map. Just vibes and curiosity.
+
+**기 — Recommendations [Set 1]**
+User: Excuse me! Is there anywhere good to eat around here?
+AI: Yes! There's a great pizza place just down the block!
+User: Oh, I'd love to try it! Is it far?
+AI: No, it's like a five-minute walk!
+
+**Outro:**
+> Local tip unlocked! 🍕 Five minutes away — that's basically next door.
+> But wait, there's more to this neighborhood than just food.
+>
+
+**승 — More to explore [Set 2]**
+User: What else is this neighborhood known for?
+AI: There are so many cool little cafés here! Have you been to the bookshop café?
+User: No, not yet!
+AI: You have to go! It's perfect for photos!
+
+**Outro:**
+> Bookshop café added to the list! 📸 This neighborhood just got a lot more interesting.
+> Time to step inside and see what the hype is about.
+>
+
+---
+
+### sim2: Visiting
+
+**Goal:** To visit the bookshop café, admire the space, and order something famous from the menu.
+
+**📍 Location:** Bookshop café
+
+**승 — Visiting [Set 3]**
+User: Is this the bookshop café?
+AI: Yes! Come on in!
+User: Wow, this place is gorgeous!
+AI: Thank you! What can I get for you?
+
+**Outro:**
+> Books and coffee — the perfect combination! 📚 Stunning.
+> Now, what's the must-order item here?
+>
+
+**전 — Ordering [Set 4]**
+User: What do you recommend?
+AI: Our lavender latte is really popular!
+User: I'll have a lavender latte, please!
+AI: Coming right up! Just a moment!
+
+**Outro:**
+> Lavender latte incoming! ☕ The most Instagram-worthy drink in the neighborhood.
+> This is going to be worth every dollar.
+>
+
+---
+
+### sim3: Enjoying
+
+**Goal:** To enjoy your drink, compliment the café, and promise to come back.
+
+**📍 Location:** Bookshop café (same)
+
+**전 — Enjoying [Set 5]**
+AI: Here's your lavender latte!
+User: Thank you! Oh wow, this is amazing!
+AI: Are you enjoying it?
+User: Yes, it's so good!
+
+**Outro:**
+> Lavender latte approved! 😍 This place is going straight into your travel diary.
+> Time to wrap up and say your goodbyes.
+>
+
+**결 — Wrapping up [Set 6]**
+User: I love this place! I'll definitely be back!
+AI: Thank you so much! Come back anytime!
+User: I will!
+AI: Enjoy the rest of your day!
+
+**Outro:**
+> A perfect afternoon in a perfect café! ✨ This city keeps delivering.
+> Next up: a rom-com moment you definitely didn't plan for.
+>
+
+---
+
+# 🎬 TV & DRAMA (Casual) >> American Drama Life

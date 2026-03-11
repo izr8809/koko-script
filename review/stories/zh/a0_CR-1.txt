@@ -1,0 +1,102 @@
+# CR-1: 您好，初次见面
+
+- 大分类: Career
+- 中分类: First Day at Work
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Arriving at the Office
+
+**Goal:** To introduce yourself on the first day of work and greet colleagues formally.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+First day at a Chinese company. Everyone is watching.
+Time to make a great first impression!
+
+**기 — 自我介绍 [세트 1]**
+AI: 您好！您是新来的同事吗？
+User: 是的！我叫___！初次见面，请多关照！
+AI: 您好！我叫李经理！欢迎！
+User: 谢谢您！请多指教！
+
+**Outro:**
+> First impression: Nailed it! 👔
+> Now find your desk and meet the team!
+>
+
+**승 — 认识同事 [세트 2]**
+AI: 这是您的工位！有什么不懂的请问我！
+User: 谢谢您！请问洗手间在哪儿？ / 谢谢您！请问会议室在哪儿？
+AI: 在走廊右边！
+User: 谢谢您！
+
+**Outro:**
+> Office orientation: Done! 🏢
+> Now it's time for the team lunch!
+>
+
+---
+
+### sim2: Team Lunch
+
+**Goal:** To join the team for lunch and make polite small talk with colleagues.
+
+**📍 장소:** 公司餐厅
+
+**승 — 午餐 [세트 3]**
+User: 请问可以坐这里吗？
+AI: 当然！请坐！您吃过了吗？
+User: 还没有！ / 刚来！
+AI: 来！一起吃！
+
+**Outro:**
+> Team lunch joined! 🍱
+> Now make some small talk!
+>
+
+**전 — 聊天 [세트 4]**
+AI: 您是哪里人？
+User: 我是___人！ / 我从___来！
+AI: 哦！第一次来中国工作吗？
+User: 是的！第一次！ / 不是，来过几次！
+
+**Outro:**
+> Small talk: Successful! 💬
+> You're fitting in already. One more hurdle — the afternoon meeting!
+>
+
+---
+
+### sim3: Afternoon Meeting
+
+**Goal:** To participate in a brief team meeting and confirm your understanding of tasks.
+
+**📍 장소:** 公司 (会议室)
+
+**전 — 会议 [세트 5]**
+AI: 下午有个简短的会议，您方便吗？
+User: 方便！几点开始？ / 方便！在哪个会议室？
+AI: 三点！在二楼会议室！
+User: 好的！我准时到！
+
+**Outro:**
+> Meeting confirmed! 📋
+> Now show up prepared and ready to listen!
+>
+
+**결 — 会议结束 [세트 6]**
+AI: 今天的会议就到这里！有问题吗？
+User: 没有问题，谢谢！ / 请问这个任务什么时候交？
+AI: 明天下班前！谢谢大家！
+User: 好的！谢谢您！
+
+**Outro:**
+> First day: Complete! 🎉
+> You survived the first day. Tomorrow, you'll be even better!
+>
+
+---

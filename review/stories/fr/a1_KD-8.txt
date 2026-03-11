@@ -1,0 +1,99 @@
+# KD-8: Pourquoi tu es bizarre ces derniers temps ?
+
+
+---
+
+### sim1: Quelque chose a changé
+
+**Goal:** To bring up the distance you've been feeling and give your partner a chance to explain.
+
+**📍 장소:** Chacun chez soi (WhatsApp)
+
+**intro_text:**
+Three days. No message. Something is definitely off.
+
+**기 — T'es bizarre [세트 1]**
+User: Pourquoi tu réponds plus ?
+AI: Désolé(e), j'ai été très occupé(e).
+User: Je comprends, mais là c'est trop.
+AI: Désolé(e).
+
+**Outro:**
+> "Désolé(e)." Is that enough? 😔 You need more than an apology.
+> Time to say what's really on your mind.
+>
+
+**승 — Ce que je ressens [세트 2]**
+User: J'ai l'impression que tu t'en fous de moi.
+AI: Non, c'est pas ça du tout.
+AI: C'est vraiment le boulot. Pardon.
+User: D'accord. Mais envoie-moi un message quand même.
+
+**Outro:**
+> Feelings expressed, explanation given. 💬 Now you need to actually meet.
+> Some conversations only work face to face.
+>
+
+---
+
+### sim2: On se parle vraiment
+
+**Goal:** To meet in person, hear each other out honestly, and start to understand each other better.
+
+**📍 장소:** Café (en se retrouvant)
+
+**승 — Honnêtement [세트 3]**
+AI: Ces derniers temps, j'ai vraiment galéré. J'ai pas été là pour toi.
+User: Pourquoi tu m'as rien dit ? / Si ça va pas, dis-le moi.
+AI: Je voulais pas t'inquiéter.
+User: T'es bête. Tu peux tout me dire.
+
+**Outro:**
+> Walls coming down! 🧱 This is what real intimacy looks like.
+> Now it's your turn to be honest too.
+>
+
+**전 — On se comprend [세트 4]**
+AI: Merci. Je vais faire mieux.
+User: Moi aussi, désolé(e), j'ai été un peu dur(e).
+AI: Non, t'avais raison.
+User: On se dit les choses, d'accord ?
+
+**Outro:**
+> Both sides heard, both sides understood. 🤍 This is growth.
+> The hard part is over — now comes the good part.
+>
+
+---
+
+### sim3: Ça va mieux
+
+**Goal:** To feel the warmth return between you and end the day closer than before.
+
+**📍 장소:** Café → rue (en sortant)
+
+**전 — On est bien [세트 5]**
+AI: À partir d'aujourd'hui, je fais mieux.
+User: Moi aussi !
+AI: Tu m'as manqué(e).
+User: Toi aussi, tu m'as manqué(e).
+
+**Outro:**
+> "Tu m'as manqué(e)." Said out loud. 💗 That's the real turning point.
+> End the day the right way — together.
+>
+
+**결 — On repart [세트 6]**
+AI: On va manger quelque chose. T'as envie de quoi ?
+User: N'importe quoi ! L'essentiel c'est d'être ensemble.
+AI: Allons-y !
+User: Oui !
+
+**Outro:**
+> "L'essentiel c'est d'être ensemble." 🥺 The most cinéma line of the whole course.
+> Relationship trouble? More like relationship upgrade.
+>
+
+---
+
+# 🎵 MUSIQUE (tu+vous mixte) >> La scène musicale française

@@ -1,0 +1,102 @@
+# PI-3: しゅうまつ、なにする？
+
+- 大分類: Personal Interest
+- 中分類: Making Plans
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 場所:** オンライン (LINE)
+
+**intro_text:**
+The message bubble is blinking.
+Time to shoot your shot — ask them to hang out!
+
+**起 — しゅうまつ [セット 1]**
+User: しゅうまつ、なにする？
+AI: わたし？まだ ないよ！なんで？
+User: いっしょに あそぼう！
+AI: いいね！なにしよう？
+
+**Outro:**
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
+**承 — どこ いこう [セット 2]**
+User: カフェ いく？ごはん たべに いく？
+AI: ごはん！おなかすいた！どこ？
+User: 渋谷は どう？
+AI: いいね！
+
+**Outro:**
+> Destination: Shibuya! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
+---
+
+### sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 場所:** オンライン (LINE, 同じ)
+
+**承 — じかん [セット 3]**
+AI: なんじに あう？
+User: 2じ？ / よるに！
+AI: 2じ いいね！渋谷えき まえ？
+User: うん！
+
+**Outro:**
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
+**転 — かくにん [セット 4]**
+AI: じゃあ どようび 2じ、渋谷えき！
+User: うん！
+AI: おくれないでね！
+User: わかった！ / おくれないよ！
+
+**Outro:**
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
+---
+
+### sim3: Day of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 場所:** 渋谷えき まえ (外)
+
+**転 — とうじつ [セット 5]**
+AI: でた？
+User: うん、もうすぐ！ / でてる！
+AI: わたし ついたよ！はやく きて！
+User: すぐ いく！
+
+**Outro:**
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
+**結 — あった [セット 6]**
+User: どこ？
+AI: ここ！こっち！
+User: あ、みえた！
+AI: いこう！
+
+**Outro:**
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
+
+---

@@ -1,0 +1,97 @@
+# PI-6: C'est grâce à toi que j'apprends le français
+
+
+---
+
+### sim1: On se confie
+
+**Goal:** To open up about why you're learning French and feel genuinely supported by your friend.
+
+**📍 장소:** Café (Le Marais)
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — Pourquoi le français ? [세트 1]**
+AI: Tu apprends le français depuis longtemps ?
+User: Pas vraiment ! J'ai commencé il y a six mois. / Depuis quelques mois !
+AI: Ah bon ? Et pourquoi le français ?
+User: Pour me faire des amis ici ! / Pour comprendre les films !
+
+**Outro:**
+> Six months in and already having real conversations! 🌟
+> But how's life in Paris, really? Time to get honest.
+>
+
+**승 — La vie à Paris [세트 2]**
+AI: La vie à Paris, c'est comment pour toi ?
+User: C'est bien, mais parfois c'est dur. / Je me sens seul(e) des fois.
+AI: C'est normal ! Si t'as besoin, tu peux me parler !
+User: Merci. / Oui, je sais.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Les encouragements
+
+**Goal:** To reflect on your progress in French and feel genuinely motivated to keep going.
+
+**📍 장소:** Café (même endroit)
+
+**승 — Tu progresses ! [세트 3]**
+AI: Au début, c'était comment d'apprendre le français ?
+User: C'était vraiment difficile ! / Je ne comprenais rien !
+AI: Mais là, tu parles super bien !
+User: Tu crois ? Merci ! / J'ai encore beaucoup à apprendre.
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now — a confession that changes everything.
+>
+
+**전 — La vraie raison [세트 4]**
+User: C'est grâce à toi que j'apprends mieux le français.
+AI: Vraiment ? Ça me touche !
+User: C'est vrai !
+AI: Moi aussi, j'ai envie d'apprendre ta langue grâce à toi !
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: De vrais amis
+
+**Goal:** To realize how quickly this friendship grew and lock in the next hangout.
+
+**📍 장소:** Café (même endroit)
+
+**전 — Déjà combien de temps ? [세트 5]**
+AI: On se connaît depuis combien de temps déjà ?
+User: Un mois ? / Déjà deux mois !
+AI: Le temps passe vite !
+User: C'est vrai !
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — On se revoit [세트 6]**
+AI: On se voit souvent, hein !
+User: Bien sûr !
+AI: On fait quelque chose la semaine prochaine !
+User: Oui ! Écris-moi !
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Paris life just got a whole lot better.
+>
+
+---

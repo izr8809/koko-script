@@ -1,0 +1,97 @@
+# KD-7: 付き合おうよ
+
+
+---
+
+### sim1: The Moment
+
+**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
+
+**📍 장소:** 代々木公園 (夜)
+
+**intro_text:**
+Yoyogi Park at night. You said you had something to say. This is it.
+
+**기 — 告白 [세트 1]**
+AI: 今日何か言いたいことあるって言ってたじゃん。何？
+User: ちょっと緊張してる。 / 近くに来て。
+AI: なんで緊張してるの？言ってみて！
+User: 私...君のことが好き。
+
+**Outro:**
+> You said it! 💘 Three words that change everything.
+> Now hold your breath and wait for the answer.
+>
+
+**승 — 返事 [세트 2]**
+AI: 本当に？私も好きだったよ。
+User: 本当に？ / いつから？
+AI: 最初に会った時から。
+User: 私も。
+
+**Outro:**
+> Mutual feelings confirmed! 🌙 Yoyogi Park just witnessed a drama moment.
+> So... does this mean what we think it means?
+>
+
+---
+
+### sim2: Officially Together
+
+**Goal:** To officially become a couple and start planning your first date together.
+
+**📍 장소:** 代々木公園 (同じ)
+
+**승 — カップル [세트 3]**
+AI: じゃあ私たち付き合うってこと？
+User: うん。 / そうだよね？
+AI: よかった。
+User: 私もよかった。
+
+**Outro:**
+> Official! 💑 You are now a couple. Congratulations.
+> First order of business: plan the perfect first date.
+>
+
+**전 — 初デート [세트 4]**
+AI: 付き合ってから初デートだ！どこ行きたい？
+User: 海見たい！ / おいしいもの食べに行こう！
+AI: いいね！週末行こう！
+User: 楽しみ！
+
+**Outro:**
+> First date planned! 🗓️ The excitement is real.
+> But first — the sweetest part of any new relationship.
+>
+
+---
+
+### sim3: Sweet
+
+**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
+
+**📍 장소:** それぞれの家 (LINEで)
+
+**전 — ドキドキ [세트 5]**
+AI: 家ちゃんと帰れた？
+User: うん、さっき着いた！
+AI: 今日本当によかった。
+User: 私も。 / ずっと考えてる。
+
+**Outro:**
+> Late night texts after a perfect evening! 📱 This feeling is everything.
+> One last message before you both fall asleep smiling.
+>
+
+**결 — おやすみ [세트 6]**
+AI: 明日また会いたい。
+User: 私も会いたい。
+AI: おやすみ。夢で会おう。
+User: おやすみ。
+
+**Outro:**
+> "夢で会おう。" 😴 The most romantic goodnight in Japanese.
+> Sweet dreams — you're going to need the energy for what comes next.
+>
+
+---

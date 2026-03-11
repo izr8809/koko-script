@@ -1,0 +1,97 @@
+# PI-6: 我学中文是因为你
+
+
+---
+
+### sim1: 说真心话
+
+**Goal:** To open up about why you're learning Chinese and feel supported by your friend's encouragement.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — 深聊 [세트 1]**
+AI: 你为什么学中文？
+User: 想交中国朋友！/ 想看中国剧！
+AI: 哦，真的？你现在学得挺好的！
+User: 还不行呢。/ 真的？谢谢！
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life in China, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — 在中国的生活 [세트 2]**
+AI: 在中国生活有没有觉得难的地方？
+User: 有时候很难受。/ 中文还不好。
+AI: 难受的时候跟我说！
+User: 谢谢。/ 好，我会的。
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: 互相鼓励
+
+**Goal:** To reflect on how far you've come with Chinese and feel genuinely motivated to keep going.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**승 — 加油 [세트 3]**
+AI: 你刚开始学中文的时候怎么样？
+User: 真的好难！/ 什么都不懂。
+AI: 但是你现在这么厉害了！
+User: 是吗？谢谢！/ 还差很多呢。
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — 感动 [세트 4]**
+User: 因为你，我更想学中文！
+AI: 真的？好感动！
+User: 是真的！
+AI: 我也想因为你学英文！
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: 真朋友
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**전 — 认识多久了 [세트 5]**
+AI: 咱们认识多久了？
+User: 一个月了？/ 都两个月了！
+AI: 时间过得真快！
+User: 对啊！
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — 约好了 [세트 6]**
+AI: 以后要常见面！
+User: 当然！
+AI: 下周一起做点什么！
+User: 好！到时候联系！
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Life in China just got a whole lot better.
+>
+
+---

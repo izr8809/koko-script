@@ -1,0 +1,97 @@
+# TR-7: ¿Puedo probarme esto?
+
+
+---
+
+### sim1: Mirando la tienda
+
+**Goal:** To browse a clothing store, find something you like, and ask to try it on.
+
+**📍 장소:** Tienda de ropa
+
+**intro_text:**
+Condesa shopping street. So many cute clothes. Where do you even start?
+
+**기 — Mirando [세트 1]**
+AI: ¡Buenas tardes! ¿En qué le puedo ayudar?
+User: Solo estoy mirando, gracias. / Busco una playera.
+AI: ¡Por aquí tenemos lo nuevo! ¿Gusta ver?
+User: ¡Sí, con gusto!
+
+**Outro:**
+> New arrivals section — dangerous territory! 👀 Everything looks good.
+> You spotted something. Time to try it on.
+>
+
+**승 — Eligiendo [세트 2]**
+User: ¡Qué bonita! ¿Me puedo probar esto?
+AI: ¡Claro! El probador está por allá.
+User: ¡Gracias!
+AI: ¿Le queda bien la talla?
+
+**Outro:**
+> Fitting room secured! 🪞 The moment of truth is coming.
+> Will it fit? Will it look good? Only one way to find out.
+>
+
+---
+
+### sim2: Probándose
+
+**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
+
+**📍 장소:** Tienda de ropa — probador
+
+**승 — Probándose [세트 3]**
+AI: ¿Cómo le quedó? ¿Le queda bien?
+User: Me queda un poco chico. ¿Tiene una talla más grande? / ¡Me queda perfecto!
+AI: ¡Ahorita le traigo una talla más!
+User: ¡Muchas gracias!
+
+**Outro:**
+> One size up on the way! 📦 Latin American sizing can be tricky.
+> Now comes the real question: how much does it cost?
+>
+
+**전 — Decidiendo [세트 4]**
+User: ¿Cuánto cuesta esto?
+AI: ¡Son trescientos pesos!
+User: ¿Me puede hacer un descuento? / ¡Sí, me lo llevo!
+AI: ¡Se lo dejo en doscientos cincuenta!
+
+**Outro:**
+> Discount secured! 💰 Bargaining in Spanish — you're a natural.
+> Time to head to the register and seal the deal.
+>
+
+---
+
+### sim3: Comprando
+
+**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
+
+**📍 장소:** Caja de la tienda
+
+**전 — Pagando [세트 5]**
+User: ¡Me lo llevo entonces!
+AI: ¿Paga con tarjeta?
+User: Sí, con tarjeta.
+AI: ¡Aquí tiene su ticket!
+
+**Outro:**
+> Purchase complete! 🛍️ New outfit, new confidence.
+> The staff loved you — they're already hoping you'll come back.
+>
+
+**결 — Despedida [세트 6]**
+AI: ¿Gusta ver algo más?
+User: No, gracias. ¡Hasta luego!
+AI: ¡Vuelva pronto!
+User: ¡Sí!
+
+**Outro:**
+> Shopping mission accomplished! 🎉 Condesa: 1, Budget: 0.
+> Next stop: finding the most famous food in the neighborhood.
+>
+
+---

@@ -1,0 +1,95 @@
+# CR-6: Can I take tomorrow off?
+
+
+---
+
+### sim1: Asking for Leave
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 Location:** Office (at your manager's desk)
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — The request [Set 1]**
+User: Excuse me, do you have a moment?
+AI: Of course, what is it?
+User: Can I take tomorrow off? I have a personal matter.
+AI: Tomorrow? Is everything okay?
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — The explanation [Set 2]**
+User: Yes, I have a doctor's appointment. / I have a personal matter to take care of.
+AI: I see.
+AI: Can you make sure your tasks are covered before you leave today?
+User: Yes, I'll take care of everything before I go.
+
+**Outro:**
+> Proactive handover offer! 📋 That is exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: Confirmation
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 Location:** Office (at your manager's desk, same)
+
+**승 — Approval [Set 3]**
+AI: Alright, you can take tomorrow off.
+User: Thank you so much.
+AI: Please take care of yourself!
+User: Thank you, I appreciate it.
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — Preparing [Set 4]**
+User: I'll send a summary email of my tasks before I leave today.
+AI: That would be great, thank you!
+User: Is there anything else you need from me?
+AI: No, that is all! Take care!
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you are free.
+>
+
+---
+
+### sim3: The Day After
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 Location:** Office (at your desk)
+
+**전 — Back at work [Set 5]**
+User: Good morning. Thank you for yesterday.
+AI: Of course! How are you feeling?
+User: Much better, thank you. / I'm fine now, thank you.
+AI: I am glad to hear that!
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that is a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — Back to it [Set 6]**
+AI: Take it easy today! Do not push yourself too hard!
+User: Thank you, I appreciate that.
+AI: Have a good day!
+User: You too! Thank you!
+
+**Outro:**
+> "Have a good day!" 🏢 The most American way to end a work exchange.
+> You navigated American office culture like a true professional.
+>

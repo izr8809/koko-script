@@ -1,0 +1,97 @@
+# KD-5: J'ai un crush en ce moment
+
+
+---
+
+### sim1: Confession à un(e) ami(e)
+
+**Goal:** To confess to your best friend that you have a crush and share details about who they are.
+
+**📍 장소:** Café (Paris)
+
+**intro_text:**
+Two coffees. One secret. Here we go...
+
+**기 — Le secret [세트 1]**
+User: J'ai un truc à te dire.
+AI: Quoi ? Dis-moi !
+User: J'ai un crush en ce moment.
+AI: Sérieux ? C'est qui ?!
+
+**Outro:**
+> The secret is out! 🤫 Now, who is this lucky person?
+> Your friend is already losing their mind.
+>
+
+**승 — C'est qui ? [세트 2]**
+AI: C'est quelqu'un que je connais ?
+User: Ouais. / Non, tu connais pas.
+AI: C'est comment comme personne ?
+User: Il/Elle est vraiment gentil(le). / Il/Elle a un super sourire.
+
+**Outro:**
+> A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
+> The origin story is always the best part.
+>
+
+---
+
+### sim2: Les détails
+
+**Goal:** To share how you met your crush and open up about being too nervous to confess.
+
+**📍 장소:** Café (même endroit)
+
+**승 — Comment vous vous êtes rencontré(e)s ? [세트 3]**
+AI: Vous vous êtes rencontré(e)s où ?
+User: Au café ! / En cours !
+AI: C'est romantique ! Et alors ?
+User: J'ai pas encore osé lui parler. / J'ai eu son numéro !
+
+**Outro:**
+> You got their number?! That's huge! 📱 So... is it time to make a move?
+> Your friend is about to give you the push you need.
+>
+
+**전 — Un conseil [세트 4]**
+AI: Tu vas pas lui dire ?
+User: J'ai envie mais j'ai peur. / C'est encore trop tôt.
+AI: T'es quelqu'un de bien ! Vas-y, fonce !
+User: Tu crois ? Merci.
+
+**Outro:**
+> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
+> The confession is getting closer — can you feel it?
+>
+
+---
+
+### sim3: Les encouragements
+
+**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
+
+**📍 장소:** Café (même endroit)
+
+**전 — On y va ! [세트 5]**
+AI: Si tu lui dis, tu me racontes ! Je suis avec toi !
+User: D'accord ! / J'ai le trac mais je vais essayer.
+AI: Allez, courage !
+User: Merci !
+
+**Outro:**
+> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
+> The universe is rooting for you.
+>
+
+**결 — Bonne chance [세트 6]**
+AI: Ça va bien se passer !
+User: J'espère.
+AI: Bien sûr ! Tiens-moi au courant !
+User: Oui !
+
+**Outro:**
+> Romance is definitely in the air! 🌸 But wait... is there a plot twist coming?
+> Stay tuned — the story is just getting started.
+>
+
+---

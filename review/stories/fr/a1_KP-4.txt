@@ -1,0 +1,97 @@
+# KP-4: Joyeux anniversaire !
+
+
+---
+
+### sim1: Le message d'anniversaire
+
+**Goal:** To send your favourite artist a heartfelt birthday message and tease them about a surprise gift you sent.
+
+**📍 장소:** En ligne (Discord fans / fan club officiel)
+
+**intro_text:**
+Midnight. It's officially their birthday. My heart is racing...
+
+**기 — Joyeux anniversaire [세트 1]**
+User: Joyeux anniversaire !
+AI: Merci beaucoup ! Merci à tous !
+User: Vous avez fait quoi aujourd'hui ?
+AI: J'ai passé la journée avec l'équipe, on a mangé un gâteau !
+
+**Outro:**
+> First birthday message delivered! 🎂 Did they get your special gift yet?
+> The suspense is killing you — and them.
+>
+
+**승 — Le cadeau [세트 2]**
+User: J'ai envoyé un cadeau ! Vous l'avez reçu ?
+AI: Pas encore ! C'est quoi ?
+User: C'est un secret ! / Une lettre et un cadeau !
+AI: J'ai hâte ! Merci beaucoup !
+
+**Outro:**
+> Gift successfully sent! 🎁 Alert: They just started a surprise live stream!
+> Drop everything — the birthday live is starting.
+>
+
+---
+
+### sim2: L'événement fan
+
+**Goal:** To cheer for your favourite artist during their birthday live and react to their heartfelt birthday wish.
+
+**📍 장소:** En ligne (live stream)
+
+**승 — Le live d'anniversaire [세트 3]**
+AI: Merci à tous d'être là pour mon anniversaire !
+User: Joyeux anniversaire ! / On vous aime !
+AI: Grâce à vous, je suis tellement heureux/heureuse !
+User: Nous aussi. Soyez heureux/heureuse !
+
+**Outro:**
+> They are literally an angel! 👼 Shh... they're about to make their birthday wish.
+> This is the moment every fan lives for.
+>
+
+**전 — Le vœu [세트 4]**
+AI: J'ai fait un vœu ! Vous savez ce que c'est ?
+User: C'est quoi ? / Dites-nous !
+AI: Je veux rester longtemps avec vous, les fans !
+User: On est touchés ! / Nous aussi !
+
+**Outro:**
+> We are all crying right now. 😭 Time to wrap up this perfect day.
+> One last exchange before the live ends.
+>
+
+---
+
+### sim3: La fin du live
+
+**Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your favourite artist.
+
+**📍 장소:** En ligne (live stream, même endroit)
+
+**전 — On finit [세트 5]**
+AI: Aujourd'hui, j'ai été vraiment heureux/heureuse !
+User: Nous aussi, on est heureux/heureuses !
+AI: L'année prochaine, on fait pareil !
+User: Bien sûr !
+
+**Outro:**
+> A promise to stay together forever! 💖 Say goodnight before they turn off the camera.
+> This is the sweetest moment of the whole birthday.
+>
+
+**결 — Bonne nuit [세트 6]**
+AI: Je vais dormir maintenant ! Bonne nuit !
+User: Bonne nuit !
+AI: Je vous aime !
+User: Nous aussi, on vous aime !
+
+**Outro:**
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind their lyrics.
+> Sweet dreams — you're going to be replaying this all night.
+>
+
+---

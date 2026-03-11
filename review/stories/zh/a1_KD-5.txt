@@ -1,0 +1,97 @@
+# KD-5: 我最近喜欢上一个人了
+
+
+---
+
+### sim1: 告诉好朋友
+
+**Goal:** To confess to your best friend that you have a crush and share details about who they are.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+Two coffees. One secret. Here we go...
+
+**기 — 秘密 [세트 1]**
+User: 我有个秘密。
+AI: 什么？快说！
+User: 我有喜欢的人！
+AI: 啊，真的？是谁？！
+
+**Outro:**
+> The secret is out! 🤫 Now, who is this lucky person?
+> Your friend is already losing their mind.
+>
+
+**승 — 是谁 [세트 2]**
+AI: 我认识吗？
+User: 认识。/ 不认识。
+AI: 什么样的人？
+User: 真的很好。/ 笑的时候很好看。
+
+**Outro:**
+> A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
+> The origin story is always the best part.
+>
+
+---
+
+### sim2: 说细节
+
+**Goal:** To share how you met your crush and open up about being too nervous to confess.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**승 — 怎么认识的 [세트 3]**
+AI: 在哪里认识的？
+User: 在咖啡馆！/ 在课上！
+AI: 好浪漫！然后呢？
+User: 还没说什么。/ 加了微信！
+
+**Outro:**
+> You got their WeChat?! That's huge! 📱 So... is it time to make a move?
+> Your friend is about to give you the push you need.
+>
+
+**전 — 建议 [세트 4]**
+AI: 你不打算表白吗？
+User: 想，但是好紧张。/ 还太早了。
+AI: 你很好的！自信一点！
+User: 真的？谢谢。
+
+**Outro:**
+> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
+> The confession is getting closer — can you feel it?
+>
+
+---
+
+### sim3: 加油
+
+**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**전 — 鼓励 [세트 5]**
+AI: 表白了告诉我！我支持你！
+User: 好！/ 好紧张，但我试试。
+AI: 加油！
+User: 谢谢！
+
+**Outro:**
+> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
+> The universe is rooting for you.
+>
+
+**결 — 期待 [세트 6]**
+AI: 一定会成功的！
+User: 希望吧。
+AI: 当然！有消息告诉我！
+User: 好！
+
+**Outro:**
+> Romance is definitely in the air! 🌸 But wait... is there a drama plot twist coming?
+> Stay tuned — the story is just getting started.
+>
+
+---

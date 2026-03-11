@@ -1,0 +1,110 @@
+# TR-2: Una Mesa para Dos
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Restaurante
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Reservación
+
+**Goal:** To ask for a table and get seated at a restaurant.
+
+**📍 Lugar:** Restaurante (Taquería El Califa, CDMX)
+
+**intro_text:**
+Primer restaurante en México. ¡Usted puede!
+Solo diga cuántos son y espere.
+
+**Apertura — Mesa [Set 1]**
+AI: ¡Buenas tardes! ¿Tiene reservación?
+User: No, no tengo reservación. / Sí, tengo reservación.
+AI: ¿Para cuántas personas?
+User: Para dos, por favor. / Para una persona, por favor.
+
+**Outro:**
+> ¡Mesa conseguida! 🍽️
+> Ahora viene la parte emocionante... el menú.
+>
+
+**El Menú [Set 2]**
+AI: Aquí tiene el menú. ¿Qué desea ordenar?
+User: ¿Qué recomienda? / Un momento, por favor.
+AI: ¡Los tacos al pastor están muy buenos!
+User: ¡Perfecto, esos quiero! / ¡Gracias, voy a pensar!
+
+**Outro:**
+> ¡Recomendación recibida! 👨‍🍳
+> Es hora de ordenar y esperar la comida.
+>
+
+---
+
+### sim2: Ordenando la Comida
+
+**Goal:** To order food and drinks at the table.
+
+**📍 Lugar:** Restaurante (mismo)
+
+**intro_text:**
+Ya tiene el menú. Ahora es hora de ordenar.
+¡No tenga miedo de preguntar!
+
+**Ordenar [Set 3]**
+AI: ¿Listo para ordenar?
+User: Sí. ¿Me puede traer tres tacos al pastor? / Sí. ¿Me puede traer enchiladas, por favor?
+AI: ¡Con mucho gusto! ¿Y para tomar?
+User: Un agua de jamaica, por favor. / Una limonada, por favor.
+
+**Outro:**
+> ¡Pedido hecho! 🌮
+> Ahora espere... y disfrute el ambiente.
+>
+
+**Extras [Set 4]**
+AI: ¿Le traigo salsa?
+User: Sí, por favor. / No, gracias.
+AI: ¿Picante o suave?
+User: Picante, por favor. / Suave, por favor.
+
+**Outro:**
+> ¡Salsa lista! 🌶️
+> La comida ya viene... ¡prepárese!
+>
+
+---
+
+### sim3: La Cuenta
+
+**Goal:** To ask for the bill and pay at a restaurant.
+
+**📍 Lugar:** Restaurante (mismo)
+
+**intro_text:**
+La comida estuvo deliciosa.
+Ahora es hora de pedir la cuenta.
+
+**La Cuenta [Set 5]**
+User: Disculpe, ¿me puede traer la cuenta?
+AI: ¡Claro! ¿Todo estuvo bien?
+User: ¡Sí, estuvo muy rico! / ¡Sí, estuvo excelente!
+AI: ¡Qué bueno! Ahorita le traigo la cuenta.
+
+**Outro:**
+> ¡Cuenta pedida! 🧾
+> Solo falta pagar y listo.
+>
+
+**Pagar [Set 6]**
+AI: Son 280 pesos.
+User: ¿Puedo pagar con tarjeta? / Aquí tiene, en efectivo.
+AI: ¡Por supuesto! ¿Necesita factura?
+User: No, gracias. / Sí, por favor.
+
+**Outro:**
+> ¡Cuenta pagada! ✅
+> Lo siguiente: Navegar la ciudad como un local.
+>
+
+---

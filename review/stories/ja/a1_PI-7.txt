@@ -1,0 +1,97 @@
+# PI-7: 何か悩んでる？
+
+
+---
+
+### sim1: Something's Wrong
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** カフェ
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — 悩み [세트 1]**
+AI: 最近元気なさそう。何かあった？
+User: ちょっとしんどい。 / 悩みがある。
+AI: どんな悩み？話してみて。
+User: 日本生活がちょっとしんどい。 / 仕事が多すぎる。
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — 聞いてあげる [세트 2]**
+AI: 何が一番しんどい？
+User: 一人でいる時間が多くて。 / 日本語がまだ難しくて。
+AI: それはしんどかったね。
+User: うん、ちょっとね。
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Advice
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** カフェ → 代々木公園
+
+**승 — アドバイス [세트 3]**
+AI: 一人で抱え込まないで。私に話して！
+User: ありがとう。 / そうする。
+AI: 気分転換必要じゃない？出かけよう！
+User: どこ？ / いいね！
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> Yoyogi Park has a way of making everything feel better.
+>
+
+**전 — 外で [세트 4]**
+AI: 代々木公園行こう！外の空気吸ったら気分よくなるよ！
+User: そうだね、行こう！
+AI: 何か買って行く？
+User: いいね！ / コンビニ寄ろう！
+
+**Outro:**
+> Convenience store snacks + Yoyogi Park = perfect combo! 🍙 Let's go.
+> The best conversations happen under the open sky.
+>
+
+---
+
+### sim3: Feeling Better
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** 代々木公園
+
+**전 — 気分転換 [세트 5]**
+AI: 気分よくなった？
+User: うん、だいぶよくなった！ / おかげで！
+AI: よかった！
+User: 本当にありがとう。
+
+**Outro:**
+> From stressed to refreshed! 🌿 Yoyogi Park delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — いつでも [세트 6]**
+AI: しんどい時はいつでも連絡して！
+User: うん、そうする！
+AI: 約束だよ！
+User: 約束！
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Tokyo life is tough, but with friends like this, you've got this.
+>
+
+---

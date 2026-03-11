@@ -1,0 +1,102 @@
+# KD-1: このアニメ、しってる？
+
+- 大分類: Anime & Drama
+- 中分類: Favorite Anime
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Anime Talk
+
+**Goal:** To talk about your favorite anime and find out what your friend is watching.
+
+**📍 場所:** ネカフェ (渋谷)
+
+**intro_text:**
+You're at a net café in Shibuya.
+Time to find out if they're a real otaku!
+
+**起 — アニメ [セット 1]**
+AI: ねえ、アニメ すき？
+User: めっちゃ すき！ / まあまあ すき！
+AI: いま なに みてる？
+User: 鬼滅の刃！ / ワンピース！
+
+**Outro:**
+> Otaku level: Confirmed! 🎌
+> But wait... what's their all-time favorite?
+>
+
+**承 — いちばん すき [セット 2]**
+AI: いちばん すきな アニメ なに？
+User: 進撃の巨人！ / ハイキュー！
+AI: え、わたしも すき！
+User: ほんと？やばい！
+
+**Outro:**
+> Same taste! ✨
+> Now, find out how deep their otaku knowledge goes.
+>
+
+---
+
+### sim2: Deep Dive
+
+**Goal:** To discuss anime characters and share opinions about the story.
+
+**📍 場所:** ネカフェ (同じ)
+
+**承 — キャラ [セット 3]**
+User: いちばん すきな キャラ だれ？
+AI: わたし？リヴァイ！きみは？
+User: エレン！ / ミカサ！
+AI: え、いいね！なんで？
+
+**Outro:**
+> Character debate: Started! ⚔️
+> Now, talk about the story itself.
+>
+
+**転 — ストーリー [セット 4]**
+AI: ストーリー どう おもう？
+User: めっちゃ おもしろい！ / ちょっと むずかしい。
+AI: わかる！さいごは びっくりした！
+User: ほんとに！ / やばい！なきそうだった！
+
+**Outro:**
+> No spoilers! 🛑
+> This is your chance — recommend something new!
+>
+
+---
+
+### sim3: Recommendations
+
+**Goal:** To recommend an anime and make plans to watch together.
+
+**📍 場所:** ネカフェ (同じ)
+
+**転 — おすすめ [セット 5]**
+User: なにか おすすめ ある？
+AI: YOASOBI の アニメ みた？「推しの子」！
+User: みてない！おもしろい？ / みた！めっちゃ いい！
+AI: めっちゃ いいよ！みてみて！
+
+**Outro:**
+> Recommendation made! 📺
+> Now, make plans to watch together!
+>
+
+**結 — いっしょに みよう [セット 6]**
+AI: いっしょに みる？
+User: みたい！いつ？
+AI: こんしゅう どう？
+User: いいね！
+
+**Outro:**
+> Watch party planned! 🍿
+> Next up: Time to talk about voice actors!
+>
+
+---

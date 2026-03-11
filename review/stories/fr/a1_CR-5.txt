@@ -1,0 +1,97 @@
+# CR-5: Vous avez déjeuné ?
+
+
+---
+
+### sim1: La pause déjeuner
+
+**Goal:** To accept a lunch invitation from a colleague and pick a restaurant together.
+
+**📍 장소:** Bureau
+
+**intro_text:**
+12h30. Your stomach is growling. A colleague appears.
+
+**기 — Le déjeuner [세트 1]**
+AI: Vous avez déjeuné ?
+User: Pas encore. / Oui, j'ai déjà mangé.
+AI: On mange ensemble ?
+User: Oui, avec plaisir ! / Merci, c'est gentil !
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your colleague has a recommendation — and it sounds amazing.
+>
+
+**승 — Le menu [세트 2]**
+AI: Qu'est-ce qu'on mange ? Il y a un bon endroit près d'ici !
+User: Tout me va ! / Qu'est-ce qui est bon ?
+AI: Le bœuf bourguignon là-bas est excellent !
+User: Parfait ! Allons-y !
+
+**Outro:**
+> Bœuf bourguignon it is! 🍷 The ultimate French office lunch.
+> Time to bond over a bowl of something warm and delicious.
+>
+
+---
+
+### sim2: Au restaurant
+
+**Goal:** To navigate the menu, handle the wine question, and have a real conversation with your colleague.
+
+**📍 장소:** Restaurant près du bureau
+
+**승 — À table [세트 3]**
+AI: La cuisine française vous convient ? Vous aimez ça ?
+User: Oui, j'adore ! / Certains plats sont un peu riches pour moi.
+AI: Alors le poulet rôti, c'est plus léger ! Vous voulez essayer ?
+User: Oui, bonne idée !
+
+**Outro:**
+> Poulet rôti: the safe and delicious choice! 🍗 Your colleague is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — La conversation [세트 4]**
+AI: Vous vous adaptez bien à la France ?
+User: Oui, de mieux en mieux. / C'est parfois un peu difficile.
+AI: Si vous avez besoin de quoi que ce soit, dites-le moi !
+User: Merci beaucoup.
+
+**Outro:**
+> A colleague who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: On rentre
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** Restaurant
+
+**전 — L'addition [세트 5]**
+User: Je paye !
+AI: Non, non, c'est moi ! Je vous invite !
+User: Merci beaucoup !
+AI: C'était bon ?
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — On remonte [세트 6]**
+User: Oui, c'était excellent ! Merci pour le repas.
+AI: Avec plaisir !
+AI: On remonte ?
+User: Oui, allons-y !
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---

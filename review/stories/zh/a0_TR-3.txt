@@ -1,0 +1,102 @@
+# TR-3: 去哪儿坐地铁？
+
+- 大分类: Traveling
+- 中分类: Subway/Transport
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Finding the Station
+
+**Goal:** To ask for directions to the subway station politely.
+
+**📍 장소:** 街上 (上海)
+
+**intro_text:**
+You're lost in Shanghai. The subway is somewhere nearby.
+Time to ask a local for help!
+
+**기 — 问路 [세트 1]**
+AI: 您好！请问地铁站在哪儿？
+User: 在前面！ / 在左边！
+AI: 哦，谢谢！请问怎么走？
+User: 一直走，然后左转！
+
+**Outro:**
+> Directions received! 🗺️
+> Now find the right line and platform!
+>
+
+**승 — 找站台 [세트 2]**
+AI: 您好！请问几号线去南京路？
+User: 坐2号线！ / 坐1号线！
+AI: 谢谢！在哪儿换乘？
+User: 在人民广场换！
+
+**Outro:**
+> Route confirmed! 🚇
+> Now buy your ticket and get on the train!
+>
+
+---
+
+### sim2: Buying a Ticket
+
+**Goal:** To buy a subway ticket and ask about the fare politely.
+
+**📍 장소:** 地铁站 (同一)
+
+**승 — 买票 [세트 3]**
+User: 请问去南京路多少钱？
+AI: 4块钱！
+User: 可以用手机支付吗？ / 可以用现金吗？
+AI: 可以！这边扫码！
+
+**Outro:**
+> Ticket sorted! 🎫
+> Now find the right platform!
+>
+
+**전 — 找站台 [세트 4]**
+AI: 请问2号线在哪儿？
+User: 在B出口！ / 在地下一层！
+AI: 谢谢！还有几分钟？
+User: 还有3分钟！快去吧！
+
+**Outro:**
+> Running for the train! 🏃
+> Made it? Let's hope so!
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm the stop and ask for help on the train.
+
+**📍 장소:** 地铁上
+
+**전 — 在车上 [세트 5]**
+AI: 请问这趟车去南京路吗？
+User: 是的！ / 不是，您坐反了！
+AI: 谢谢！还有几站？
+User: 还有两站！
+
+**Outro:**
+> Almost there! 🚉
+> One more stop — get ready to get off!
+>
+
+**결 — 到站了 [세트 6]**
+AI: 下一站，南京路！
+User: 谢谢！请问从哪个出口出去？
+AI: 从1号出口出去！
+User: 谢谢您！
+
+**Outro:**
+> Arrived! 🎯
+> You navigated Shanghai's subway like a local. Explorer badge earned!
+>
+
+---

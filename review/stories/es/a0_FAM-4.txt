@@ -1,0 +1,112 @@
+# FAM-4: El Barrio
+
+- Categoría: Familia y Comunidad
+- Subcategoría: Barrio / Vecinos
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Los Vecinos
+
+**Goal:** To greet your neighbors.
+
+**📍 Lugar:** Barrio (CDMX)
+
+**intro_text:**
+¡Buenos días en el barrio!
+¿Conoces a tus vecinos?
+
+**Buenos días [Set 1]**
+AI: ¡Buenos días, vecino!
+User: ¡Buenos días! ¿Cómo estás?
+AI: ¡Muy bien! ¿Y tú?
+User: ¡Bien, gracias!
+
+**Outro:**
+> ¡Saludo del vecino! 👋
+> ¡Qué barrio tan amigable!
+>
+
+**¿Eres nuevo? [Set 2]**
+AI: ¿Eres nuevo en el barrio?
+User: Sí, llegué hace un mes. / No, vivo aquí dos años.
+AI: ¡Bienvenido! El barrio es muy tranquilo.
+User: ¡Qué bueno, gracias!
+
+**Outro:**
+> ¡Vecino conocido! 🏡
+> Ahora, ¡a la tiendita!
+>
+
+---
+
+### sim2: La Tiendita
+
+**Goal:** To buy something at the corner store.
+
+**📍 Lugar:** Tiendita del barrio (CDMX)
+
+**intro_text:**
+¡La tiendita de la esquina!
+¿Qué necesitas hoy?
+
+**¿Qué necesitas? [Set 3]**
+AI: ¡Buenas! ¿Qué se te ofrece?
+User: ¿Tienes Coca-Cola? / ¿Tienes agua?
+AI: ¡Sí! ¿De qué tamaño?
+User: Grande, por favor. / Chica, por favor.
+
+**Outro:**
+> ¡Bebida lista! 🥤
+> Solo falta pagar.
+>
+
+**¿Cuánto es? [Set 4]**
+AI: Son diez pesos.
+User: ¡Aquí tienes! / ¿Tienes cambio de cincuenta?
+AI: ¡Sí, aquí está tu cambio!
+User: ¡Gracias, hasta luego!
+
+**Outro:**
+> ¡Compra en la tiendita lista! 🏪
+> Ahora, ¡al parque!
+>
+
+---
+
+### sim3: El Parque
+
+**Goal:** To chat at the neighborhood park.
+
+**📍 Lugar:** Parque del barrio (CDMX)
+
+**intro_text:**
+¡El parque del barrio!
+Hay niños jugando y abuelitos sentados.
+
+**¡Al parque! [Set 5]**
+AI: ¡Hola! ¿Vienes mucho al parque?
+User: Sí, vengo todos los días. / No mucho.
+AI: ¡Qué chido! ¿Te gusta correr?
+User: Sí, me encanta. / No, prefiero caminar.
+
+**Outro:**
+> ¡En el parque! 🌳
+> ¡Ya casi terminas el track!
+>
+
+**¡Hasta luego! [Set 6]**
+AI: ¡Oye, ya me voy! ¡Fue un gusto!
+User: ¡Igualmente! ¡Hasta luego!
+AI: ¡Ándale! ¡Cuídate mucho!
+User: ¡Tú también!
+
+**Outro:**
+> ¡Ya conoces el barrio! 🏘️
+> Lo siguiente: El mundo profesional en español.
+>
+
+---
+
+# 💼 TRABAJO (usted formal) >> Entorno Profesional LATAM

@@ -1,0 +1,110 @@
+# CR-2: Let's Get Started
+
+- Category: Workplace
+- Subcategory: Meetings
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting room is filling up.
+Time to show them you're prepared!
+
+**Opening — Preparation [Set 1]**
+AI: Are you ready for the meeting?
+User: Yes, I'm ready. / Almost, one more minute.
+AI: Do you have the slides?
+User: Yes, right here. / I'm printing them now.
+
+**Outro:**
+> Preparation: Confirmed! 📋
+> But wait... is everyone here?
+>
+
+**Start Meeting [Set 2]**
+AI: Okay, let's get started. Thank you all for coming.
+User: Thank you for having me.
+AI: Today's agenda is the Q3 report.
+User: Understood.
+
+**Outro:**
+> Meeting started! 🤝
+> Now, time to present your ideas!
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To present an idea and respond to questions in a meeting.
+
+**📍 Location:** Office (conference room, same)
+
+**intro_text:**
+The meeting is underway.
+Time to speak up!
+
+**Present [Set 3]**
+AI: Could you share your thoughts on this?
+User: Yes. I think we should focus on social media.
+AI: Interesting. Can you tell us more?
+User: Of course. It would help us reach more people.
+
+**Outro:**
+> Opinion shared! 💡
+> Now, respond to a question.
+>
+
+**Question [Set 4]**
+AI: I have a question, if that's okay.
+User: Of course, go ahead.
+AI: When would this plan start?
+User: We could start next month. / That's still being decided.
+
+**Outro:**
+> Question answered! ✅
+> Almost done — just wrap up the meeting!
+>
+
+---
+
+### sim3: End of Meeting
+
+**Goal:** To wrap up a meeting and confirm next steps.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting is wrapping up.
+Time to confirm next steps and close it out!
+
+**Wrap Up [Set 5]**
+AI: Okay, let me summarize. The next step is the report.
+User: Understood.
+AI: Does anyone have any questions?
+User: No, I'm good. / Yes, I have one.
+
+**Outro:**
+> Summary: Done! 📋
+> Now, close the meeting properly!
+>
+
+**Close Meeting [Set 6]**
+AI: Alright, that's all for today. Thank you everyone.
+User: Thank you. It was a productive meeting.
+AI: Next meeting is next week. See you then!
+User: See you then. Thank you!
+
+**Outro:**
+> Meeting complete! 🎉
+> Next up: Time to write a professional email!
+>
+
+---

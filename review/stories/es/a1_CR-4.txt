@@ -1,0 +1,100 @@
+# CR-4: ¿Está listo para la reunión?
+
+
+---
+
+### sim1: Antes de la reunión
+
+**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
+
+**📍 장소:** Oficina (su escritorio)
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — Preparación [세트 1]**
+AI: ¿Ya está listo/a para la reunión de hoy?
+User: Sí, ya estoy listo/a. / Casi, me falta poco.
+AI: ¿Ya imprimió los documentos?
+User: Sí, ya los imprimí. / Ahorita los imprimo.
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — La sala [세트 2]**
+AI: ¿Ya reservó la sala de juntas?
+User: Sí, la reservé para las tres.
+AI: ¡Perfecto! ¡Nos vemos allá!
+User: Sí, con mucho gusto.
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: Durante la reunión
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 장소:** Sala de juntas
+
+**intro_text:**
+Meeting in progress. Time to share my thoughts.
+
+**승 — En la reunión [세트 3]**
+AI: ¿Tiene alguna opinión sobre este punto?
+User: Sí, creo que podemos hacerlo así. / Estoy de acuerdo con la propuesta.
+AI: ¡Muy buena idea!
+User: Muchas gracias.
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you'll have nailed this meeting.
+>
+
+**전 — La pregunta [세트 4]**
+User: Tengo una pregunta.
+AI: ¡Claro, adelante!
+User: ¿Para cuándo tenemos que entregar esto?
+AI: ¡Para el próximo viernes!
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate LATAM!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: Después de la reunión
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 장소:** Sala de juntas → oficina (regresando)
+
+**전 — Después de la reunión [세트 5]**
+AI: ¡Buen trabajo en la reunión!
+User: ¡Igualmente, gracias!
+User: Yo le mando el acta de la reunión.
+AI: ¡Muchas gracias!
+
+**Outro:**
+> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you're done.
+>
+
+**결 — Hasta la próxima [세트 6]**
+AI: ¡Entonces nos vemos en la próxima reunión!
+User: Sí, con mucho gusto.
+AI: ¡Que tenga buen día!
+User: ¡Igualmente, gracias!
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
+> Corporate LATAM: 0, You: 1.
+>
+
+---

@@ -1,0 +1,110 @@
+# FAM-1: Mi Familia
+
+- Categoría: Familia y Comunidad
+- Subcategoría: Presentación de Familia
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Foto de Familia
+
+**Goal:** To introduce your family using a photo.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+¡Tienes una foto de tu familia!
+¿Cuántos son en tu familia?
+
+**¡Fotos! [Set 1]**
+AI: ¡Hola! ¿Esa es tu familia?
+User: ¡Sí, es mi familia! / ¡No, es una foto vieja!
+AI: ¡Qué chida! ¿Son muchos?
+User: Sí, somos cinco. / No, somos tres.
+
+**Outro:**
+> ¡Foto compartida! 📸
+> Hay más personas que presentar.
+>
+
+**¿Quiénes son? [Set 2]**
+AI: ¿Quién es ella?
+User: Es mi mamá. / Es mi hermana.
+AI: ¡Qué bonita familia!
+User: ¡Gracias!
+
+**Outro:**
+> ¡Familia presentada! 👨‍👩‍👧‍👦
+> Ahora habla de tus hermanos.
+>
+
+---
+
+### sim2: Los Hermanos
+
+**Goal:** To talk about your siblings.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+Cuéntale sobre tus hermanos.
+¡Es fácil!
+
+**¿Tienes hermanos? [Set 3]**
+AI: ¿Tienes hermanos?
+User: Sí, tengo un hermano. / No, soy hijo único.
+AI: ¿Cuántos años tiene?
+User: Tiene doce años. / Tiene veinte años.
+
+**Outro:**
+> ¡Hermano presentado! 👦
+> ¿Es mayor o menor que tú?
+>
+
+**¿Mayor o menor? [Set 4]**
+AI: ¿Es mayor que tú?
+User: Sí, es mayor. / No, es menor.
+AI: ¡Órale! ¿Y se llevan bien?
+User: Sí, muy bien. / Más o menos.
+
+**Outro:**
+> ¡Hermanos descritos! 👫
+> Ahora habla de los abuelos.
+>
+
+---
+
+### sim3: Los Abuelos
+
+**Goal:** To talk about your grandparents.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+Los abuelos son muy importantes.
+¡Cuéntame sobre los tuyos!
+
+**Los abuelos [Set 5]**
+AI: ¿Viven tus abuelos contigo?
+User: Sí, viven aquí. / No, viven en Guadalajara.
+AI: ¡Qué padre! ¿Los ves mucho?
+User: Sí, los veo los domingos. / No mucho.
+
+**Outro:**
+> ¡Abuelos presentados! 👴👵
+> ¡Ya casi terminas!
+>
+
+**¡Cuánta familia! [Set 6]**
+AI: ¿Te gustan las reuniones de familia?
+User: Sí, me encantan. / Más o menos.
+AI: ¡Órale! Las familias mexicanas son muy unidas.
+User: ¡Sí, es verdad!
+
+**Outro:**
+> ¡Familia completa! 🎉
+> Lo siguiente: El mercado con mamá.
+>
+
+---

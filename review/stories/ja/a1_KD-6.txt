@@ -1,0 +1,97 @@
+# KD-6: 誤解しないで
+
+
+---
+
+### sim1: Misunderstanding
+
+**Goal:** To face a jealous accusation, stay calm, and explain the situation clearly.
+
+**📍 장소:** 公園のベンチ
+
+**intro_text:**
+A park bench. A tense silence. Someone saw something they didn't understand.
+
+**기 — 誤解 [세트 1]**
+AI: 昨日なんで他の人といたの？
+User: え？何の話？ / 誤解しないで！
+AI: 見たよ。カフェで。
+User: あの人ただの友達だよ！ / あ、あの時？
+
+**Outro:**
+> Caught! 😬 But it's not what it looks like — time to explain.
+> The truth is simple, but jealousy makes everything complicated.
+>
+
+**승 — 説明 [세트 2]**
+AI: 本当にただの友達？
+User: うん、本当だよ。同じ授業の子だよ。 / 疑わないで。
+AI: ごめん。ちょっと嫉妬してたかも。
+User: 大丈夫だよ。 / そういうこともあるよ。
+
+**Outro:**
+> Jealousy admitted! 💔 That took courage. Now let's actually talk about it.
+> The real conversation is just beginning.
+>
+
+---
+
+### sim2: Talking It Out
+
+**Goal:** To address the misunderstanding directly and agree to communicate better next time.
+
+**📍 장소:** 公園のベンチ (同じ)
+
+**승 — 話し合い [세트 3]**
+User: なんですぐ聞かなかったの？
+AI: 聞きにくかった。
+User: 次はすぐ聞いて。誤解しないで。
+AI: わかった、ごめん。
+
+**Outro:**
+> Communication rules established! 📋 This is how healthy relationships work.
+> Now it's time to actually forgive and move on.
+>
+
+**전 — 解決 [세트 4]**
+AI: 本当にごめん。
+User: 大丈夫。でも私のこと信じて。
+AI: うん、信じる。もうしないよ。
+User: わかった。
+
+**Outro:**
+> Trust restored! 🤝 That's what matters most.
+> Now let's get out of this park and do something fun.
+>
+
+---
+
+### sim3: Making Up
+
+**Goal:** To fully make up, agree to grab food together, and end on a sweet note.
+
+**📍 장소:** 公園 → 路上 (歩きながら)
+
+**전 — 仲直り [세트 5]**
+AI: 怒り収まった？
+User: 収まったよ。 / ほぼね。
+AI: おいしいもの食べに行こう。私が払う。
+User: いいね！
+
+**Outro:**
+> Food fixes everything! 🍽️ The classic Japanese makeup move.
+> One last sweet moment before the credits roll.
+>
+
+**결 — また [세트 6]**
+AI: 次はすぐ聞くよ！
+User: そうして！
+AI: 好きだよ。
+User: 私も。
+
+**Outro:**
+> "私も。" Two words. Maximum impact. 💕 Shojo manga ending unlocked.
+> This couple just got stronger — misunderstanding and all.
+>
+
+---

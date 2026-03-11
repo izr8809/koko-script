@@ -1,0 +1,97 @@
+# KP-4: ¡Feliz cumpleaños!
+
+
+---
+
+### sim1: Mensaje de cumpleaños
+
+**Goal:** To send your favorite artist a heartfelt birthday message and tease them about a surprise gift you sent.
+
+**📍 장소:** En línea (grupo de WhatsApp fans)
+
+**intro_text:**
+Midnight. It's officially their birthday. My heart is racing...
+
+**기 — El cumpleaños [세트 1]**
+User: ¡Feliz cumpleaños!
+AI: ¡Gracias! ¡Muchas gracias!
+User: ¿Qué hiciste hoy?
+AI: ¡Celebré con el equipo! ¡Comimos pastel!
+
+**Outro:**
+> First birthday message delivered! 🎂 Did they get your special gift yet?
+> The suspense is killing you — and them.
+>
+
+**승 — El regalo [세트 2]**
+User: ¡Te mandé un regalo! ¿Ya lo recibiste?
+AI: ¡Todavía no! ¿Qué es?
+User: ¡Es un secreto! / ¡Una carta y un regalo!
+AI: ¡Qué emoción! ¡Muchas gracias!
+
+**Outro:**
+> Gift successfully sent! 🎁 Alert: They just started a surprise live stream!
+> Drop everything — the birthday live is starting.
+>
+
+---
+
+### sim2: El evento de fans
+
+**Goal:** To cheer for your favorite artist during their birthday live and react to their heartfelt birthday wish.
+
+**📍 장소:** En línea (transmisión en vivo)
+
+**승 — El evento [세트 3]**
+AI: ¡Gracias a todos por felicitarme!
+User: ¡Felicidades! / ¡Te queremos mucho!
+AI: ¡Gracias a ustedes soy muy feliz!
+User: ¡Nosotros también! ¡Sé muy feliz!
+
+**Outro:**
+> They are literally an angel! 👼 Shh... they're about to make their birthday wish.
+> This is the moment every fan lives for.
+>
+
+**전 — El deseo [세트 4]**
+AI: ¡Pedí un deseo! ¿Saben cuál es?
+User: ¿Cuál es? / ¡Díganos!
+AI: ¡Quiero seguir con ustedes por mucho tiempo!
+User: ¡Qué bonito! / ¡Yo también!
+
+**Outro:**
+> We are all crying right now. 😭 Time to wrap up this perfect day.
+> One last exchange before the live ends.
+>
+
+---
+
+### sim3: El final
+
+**Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your favorite artist.
+
+**📍 장소:** En línea (transmisión en vivo, mismo)
+
+**전 — Terminando [세트 5]**
+AI: ¡Hoy fue un día muy especial!
+User: ¡Para nosotros también!
+AI: ¡El año que viene también lo celebramos juntos!
+User: ¡Por supuesto!
+
+**Outro:**
+> A promise to stay together forever! 💖 Say goodnight before they turn off the camera.
+> This is the sweetest moment of the whole birthday.
+>
+
+**결 — Buenas noches [세트 6]**
+AI: ¡Ya me voy a dormir! ¡Buenas noches!
+User: ¡Buenas noches!
+AI: ¡Los quiero mucho!
+User: ¡Nosotros también los queremos!
+
+**Outro:**
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind their lyrics.
+> Sweet dreams — you're going to be replaying this all night.
+>
+
+---

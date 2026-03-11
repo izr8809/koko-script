@@ -1,0 +1,110 @@
+# PI-3: What Are You Doing This Weekend?
+
+- Category: Personal Interest
+- Subcategory: Making Plans
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+The message bubble is blinking.
+Time to shoot your shot — ask them to hang out!
+
+**Opening — Weekend [Set 1]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Why?
+User: Let's hang out!
+AI: Yeah! What do you wanna do?
+
+**Outro:**
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
+**Where? [Set 2]**
+User: Wanna get coffee? Or grab food?
+AI: Food! I'm hungry. Where?
+User: How about SoHo?
+AI: Let's do it!
+
+**Outro:**
+> Destination: SoHo! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
+---
+
+### sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+Plans are set. Now lock in the details.
+Don't be that person who shows up at the wrong time.
+
+**Time [Set 3]**
+AI: What time should we meet?
+User: 2pm? / In the evening!
+AI: 2pm works! Spring Street station?
+User: Perfect!
+
+**Outro:**
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
+**Confirm [Set 4]**
+AI: So Saturday at 2, Spring Street!
+User: Yes!
+AI: Don't be late!
+User: I won't! / I'll be there!
+
+**Outro:**
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
+---
+
+### sim3: Day Of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 Location:** Spring Street Station, SoHo
+
+**intro_text:**
+It's Saturday. You're almost there.
+One last text to find each other!
+
+**Day Of [Set 5]**
+AI: Are you on your way?
+User: Yeah, almost there! / I'm here!
+AI: I'm here already! Hurry!
+User: Coming now!
+
+**Outro:**
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
+**Found You [Set 6]**
+User: Where are you?
+AI: I'm right here! Over here!
+User: Oh, I see you!
+AI: Let's go!
+
+**Outro:**
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
+
+---

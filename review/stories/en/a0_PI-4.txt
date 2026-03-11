@@ -1,0 +1,112 @@
+# PI-4: Text Me!
+
+- Category: Personal Interest
+- Subcategory: Staying in Touch
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Text
+
+**Goal:** To start a casual conversation over text.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+You have their number.
+Now what? Just... text them!
+
+**Opening — First Text [Set 1]**
+User: What are you up to?
+AI: Just at home! What about you?
+User: Same, I'm bored.
+AI: Me too! Wanna go out?
+
+**Outro:**
+> Conversation started! 💬
+> Now keep it going — ask about their day.
+>
+
+**Chat — How Was Your Day? [Set 2]**
+AI: What did you do today?
+User: Studied English. / Watched Netflix.
+AI: Oh nice, what did you watch?
+User: Something new! / It's a secret!
+
+**Outro:**
+> Chatting like pros! 😎
+> Time to take it up a notch — share something fun.
+>
+
+---
+
+### sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+The conversation is flowing.
+Time to send something fun!
+
+**Photo [Set 3]**
+AI: Look where I am! (photo)
+User: Where is that? / Wow, that's beautiful!
+AI: Central Park! We should go together sometime!
+User: Let's do it! / Yeah, I'd love that!
+
+**Outro:**
+> Central Park plans made! 🌿
+> Now send them something funny.
+>
+
+**Fun Stuff [Set 4]**
+User: Did you see this? (link)
+AI: What is it? I haven't seen it!
+User: It's so funny! Watch it!
+AI: Okay, I'll check it out!
+
+**Outro:**
+> Link sent! 😂
+> The night is winding down... time to say goodnight.
+>
+
+---
+
+### sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+It's getting late.
+Time to wrap up the night.
+
+**Evening [Set 5]**
+AI: Did you eat dinner?
+User: Yeah, I did. / Not yet!
+AI: Me too! I had pizza!
+User: Nice! / Really?
+
+**Outro:**
+> Dinner check done! 🍕
+> Almost time to wrap up for the night.
+>
+
+**Goodnight [Set 6]**
+AI: I'm gonna sleep now! Goodnight!
+User: Goodnight! Talk soon!
+AI: Yeah, talk soon! Text me tomorrow!
+User: I will!
+
+**Outro:**
+> Goodnight said! 🌙
+> Next up: Taking your English out into the real world.
+>
+
+---
+
+# ✈️ TRAVEL & PLACES (polite) >> US Travel

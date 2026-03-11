@@ -1,0 +1,99 @@
+# KD-8: 最近なんか変じゃない？
+
+
+---
+
+### sim1: Something Changed
+
+**Goal:** To bring up the distance you've been feeling and give your partner a chance to explain.
+
+**📍 장소:** それぞれの家 (LINEで)
+
+**intro_text:**
+Three days. No message. Something is definitely off.
+
+**기 — 変わった [세트 1]**
+User: 最近なんで連絡してこないの？
+AI: ごめん、最近ちょっと忙しくて。
+User: 忙しいのはわかるけど、全然じゃん。
+AI: ごめんね。
+
+**Outro:**
+> "ごめんね。" Is that enough? 😔 You need more than an apology.
+> Time to say what's really on your mind.
+>
+
+**승 — 本音 [세트 2]**
+User: 私のこと気にしてないみたいで悲しい。
+AI: そんなことないよ。
+AI: 本当に仕事のせいだよ。ごめん。
+User: わかった。 / でも連絡はして。
+
+**Outro:**
+> Feelings expressed, explanation given. 💬 Now you need to actually meet.
+> Some conversations only work face to face.
+>
+
+---
+
+### sim2: Honest Talk
+
+**Goal:** To meet in person, hear each other out honestly, and start to understand each other better.
+
+**📍 장소:** カフェ (会って)
+
+**승 — 正直に [세트 3]**
+AI: 最近本当にしんどかった。君に対してうまくできなかった。
+User: なんで言わなかったの？ / しんどい時は話して。
+AI: 心配かけたくなかった。
+User: バカ。私には話していいんだよ。
+
+**Outro:**
+> Walls coming down! 🧱 This is what real intimacy looks like.
+> Now it's your turn to be honest too.
+>
+
+**전 — 理解 [세트 4]**
+AI: ありがとう。これからちゃんとする。
+User: 私もごめん、ちょっときつく言いすぎた。
+AI: いや、君の言ってることが正しい。
+User: これからお互い正直にしよう。
+
+**Outro:**
+> Both sides heard, both sides understood. 🤍 This is growth.
+> The hard part is over — now comes the good part.
+>
+
+---
+
+### sim3: Better
+
+**Goal:** To feel the warmth return between you and end the day closer than before.
+
+**📍 장소:** カフェ → 路上 (出ながら)
+
+**전 — よくなった [세트 5]**
+AI: 今日からもっとちゃんとする。
+User: 私も！
+AI: 会いたかった。
+User: 私も会いたかった。
+
+**Outro:**
+> "会いたかった。" Said out loud. 💗 That's the real turning point.
+> End the day the right way — together.
+>
+
+**결 — また [세트 6]**
+AI: おいしいもの食べに行こう。何食べたい？
+User: 何でも！一緒にいればいい。
+AI: 行こう！
+User: うん！
+
+**Outro:**
+> "一緒にいればいい。" 🥺 The most drama line of the whole course.
+> Relationship trouble? More like relationship upgrade.
+>
+
+---
+
+# 🎵 J-POP・音楽 (タメ口+丁寧語 mixed) >> Japanese Fan Life

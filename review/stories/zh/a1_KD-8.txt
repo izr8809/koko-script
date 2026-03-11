@@ -1,0 +1,99 @@
+# KD-8: 你最近怎么了？
+
+
+---
+
+### sim1: 有点不对
+
+**Goal:** To bring up the distance you've been feeling and give your partner a chance to explain.
+
+**📍 장소:** 各自家里（微信聊天）
+
+**intro_text:**
+Three days. No message. Something is definitely off.
+
+**기 — 变了 [세트 1]**
+User: 你最近为什么不联系我？
+AI: 对不起，最近有点忙。
+User: 我知道。但是太少了。
+AI: 对不起。
+
+**Outro:**
+> "对不起。" Is that enough? 😔 You need more than an apology.
+> Time to say what's really on your mind.
+>
+
+**승 — 心里话 [세트 2]**
+User: 你不联系我，我很难受。
+AI: 不是的，不是那样的。
+AI: 真的是因为工作。对不起。
+User: 好吧。/ 那也要联系我。
+
+**Outro:**
+> Feelings expressed, explanation given. 💬 Now you need to actually meet.
+> Some conversations only work face to face.
+>
+
+---
+
+### sim2: 好好谈谈
+
+**Goal:** To meet in person, hear each other out honestly, and start to understand each other better.
+
+**📍 장소:** 咖啡馆（见面）
+
+**승 — 坦诚 [세트 3]**
+AI: 最近真的很难。对你不好，对不起。
+User: 为什么不说？/ 难受就说！
+AI: 不想让你担心。
+User: 傻瓜。可以跟我说的。
+
+**Outro:**
+> Walls coming down! 🧱 This is what real intimacy looks like.
+> Now it's your turn to be honest too.
+>
+
+**전 — 理解 [세트 4]**
+AI: 谢谢你。以后会好好的。
+User: 我也对不起，说话有点重。
+AI: 没有，你说得对。
+User: 以后我们说真话。
+
+**Outro:**
+> Both sides heard, both sides understood. 🤍 This is growth.
+> The hard part is over — now comes the good part.
+>
+
+---
+
+### sim3: 好多了
+
+**Goal:** To feel the warmth return between you and end the day closer than before.
+
+**📍 장소:** 咖啡馆 → 街上（出来的时候）
+
+**전 — 好起来了 [세트 5]**
+AI: 从今天开始好好的。
+User: 我也是！
+AI: 想你了。
+User: 我也想你了。
+
+**Outro:**
+> "想你了。" Said out loud. 💗 That's the real turning point.
+> End the day the right way — together.
+>
+
+**결 — 重新开始 [세트 6]**
+AI: 去吃点好吃的吧。想吃什么？
+User: 随便！在一起就好。
+AI: 走吧！
+User: 走！
+
+**Outro:**
+> "在一起就好。" 🥺 The most drama line of the whole course.
+> Relationship trouble? More like relationship upgrade.
+>
+
+---
+
+# 🎵 音乐（你/您混合）>> 中国粉丝生活

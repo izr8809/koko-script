@@ -1,0 +1,97 @@
+# KD-5: Me gusta alguien
+
+
+---
+
+### sim1: Confesión a una amiga
+
+**Goal:** To confess to your best friend that you have a crush and share details about who they are.
+
+**📍 장소:** Cafetería
+
+**intro_text:**
+Two coffees. One secret. Here we go...
+
+**기 — El secreto [세트 1]**
+User: Tengo un secreto.
+AI: ¿Qué? ¡Dime!
+User: Me gusta alguien.
+AI: ¡No manches! ¿En serio? ¿Quién?
+
+**Outro:**
+> The secret is out! 🤫 Now, who is this lucky person?
+> Your friend is already losing their mind.
+>
+
+**승 — ¿Quién es? [세트 2]**
+AI: ¿Lo conozco?
+User: Sí. / No, no lo conoces.
+AI: ¿Cómo es?
+User: Es muy buena persona. / Cuando sonríe es muy bonito/a.
+
+**Outro:**
+> A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
+> The origin story is always the best part.
+>
+
+---
+
+### sim2: Los detalles
+
+**Goal:** To share how you met your crush and open up about being too nervous to confess.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**승 — ¿Cómo se conocieron? [세트 3]**
+AI: ¿Dónde lo/la conociste?
+User: ¡En una cafetería! / ¡En clase!
+AI: ¡Qué romántico! ¿Y qué pasó?
+User: Todavía no le digo nada. / ¡Ya tengo su número!
+
+**Outro:**
+> You got their number?! That's huge! 📱 So... is it time to make a move?
+> Your friend is about to give you the push you need.
+>
+
+**전 — El consejo [세트 4]**
+AI: ¿No le vas a decir algo?
+User: Quiero, pero me da miedo. / Todavía es muy pronto.
+AI: ¡Eres muy buena persona! ¡Díselo con confianza!
+User: ¿De verdad? Gracias.
+
+**Outro:**
+> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
+> The confession is getting closer — can you feel it?
+>
+
+---
+
+### sim3: Palabras de aliento
+
+**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**전 — Apoyo [세트 5]**
+AI: ¡Cuéntame cuando le digas algo! ¡Te apoyo!
+User: ¡Sí! / ¡Estoy nerviosa/o pero lo voy a intentar!
+AI: ¡Tú puedes!
+User: ¡Gracias!
+
+**Outro:**
+> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
+> The universe is rooting for you.
+>
+
+**결 — Con esperanza [세트 6]**
+AI: ¡Va a salir bien!
+User: ¡Espero!
+AI: ¡Claro que sí! ¡Escríbeme!
+User: ¡Sí!
+
+**Outro:**
+> Romance is definitely in the air! 🌸 But wait... is there a plot twist coming?
+> Stay tuned — the story is just getting started.
+>
+
+---

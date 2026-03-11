@@ -1,0 +1,97 @@
+# CR-5: 昼食はまだですか？
+
+
+---
+
+### sim1: Lunch Break
+
+**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
+
+**📍 장소:** オフィス
+
+**intro_text:**
+12:30 PM. Your stomach is growling. A coworker appears.
+
+**기 — 昼食 [세트 1]**
+AI: 昼食はまだですか？
+User: まだです。 / はい、いただきました。
+AI: よろしければご一緒にいかがですか？
+User: はい、ぜひ！ / ありがとうございます！
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your coworker has a recommendation — and it sounds amazing.
+>
+
+**승 — メニュー [세트 2]**
+AI: 何を召し上がりますか？近くにおいしいところがありますよ！
+User: 何でも大丈夫です！ / 何がおいしいですか？
+AI: ここのラーメンが有名なんですよ！
+User: いいですね！行きましょう！
+
+**Outro:**
+> Ramen it is! 🍜 The ultimate Japanese office lunch.
+> Time to bond over a bowl of something delicious.
+>
+
+---
+
+### sim2: At Lunch
+
+**Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
+
+**📍 장소:** 会社近くの食堂
+
+**승 — 食事中 [세트 3]**
+AI: 日本食は大丈夫ですか？辛いものは得意ですか？
+User: はい、大丈夫です！ / 少し辛いのは苦手です。
+AI: それでしたら味噌ラーメンはいかがですか？辛くないですよ！
+User: いいですね！
+
+**Outro:**
+> Miso ramen: the safe and delicious choice! 🥣 Your coworker is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — 会話 [세트 4]**
+AI: 日本の生活はいかがですか？慣れてきましたか？
+User: はい、だんだん慣れてきました。 / 少し大変な時もあります。
+AI: 大変な時はおっしゃってください！お手伝いします！
+User: ありがとうございます。
+
+**Outro:**
+> A coworker who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: Going Back
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** 食堂
+
+**전 — 会計 [세트 5]**
+User: 私が払います。
+AI: いいえ、先輩がご馳走しますよ！
+User: ありがとうございます！
+AI: おいしかったですか？
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — 戻る [세트 6]**
+User: はい、とてもおいしかったです！ごちそうさまでした。
+AI: よかったです！
+AI: では戻りましょうか？
+User: はい、戻りましょう！
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---

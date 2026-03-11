@@ -1,0 +1,110 @@
+# PI-2: ¿Cuál es tu signo?
+
+- Categoría: Vida Personal
+- Subcategoría: Charla Casual
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Lo Básico
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Lugar:** Cafetería (Colonia Roma, CDMX)
+
+**intro_text:**
+Llegaste a la cafetería. Ahora empieza la charla de verdad.
+Edad, colonia... y luego la pregunta que todos hacen.
+
+**Apertura — Edad [Set 1]**
+AI: ¿Cuántos años tienes?
+User: ¡Tengo ___ años! / ¡Tengo ___!
+AI: ¡Ah, igual que yo! Tengo 25.
+User: ¿En serio? / ¡No puede ser!
+
+**Outro:**
+> ¡Edad revelada! 🎂
+> Ahora descubre dónde vive exactamente.
+>
+
+**¿Dónde vives? [Set 2]**
+User: ¿Dónde vives?
+AI: ¿Yo? ¡Vivo en Coyoacán! ¿Y tú?
+User: ¡Vivo en la Roma! / ¡Vivo cerca de aquí!
+AI: ¡Ah, qué cerca!
+
+**Outro:**
+> ¿Vecinos? ¡Quizás! 📍
+> Prepárate... la pregunta del signo zodiacal ya viene.
+>
+
+---
+
+### sim2: Signos del Zodiaco
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Lugar:** Cafetería (mismo lugar)
+
+**intro_text:**
+El café está bueno. La conversación está mejor.
+Es hora de la pregunta que todos hacen en CDMX.
+
+**Signo Zodiacal [Set 3]**
+User: ¿Cuál es tu signo?
+AI: ¡Soy Escorpio! ¿Y tú?
+User: ¡Soy Leo! / ¡No sé!
+AI: ¿Leo? ¡Tiene mucho sentido!
+
+**Outro:**
+> ¡Compatibilidad: Aprobada! 💫
+> Ahora profundiza un poco más en quién es realmente.
+>
+
+**Personalidad [Set 4]**
+AI: ¿Eres más de quedarte en casa o de salir?
+User: ¡Me gusta salir! / ¡Prefiero quedarme en casa!
+AI: ¡A mí también me gusta salir!
+User: ¡Igual! / ¿En serio?
+
+**Outro:**
+> ¡Misma energía! ✨
+> Una ronda más... ¿qué está haciendo últimamente?
+>
+
+---
+
+### sim3: Cuéntame Más
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Lugar:** Cafetería (mismo lugar)
+
+**intro_text:**
+Ya van por el segundo café. Esto va muy bien.
+Es hora de ponerse un poco más personal.
+
+**Últimamente [Set 5]**
+AI: ¿Qué has estado haciendo últimamente?
+User: ¡Aprendiendo español! / ¡Viendo Netflix!
+AI: ¡Qué bien! ¿Cómo te va?
+User: ¡Es divertido! / ¡Es un poco difícil!
+
+**Outro:**
+> ¡Respuesta honesta! 😄
+> Es hora de terminar y hacer planes para hablar de nuevo.
+>
+
+**Despedida [Set 6]**
+AI: ¡Deberíamos vernos de nuevo!
+User: ¡Sí, claro!
+AI: ¡Escríbeme, ¿sí?!
+User: ¡Claro que sí!
+
+**Outro:**
+> ¡Nuevo amigo desbloqueado! 🔓
+> Lo siguiente: Convertir ese chat en planes de verdad.
+>
+
+---

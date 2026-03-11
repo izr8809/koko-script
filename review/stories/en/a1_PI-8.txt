@@ -1,0 +1,99 @@
+# PI-8: Road trip?
+
+
+---
+
+### sim1: Where to Go
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 Location:** Coffee shop
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — The idea [Set 1]**
+User: What are you doing next weekend?
+AI: Nothing yet! Why?
+User: Wanna go on a road trip?
+AI: Oh my gosh, yes! Where?
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Beach or mountains? The debate begins.
+>
+
+**승 — Picking a spot [Set 2]**
+User: How about the beach? / I really want to go to the mountains!
+AI: Yes! I've been wanting to go!
+AI: How many nights?
+User: One night? / Maybe two nights?
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: Planning
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 Location:** Coffee shop (same)
+
+**승 — Getting there [Set 3]**
+AI: How should we get there? Drive or take the bus?
+User: Let's drive! / Is the bus cheaper?
+AI: Driving is more fun! Road trip vibes!
+User: Okay, let's drive!
+
+**Outro:**
+> Road trip it is! 🚗 Fast, fun, and very American.
+> Next up: where are we sleeping?
+>
+
+**전 — Where to stay [Set 4]**
+AI: Where should we stay? Hotel or Airbnb?
+User: Airbnb! It's cheaper! / A hotel is more comfortable, right?
+AI: I'll book an Airbnb!
+User: Perfect, thanks!
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: Getting Excited
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 Location:** Coffee shop (same)
+
+**전 — What to do [Set 5]**
+User: What do you want to do when we get there?
+AI: I want to go to the beach! What about you?
+User: I want to eat good seafood! / I want to explore the town!
+AI: Yes! Let's do everything!
+
+**Outro:**
+> The itinerary is basically writing itself! 🌊 Beach, seafood, exploring — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — So excited [Set 6]**
+AI: I'm so excited!
+User: Me too! I can't wait!
+AI: Okay, see you then! Start packing!
+User: Already on it!
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> The open road is waiting — and so is the best weekend of your life.
+>
+
+---
+
+# ✈️ TRAVELING (Polite) >> US Travel

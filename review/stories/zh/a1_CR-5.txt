@@ -1,0 +1,97 @@
+# CR-5: 您吃午饭了吗？
+
+
+---
+
+### sim1: 午饭时间
+
+**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
+
+**📍 장소:** 办公室
+
+**intro_text:**
+12:30 PM. Your stomach is growling. A coworker appears.
+
+**기 — 午饭 [세트 1]**
+AI: 您吃午饭了吗？
+User: 还没有。/ 是的，吃了。
+AI: 一起去吃吧？
+User: 好的，谢谢！/ 好，太好了！
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your coworker has a recommendation — and it sounds amazing.
+>
+
+**승 — 菜单 [세트 2]**
+AI: 吃什么好？附近有好吃的！
+User: 什么都可以！/ 有什么好吃的？
+AI: 这里的麻辣烫很有名！
+User: 好！走吧！
+
+**Outro:**
+> Malatang it is! 🌶️ The ultimate Chinese office lunch.
+> Time to bond over a bowl of something spicy.
+>
+
+---
+
+### sim2: 吃饭中
+
+**Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
+
+**📍 장소:** 公司附近餐厅
+
+**승 — 吃饭中 [세트 3]**
+AI: 中国菜吃得惯吗？能吃辣吗？
+User: 可以！没问题！/ 有点辣的有点难。
+AI: 那点个不辣的？清汤锅底怎么样？
+User: 好的！
+
+**Outro:**
+> Clear broth: the safe and delicious choice! 🥣 Your coworker is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — 聊天 [세트 4]**
+AI: 在中国生活怎么样？适应了吗？
+User: 慢慢适应了。/ 有时候有点难。
+AI: 有什么难的就说！我帮你！
+User: 谢谢您。
+
+**Outro:**
+> A coworker who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: 回去了
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** 餐厅
+
+**전 — 结账 [세트 5]**
+User: 我来付吧。
+AI: 不用，前辈请客！
+User: 谢谢您！
+AI: 好吃吗？
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — 回去 [세트 6]**
+User: 好吃！谢谢您！
+AI: 太好了！
+AI: 那上去吧？
+User: 好，走吧！
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---

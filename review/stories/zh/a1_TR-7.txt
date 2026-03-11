@@ -1,0 +1,97 @@
+# TR-7: 这个可以试穿吗？
+
+
+---
+
+### sim1: 逛店
+
+**Goal:** To browse a clothing store, find something you like, and ask to try it on.
+
+**📍 장소:** 服装店
+
+**intro_text:**
+Sanlitun shopping street. So many cute clothes. Where do you even start?
+
+**기 — 逛逛 [세트 1]**
+AI: 您好！请问您找什么？
+User: 我随便看看。/ 我想看看T恤。
+AI: 这边有新款！要看看吗？
+User: 好，看看！
+
+**Outro:**
+> New arrivals section — dangerous territory! 👀 Everything looks good.
+> You spotted something. Time to try it on.
+>
+
+**승 — 挑选 [세트 2]**
+User: 这个好看！这个可以试穿吗？
+AI: 可以！试衣间在那边！
+User: 谢谢！
+AI: 尺码合适吗？
+
+**Outro:**
+> Fitting room secured! 🪞 The moment of truth is coming.
+> Will it fit? Will it look good? Only one way to find out.
+>
+
+---
+
+### sim2: 试穿
+
+**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
+
+**📍 장소:** 服装店试衣间前
+
+**승 — 试穿 [세트 3]**
+AI: 怎么样？合适吗？
+User: 有点小，有大一号的吗？/ 挺合适的！
+AI: 我去给您拿大一号的！
+User: 谢谢！
+
+**Outro:**
+> One size up on the way! 📦 Chinese sizing can be tricky.
+> Now comes the real question: how much does it cost?
+>
+
+**전 — 考虑 [세트 4]**
+User: 这个多少钱？
+AI: 这件198块！
+User: 能便宜一点吗？/ 好，我买！
+AI: 给您180块吧！
+
+**Outro:**
+> Discount secured! 💰 Bargaining in Chinese — you're a natural.
+> Time to head to the register and seal the deal.
+>
+
+---
+
+### sim3: 买单
+
+**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
+
+**📍 장소:** 服装店收银台
+
+**전 — 结账 [세트 5]**
+User: 那我买这件！
+AI: 可以微信支付吗？
+User: 可以，微信支付。
+AI: 这是您的小票！
+
+**Outro:**
+> Purchase complete! 🛍️ New outfit, new confidence.
+> The staff loved you — they're already hoping you'll come back.
+>
+
+**결 — 结束 [세트 6]**
+AI: 还要看看别的吗？
+User: 不用了，谢谢！
+AI: 欢迎下次再来！
+User: 好的！
+
+**Outro:**
+> Shopping mission accomplished! 🎉 Sanlitun: 1, Budget: 0.
+> Next stop: finding the most famous food in the neighborhood.
+>
+
+---

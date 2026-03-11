@@ -1,0 +1,110 @@
+# TR-2: Table for Two, Please
+
+- Category: Travel & Places
+- Subcategory: Restaurant
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
+
+**📍 Location:** Restaurant (NYC)
+
+**intro_text:**
+First American restaurant experience.
+Get ready for some serious flavor!
+
+**Opening — Getting Seated [Set 1]**
+AI: Hi! How many?
+User: Just me. / Two, please.
+AI: Right this way!
+User: Thank you.
+
+**Outro:**
+> Survived the seating! 🪑
+> Now, the real challenge begins: the menu.
+>
+
+**Order [Set 2]**
+AI: What can I get for you?
+User: Can I get a burger, please?
+AI: Sure! And to drink?
+User: Water, please. / A Coke, please.
+
+**Outro:**
+> Order placed! 🍔
+> But wait... is the burger too big for you?
+>
+
+---
+
+### sim2: The Flavor Check
+
+**Goal:** To adjust your order and politely request extra items.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+The food is on its way.
+Time to make sure everything is right!
+
+**Spice Check [Set 3]**
+AI: Just so you know, the sauce is a little spicy!
+User: Is it spicy? / That's okay, I like spicy!
+AI: Yeah, just a little bit.
+User: Can I get it on the side, please? / Spicy is fine!
+
+**Outro:**
+> Crisis averted! 🌶️
+> Time to discover the magic of American sides.
+>
+
+**Extras [Set 4]**
+User: Excuse me! Can I get a refill?
+AI: Of course! What would you like?
+User: More water, please. / More Coke, please.
+AI: Coming right up!
+
+**Outro:**
+> The food is amazing! 🍟
+> Now, how do you politely finish the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill, handle payment, and offer polite closing greetings.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+You're full. It was delicious.
+Time to pay and head out!
+
+**Bill [Set 5]**
+User: Excuse me! Can I get the check, please?
+AI: Of course! Here you go. It's $18.
+User: Can I pay by card? / I'll pay cash.
+AI: Do you need change?
+
+**Outro:**
+> Bill sorted! 💳
+> Just one last thing to say before you walk out.
+>
+
+**Goodbye [Set 6]**
+User: Yes, please. / No, keep the change!
+AI: Thank you so much! Have a great day!
+User: Thank you! The food was great!
+AI: Come back soon!
+
+**Outro:**
+> Meal complete! 🍔
+> You're officially a US restaurant regular. Next up: Time to navigate the city!
+>
+
+---

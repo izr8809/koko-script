@@ -1,0 +1,97 @@
+# KP-4: Happy birthday!
+
+
+---
+
+### sim1: Birthday Message
+
+**Goal:** To send your favorite artist a heartfelt birthday message and tease them about a surprise gift you sent.
+
+**📍 Location:** Online (artist Discord / fan club)
+
+**intro_text:**
+Midnight EST. It's officially her birthday. My heart is racing...
+
+**기 — Birthday [Set 1]**
+User: Happy birthday!!!
+AI: Thank you so much! You're so sweet!
+User: What did you do today?
+AI: I had cake with my team!
+
+**Outro:**
+> First birthday message delivered! 🎂 Did she get your special gift yet?
+> The suspense is killing you — and her.
+>
+
+**승 — The gift [Set 2]**
+User: I sent you a gift! Did you get it?
+AI: Not yet! What is it?
+User: It's a secret! / It's a letter and a little something!
+AI: I can't wait! Thank you so much!
+
+**Outro:**
+> Gift successfully sent! 🎁 Alert: She just started a surprise live stream!
+> Drop everything — the birthday live is starting.
+>
+
+---
+
+### sim2: Fan Event
+
+**Goal:** To cheer for your favorite artist during her birthday live and react to her heartfelt birthday wish.
+
+**📍 Location:** Online (live stream)
+
+**승 — Birthday live [Set 3]**
+AI: Thank you all so much for the birthday love!
+User: Happy birthday! / We love you!
+AI: You guys make me so happy!
+User: We're happy too! Have the best day!
+
+**Outro:**
+> She is literally an angel! 👼 Shh... she's about to make her birthday wish.
+> This is the moment every fan lives for.
+>
+
+**전 — The wish [Set 4]**
+AI: I made a wish! Do you want to know what it was?
+User: Yes! Tell us! / Please!
+AI: I wished to keep making music with all of you for a long, long time!
+User: That made me cry! / Same! Me too!
+
+**Outro:**
+> We are all crying right now. 😭 Time to wrap up this perfect day.
+> One last exchange before the live ends.
+>
+
+---
+
+### sim3: Ending
+
+**Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your favorite artist.
+
+**📍 Location:** Online (live stream, same)
+
+**전 — Wrapping up [Set 5]**
+AI: Today was honestly the best day!
+User: For us too!
+AI: Let's do this again next year!
+User: Obviously! We'll be here!
+
+**Outro:**
+> A promise to stay together forever! 💖 Say goodnight before she turns off the camera.
+> This is the sweetest moment of the whole birthday.
+>
+
+**결 — Goodnight [Set 6]**
+AI: Okay, I'm going to sleep now! Goodnight!
+User: Goodnight!
+AI: I love you all!
+User: We love you too!
+
+**Outro:**
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind her lyrics.
+> Sweet dreams — you're going to be replaying this all night.
+>
+
+---

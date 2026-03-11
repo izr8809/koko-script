@@ -1,0 +1,110 @@
+# CR-1: Mi Presentación
+
+- Categoría: Trabajo
+- Subcategoría: Presentación Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Presentación
+
+**Goal:** To introduce yourself professionally and state your role.
+
+**📍 Lugar:** Oficina (Ciudad de México)
+
+**intro_text:**
+Primer día en la oficina nueva.
+Es hora de presentarse con los colegas.
+
+**Apertura — Presentación [Set 1]**
+AI: ¡Buenos días! ¿Usted es el/la nuevo/a?
+User: Sí, buenos días. Me llamo ___. / Sí, mucho gusto. Soy ___.
+AI: ¡Mucho gusto! ¿En qué área trabaja?
+User: Trabajo en marketing. / Trabajo en ventas.
+
+**Outro:**
+> ¡Primera presentación: Aprobada! 👔
+> Ahora cuéntele más sobre su experiencia.
+>
+
+**La Experiencia [Set 2]**
+AI: ¿Tiene experiencia en esta área?
+User: Sí, tengo dos años de experiencia. / Soy nuevo/a en esto.
+AI: ¡Qué bien! ¿De dónde viene?
+User: Vengo de otra empresa. / Soy recién graduado/a.
+
+**Outro:**
+> ¡Experiencia compartida! 📋
+> Ya causó buena impresión.
+>
+
+---
+
+### sim2: La Reunión
+
+**Goal:** To participate in a basic work meeting and understand instructions.
+
+**📍 Lugar:** Sala de reuniones (mismo)
+
+**intro_text:**
+Hay una reunión en diez minutos.
+¡Prepárese para participar!
+
+**La Reunión [Set 3]**
+AI: ¡Buenos días a todos! Vamos a empezar la reunión.
+User: Buenos días. / Con mucho gusto.
+AI: ¿Tiene alguna pregunta sobre el proyecto?
+User: Sí, ¿cuál es la fecha límite? / No, todo está claro.
+
+**Outro:**
+> ¡Participación en reunión: Exitosa! 📊
+> Ahora tome nota de los puntos importantes.
+>
+
+**Los Puntos [Set 4]**
+AI: El proyecto termina el viernes.
+User: Entendido. ¿Necesita algo de mi parte? / Entendido. ¿Puedo ayudar?
+AI: Sí, por favor envíe el reporte mañana.
+User: Con mucho gusto. / Claro, lo envío mañana.
+
+**Outro:**
+> ¡Tarea asignada! ✅
+> Ahora prepare el reporte.
+>
+
+---
+
+### sim3: El Correo Profesional
+
+**Goal:** To write and send a basic professional email in Spanish.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+Necesita enviar un correo profesional.
+¡Usted puede!
+
+**El Correo [Set 5]**
+AI: ¿Ya envió el reporte?
+User: Todavía no. ¿A quién se lo envío? / Sí, ya lo envié.
+AI: Al señor García. Su correo es garcia@empresa.com.
+User: Entendido. Lo envío ahora. / Gracias, ya lo tengo.
+
+**Outro:**
+> ¡Correo en camino! 📧
+> Ahora confirme que llegó.
+>
+
+**Confirmación [Set 6]**
+User: Disculpe, ¿recibió mi correo?
+AI: Sí, lo recibí. Muchas gracias.
+User: Con mucho gusto. / ¡Perfecto!
+AI: Le agradezco su puntualidad.
+
+**Outro:**
+> ¡Correo confirmado! ✉️
+> Lo siguiente: Participar en una reunión más grande.
+>
+
+---

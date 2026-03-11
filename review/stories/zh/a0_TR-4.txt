@@ -1,0 +1,104 @@
+# TR-4: 这个多少钱？
+
+- 大分类: Traveling
+- 中分类: Shopping
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Browsing the Shop
+
+**Goal:** To browse a shop, ask about items, and express interest politely.
+
+**📍 장소:** 南京路 (上海)
+
+**intro_text:**
+You're on Nanjing Road and everything looks amazing.
+Time to shop — in Chinese!
+
+**기 — 逛街 [세트 1]**
+AI: 您好！欢迎！请随便看！
+User: 谢谢！这个是什么？
+AI: 这是丝巾！很受欢迎！
+User: 好漂亮！ / 哦，不错！
+
+**Outro:**
+> Interest sparked! 👀
+> Now find out how much it costs!
+>
+
+**승 — 问价格 [세트 2]**
+AI: 您喜欢吗？
+User: 喜欢！这个多少钱？
+AI: 这个198块！
+User: 有点贵！ / 好的，我考虑一下！
+
+**Outro:**
+> Price revealed! 💸
+> Time to negotiate — this is China, after all!
+>
+
+---
+
+### sim2: Negotiating
+
+**Goal:** To negotiate a price and decide whether to buy the item.
+
+**📍 장소:** 南京路 (同一)
+
+**승 — 还价 [세트 3]**
+User: 能便宜一点吗？
+AI: 最低180！
+User: 150可以吗？ / 160可以吗？
+AI: 好吧！就160！
+
+**Outro:**
+> Deal in progress! 🤝
+> Now seal the deal and pay!
+>
+
+**전 — 付款 [세트 4]**
+AI: 好！160块！怎么付？
+User: 微信支付！ / 现金！
+AI: 好的！请扫码！
+User: 好了！谢谢！
+
+**Outro:**
+> Purchase complete! 🛍️
+> You haggled and won. Shopping legend status achieved!
+>
+
+---
+
+### sim3: Wrapping Up
+
+**Goal:** To ask for a bag, get a receipt, and leave the shop politely.
+
+**📍 장소:** 南京路 (同一)
+
+**전 — 装袋 [세트 5]**
+AI: 需要袋子吗？
+User: 需要，谢谢！ / 不用了，谢谢！
+AI: 好的！这是您的东西！
+User: 谢谢！能给我收据吗？
+
+**Outro:**
+> Almost done! 🧾
+> Get that receipt and you're free to go!
+>
+
+**결 — 离开 [세트 6]**
+AI: 好的！这是收据！
+User: 谢谢！东西很好！
+AI: 谢谢您！欢迎下次再来！
+User: 好的！再见！
+
+**Outro:**
+> Shopping complete! 🎉
+> You bargained, bought, and walked away happy. Next adventure awaits!
+>
+
+---
+
+# 🎬 DRAMA/MOVIE (你/casual) >> Chinese Entertainment

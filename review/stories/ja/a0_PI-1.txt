@@ -1,0 +1,105 @@
+# PI-1: はじめまして！
+
+- 大分類: Personal Interest
+- 中分類: First Meeting
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+First meeting in Japan.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, state where you are from, and briefly share why you like Japan.
+
+**📍 場所:** 外 (渋谷)
+
+**intro_text:**
+First meeting in Japan.
+Deep breath... say hi!
+
+**起 — はじめまして [セット 1]**
+AI: ねえ、はじめまして！わたしは ゆい(けんた)だよ！なまえは？
+User: わたしは ___だよ！ / ___だよ！
+AI: あ、よろしく！どこから きたの？
+User: ___から きたよ！
+
+**Outro:**
+> First impression: Passed! 🎯
+> But wait... why are you *really* here in Japan?
+>
+
+**承 — 仲良くなろう [セット 2]**
+AI: 日本、すき？
+User: うん、すき！ / めっちゃすき！
+AI: 日本、なんで すきなの？
+User: アニメ！ / ごはん！
+
+**Outro:**
+> They loved your answer! 👀
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with Japanese food.
+
+**📍 場所:** 外 (同じ)
+
+**承 — 趣味 [セット 3]**
+User: ゆい(けんた)、なにが すき？
+AI: わたし？おんがく すき！きみは？
+User: わたしも おんがく！ / アニメが すき！
+AI: え、ほんと？日本の おんがく？
+
+**Outro:**
+> Vibe check passed! ✔️
+> Now, prepare for the ultimate Japanese obsession... Food.
+>
+
+**転 — ごはん [セット 4]**
+AI: 日本の ごはん、たべた？
+User: うん！ / まだ！
+AI: 焼肉、たべた？めっちゃ おいしいよ！
+User: たべてみたい！ / うん、おいしかった！
+
+**Outro:**
+> Enough talking! 🛑
+> This is your golden chance. Make a move and ask them out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange LINE IDs to stay in touch.
+
+**📍 場所:** 外 (同じ)
+
+**転 — あそぼう [セット 5]**
+User: しゅうまつ、なにする？
+AI: わたし？まだ よていない！いっしょに あそぶ？
+User: いいね！なにしよう？
+AI: ごはん たべに いこう！
+
+**Outro:**
+> It's officially a date! 🥂
+> ...Wait! Don't let them walk away without getting their LINE ID!
+>
+
+**結 — れんらく [セット 6]**
+User: LINE、ある？
+AI: うん、ある！ID おしえて！
+User: これ！
+AI: れんらくするね！またね！
+
+**Outro:**
+> Contact secured! 🔒
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---

@@ -1,0 +1,112 @@
+# PI-4: ¡Escríbeme!
+
+- Categoría: Vida Personal
+- Subcategoría: Mantenerse en Contacto
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Primer Mensaje
+
+**Goal:** To start a casual conversation over WhatsApp.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Ya tienes su número.
+¿Y ahora qué? ¡Escríbele!
+
+**Apertura — Primer Mensaje [Set 1]**
+User: ¿Qué estás haciendo?
+AI: ¡Aquí en casa! ¿Y tú?
+User: Igual, estoy aburrido/a.
+AI: ¡Yo también! ¿Salimos?
+
+**Outro:**
+> ¡Conversación iniciada! 💬
+> Ahora sigue... pregunta cómo estuvo su día.
+>
+
+**Chat — ¿Cómo estuvo tu día? [Set 2]**
+AI: ¿Qué hiciste hoy?
+User: Estudié español. / Vi Netflix.
+AI: ¡Qué bien! ¿Qué viste?
+User: ¡Algo nuevo! / ¡Es un secreto!
+
+**Outro:**
+> ¡Chateando como pros! 😎
+> Es hora de subir el nivel... comparte algo divertido.
+>
+
+---
+
+### sim2: Más Chat
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+La conversación fluye.
+¡Es hora de mandar algo divertido!
+
+**Foto [Set 3]**
+AI: ¡Mira dónde estoy! (foto)
+User: ¿Dónde es eso? / ¡Qué bonito!
+AI: ¡El Parque México! ¡Deberíamos ir juntos!
+User: ¡Vamos! / ¡Sí, me encantaría!
+
+**Outro:**
+> ¡Planes en el Parque México! 🌿
+> Ahora mándale algo gracioso.
+>
+
+**Cosas Divertidas [Set 4]**
+User: ¿Viste esto? (link)
+AI: ¿Qué es? ¡No lo he visto!
+User: ¡Es muy gracioso! ¡Míralo!
+AI: ¡Bueno, lo veo ahorita!
+
+**Outro:**
+> ¡Link enviado! 😂
+> La noche se acaba... es hora de decir buenas noches.
+>
+
+---
+
+### sim3: Buenas Noches
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Ya es tarde.
+Es hora de terminar la noche.
+
+**Por la Noche [Set 5]**
+AI: ¿Ya cenaste?
+User: ¡Sí, ya cené! / ¡Todavía no!
+AI: ¡Yo también! ¡Comí tacos!
+User: ¡Qué rico! / ¿En serio?
+
+**Outro:**
+> ¡Cena confirmada! 🌮
+> Ya casi es hora de terminar la noche.
+>
+
+**Buenas Noches [Set 6]**
+AI: ¡Me voy a dormir! ¡Buenas noches!
+User: ¡Buenas noches! ¡Hablamos pronto!
+AI: ¡Sí, hablamos pronto! ¡Escríbeme mañana!
+User: ¡Claro que sí!
+
+**Outro:**
+> ¡Buenas noches dicho! 🌙
+> Lo siguiente: Llevar tu español al mundo real.
+>
+
+---
+
+# ✈️ VIAJES Y LUGARES (usted) >> Turismo en LATAM

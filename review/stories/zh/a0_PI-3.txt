@@ -1,0 +1,102 @@
+# PI-3: 周末去哪儿？
+
+- 大分类: Personal Interest
+- 中分类: Weekend Plans
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: What Are You Doing?
+
+**Goal:** To ask about weekend plans and suggest activities together.
+
+**📍 장소:** 微信聊天
+
+**intro_text:**
+It's Friday afternoon. Your phone buzzes.
+Time to make some weekend plans!
+
+**기 — 周末计划 [세트 1]**
+AI: 喂，周末有空吗？
+User: 有空！ / 应该有！
+AI: 一起去后海玩吧！
+User: 好啊！几点？
+
+**Outro:**
+> Plans are forming! 📅
+> Now figure out what you're actually going to do there.
+>
+
+**승 — 做什么 [세트 2]**
+AI: 我们去喝东西吧！
+User: 好！喝什么？
+AI: 喝奶茶怎么样？
+User: 好！我喜欢奶茶！ / 好啊，我也想喝！
+
+**Outro:**
+> Bubble tea secured! 🧋
+> Now sort out the logistics — how are you getting there?
+>
+
+---
+
+### sim2: Getting There
+
+**Goal:** To discuss transportation and meeting point for the weekend outing.
+
+**📍 장소:** 微信聊天 (同一)
+
+**승 — 怎么去 [세트 3]**
+User: 我们怎么去？
+AI: 坐地铁吧！方便！
+User: 好！在哪儿见？ / 几号线？
+AI: 在后海站出口见！
+
+**Outro:**
+> Meeting point confirmed! 📍
+> But wait... what time exactly?
+>
+
+**전 — 几点见 [세트 4]**
+AI: 几点见面？
+User: 下午两点？ / 下午三点？
+AI: 好！两点在出口见！
+User: 好的！到时候见！
+
+**Outro:**
+> Time confirmed! ⏰
+> The weekend is almost here. One last thing to sort out...
+>
+
+---
+
+### sim3: Day Of
+
+**Goal:** To check in on the day and navigate to the meeting spot.
+
+**📍 장소:** 后海 (现场)
+
+**전 — 到了吗 [세트 5]**
+AI: 你到了吗？
+User: 快到了！ / 我在出口！
+AI: 我也在出口！你在哪边？
+User: 我在左边！ / 我在右边！
+
+**Outro:**
+> Almost there! 🏃
+> One final push — find each other and kick off the weekend!
+>
+
+**결 — 见到了 [세트 6]**
+User: 我看到你了！
+AI: 哦！在这儿！
+User: 好久不见！
+AI: 走吧！去喝奶茶！
+
+**Outro:**
+> Weekend officially started! 🎉
+> You navigated Beijing like a pro. Next level unlocked!
+>
+
+---

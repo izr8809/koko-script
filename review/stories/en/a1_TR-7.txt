@@ -1,0 +1,97 @@
+# TR-7: Can I try this on?
+
+
+---
+
+### sim1: Looking Around
+
+**Goal:** To browse a clothing store, find something you like, and ask to try it on.
+
+**📍 Location:** Clothing store (SoHo)
+
+**intro_text:**
+SoHo shopping street. So many cute clothes. Where do you even start?
+
+**기 — Browsing [Set 1]**
+AI: Hi there! Can I help you find anything?
+User: Just browsing, thanks! / I'm looking for a T-shirt.
+AI: We just got some new stuff in! Want to take a look?
+User: Sure, I'd love to!
+
+**Outro:**
+> New arrivals section — dangerous territory! 👀 Everything looks good.
+> You spotted something. Time to try it on.
+>
+
+**승 — Picking something [Set 2]**
+User: Oh, this is cute! Can I try this on?
+AI: Of course! The fitting room is right over there!
+User: Thank you!
+AI: Does the size look right?
+
+**Outro:**
+> Fitting room secured! 🪞 The moment of truth is coming.
+> Will it fit? Will it look good? Only one way to find out.
+>
+
+---
+
+### sim2: Trying On
+
+**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
+
+**📍 Location:** Clothing store fitting room area
+
+**승 — Trying it on [Set 3]**
+AI: How does it fit?
+User: It's a little small. Do you have a bigger size? / It fits great!
+AI: Let me grab you the next size up!
+User: Thank you so much!
+
+**Outro:**
+> One size up on the way! 📦 Sizing can be tricky.
+> Now comes the real question: how much does it cost?
+>
+
+**전 — Deciding [Set 4]**
+User: How much is this?
+AI: That one is $45!
+User: Could you do a little better on the price? / I'll take it!
+AI: I can do $38 for you!
+
+**Outro:**
+> Discount secured! 💰 You're a natural at this.
+> Time to head to the register and seal the deal.
+>
+
+---
+
+### sim3: Buying
+
+**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
+
+**📍 Location:** Clothing store register
+
+**전 — Paying [Set 5]**
+User: Okay, I'll take it!
+AI: Cash or card?
+User: Card, please.
+AI: Here's your receipt!
+
+**Outro:**
+> Purchase complete! 🛍️ New outfit, new confidence.
+> The staff loved you — they're already hoping you'll come back.
+>
+
+**결 — Wrapping up [Set 6]**
+AI: Can I help you with anything else?
+User: No, I'm good! Thank you!
+AI: Come back and see us!
+User: I will!
+
+**Outro:**
+> Shopping mission accomplished! 🎉 SoHo: 1, Budget: 0.
+> Next stop: finding the most famous food in the neighborhood.
+>
+
+---

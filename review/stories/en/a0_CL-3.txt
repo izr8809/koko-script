@@ -1,0 +1,110 @@
+# CL-3: What's the Dining Hall Like?
+
+- Category: Campus Life
+- Subcategory: Campus Daily Life
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Dining Hall Talk
+
+**Goal:** To navigate the dining hall, chat with a new person, and talk about the meal plan.
+
+**📍 Location:** Dining hall (campus)
+
+**intro_text:**
+Lunchtime. The dining hall is packed.
+Find a table and make a friend!
+
+**Opening — Dining Hall [Set 1]**
+AI: Hey! Do you mind if I sit here?
+User: Not at all, go ahead! / Sure, sit down!
+AI: Thanks! Is the food here always this good?
+User: It's pretty solid! / It's hit or miss, honestly!
+
+**Outro:**
+> New lunch buddy! 🍽️
+> Now, talk about the meal plan!
+>
+
+**Meal Plan [Set 2]**
+AI: Are you on the meal plan?
+User: Yeah! 19 meals a week! / No, I cook in my room sometimes!
+AI: Me too! It's way more convenient than cooking every day.
+User: For sure! Saves so much time!
+
+**Outro:**
+> Meal plan discussed! 🥗
+> Now, talk about the best spots on campus!
+>
+
+---
+
+### sim2: Library Life
+
+**Goal:** To find a study spot in the library and make a study plan.
+
+**📍 Location:** Campus library
+
+**intro_text:**
+Midterms are coming up fast.
+Time to hit the library and get serious!
+
+**Study Spot [Set 3]**
+User: Excuse me, is anyone sitting here?
+AI: No, it's free! Go ahead.
+User: Thanks! Are you studying for the midterm? / Thanks so much!
+AI: Yeah, I've been here for two hours already. It's a lot!
+
+**Outro:**
+> Study spot secured! 📚
+> Now, talk about the exam!
+>
+
+**Exam Talk [Set 4]**
+AI: Are you feeling ready for the test?
+User: Not really! I need to review more. / Getting there, I think!
+AI: Same! Do you wanna study together sometime?
+User: That sounds great! / Sure, let's do it!
+
+**Outro:**
+> Study partner found! 💪
+> Almost done — one more part of campus life!
+>
+
+---
+
+### sim3: Campus Clubs
+
+**Goal:** To ask about campus clubs and sign up at the student union.
+
+**📍 Location:** Student union (club fair)
+
+**intro_text:**
+It's club fair day at the student union.
+So many options — which one looks good?
+
+**Club Fair [Set 5]**
+User: Hey, what club is this?
+AI: It's the photography club! We meet every Friday evening.
+User: That sounds awesome! How do I sign up? / I love photography!
+AI: Just put your name here! We'd love to have you!
+
+**Outro:**
+> Club found! 🎉
+> Almost there — make plans with your new club friend!
+>
+
+**Signing Up [Set 6]**
+User: When's the first meeting?
+AI: This Friday at 6 PM in the student union! Come hungry — we always bring snacks.
+User: I'll be there for sure! / Sounds great!
+AI: Awesome! See you Friday!
+
+**Outro:**
+> Campus club: Joined! 🌟
+> Next up: Time to handle some campus admin!
+>
+
+---

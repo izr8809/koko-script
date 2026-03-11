@@ -1,0 +1,97 @@
+# KP-5: 这句歌词是什么意思？
+
+
+---
+
+### sim1: 问歌词
+
+**Goal:** To ask your friend about lyrics you don't understand and learn some key phrases.
+
+**📍 장소:** 朋友家（一起听音乐）
+
+**intro_text:**
+Jay Chou's new song is on repeat. But what does it actually mean?
+
+**기 — 歌词 [세트 1]**
+User: 这首歌在唱什么？
+AI: （朋友）哪一句？
+User: "等你回来"这一句！
+AI: 就是"waiting for you to come back"的意思！
+
+**Outro:**
+> "等你回来" — now you'll never forget it! 💭 What else don't you know?
+> The vocabulary lesson is just getting started.
+>
+
+**승 — 多学一点 [세트 2]**
+User: "想你"我知道！那"思念"呢？
+AI: 那是"miss you"！比"想你"更文艺！
+User: 哦，不一样！/ 真的？
+AI: 对！中文歌词很有意思吧？
+
+**Outro:**
+> Miss vs. miss — the eternal C-pop distinction! 🎵 Now you know the difference.
+> Time to put that knowledge to use and actually sing along.
+>
+
+---
+
+### sim2: 跟着唱
+
+**Goal:** To try singing along to a Chinese song and get encouragement from your friend.
+
+**📍 장소:** 朋友家（同一地点）
+
+**승 — 跟着唱 [세트 3]**
+AI: 要不要一起唱这首歌？
+User: 好啊！/ 不知道歌词也没关系吗？
+AI: 没关系！跟着唱就行！
+User: 好！
+
+**Outro:**
+> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
+> Your friend is about to give you the best compliment.
+>
+
+**전 — 唱歌 [세트 4]**
+AI: 唱得不错啊？
+User: 真的？/ 发音没问题吗？
+AI: 没问题！有感觉！
+User: 谢谢！
+
+**Outro:**
+> "有感觉！" — you've got the feel! 🌟 That's the highest compliment.
+> Now let's talk about the new song everyone's obsessing over.
+>
+
+---
+
+### sim3: 新歌
+
+**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
+
+**📍 장소:** 朋友家（同一地点）
+
+**전 — 新歌 [세트 5]**
+User: 最近有新歌吗？听了吗？
+AI: 听了！真的很好听！你呢？
+User: 我也听了！歌词很难过。
+AI: 对！"等一等"那句真的很难过。
+
+**Outro:**
+> "等一等" — wait a little longer. 😢 Why is C-pop always so emotional?
+> End the session the only way possible: listening together.
+>
+
+**결 — 一起听 [세트 6]**
+User: 一起听，你给我讲歌词！
+AI: 好！听着！
+User: 这首歌真的很好。
+AI: 对！
+
+**Outro:**
+> Music + friendship + Chinese lyrics = perfect afternoon! 🎶 You're basically fluent now.
+> Next up: a fan story that will make you want to go to a fan meeting immediately.
+>
+
+---

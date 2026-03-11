@@ -1,0 +1,97 @@
+# TR-7: これ試着してもいいですか？
+
+
+---
+
+### sim1: Looking Around
+
+**Goal:** To browse a clothing store, find something you like, and ask to try it on.
+
+**📍 장소:** 洋服屋
+
+**intro_text:**
+Harajuku shopping street. So many cute clothes. Where do you even start?
+
+**기 — 見る [세트 1]**
+AI: いらっしゃいませ！何かお探しですか？
+User: ちょっと見ているだけです。 / Tシャツを見たいんですが。
+AI: こちらに新しく入ったものがあります！ご覧になりますか？
+User: はい、見ます！
+
+**Outro:**
+> New arrivals section — dangerous territory! 👀 Everything looks good.
+> You spotted something. Time to try it on.
+>
+
+**승 — 選ぶ [세트 2]**
+User: これかわいい！試着してもいいですか？
+AI: はい、あちらに試着室がございます！
+User: ありがとうございます！
+AI: サイズはよろしいですか？
+
+**Outro:**
+> Fitting room secured! 🪞 The moment of truth is coming.
+> Will it fit? Will it look good? Only one way to find out.
+>
+
+---
+
+### sim2: Trying On
+
+**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
+
+**📍 장소:** 洋服屋の試着室の前
+
+**승 — 試着 [세트 3]**
+AI: いかがですか？サイズは合いますか？
+User: 少し小さいです。大きいサイズはありますか？ / ちょうどいいです！
+AI: 一つ大きいサイズをお持ちします！
+User: ありがとうございます！
+
+**Outro:**
+> One size up on the way! 📦 Japanese sizing can be tricky.
+> Now comes the real question: how much does it cost?
+>
+
+**전 — 悩む [세트 4]**
+User: これいくらですか？
+AI: 3000円です！
+User: 少し安くなりますか？ / はい、買います！
+AI: 2500円でいかがでしょうか！
+
+**Outro:**
+> Discount secured! 💰 Bargaining in Japanese — you're a natural.
+> Time to head to the register and seal the deal.
+>
+
+---
+
+### sim3: Buying
+
+**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
+
+**📍 장소:** 洋服屋のレジ
+
+**전 — 支払い [세트 5]**
+User: では、これを買います！
+AI: カードでよいですか？
+User: はい、カードで。
+AI: こちらがレシートです！
+
+**Outro:**
+> Purchase complete! 🛍️ New outfit, new confidence.
+> The staff loved you — they're already hoping you'll come back.
+>
+
+**결 — まとめ [세트 6]**
+AI: 他にご覧になりますか？
+User: 大丈夫です、ありがとうございます！
+AI: またお越しください！
+User: はい！
+
+**Outro:**
+> Shopping mission accomplished! 🎉 Harajuku: 1, Budget: 0.
+> Next stop: finding the most famous food in the neighborhood.
+>
+
+---

@@ -1,0 +1,97 @@
+# TR-5: I'd like to check in
+
+
+---
+
+### sim1: Check In
+
+**Goal:** To check into your hotel, confirm your booking details, and get your room key.
+
+**📍 Location:** Hotel front desk (NYC)
+
+**intro_text:**
+Finally at the hotel. Time to check in.
+
+**기 — Arrival [Set 1]**
+User: Hi, I'd like to check in, please.
+AI: Welcome! Do you have a reservation?
+User: Yes, under the name ___.
+AI: Got it! Could I see your ID, please?
+
+**Outro:**
+> ID checked! 🛂 Let's see if they got your booking right.
+> One more step before you get that room key.
+>
+
+**승 — Room details [Set 2]**
+AI: Is that two nights?
+User: Yes, that's right. / Actually, it's three nights.
+AI: Your room is on the fifth floor. Here's your key card!
+User: Thank you so much!
+
+**Outro:**
+> Room key secured! 🔑 Now, onto the most important question: the Wi-Fi.
+> A hotel room without Wi-Fi is just a very expensive nap.
+>
+
+---
+
+### sim2: Asking Questions
+
+**Goal:** To ask the front desk about Wi-Fi, breakfast hours, and request extra towels for your room.
+
+**📍 Location:** Hotel front desk (same)
+
+**승 — Questions [Set 3]**
+User: What's the Wi-Fi password?
+AI: It's right here on this card!
+User: Thank you! What time is breakfast?
+AI: Breakfast is from 7 to 9am in the restaurant on the first floor!
+
+**Outro:**
+> Breakfast schedule locked in! 🍳 But wait, do you need anything extra for the room?
+> Never leave the front desk without asking for towels.
+>
+
+**전 — Extra request [Set 4]**
+User: Could I get some extra towels?
+AI: Of course! I'll send them right up!
+User: Thank you so much!
+AI: Is there anything else you need?
+
+**Outro:**
+> Extra towels on the way! 🛁 Time to hunt for some late-night snacks.
+> A corner store run is basically a travel ritual.
+>
+
+---
+
+### sim3: Getting Settled
+
+**Goal:** To find out where the nearest convenience store is and wrap up your check-in smoothly.
+
+**📍 Location:** Hotel lobby
+
+**전 — Settling in [Set 5]**
+User: Is there a convenience store nearby?
+AI: Yes! Just turn right when you exit — it's right there!
+User: Perfect, thank you!
+AI: Take your time and get some rest!
+
+**Outro:**
+> Corner store located! 🏪 You're officially ready to settle in.
+> Snacks, rest, and a good night's sleep — the perfect combo.
+>
+
+**결 — Wrapping up [Set 6]**
+AI: If you need anything, just give us a call!
+User: Will do, thank you!
+AI: Enjoy your stay!
+User: Thank you!
+
+**Outro:**
+> Check-in complete! Rest up. 🛏️ Next up: Surviving the NYC subway maze.
+> Tomorrow's adventure starts with a MetroCard.
+>
+
+---

@@ -1,0 +1,110 @@
+# TR-3: Excuse Me, Where Is...?
+
+- Category: Travel & Places
+- Subcategory: Asking Directions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Finding the Subway
+
+**Goal:** To ask for directions to the subway and understand basic directional responses.
+
+**📍 Location:** Street (Times Square, NYC)
+
+**intro_text:**
+You're lost in Times Square.
+Time to ask a local for help!
+
+**Opening — Directions [Set 1]**
+User: Excuse me! Where is the subway?
+AI: The subway? Go straight down this street.
+User: Straight down?
+AI: Yes, then turn left at the corner.
+
+**Outro:**
+> Directions received! 🗺️
+> But wait... which line do you need?
+>
+
+**Which Line? [Set 2]**
+User: Thank you! Which line goes to Brooklyn?
+AI: Take the A or C train.
+User: The A or C train. Got it, thank you!
+AI: No problem! Have a good one!
+
+**Outro:**
+> Line confirmed! 🚇
+> Now, can you actually get there on time?
+>
+
+---
+
+### sim2: At the Ticket Machine
+
+**Goal:** To buy a MetroCard and ask about the fare.
+
+**📍 Location:** Subway station (Times Square)
+
+**intro_text:**
+You found the station. Now you need a MetroCard.
+Let's figure this out!
+
+**Ticket [Set 3]**
+User: Excuse me! How much is the subway?
+AI: It's $2.90 per ride.
+User: Thank you!
+AI: No problem!
+
+**Outro:**
+> Fare found! 🎫
+> Now, figure out which platform to go to.
+>
+
+**Platform [Set 4]**
+User: Excuse me! Which platform for the A train?
+AI: It's on the lower level.
+User: Lower level. Got it, thank you!
+AI: Sure thing!
+
+**Outro:**
+> Platform found! 🚃
+> Almost there — just one more thing to check.
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm your stop and ask a fellow passenger for help.
+
+**📍 Location:** On the subway
+
+**intro_text:**
+You're on the train. Almost there.
+Just make sure you get off at the right stop!
+
+**On the Train [Set 5]**
+User: Excuse me! Is the next stop Brooklyn?
+AI: Yes, next stop!
+User: Thank you!
+AI: Sure!
+
+**Outro:**
+> Almost at your stop! 🚉
+> Just one more step — get off at the right place.
+>
+
+**Arrived [Set 6]**
+User: Excuse me! Is this my stop?
+AI: Yes, this is it!
+User: Thank you so much!
+AI: Have a good one!
+
+**Outro:**
+> Arrived safely! 🎉
+> Next up: Checking into your hotel.
+>
+
+---

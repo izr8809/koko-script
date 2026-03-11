@@ -1,0 +1,102 @@
+# ST-1: 大学の 初日
+
+- 大分類: Study Abroad
+- 中分類: First Day at University
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Meeting the Professor
+
+**Goal:** To introduce yourself to your professor and ask basic questions about the class.
+
+**📍 場所:** 教室
+
+**intro_text:**
+First day of class. Your professor is waiting.
+Time to make a great first impression!
+
+**起 — さいしょの じゅぎょう [セット 1]**
+AI: はじめまして。やまだ と もうします。おなまえは？
+User: はじめまして。___ と もうします。よろしく おねがいします。
+AI: ___さん、どちらから いらっしゃいましたか？
+User: かんこくから まいりました。 / アメリカから まいりました。
+
+**Outro:**
+> First impression: Perfect! 🎓
+> Now... what about the class itself?
+>
+
+**承 — じゅぎょうについて [セット 2]**
+AI: この じゅぎょうは にほんごで すすめます。わかりますか？
+User: はい、だいじょうぶです。 / すこし わかります。
+AI: わからない ことが あったら、きいて ください。
+User: ありがとう ございます。よろしく おねがいします。
+
+**Outro:**
+> Professor impression: Warm! 🌟
+> Next up: Time for your first real challenge — asking questions!
+>
+
+---
+
+### sim2: Questions in Class
+
+**Goal:** To ask your professor about homework and find a study partner.
+
+**📍 場所:** 教室 (同じ)
+
+**承 — しゅくだい [セット 3]**
+User: すみません、しゅくだいは いつまで ですか？
+AI: らいしゅうの もくようびまで です。
+User: わかりました。ありがとう ございます。
+AI: なにか ほかに しつもんは ありますか？
+
+**Outro:**
+> Homework info: Got it! 📝
+> But wait... you'll need a study partner!
+>
+
+**転 — べんきょう パートナー [セット 4]**
+AI: いっしょに べんきょうする ひとを さがして ください。
+User: あの、いっしょに べんきょう しませんか？ / はい、わかりました。
+AI: はい！もちろんです！よろしく！
+User: よろしく おねがいします！
+
+**Outro:**
+> Study partner: Found! 🤝
+> Now, let's explore this campus together!
+>
+
+---
+
+### sim3: Exploring Campus
+
+**Goal:** To ask for directions around campus and find the school cafeteria.
+
+**📍 場所:** 大学 キャンパス
+
+**転 — みちを きく [セット 5]**
+User: すみません、がくしょくは どこ ですか？
+AI: あの たてものの なかです！
+User: ありがとう ございます！いっしょに いきますか？
+AI: もちろん！いっしょに いきましょう！
+
+**Outro:**
+> Direction: Found! 🗺️
+> Almost there — the cafeteria awaits!
+>
+
+**結 — がくしょく [セット 6]**
+AI: ここが がくしょく ですよ！
+User: わあ、ひろいですね！ / おおきいですね！
+AI: おいしいですよ！ぜひ たべて みて ください！
+User: ありがとう ございます！たのしみです！
+
+**Outro:**
+> Day one: Conquered! 🎉
+> Next up: Time to meet your roommate!
+>
+
+---

@@ -1,0 +1,100 @@
+# CR-4: 会議の準備できましたか？
+
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
+
+**📍 장소:** オフィス (自分の席)
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — 準備 [세트 1]**
+AI: 今日の会議の準備はできましたか？
+User: はい、準備できました。 / ほぼできました。
+AI: 資料はプリントしましたか？
+User: はい、しました。 / 今します。
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — 会議室 [세트 2]**
+AI: 会議室は予約しましたか？
+User: はい、3時に予約しました。
+AI: よかったです！その時間にお会いしましょう！
+User: はい、よろしくお願いします。
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 장소:** 会議室
+
+**intro_text:**
+Meeting in progress. Time to share my thoughts.
+
+**승 — 会議中 [세트 3]**
+AI: この件についてご意見はありますか？
+User: はい、これがいいと思います。 / 私も同じ考えです。
+AI: よいご意見ですね！
+User: ありがとうございます。
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you'll have nailed this meeting.
+>
+
+**전 — 質問 [세트 4]**
+User: 一つ質問があります。
+AI: はい、どうぞ！
+User: この部分はいつまでですか？
+AI: 来週の金曜日までにお願いします！
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate Japan!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: After the Meeting
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 장소:** 会議室 → オフィス (戻る)
+
+**전 — 会議後 [세트 5]**
+AI: 本日はお疲れ様でした！
+User: お疲れ様でした！
+User: 議事録は私が送ります。
+AI: ありがとうございます！
+
+**Outro:**
+> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you're done.
+>
+
+**결 — まとめ [세트 6]**
+AI: では次回の会議でお会いしましょう！
+User: はい、よろしくお願いします。
+AI: お疲れ様です！
+User: ありがとうございます！
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
+> Corporate Japan: 0, You: 1.
+>
+
+---

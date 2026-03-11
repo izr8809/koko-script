@@ -1,0 +1,97 @@
+# KD-6: You've got it all wrong
+
+
+---
+
+### sim1: Misunderstanding
+
+**Goal:** To face a jealous accusation, stay calm, and explain the situation clearly.
+
+**📍 Location:** Park bench
+
+**intro_text:**
+A park bench. A tense silence. Someone saw something they didn't understand.
+
+**기 — The accusation [Set 1]**
+AI: Why were you with someone else yesterday?
+User: What? What are you talking about? / You've got it all wrong!
+AI: I saw you. At the coffee shop.
+User: That's just a friend! / Oh, that?
+
+**Outro:**
+> Caught! 😬 But it's not what it looks like — time to explain.
+> The truth is simple, but jealousy makes everything complicated.
+>
+
+**승 — Explaining [Set 2]**
+AI: Just a friend, really?
+User: Yes, really. We're in the same class. / Don't be suspicious.
+AI: I'm sorry. I think I got a little jealous.
+User: It's okay. / I get it.
+
+**Outro:**
+> Jealousy admitted! 💔 That took courage. Now let's actually talk about it.
+> The real conversation is just beginning.
+>
+
+---
+
+### sim2: Talking It Out
+
+**Goal:** To address the misunderstanding directly and agree to communicate better next time.
+
+**📍 Location:** Park bench (same)
+
+**승 — Talking it out [Set 3]**
+User: Why didn't you just ask me?
+AI: I didn't know how to bring it up.
+User: Next time, just ask. Don't assume.
+AI: You're right. I'm sorry.
+
+**Outro:**
+> Communication rules established! 📋 This is how healthy relationships work.
+> Now it's time to actually forgive and move on.
+>
+
+**전 — Making up [Set 4]**
+AI: I'm really sorry.
+User: It's okay. Just trust me.
+AI: I do. I won't do that again.
+User: Good.
+
+**Outro:**
+> Trust restored! 🤝 That's what matters most.
+> Now let's get out of this park and do something fun.
+>
+
+---
+
+### sim3: Making Up
+
+**Goal:** To fully make up, agree to grab food together, and end on a sweet note.
+
+**📍 Location:** Park → street (walking)
+
+**전 — All good [Set 5]**
+AI: Are we good?
+User: We're good. / Almost.
+AI: Let's go get food. My treat.
+User: Okay!
+
+**Outro:**
+> Food fixes everything! 🍽️ The classic makeup move.
+> One last sweet moment before the credits roll.
+>
+
+**결 — Back to normal [Set 6]**
+AI: Next time I'll just ask!
+User: Good!
+AI: I like you.
+User: I like you too.
+
+**Outro:**
+> "I like you too." Two words. Maximum impact. 💕 Rom-com ending unlocked.
+> This couple just got stronger — misunderstanding and all.
+>
+
+---

@@ -1,0 +1,97 @@
+# PI-6: I'm studying English because of you
+
+
+---
+
+### sim1: Getting Personal
+
+**Goal:** To open up about why you're learning English and feel supported by your friend's encouragement.
+
+**📍 Location:** Coffee shop (SoHo)
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — Deep talk [Set 1]**
+AI: So why are you learning English?
+User: I want to make American friends! / I want to understand movies without subtitles!
+AI: Oh really? You're already doing great!
+User: I still have a long way to go. / Really? Thanks so much!
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life here, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — Life here [Set 2]**
+AI: Is anything hard about living here?
+User: I get lonely sometimes. / When I can't express myself.
+AI: If it ever gets tough, just talk to me!
+User: Thank you. / Yeah, I will.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Encouragement
+
+**Goal:** To reflect on how far you've come with English and feel genuinely motivated to keep going.
+
+**📍 Location:** Coffee shop (same)
+
+**승 — Progress [Set 3]**
+AI: What was it like when you first started learning English?
+User: It was so hard! / I didn't know anything.
+AI: But look at you now — you're killing it!
+User: You think so? Thanks! / I still have a lot to learn.
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — The moment [Set 4]**
+User: Honestly, you're the reason I want to keep going.
+AI: Really? That means so much to me!
+User: I mean it!
+AI: You make me want to learn more too!
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: Real Friends
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 Location:** Coffee shop (same)
+
+**전 — How long [Set 5]**
+AI: How long have we known each other now?
+User: Like a month? / Already two months!
+AI: Time flies when you're having fun!
+User: It really does!
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — Making plans [Set 6]**
+AI: Let's hang out more often!
+User: Obviously!
+AI: Let's do something next week!
+User: Yes! Text me!
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Life here just got a whole lot better.
+>
+
+---

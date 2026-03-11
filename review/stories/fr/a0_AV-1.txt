@@ -1,0 +1,113 @@
+# AV-1 : Au Marché — Pain et Fromage
+
+- Catégorie : Art de Vivre
+- Sous-catégorie : Marché / Boulangerie
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Vous explorez un marché parisien.
+Pain frais, fromages affinés... c'est l'art de vivre !
+
+---
+
+### sim1 : À la Boulangerie
+
+**Goal:** To buy bread and pastries at a French bakery using polite vous.
+
+**📍 Lieu :** Boulangerie (Paris, Montmartre)
+
+**intro_text:**
+Vous êtes devant une boulangerie.
+L'odeur du pain frais vous attire irrésistiblement !
+
+**Pain — Une baguette, s'il vous plaît ! [Série 1]**
+AI: Bonjour ! Vous désirez ?
+User: Bonjour ! Une baguette tradition, s'il vous plaît.
+AI: Tradition ou ordinaire ?
+User: Tradition, s'il vous plaît. Bien cuite !
+
+**Outro:**
+> Baguette en main ! 🥖
+> La vraie tradition française dans chaque bouchée.
+>
+
+**Viennoiserie — Et avec ça ? [Série 2]**
+User: Vous avez des croissants frais ce matin ?
+AI: Oui, sortis du four à l'instant ! Combien ?
+User: Deux, s'il vous plaît.
+AI: Voilà ! Ça fait 3 euros 20. Bonne journée !
+
+**Outro:**
+> Petit-déjeuner parfait ! 🥐
+> Demain, même heure, même boulangerie. C'est promis !
+>
+
+---
+
+### sim2 : Chez le Fromager
+
+**Goal:** To choose and buy artisan cheese at a market stall using polite vous.
+
+**📍 Lieu :** Marché (Paris, Bastille)
+
+**intro_text:**
+Le marché sent bon le fromage.
+Comment choisir parmi 300 variétés françaises ?
+
+**Fromage — C'est quoi ce fromage ? [Série 3]**
+User: Excusez-moi, c'est quoi ce fromage, là ?
+AI: C'est un comté ! Affiné 18 mois. Un pur délice !
+User: Il est fort ? / C'est bon avec du pain ?
+AI: Parfait avec une baguette fraîche du matin !
+
+**Outro:**
+> Fromage identifié ! 🧀
+> Il y a toute une science derrière le fromage français.
+>
+
+**Dégustation — Goûtez, c'est gratuit ! [Série 4]**
+AI: Vous voulez goûter ? Je vous donne un morceau !
+User: Oui, avec plaisir ! / Oh oui, merci beaucoup !
+AI: Et celui-ci, c'est un brie de Meaux. Goûtez !
+User: Délicieux ! Je prends les deux ! / C'est excellent !
+
+**Outro:**
+> Amateur(rice) de fromage confirmé(e) ! 🥛
+> La suite : Retour à la maison avec vos trésors du marché.
+>
+
+---
+
+### sim3 : Retour du Marché
+
+**Goal:** To talk about your market purchases with a French friend using informal tu.
+
+**📍 Lieu :** Appartement (Paris, 11e)
+
+**intro_text:**
+Tu reviens du marché avec plein de bonnes choses.
+Montre à ton ami(e) ce que t'as trouvé !
+
+**Marché — T'as acheté quoi ? [Série 5]**
+User: Regarde ! J'ai trouvé ça au marché ce matin !
+AI: Oh là là ! Du fromage, du pain... t'as super bien fait !
+User: Et du miel local ! / Et du saucisson artisanal aussi !
+AI: C'est parfait pour ce soir. Un vrai festin !
+
+**Outro:**
+> Marché réussi ! 🛍️
+> Ce soir, un vrai festin à la française !
+>
+
+**Cuisine — On fait quoi ce soir ? [Série 6]**
+AI: Avec tout ça, on cuisine quoi ce soir ?
+User: Un plateau de fromages ! / Une tarte aux légumes du marché !
+AI: Génial ! J'apporte le vin. Un bordeaux ou un bourgogne ?
+User: Un bordeaux ! / Surprise-moi !
+
+**Outro:**
+> Soirée parfaite planifiée ! 🍷
+> La gastronomie française commence chez soi.
+>
+
+---

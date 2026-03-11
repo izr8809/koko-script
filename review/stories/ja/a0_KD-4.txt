@@ -1,0 +1,104 @@
+# KD-4: このシーン、やばくない？
+
+- 大分類: Anime & Drama
+- 中分類: Memorable Scenes
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Scene Talk
+
+**Goal:** To talk about a memorable scene from an anime or drama.
+
+**📍 場所:** カフェ
+
+**intro_text:**
+You just finished watching something amazing.
+Time to talk about THAT scene!
+
+**起 — シーン [セット 1]**
+AI: ねえ、あの シーン みた？
+User: どの シーン？ / うん、みた！やばかった！
+AI: あの さいごの シーン！
+User: え、まだ みてない！ / うん！なきそうだった！
+
+**Outro:**
+> No spoilers! 🛑
+> But wait... they need to watch it first!
+>
+
+**承 — はやく みて [セット 2]**
+AI: はやく みて！めっちゃ いいから！
+User: わかった！みる！ / もう みた！
+AI: みたら おしえて！
+User: うん！
+
+**Outro:**
+> Spoiler avoided! 😅
+> Now, talk about your reaction when you first watched it.
+>
+
+---
+
+### sim2: Reactions
+
+**Goal:** To share your emotional reaction to a scene and discuss it.
+
+**📍 場所:** カフェ (同じ)
+
+**承 — はんのう [セット 3]**
+User: みたよ！やばかった！
+AI: でしょ！どう おもった？
+User: めっちゃ なきそうだった！ / びっくりした！
+AI: わかる！わたしも なきそうだった！
+
+**Outro:**
+> Feelings shared! 😭
+> Now, talk about your favorite part.
+>
+
+**転 — いちばん すきな ところ [セット 4]**
+AI: いちばん すきな ところ どこ？
+User: あの セリフ！ / あの シーン！
+AI: え、どの セリフ？
+User: 「ずっと いっしょに いる」！ / 「まけないよ」！
+
+**Outro:**
+> Favorite moment: Locked in! 🔒
+> Now, find out if they want to rewatch it!
+>
+
+---
+
+### sim3: Rewatch
+
+**Goal:** To suggest rewatching a show and make plans.
+
+**📍 場所:** カフェ (同じ)
+
+**転 — もう いちど みよう [セット 5]**
+User: もう いちど みたい！
+AI: わたしも！いっしょに みる？
+User: みたい！いつ？
+AI: こんしゅう どう？
+
+**Outro:**
+> Rewatch planned! 📺
+> Almost there — just confirm the details!
+>
+
+**結 — かくにん [セット 6]**
+User: どようび どう？
+AI: いいね！うちに くる？
+User: いく！なにか もってく？
+AI: おかし もってきて！
+
+**Outro:**
+> Rewatch confirmed! 🍿
+> Next up: Time to talk about J-Pop!
+>
+
+---
+
+# 🎓 STUDY ABROAD (です・ます + 敬語) >> Campus Life in Japan

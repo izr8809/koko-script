@@ -1,0 +1,97 @@
+# KD-7: On sort ensemble ?
+
+
+---
+
+### sim1: Le moment
+
+**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
+
+**📍 장소:** Bords de Seine (le soir)
+
+**intro_text:**
+Seine at sunset. You said you had something to say. This is it.
+
+**기 — La confession [세트 1]**
+AI: T'avais quelque chose à me dire, non ? C'est quoi ?
+User: Je suis un peu nerveux/nerveuse. / Viens plus près.
+AI: Pourquoi t'es nerveux/nerveuse ? Dis-moi !
+User: Je... je t'aime bien.
+
+**Outro:**
+> You said it! 💘 Three words that change everything.
+> Now hold your breath and wait for the answer.
+>
+
+**승 — La réponse [세트 2]**
+AI: Vraiment ? Moi aussi, je t'aime bien.
+User: Vraiment ? / Depuis quand ?
+AI: Depuis le début.
+User: Moi aussi.
+
+**Outro:**
+> Mutual feelings confirmed! 🌅 The Seine just witnessed a cinéma moment.
+> So... does this mean what we think it means?
+>
+
+---
+
+### sim2: Officiellement ensemble
+
+**Goal:** To officially become a couple and start planning your first date together.
+
+**📍 장소:** Bords de Seine (même endroit)
+
+**승 — On est ensemble ? [세트 3]**
+AI: Alors, on sort ensemble ?
+User: Oui. / C'est ça, non ?
+AI: Super.
+User: Moi aussi, j'aime ça.
+
+**Outro:**
+> Official! 💑 You are now a couple. Congratulations.
+> First order of business: plan the perfect first date.
+>
+
+**전 — Le premier rendez-vous [세트 4]**
+AI: Notre premier vrai rendez-vous ! Tu veux aller où ?
+User: J'ai envie de voir la mer ! / On va manger quelque chose de bon !
+AI: Bonne idée ! On y va ce week-end !
+User: J'ai trop hâte !
+
+**Outro:**
+> First date planned! 🗓️ The excitement is real.
+> But first — the sweetest part of any new relationship.
+>
+
+---
+
+### sim3: Les premiers messages
+
+**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
+
+**📍 장소:** Chacun chez soi (WhatsApp)
+
+**전 — Les messages [세트 5]**
+AI: T'es bien rentré(e) ?
+User: Oui, je viens d'arriver !
+AI: Ce soir, c'était vraiment bien.
+User: Moi aussi. / Je pense encore à toi.
+
+**Outro:**
+> Late night texts after a perfect evening! 📱 This feeling is everything.
+> One last message before you both fall asleep smiling.
+>
+
+**결 — Bonne nuit [세트 6]**
+AI: J'ai envie de te revoir demain.
+User: Moi aussi.
+AI: Bonne nuit. Fais de beaux rêves.
+User: Bonne nuit.
+
+**Outro:**
+> "Fais de beaux rêves." 😴 The most romantic goodnight in French.
+> Sweet dreams — you're going to need the energy for what comes next.
+>
+
+---

@@ -1,0 +1,102 @@
+# ST-2: 寮での せいかつ
+
+- 大分類: Study Abroad
+- 中分類: Dormitory Life
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Meeting Your Roommate
+
+**Goal:** To introduce yourself to your new roommate and learn about their background.
+
+**📍 場所:** 寮 (りょう)
+
+**intro_text:**
+You open the door to your dorm room.
+Someone is already there. Roommate time!
+
+**起 — はじめての ルームメイト [セット 1]**
+AI: あ、こんにちは！わたしは はるか です！よろしく！
+User: こんにちは！わたしは ___ です！よろしく おねがいします！
+AI: どこから きたんですか？
+User: かんこくから きました！ / アメリカから きました！
+
+**Outro:**
+> First words: Spoken! 🏠
+> But wait... is this their first time in Japan too?
+>
+
+**承 — もっと しろう [セット 2]**
+AI: にほんには はじめて ですか？
+User: はい、はじめてです！ / いいえ、にかいめです！
+AI: だいがく、たのしみですよね！
+User: はい、たのしみです！よろしく おねがいします！
+
+**Outro:**
+> Roommate bond: Started! 💫
+> Next up: First lunch together at the cafeteria!
+>
+
+---
+
+### sim2: Lunch at the Cafeteria
+
+**Goal:** To order lunch at the school cafeteria and sit together with your roommate.
+
+**📍 場所:** 学食 (がくしょく)
+
+**承 — ちゅうもん [セット 3]**
+User: すみません、おすすめは なんですか？
+AI: さんしょく ていしょくが おすすめです！
+User: では、さんしょく ていしょく ください。 / カレーライス ください。
+AI: はい、500えんです。ありがとう ございます。
+
+**Outro:**
+> Order placed! 🍱
+> Now, find a seat with your roommate!
+>
+
+**転 — せきを さがす [セット 4]**
+AI: あそこに せきが あるよ！いっしょに すわろう！
+User: いいね！いこう！ / ありがとう！あそこに しよう！
+AI: いただきます！
+User: いただきます！おいしそう！
+
+**Outro:**
+> Lunch together! 🍜
+> Almost there — wrap up the evening back at the dorm!
+>
+
+---
+
+### sim3: Evening in the Dorm
+
+**Goal:** To talk about daily routines and make plans with your roommate for the next day.
+
+**📍 場所:** 寮 (夜)
+
+**転 — まいにちの せいかつ [セット 5]**
+User: まいにち なんじに おきますか？
+AI: わたしは はちじに おきます！きみは？
+User: わたしも はちじに おきます！ / わたしは しちじに おきます！
+AI: じゃあ、いっしょに あさごはん たべよう！
+
+**Outro:**
+> Morning plan: Set! ⏰
+> Almost there — plan your day together!
+>
+
+**結 — あしたの よてい [セット 6]**
+AI: あしたの じゅぎょうは なんじから？
+User: くじから です！ / じゅうじから です！
+AI: じゃあ、いっしょに いこう！
+User: やった！よろしく おねがいします！
+
+**Outro:**
+> Dorm life: Unlocked! 🌙
+> Next up: Time to tackle the university paperwork!
+>
+
+---

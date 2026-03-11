@@ -1,0 +1,97 @@
+# TR-6: 请问怎么坐地铁？
+
+
+---
+
+### sim1: 在地铁站
+
+**Goal:** To buy a transit card, charge it, and find the right subway line to your destination.
+
+**📍 장소:** 地铁站售票机前
+
+**intro_text:**
+Beijing subway. 22 lines. Hundreds of stations. You've got this.
+
+**기 — 在站里 [세트 1]**
+User: 请问，交通卡在哪里买？
+AI: 在那边的机器上可以买！
+User: 谢谢！充值也在那里吗？
+AI: 是的，可以的！
+
+**Outro:**
+> Transit card acquired! 💳 Now, which line do you need?
+> Beijing's subway map looks scary — but it's actually pretty logical.
+>
+
+**승 — 找线路 [세트 2]**
+User: 我想去三里屯，坐几号线？
+AI: 坐10号线！在那边！
+User: 需要换乘吗？
+AI: 不用，直达！
+
+**Outro:**
+> Line 10, no transfers! 🚇 That's the best news you've heard all day.
+> Now hop on and try not to miss your stop.
+>
+
+---
+
+### sim2: 在地铁上
+
+**Goal:** To ask a fellow passenger for help and figure out how many stops to your destination.
+
+**📍 장소:** 地铁车厢里
+
+**승 — 在车上 [세트 3]**
+AI: （旁边的人）您好，请问您去哪儿？
+User: 去三里屯！
+AI: 那您再坐三站就到了！
+User: 三站？谢谢您！
+
+**Outro:**
+> Three more stops! 🎯 A kind stranger just saved your day.
+> But wait — what if you need to transfer somewhere else?
+>
+
+**전 — 换乘 [세트 4]**
+User: 请问，在国贸站怎么换乘？
+AI: 下车之后看指示牌，跟着1号线走就行！
+User: 谢谢您！
+AI: 很简单的！别担心！
+
+**Outro:**
+> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
+> Almost at your destination — just a few more stops.
+>
+
+---
+
+### sim3: 到站了
+
+**Goal:** To confirm you've arrived at the right station and find the correct exit.
+
+**📍 장소:** 地铁站（到达站台）
+
+**전 — 到达 [세트 5]**
+User: 这里是三里屯站吗？
+AI: 是的，没错！
+User: 请问从几号出口出去？
+AI: 从C出口出去！
+
+**Outro:**
+> Exit C! 🚪 You made it through the Beijing subway like a pro.
+> One last thank-you and you're free.
+>
+
+**결 — 出站 [세트 6]**
+User: 谢谢您！
+AI: 不客气！
+User: 真的谢谢您！
+AI: 祝您玩得开心！
+
+**Outro:**
+> Beijing subway: conquered! 🏆 You're officially a local now.
+> Next challenge: shopping in Sanlitun without spending your whole budget.
+>
+
+---

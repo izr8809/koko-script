@@ -1,0 +1,100 @@
+# PI-5: ¡Vamos a comer juntos!
+
+
+---
+
+### sim1: Eligiendo un lugar
+
+**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
+
+**📍 장소:** Calle en Colonia Roma
+
+**intro_text:**
+Lunchtime in Mexico City. So many options. What are we eating?
+
+**기 — ¿Qué comemos? [세트 1]**
+User: ¡Tengo hambre! ¿Qué comemos?
+AI: ¡Yo también! ¿Qué se te antoja?
+User: ¡Quiero tacos! / ¿Qué tal unos tacos?
+AI: ¡Sí! Conozco un lugar buenísimo. ¡Vamos!
+
+**Outro:**
+> Tacos it is! 🌮 But wait, how far is this place?
+> Your stomach is already rumbling — let's move!
+>
+
+**승 — ¿Cómo llegamos? [세트 2]**
+AI: Está a cinco minutos caminando. ¿Vamos a pie?
+User: ¡Sí, vamos! / ¿Está lejos?
+AI: ¡No, está cerquita! ¡Ándale!
+User: ¡Órale, vamos!
+
+**Outro:**
+> Five minutes on foot — perfect! 🚶 The smell of tacos is already calling.
+> Almost there... don't let your hunger slow you down.
+>
+
+---
+
+### sim2: En la taquería
+
+**Goal:** To order food together and bond over tacos like a true local.
+
+**📍 장소:** Taquería en Colonia Roma
+
+**intro_text:**
+You made it. This place looks amazing.
+
+**승 — En la taquería [세트 3]**
+AI: ¡Aquí es! ¿Qué te parece?
+User: ¡Qué chido! / ¡Hay mucha gente!
+AI: ¿Qué vas a pedir? ¡Mira el menú!
+User: ¡Tres tacos de pastor! / ¡Unos tacos de canasta!
+
+**Outro:**
+> Order placed! 🌮 Now comes the most important question...
+> Salsa verde or roja? The real power move starts now.
+>
+
+**전 — Comiendo [세트 4]**
+AI: ¿Le pongo salsa?
+User: ¡Sí, verde por favor! / ¡Roja, bien picante!
+AI: ¡Están buenísimos!
+User: ¡Sí, están increíbles! / ¡Qué rico está esto!
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
+> Brace yourself — who's paying?
+>
+
+---
+
+### sim3: Después de comer
+
+**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+
+**📍 장소:** Taquería → calle afuera
+
+**전 — La cuenta [세트 5]**
+User: ¡Yo invito!
+AI: ¡No, no! ¡Pagamos a medias!
+User: ¡No, hoy yo pago!
+AI: ¿En serio? ¡Gracias! ¡La próxima yo!
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — ¿Qué sigue? [세트 6]**
+AI: ¡Estoy lleno/a! ¿Qué hacemos ahora?
+User: ¿Vamos a un café? / ¿Caminamos un rato?
+AI: ¡Buena idea, vamos!
+User: ¡Vamos!
+
+**Outro:**
+> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---

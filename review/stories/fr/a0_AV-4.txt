@@ -1,0 +1,115 @@
+# AV-4 : La Galerie — L'Art à la Française
+
+- Catégorie : Art de Vivre
+- Sous-catégorie : Galerie d'Art / Événements Culturels
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Vous visitez une galerie d'art parisienne.
+L'art français, c'est une autre façon de voir le monde !
+
+---
+
+### sim1 : À la Galerie
+
+**Goal:** To buy tickets and start a gallery visit using polite vous.
+
+**📍 Lieu :** Galerie d'art (Paris, Le Marais)
+
+**intro_text:**
+Vous entrez dans une belle galerie d'art du Marais.
+Des peintures, des sculptures... un autre monde s'ouvre !
+
+**Entrée — Un billet, s'il vous plaît ! [Série 1]**
+User: Bonjour ! C'est combien l'entrée ?
+AI: Bonjour ! C'est 8 euros. Tarif réduit 5 euros avec étudiant.
+User: Un billet plein tarif, s'il vous plaît.
+AI: Voilà ! La visite dure environ une heure. Bonne découverte !
+
+**Outro:**
+> Visite commencée ! 🎨
+> Paris a plus de 200 galeries. Vous avez fait le bon choix !
+>
+
+**Premier tableau — C'est magnifique ! [Série 2]**
+AI: Voici notre pièce maîtresse — un Matisse de 1923.
+User: C'est magnifique ! / Oh là là, c'est absolument incroyable !
+AI: Henri Matisse était fasciné par la lumière et la couleur.
+User: Je comprends pourquoi ! / C'est tellement vivant et lumineux !
+
+**Outro:**
+> Premier chef-d'œuvre admiré ! 🖼️
+> L'art français, c'est une conversation entre le passé et le présent.
+>
+
+---
+
+### sim2 : La Visite
+
+**Goal:** To express artistic opinions and discuss art with a guide using vous.
+
+**📍 Lieu :** Galerie (même endroit)
+
+**intro_text:**
+Le guide explique chaque œuvre avec passion.
+Posez vos questions, exprimez vos goûts !
+
+**Style — Vous aimez quel style ? [Série 3]**
+User: Vous aimez quel style d'art vous-même ?
+AI: J'adore l'impressionnisme ! Monet, Renoir... c'est magique !
+User: Moi aussi ! / Moi, je préfère l'art contemporain.
+AI: Les deux sont magnifiques ! Chaque époque a son propre génie.
+
+**Outro:**
+> Goût artistique révélé ! 🎭
+> L'impressionnisme est né en France. Une fierté nationale !
+>
+
+**Guide — Expliquez-moi ! [Série 4]**
+AI: Vous avez des questions sur cette œuvre ?
+User: Oui ! Qu'est-ce que ça représente ? / C'est quelle technique ?
+AI: C'est une scène de vie parisienne du XIXe siècle. Regardez les détails !
+User: Fascinant ! / C'est incroyable comme c'est précis et détaillé !
+
+**Outro:**
+> Culture enrichie ! 📚
+> La suite : Partagez cette belle expérience avec un(e) ami(e).
+>
+
+---
+
+### sim3 : Après la Galerie
+
+**Goal:** To share your gallery experience with a French friend at a bistrot using tu.
+
+**📍 Lieu :** Bistrot (Paris, juste à côté de la galerie)
+
+**intro_text:**
+La visite est finie. Tu retrouves ton ami(e) au bistrot.
+Parle de ce que t'as vu. Partage l'émotion !
+
+**Galerie — T'as adoré ? [Série 5]**
+User: J'ai adoré ! Les peintures étaient absolument incroyables !
+AI: T'as un tableau préféré ?
+User: Oui ! Le Matisse ! / Oui, une toile impressionniste magnifique !
+AI: Oh, j'adore Matisse ! T'es devenu(e) fan d'art ?
+
+**Outro:**
+> Amateur(rice) d'art confirmé(e) ! 🎨
+> Paris est une ville-musée. Il y a toujours plus à découvrir.
+>
+
+**Prochain événement — On y retourne ? [Série 6]**
+AI: T'as envie d'aller au musée d'Orsay la prochaine fois ?
+User: Oh oui ! J'adore les impressionnistes ! / Oui, j'adorerais !
+AI: Super ! Et il y a aussi une expo Rodin ce mois-ci au musée Rodin.
+User: C'est parfait ! On y va ce week-end ? / Oui, réservons maintenant !
+
+**Outro:**
+> Agenda culturel bien rempli ! 🗓️
+> L'art de vivre à la française, c'est aussi l'art de s'émerveiller.
+>
+
+---
+
+# 💼 TRAVAIL (vous formel) >> Le Monde Professionnel Français

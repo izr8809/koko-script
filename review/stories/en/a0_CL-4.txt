@@ -1,0 +1,112 @@
+# CL-4: Can I Come to Office Hours?
+
+- Category: Campus Life
+- Subcategory: Campus Admin
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Office Hours
+
+**Goal:** To visit a professor's office hours and ask about your grade or an assignment.
+
+**📍 Location:** Professor's office
+
+**intro_text:**
+You're standing outside the professor's door.
+Deep breath — it's just office hours!
+
+**Knocking [Set 1]**
+AI: Come in! Oh hi, have a seat!
+User: Thank you, Professor. I had a question about the last assignment.
+AI: Of course! Which part are you wondering about?
+User: I wasn't sure if my answer was right!
+
+**Outro:**
+> Office hours: Started! 📋
+> Now, ask your real question!
+>
+
+**The Question [Set 2]**
+AI: Walk me through what you wrote — let's look at it together.
+User: I wrote that the answer is ___. Is that right? / Can I revise my essay?
+AI: Good start! Revisions are welcome by Friday — just email it to me.
+User: Thank you so much, Professor! That really helps.
+
+**Outro:**
+> Feedback received! 😊
+> Now, talk about changing your schedule!
+>
+
+---
+
+### sim2: Changing Your Schedule
+
+**Goal:** To talk to a classmate about the add/drop period and changing your class schedule.
+
+**📍 Location:** Campus café
+
+**intro_text:**
+The add/drop deadline is coming up fast.
+Are you keeping all your classes?
+
+**Drop or Stay [Set 3]**
+User: Hey, are you keeping all your classes this semester?
+AI: Honestly, I'm thinking about dropping one. It's way too much work!
+User: I get it! Which one? / I'm keeping all of mine!
+AI: Econ 101. What about you?
+
+**Outro:**
+> Class decision: In progress! 🤔
+> Now, talk about what to take instead!
+>
+
+**Switching [Set 4]**
+AI: What are you thinking about taking instead?
+User: Maybe intro to psychology! / I'm looking at art history!
+AI: Oh, I heard that class is great! And pretty easy too.
+User: That's exactly why I want it! Ha!
+
+**Outro:**
+> New class in sight! 📋
+> Almost done — now talk to your RA!
+>
+
+---
+
+### sim3: Talking to Your RA
+
+**Goal:** To talk to your RA (resident advisor) about a dorm issue and learn the rules.
+
+**📍 Location:** Dorm hallway
+
+**intro_text:**
+There's an issue in the dorm. You need help.
+Time to find your RA!
+
+**Talking to the RA [Set 5]**
+User: Hey, are you the RA for this floor?
+AI: Yeah, that's me! What's going on?
+User: My roommate plays loud music late at night. / There's a noise problem on my floor.
+AI: I hear you! I'll take care of it. Thanks for letting me know.
+
+**Outro:**
+> Problem reported! 🙌
+> Almost there — ask about dorm rules!
+>
+
+**Dorm Rules [Set 6]**
+AI: Do you have any questions about the dorm policies?
+User: Yeah — what are quiet hours? / When does the front door lock at night?
+AI: Quiet hours are 10 PM to 8 AM. Front door locks at midnight.
+User: Got it! Thanks so much!
+
+**Outro:**
+> Dorm life: Figured out! 🏠
+> You're officially a campus pro. Next up: Workplace English!
+>
+
+---
+
+# 💼 WORKPLACE (formal) >> American Professional Life
