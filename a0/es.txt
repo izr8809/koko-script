@@ -891,783 +891,452 @@ User: ¡Muchas gracias! ¡Hasta pronto!
 
 **Outro:**
 > ¡Check-out completo! ✅
-> Lo siguiente: Explorar la cultura pop en español.
+> Lo siguiente: La vida con familia y comunidad en español.
 >
 
 ---
 
-# 🎬 CULTURA POP / SERIES (tú) >> Entretenimiento LATAM
+# 👨‍👩‍👧 FAMILIA Y COMUNIDAD (tú) >> Vida Social en LATAM
 
-# KD-1: ¿Qué estás viendo en Netflix?
+# FAM-1: Mi Familia
 
-- Categoría: Cultura Pop / Series
-- Subcategoría: Netflix / Telenovela
+- Categoría: Familia y Comunidad
+- Subcategoría: Presentación de Familia
 - Nivel: A0 (Principiante Absoluto)
 - 12 turnos (6 sets, 3 sims)
 
 ---
 
-### sim1: La Serie
+### sim1: La Foto de Familia
 
-**Goal:** To talk about what you're watching on Netflix and recommend a show.
+**Goal:** To introduce your family using a photo.
 
-**📍 Lugar:** En línea (WhatsApp)
+**📍 Lugar:** Casa (CDMX)
 
 **intro_text:**
-Son las 10 de la noche y los dos están en casa.
-¡Hora de hablar de series!
+¡Tienes una foto de tu familia!
+¿Cuántos son en tu familia?
 
-**Apertura — ¿Qué ves? [Set 1]**
-AI: ¡Oye! ¿Qué estás viendo en Netflix?
-User: ¡Estoy viendo una telenovela! / ¡Estoy viendo una serie nueva!
-AI: ¿Cuál? ¿Está buena?
-User: ¡Sí, está muy buena! / ¡Está increíble!
+**¡Fotos! [Set 1]**
+AI: ¡Hola! ¿Esa es tu familia?
+User: ¡Sí, es mi familia! / ¡No, es una foto vieja!
+AI: ¡Qué chida! ¿Son muchos?
+User: Sí, somos cinco. / No, somos tres.
 
 **Outro:**
-> ¡Recomendación en camino! 📺
-> Ahora cuéntale de qué trata.
+> ¡Foto compartida! 📸
+> Hay más personas que presentar.
 >
 
-**De Qué Trata [Set 2]**
-AI: ¿De qué trata?
-User: ¡Es de amor! / ¡Es de misterio!
-AI: ¡Suena bien! ¿Cuántos capítulos tiene?
-User: ¡Muchos! / ¡No sé, estoy en el tres!
+**¿Quiénes son? [Set 2]**
+AI: ¿Quién es ella?
+User: Es mi mamá. / Es mi hermana.
+AI: ¡Qué bonita familia!
+User: ¡Gracias!
 
 **Outro:**
-> ¡Enganchado/a! 🎣
-> Ahora convéncelo/a de verla contigo.
+> ¡Familia presentada! 👨‍👩‍👧‍👦
+> Ahora habla de tus hermanos.
 >
 
 ---
 
-### sim2: ¡Vémonos!
+### sim2: Los Hermanos
 
-**Goal:** To make plans to watch a show together.
+**Goal:** To talk about your siblings.
 
-**📍 Lugar:** En línea (WhatsApp, mismo)
+**📍 Lugar:** Casa (CDMX)
 
 **intro_text:**
-La serie suena increíble.
-¡Es hora de hacer planes para verla juntos!
+Cuéntale sobre tus hermanos.
+¡Es fácil!
 
-**Planes [Set 3]**
-User: ¿Quieres verla conmigo?
-AI: ¡Sí! ¿Cuándo?
-User: ¿Esta noche? / ¿El viernes?
-AI: ¡Esta noche está bien! / ¡El viernes perfecto!
+**¿Tienes hermanos? [Set 3]**
+AI: ¿Tienes hermanos?
+User: Sí, tengo un hermano. / No, soy hijo único.
+AI: ¿Cuántos años tiene?
+User: Tiene doce años. / Tiene veinte años.
 
 **Outro:**
-> ¡Noche de series planeada! 🍿
-> Ahora decide qué comer mientras ven la serie.
+> ¡Hermano presentado! 👦
+> ¿Es mayor o menor que tú?
 >
 
-**Botanas [Set 4]**
-AI: ¿Qué compramos para comer?
-User: ¡Palomitas! / ¡Papas y salsa!
-AI: ¡Perfecto! ¿Y para tomar?
-User: ¡Refresco! / ¡Agua de sabor!
+**¿Mayor o menor? [Set 4]**
+AI: ¿Es mayor que tú?
+User: Sí, es mayor. / No, es menor.
+AI: ¡Órale! ¿Y se llevan bien?
+User: Sí, muy bien. / Más o menos.
 
 **Outro:**
-> ¡Botanas listas! 🎉
-> La noche de series está completa.
+> ¡Hermanos descritos! 👫
+> Ahora habla de los abuelos.
 >
 
 ---
 
-### sim3: Después de Ver
+### sim3: Los Abuelos
 
-**Goal:** To react to a show and share your opinion.
+**Goal:** To talk about your grandparents.
 
-**📍 Lugar:** En línea (WhatsApp, mismo)
+**📍 Lugar:** Casa (CDMX)
 
 **intro_text:**
-Ya vieron el primer capítulo.
-¡Hora de dar tu opinión!
+Los abuelos son muy importantes.
+¡Cuéntame sobre los tuyos!
 
-**Opinión [Set 5]**
-AI: ¿Qué te pareció?
-User: ¡Me encantó! / ¡Estuvo muy buena!
-AI: ¿Verdad? ¡El final fue increíble!
-User: ¡Sí! / ¡No lo podía creer!
+**Los abuelos [Set 5]**
+AI: ¿Viven tus abuelos contigo?
+User: Sí, viven aquí. / No, viven en Guadalajara.
+AI: ¡Qué padre! ¿Los ves mucho?
+User: Sí, los veo los domingos. / No mucho.
 
 **Outro:**
-> ¡Opinión compartida! 💬
-> Ahora, ¿qué pasa en el siguiente capítulo?
+> ¡Abuelos presentados! 👴👵
+> ¡Ya casi terminas!
 >
 
-**El Siguiente Capítulo [Set 6]**
-User: ¿Vemos el siguiente capítulo?
-AI: ¡Sí! ¡Solo uno más!
-User: ¡Bueno! / ¡Está bien!
-AI: ¡Vamos!
+**¡Cuánta familia! [Set 6]**
+AI: ¿Te gustan las reuniones de familia?
+User: Sí, me encantan. / Más o menos.
+AI: ¡Órale! Las familias mexicanas son muy unidas.
+User: ¡Sí, es verdad!
 
 **Outro:**
-> ¡Maratón de series activado! 🔥
-> Lo siguiente: Hablar de películas favoritas.
+> ¡Familia completa! 🎉
+> Lo siguiente: El mercado con mamá.
 >
 
 ---
 
-# KD-2: ¿Vamos al Cine?
+# FAM-2: El Mercado con Mamá
 
-- Categoría: Cultura Pop / Series
-- Subcategoría: Películas
+- Categoría: Familia y Comunidad
+- Subcategoría: Mercado / Compras
 - Nivel: A0 (Principiante Absoluto)
 - 12 turnos (6 sets, 3 sims)
 
 ---
 
-### sim1: ¿Qué Película?
+### sim1: La Lista del Mercado
 
-**Goal:** To decide on a movie to watch together.
+**Goal:** To make a shopping list with mom.
 
-**📍 Lugar:** En línea (WhatsApp)
+**📍 Lugar:** Casa (CDMX)
 
 **intro_text:**
-Quieren ir al cine este fin de semana.
-¡Pero primero hay que decidir qué ver!
+¡Hoy vas al mercado con mamá!
+¿Qué necesitan comprar?
 
-**Apertura — La Película [Set 1]**
-AI: ¡Oye! ¿Vamos al cine este fin de semana?
-User: ¡Sí! ¿Qué quieres ver?
-AI: ¿Qué tal una de acción? / ¿Qué tal una comedia?
-User: ¡Me gustan las de acción! / ¡Prefiero comedia!
+**¿Qué necesitamos? [Set 1]**
+AI: ¡Mijo, necesitamos ir al mercado! ¿Qué compramos?
+User: Necesitamos tomates. / Necesitamos leche.
+AI: ¡Sí! ¿Algo más?
+User: Y huevos también. / Y frijoles también.
 
 **Outro:**
-> ¡Género elegido! 🎬
-> Ahora busca qué películas hay.
+> ¡Primeros artículos en la lista! 🛒
+> ¡La lista crece!
 >
 
-**Horario [Set 2]**
-AI: ¿A qué hora quieres ir?
-User: ¿A las 6? / ¿Por la tarde?
-AI: ¡A las 6 está bien! ¿En qué cine?
-User: ¡En el Cinemex de la Roma! / ¡En el Cinépolis!
+**La lista [Set 2]**
+AI: ¿Necesitamos fruta?
+User: Sí, manzanas y plátanos. / Solo manzanas.
+AI: ¡Perfecto! ¿Y verduras?
+User: Sí, chiles y cilantro. / Sí, solo chiles.
 
 **Outro:**
-> ¡Cine y hora elegidos! 🕕
-> Ahora confirma los boletos.
+> ¡Lista completa! 📝
+> Ahora, ¡al mercado!
 >
 
 ---
 
-### sim2: Los Boletos
+### sim2: En el Mercado
 
-**Goal:** To buy movie tickets and choose seats.
+**Goal:** To shop at the market and ask about prices.
 
-**📍 Lugar:** Taquilla del cine (Cinemex, CDMX)
+**📍 Lugar:** Mercado (CDMX)
 
 **intro_text:**
-Llegaron al cine. ¡Ahora a comprar los boletos!
+¡Llegaron al mercado!
+Hay muchos colores y olores.
 
-**Boletos [Set 3]**
-AI: ¡Buenas tardes! ¿Cuántos boletos?
-User: Dos boletos, por favor. / Un boleto, por favor.
-AI: ¿Preferencial o general?
-User: Preferencial, por favor. / General está bien.
+**¿Cuánto cuesta? [Set 3]**
+AI: ¡Buen día! ¿Qué quieres?
+User: ¿Cuánto cuestan los tomates? / ¿Cuánto cuesta la leche?
+AI: Diez pesos el kilo. ¿Cuánto quieres?
+User: Un kilo, por favor. / Medio kilo, por favor.
 
 **Outro:**
-> ¡Boletos comprados! 🎟️
-> Ahora elige tus asientos.
+> ¡Tomates comprados! 🍅
+> Aún falta más en la lista.
 >
 
-**Asientos [Set 4]**
-AI: ¿Qué asientos prefiere?
-User: ¿Hay lugares en el centro? / Al fondo, por favor.
-AI: ¡Sí! Fila G, asientos 12 y 13.
-User: ¡Perfecto!
+**¿Algo más? [Set 4]**
+AI: ¿Algo más?
+User: Sí, los huevos, por favor. / No, eso es todo.
+AI: ¡Aquí están! Son veinte pesos.
+User: ¡Muchas gracias!
 
 **Outro:**
-> ¡Asientos elegidos! 🪑
-> Ya casi empieza la película.
+> ¡Compras del mercado listas! 🛍️
+> ¡A casa!
 >
 
 ---
 
-### sim3: Después del Cine
+### sim3: De Vuelta a Casa
 
-**Goal:** To talk about the movie after watching it.
+**Goal:** To talk about the shopping and plan the meal.
 
-**📍 Lugar:** Afuera del cine
+**📍 Lugar:** Casa (CDMX)
 
 **intro_text:**
-La película terminó. ¡Hora de dar tu opinión!
+¡Ya están en casa!
+Las bolsas están llenas.
 
-**Opinión [Set 5]**
-AI: ¿Qué te pareció la película?
-User: ¡Me encantó! / ¡Estuvo muy buena!
-AI: ¿Verdad? ¡El final fue increíble!
-User: ¡Sí! / ¡Fue muy emocionante!
+**¿Todo listo? [Set 5]**
+AI: ¡Qué buenas compras! ¿Todo está?
+User: Sí, todo está aquí. / Casi, no hay chiles.
+AI: ¡Está bien! ¿Qué cocinamos hoy?
+User: Sopa de tomate. / Arroz con frijoles.
 
 **Outro:**
-> ¡Crítica de cine lista! 🎭
-> Ahora, ¿qué hacen después?
+> ¡Plan de comida listo! 🍲
+> ¡A cocinar!
 >
 
-**Después [Set 6]**
-User: ¿Vamos a comer algo?
-AI: ¡Sí! Tengo hambre. ¿A dónde?
-User: ¿Qué tal unos tacos? / ¿Qué tal una torta?
-AI: ¡Vamos!
+**¡A cocinar! [Set 6]**
+AI: ¡Órale, a cocinar! ¿Tú me ayudas?
+User: ¡Sí, yo corto las verduras! / ¡Sí, yo lavo los tomates!
+AI: ¡Qué rico va a quedar! ¡Gracias, mijo!
+User: ¡De nada, mamá!
 
 **Outro:**
-> ¡Noche perfecta! ✨
-> Lo siguiente: El deporte más importante de LATAM.
+> ¡Cocina en acción! 🍳
+> Lo siguiente: Una reunión familiar especial.
 >
 
 ---
 
-# KD-3: ¡Vamos, México!
+# FAM-3: La Reunión Familiar
 
-- Categoría: Cultura Pop / Series
-- Subcategoría: Fútbol
+- Categoría: Familia y Comunidad
+- Subcategoría: Fiesta / Reunión
 - Nivel: A0 (Principiante Absoluto)
 - 12 turnos (6 sets, 3 sims)
 
 ---
 
-### sim1: El Partido
+### sim1: La Invitación
 
-**Goal:** To talk about an upcoming soccer match and make plans to watch it.
+**Goal:** To invite someone to a family gathering.
 
-**📍 Lugar:** En línea (WhatsApp)
+**📍 Lugar:** Casa (CDMX)
 
 **intro_text:**
-Hay partido hoy. ¡México juega!
-¡Es hora de hacer planes para verlo!
+¡Hay una reunión familiar el domingo!
+¿Vas a venir?
 
-**Apertura — El Partido [Set 1]**
-AI: ¡Oye! ¿Vas a ver el partido hoy?
-User: ¡Sí, claro! ¿Dónde lo ves? / ¡Sí! ¿A qué hora es?
-AI: ¡A las 8! ¿Lo vemos juntos?
-User: ¡Sí! ¿En tu casa? / ¡Sí! ¿En un bar?
+**¡Hay fiesta! [Set 1]**
+AI: ¡Oye! El domingo es el cumpleaños de mi abuela.
+User: ¡Qué chido! ¿Dónde es?
+AI: En casa de mis tíos. ¿Puedes venir?
+User: ¡Sí, claro! / No puedo, lo siento.
 
 **Outro:**
-> ¡Planes de partido listos! ⚽
-> Ahora decide dónde verlo.
+> ¡Invitación enviada! 🎉
+> ¡A prepararse!
 >
 
-**¿Dónde? [Set 2]**
-AI: ¿Prefieres verlo en casa o en un bar?
-User: ¡En un bar! Más emocionante. / ¡En casa! Más cómodo.
-AI: ¡Buena idea! ¿Cuál bar?
-User: ¡El de siempre! / ¡Tú decides!
+**¿Vas a venir? [Set 2]**
+AI: ¿A qué hora llegas?
+User: A las tres. / A las cuatro.
+AI: ¡Perfecto! Te esperamos.
+User: ¡Hasta el domingo!
 
 **Outro:**
-> ¡Lugar elegido! 🏟️
-> El partido está por empezar.
+> ¡Hora confirmada! ⏰
+> ¡El domingo llega pronto!
 >
 
 ---
 
-### sim2: Durante el Partido
+### sim2: En la Reunión
 
-**Goal:** To react to goals and plays during a soccer match.
+**Goal:** To greet family members and meet new people.
 
-**📍 Lugar:** Bar (CDMX)
+**📍 Lugar:** Casa de los tíos (CDMX)
 
 **intro_text:**
-Ya están en el bar. El partido empieza.
-¡Hora de gritar y celebrar!
+¡Llegaste a la reunión!
+Hay mucha gente.
 
-**El Gol [Set 3]**
-AI: ¡Oye! ¿Crees que México va a ganar?
-User: ¡Sí, claro! ¡México siempre gana! / ¡Espero que sí!
-AI: ¡Mira! ¡Gol de México!
-User: ¡¡¡GOOOL!!! / ¡¡¡Sí!!!
+**¡Llegaron! [Set 3]**
+AI: ¡Llegaste! ¡Bienvenido! ¿Cómo estás?
+User: ¡Muy bien, gracias! ¿Y tú?
+AI: ¡Súper bien! ¡Qué gusto verte!
+User: ¡Igualmente!
 
 **Outro:**
-> ¡Gol celebrado! 🥅
-> Pero el partido no ha terminado...
+> ¡Bien llegado! 🎊
+> Hay muchas personas por conocer.
 >
 
-**La Jugada [Set 4]**
-User: ¡Qué jugada tan buena!
-AI: ¡Sí! ¡Ese jugador es increíble!
-User: ¿Cómo se llama? / ¡Es el mejor!
-AI: ¡Es el número 10! ¡El mejor del equipo!
+**¡Conoce a todos! [Set 4]**
+AI: ¡Mira, él es mi tío Roberto!
+User: ¡Mucho gusto, tío Roberto! / ¡Hola, señor!
+AI: ¡El gusto es mío! ¿Eres amigo de...?
+User: Sí, soy su amigo. / Sí, soy su compañero.
 
 **Outro:**
-> ¡Fanático/a del fútbol activado/a! ⚽
-> El partido termina... ¿quién ganó?
+> ¡Nuevos conocidos! 🤝
+> ¡La fiesta está buena!
 >
 
 ---
 
-### sim3: Después del Partido
+### sim3: La Comida
 
-**Goal:** To talk about the result and celebrate or commiserate.
+**Goal:** To talk about the food at the party.
 
-**📍 Lugar:** Bar (mismo)
+**📍 Lugar:** Comedor (CDMX)
 
 **intro_text:**
-El partido terminó. ¡Hora de hablar del resultado!
+¡Es hora de comer!
+Hay mucha comida deliciosa.
 
-**El Resultado [Set 5]**
-AI: ¡México ganó! ¿Qué te pareció el partido?
-User: ¡Estuvo increíble! / ¡Fue muy emocionante!
-AI: ¡Sí! ¡El gol del final fue lo mejor!
-User: ¡Sí! / ¡Totalmente!
+**¡Qué rico! [Set 5]**
+AI: ¡Sírvete! ¿Qué quieres?
+User: Quiero tamales. / Quiero pozole.
+AI: ¡Están muy ricos! ¿Y de tomar?
+User: Agua de jamaica, por favor. / Agua de horchata.
 
 **Outro:**
-> ¡Victoria celebrada! 🏆
-> Ahora, ¿qué hacen para celebrar?
+> ¡Plato servido! 🫔
+> ¡A comer!
 >
 
-**Celebración [Set 6]**
-User: ¡Hay que celebrar! ¿Pedimos más?
-AI: ¡Sí! ¿Qué quieres?
-User: ¡Otra cerveza! / ¡Más botanas!
-AI: ¡Mesero! ¡Por favor!
+**¡Gracias! [Set 6]**
+AI: ¿Te gustó la comida?
+User: ¡Sí, muy rica! / ¡Sí, qué rico!
+AI: ¡Me alegra! ¡Gracias por venir!
+User: ¡Gracias por invitarme!
 
 **Outro:**
-> ¡Celebración en marcha! 🎊
-> Lo siguiente: La música que mueve a LATAM.
+> ¡Reunión exitosa! 🎂
+> Lo siguiente: El barrio y los vecinos.
 >
 
 ---
 
-# KD-4: ¿Qué Música Escuchas?
+# FAM-4: El Barrio
 
-- Categoría: Cultura Pop / Series
-- Subcategoría: Música
+- Categoría: Familia y Comunidad
+- Subcategoría: Barrio / Vecinos
 - Nivel: A0 (Principiante Absoluto)
 - 12 turnos (6 sets, 3 sims)
 
 ---
 
-### sim1: Gustos Musicales
+### sim1: Los Vecinos
 
-**Goal:** To talk about your music taste and favorite artists.
+**Goal:** To greet your neighbors.
 
-**📍 Lugar:** En línea (WhatsApp)
-
-**intro_text:**
-Están chateando por WhatsApp.
-¡Hora de hablar de música!
-
-**Apertura — Música [Set 1]**
-AI: ¡Oye! ¿Qué música escuchas?
-User: ¡Me gusta el reggaetón! / ¡Me gusta la cumbia!
-AI: ¡A mí también! ¿Quién es tu artista favorito?
-User: ¡Bad Bunny! / ¡J Balvin!
-
-**Outro:**
-> ¡Gustos musicales revelados! 🎵
-> Ahora comparte una canción favorita.
->
-
-**La Canción [Set 2]**
-AI: ¿Cuál es tu canción favorita?
-User: ¡"Tití Me Preguntó"! / ¡"Con Calma"!
-AI: ¡Esa está muy buena! ¿La escuchas mucho?
-User: ¡Todo el tiempo! / ¡Sí, es mi favorita!
-
-**Outro:**
-> ¡Canción favorita compartida! 🎶
-> Ahora haz una playlist juntos.
->
-
----
-
-### sim2: La Playlist
-
-**Goal:** To create a shared playlist and discover new music.
-
-**📍 Lugar:** En línea (WhatsApp, mismo)
+**📍 Lugar:** Barrio (CDMX)
 
 **intro_text:**
-Tienen gustos similares. ¡Perfecto!
-Es hora de hacer una playlist juntos.
+¡Buenos días en el barrio!
+¿Conoces a tus vecinos?
 
-**La Playlist [Set 3]**
-User: ¿Hacemos una playlist juntos?
-AI: ¡Sí! ¿En Spotify?
-User: ¡Sí! ¿Qué canciones ponemos? / ¡Sí! ¿Empezamos con Bad Bunny?
-AI: ¡Claro! ¡Yo pongo una de Shakira!
+**Buenos días [Set 1]**
+AI: ¡Buenos días, vecino!
+User: ¡Buenos días! ¿Cómo estás?
+AI: ¡Muy bien! ¿Y tú?
+User: ¡Bien, gracias!
 
 **Outro:**
-> ¡Playlist en construcción! 🎧
-> Ahora añade más canciones.
+> ¡Saludo del vecino! 👋
+> ¡Qué barrio tan amigable!
 >
 
-**Más Canciones [Set 4]**
-AI: ¿Conoces a Rosalía?
-User: ¡Sí, me encanta! / ¡Un poco!
-AI: ¡Ella es increíble! ¿La ponemos?
-User: ¡Sí! / ¡Claro!
+**¿Eres nuevo? [Set 2]**
+AI: ¿Eres nuevo en el barrio?
+User: Sí, llegué hace un mes. / No, vivo aquí dos años.
+AI: ¡Bienvenido! El barrio es muy tranquilo.
+User: ¡Qué bueno, gracias!
 
 **Outro:**
-> ¡Playlist lista! 🎵
-> La música los une.
+> ¡Vecino conocido! 🏡
+> Ahora, ¡a la tiendita!
 >
 
 ---
 
-### sim3: Escuchando Juntos
+### sim2: La Tiendita
 
-**Goal:** To listen to music together and react to songs.
+**Goal:** To buy something at the corner store.
 
-**📍 Lugar:** En línea (WhatsApp, mismo)
+**📍 Lugar:** Tiendita del barrio (CDMX)
 
 **intro_text:**
-La playlist está lista. ¡Hora de escuchar!
+¡La tiendita de la esquina!
+¿Qué necesitas hoy?
 
-**Escuchar [Set 5]**
-AI: ¡Escucha esta canción! ¿Te gusta?
-User: ¡Sí, está muy buena! / ¡Sí, me encanta!
-AI: ¿Verdad? ¡Es mi favorita ahora!
-User: ¡La voy a guardar! / ¡Yo también!
+**¿Qué necesitas? [Set 3]**
+AI: ¡Buenas! ¿Qué se te ofrece?
+User: ¿Tienes Coca-Cola? / ¿Tienes agua?
+AI: ¡Sí! ¿De qué tamaño?
+User: Grande, por favor. / Chica, por favor.
 
 **Outro:**
-> ¡Nueva canción favorita! 🎵
-> La noche musical está completa.
+> ¡Bebida lista! 🥤
+> Solo falta pagar.
 >
 
-**Buenas Noches Musical [Set 6]**
-User: ¡Oye, ya es tarde!
-AI: ¡Sí! ¡Pero la música está muy buena!
-User: ¡Mañana seguimos! / ¡Buenas noches!
-AI: ¡Buenas noches! ¡Que sueñes con música!
+**¿Cuánto es? [Set 4]**
+AI: Son diez pesos.
+User: ¡Aquí tienes! / ¿Tienes cambio de cincuenta?
+AI: ¡Sí, aquí está tu cambio!
+User: ¡Gracias, hasta luego!
 
 **Outro:**
-> ¡Noche musical perfecta! 🌙
-> Lo siguiente: El mundo del reggaetón y los conciertos.
+> ¡Compra en la tiendita lista! 🏪
+> Ahora, ¡al parque!
 >
 
 ---
 
-# 🎤 MÚSICA / REGGAETÓN (mixto) >> Cultura Fan LATAM
+### sim3: El Parque
 
-# KP-1: ¿Cuál es tu Artista Favorito?
+**Goal:** To chat at the neighborhood park.
 
-- Categoría: Música / Reggaetón
-- Subcategoría: Gustos Musicales
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Hablando de Música
-
-**Goal:** To talk about your favorite music genre and artists.
-
-**📍 Lugar:** Cafetería (Colonia Roma, CDMX)
+**📍 Lugar:** Parque del barrio (CDMX)
 
 **intro_text:**
-Están tomando café y hablando de música.
-¡El tema favorito de todos!
+¡El parque del barrio!
+Hay niños jugando y abuelitos sentados.
 
-**Apertura — Géneros [Set 1]**
-AI: ¿Qué tipo de música te gusta?
-User: ¡Me gusta el reggaetón! / ¡Me gusta el pop en español!
-AI: ¡A mí también! ¿Escuchas a Bad Bunny?
-User: ¡Sí, es mi favorito! / ¡Sí, lo escucho mucho!
+**¡Al parque! [Set 5]**
+AI: ¡Hola! ¿Vienes mucho al parque?
+User: Sí, vengo todos los días. / No mucho.
+AI: ¡Qué chido! ¿Te gusta correr?
+User: Sí, me encanta. / No, prefiero caminar.
 
 **Outro:**
-> ¡Fanático/a de Bad Bunny confirmado/a! 🐰
-> Ahora habla de su álbum favorito.
+> ¡En el parque! 🌳
+> ¡Ya casi terminas el track!
 >
 
-**El Álbum [Set 2]**
-AI: ¿Cuál es tu álbum favorito de él?
-User: ¡"Un Verano Sin Ti"! / ¡"YHLQMDLG"!
-AI: ¡Ese álbum es increíble! ¿Cuál canción te gusta más?
-User: ¡"Tití Me Preguntó"! / ¡"Dakiti"!
+**¡Hasta luego! [Set 6]**
+AI: ¡Oye, ya me voy! ¡Fue un gusto!
+User: ¡Igualmente! ¡Hasta luego!
+AI: ¡Ándale! ¡Cuídate mucho!
+User: ¡Tú también!
 
 **Outro:**
-> ¡Canción favorita revelada! 🎵
-> Ahora habla de otros artistas.
->
-
----
-
-### sim2: Otros Artistas
-
-**Goal:** To compare different Latin artists and their music styles.
-
-**📍 Lugar:** Cafetería (mismo)
-
-**intro_text:**
-La conversación de música sigue.
-¡Hora de hablar de más artistas!
-
-**Shakira [Set 3]**
-User: ¿Te gusta Shakira?
-AI: ¡Sí! ¡Ella es una leyenda!
-User: ¿Cuál es tu canción favorita de ella? / ¡Sí, es increíble!
-AI: ¡"Hips Don't Lie"! ¡Es un clásico!
-
-**Outro:**
-> ¡Shakira apreciada! 💃
-> Ahora habla de J Balvin.
->
-
-**J Balvin [Set 4]**
-AI: ¿Conoces a J Balvin?
-User: ¡Sí! ¡Es muy bueno! / ¡Un poco!
-AI: ¡Él es el rey del reggaetón colombiano!
-User: ¡Sí! / ¡Qué bueno!
-
-**Outro:**
-> ¡Artistas LATAM explorados! 🌎
-> Ahora habla de conciertos.
->
-
----
-
-### sim3: ¿Fuiste a un Concierto?
-
-**Goal:** To talk about concert experiences and live music.
-
-**📍 Lugar:** Cafetería (mismo)
-
-**intro_text:**
-La música es increíble en vivo.
-¿Fuiste a algún concierto?
-
-**El Concierto [Set 5]**
-AI: ¿Fuiste a algún concierto?
-User: ¡Sí! ¡Fui al concierto de Bad Bunny! / ¡No, todavía no!
-AI: ¿En serio? ¿Cómo estuvo?
-User: ¡Increíble! ¡Fue lo mejor! / ¡Quiero ir pronto!
-
-**Outro:**
-> ¡Experiencia de concierto compartida! 🎤
-> Ahora habla de los próximos conciertos.
->
-
-**Próximos Conciertos [Set 6]**
-User: ¿Hay algún concierto pronto?
-AI: ¡Sí! ¡Shakira viene a CDMX en junio!
-User: ¿En serio? ¡Quiero ir! / ¡Qué emocionante!
-AI: ¡Yo también quiero ir! ¿Vamos juntos?
-
-**Outro:**
-> ¡Planes de concierto en marcha! 🎊
-> Lo siguiente: El concierto del año.
->
-
----
-
-# KP-2: ¡El Concierto del Año!
-
-- Categoría: Música / Reggaetón
-- Subcategoría: Concierto (Bad Bunny / Shakira)
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Comprando los Boletos
-
-**Goal:** To buy concert tickets and coordinate with a friend.
-
-**📍 Lugar:** En línea (WhatsApp)
-
-**intro_text:**
-¡Shakira viene a CDMX!
-¡Hay que comprar los boletos ya!
-
-**Apertura — Los Boletos [Set 1]**
-AI: ¡Oye! ¡Ya salieron los boletos de Shakira!
-User: ¿En serio? ¡Hay que comprarlos! / ¿Cuánto cuestan?
-AI: ¡Son 800 pesos! ¿Compramos?
-User: ¡Sí! ¡Compra dos! / ¡Sí, vamos!
-
-**Outro:**
-> ¡Decisión tomada! 🎟️
-> Ahora compra los boletos antes de que se agoten.
->
-
-**Comprar [Set 2]**
-AI: ¿Prefieres zona general o preferente?
-User: ¡Preferente! Quiero estar cerca. / ¡General está bien!
-AI: ¡Perfecto! ¿Pago con mi tarjeta?
-User: ¡Sí! Yo te pago después. / ¡Sí, gracias!
-
-**Outro:**
-> ¡Boletos comprados! 🎉
-> El concierto es en dos semanas.
->
-
----
-
-### sim2: El Día del Concierto
-
-**Goal:** To coordinate meeting up and getting to the concert venue.
-
-**📍 Lugar:** En línea (WhatsApp) → Foro Sol, CDMX
-
-**intro_text:**
-¡Por fin llegó el día del concierto!
-¡Hora de coordinar el encuentro!
-
-**Coordinando [Set 3]**
-User: ¡Hoy es el concierto! ¿A qué hora nos vemos?
-AI: ¡A las 6! ¿En la entrada principal?
-User: ¡Perfecto! / ¿Cuál entrada?
-AI: ¡La entrada A! ¡Ahí te espero!
-
-**Outro:**
-> ¡Punto de encuentro confirmado! 📍
-> Ya casi llegan al Foro Sol.
->
-
-**En el Foro [Set 4]**
-AI: ¡Ya estoy aquí! ¿Dónde estás?
-User: ¡Ya casi llego! / ¡Estoy en el metro!
-AI: ¡Apúrate! ¡Ya va a empezar!
-User: ¡Ya voy! ¡Un minuto!
-
-**Outro:**
-> ¡Reunidos en el concierto! 🎤
-> ¡Shakira está por salir!
->
-
----
-
-### sim3: Durante y Después
-
-**Goal:** To react to the concert and share the experience.
-
-**📍 Lugar:** Foro Sol, CDMX
-
-**intro_text:**
-¡El concierto está increíble!
-¡Shakira está en el escenario!
-
-**El Show [Set 5]**
-AI: ¡Shakira está increíble!
-User: ¡Sí! ¡Es una diosa! / ¡Sí, es increíble!
-AI: ¡Mira cómo baila!
-User: ¡Wow! / ¡Es perfecta!
-
-**Outro:**
-> ¡Momento épico vivido! ✨
-> El concierto termina... ¿cómo se sienten?
->
-
-**Después del Show [Set 6]**
-User: ¡Fue el mejor concierto de mi vida!
-AI: ¡Sí! ¡Estuvo increíble!
-User: ¡Gracias por venir conmigo! / ¡Hay que venir de nuevo!
-AI: ¡Claro que sí! ¡Fue perfecto!
-
-**Outro:**
-> ¡Memoria para siempre! 💫
-> Lo siguiente: La cultura fan en LATAM.
->
-
----
-
-# KP-3: ¡Soy Fan!
-
-- Categoría: Música / Reggaetón
-- Subcategoría: Cultura Fan
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: El Fandom
-
-**Goal:** To talk about being a fan and what you do as a fan.
-
-**📍 Lugar:** En línea (WhatsApp)
-
-**intro_text:**
-Eres fan de Bad Bunny. ¡Orgulloso/a!
-¡Hora de hablar de tu fandom!
-
-**Apertura — Fan [Set 1]**
-AI: ¿Eres fan de algún artista?
-User: ¡Sí! ¡Soy fan de Bad Bunny! / ¡Sí! ¡Soy fan de Shakira!
-AI: ¡Yo también! ¿Desde cuándo?
-User: ¡Desde hace tres años! / ¡Desde siempre!
-
-**Outro:**
-> ¡Fan confirmado/a! 🐰
-> Ahora habla de lo que haces como fan.
->
-
-**Actividades Fan [Set 2]**
-AI: ¿Qué haces como fan?
-User: ¡Escucho toda su música! / ¡Sigo su Instagram!
-AI: ¿Tienes su merch?
-User: ¡Sí! ¡Tengo su camiseta! / ¡Todavía no!
-
-**Outro:**
-> ¡Fan dedicado/a! 🎽
-> Ahora habla del grupo de fans.
->
-
----
-
-### sim2: El Grupo de Fans
-
-**Goal:** To talk about fan groups and online fan communities.
-
-**📍 Lugar:** En línea (WhatsApp, mismo)
-
-**intro_text:**
-Los fans se organizan en grupos de WhatsApp.
-¡Únete a la comunidad!
-
-**El Grupo [Set 3]**
-User: ¿Estás en algún grupo de fans?
-AI: ¡Sí! ¡Hay un grupo de WhatsApp muy activo!
-User: ¿Me puedes agregar? / ¿De qué hablan?
-AI: ¡Claro! ¡Hablamos de todo sobre Bad Bunny!
-
-**Outro:**
-> ¡Grupo de fans encontrado! 👥
-> Ahora entra al grupo y preséntate.
->
-
-**Presentación [Set 4]**
-AI: ¡Bienvenido/a al grupo! ¿Cómo te llamas?
-User: ¡Hola! Me llamo ___. / ¡Hola a todos! Soy ___.
-AI: ¡Bienvenido/a! ¿De dónde eres?
-User: ¡Soy de ___!
-
-**Outro:**
-> ¡Presentación hecha! 🎉
-> Ya eres parte de la comunidad fan.
->
-
----
-
-### sim3: Noticias del Artista
-
-**Goal:** To share and react to news about your favorite artist.
-
-**📍 Lugar:** En línea (WhatsApp, mismo)
-
-**intro_text:**
-Hay noticias de Bad Bunny.
-¡El grupo está muy activo!
-
-**Las Noticias [Set 5]**
-AI: ¡Oye! ¿Viste las noticias de Bad Bunny?
-User: ¡No! ¿Qué pasó? / ¡Sí! ¡Está increíble!
-AI: ¡Tiene nuevo álbum!
-User: ¿En serio? ¡Qué emocionante! / ¡Ya lo sé! ¡Está buenísimo!
-
-**Outro:**
-> ¡Noticia recibida! 📰
-> Ahora comparte la noticia con todos.
->
-
-**Compartir [Set 6]**
-User: ¡Hay que escuchar el nuevo álbum!
-AI: ¡Sí! ¿Lo escuchamos juntos?
-User: ¡Claro! ¿Cuándo? / ¡Sí, esta noche!
-AI: ¡Esta noche! ¡A las 9!
-
-**Outro:**
-> ¡Escucha grupal planeada! 🎧
+> ¡Ya conoces el barrio! 🏘️
 > Lo siguiente: El mundo profesional en español.
 >
 
