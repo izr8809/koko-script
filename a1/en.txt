@@ -231,9 +231,9 @@ Something's been off lately. Your friend noticed. Time to talk.
 
 **기 — What's up [Set 1]**
 AI: You seem a little off lately. Is everything okay?
-User: I've been struggling a bit. / I've got a lot on my mind.
+User: I'm struggling a bit. / I have a lot on my mind.
 AI: What's going on? Talk to me.
-User: Life here has been tough. / I've just been really busy.
+User: Life here is tough. / I'm just really busy.
 
 **Outro:**
 > It's out there now. 💬 The first step is always the hardest.
@@ -879,7 +879,7 @@ User: They're really sweet. / They have the best smile.
 AI: Where did you meet them?
 User: At a coffee shop! / In class!
 AI: That's so cute! So what happened?
-User: I haven't said anything yet. / I got their number though!
+User: I didn't say anything. / I got their number though!
 
 **Outro:**
 > You got their number?! That's huge! 📱 So... is it time to make a move?
@@ -1152,9 +1152,9 @@ User: Goodnight.
 Three days. No call. Something is definitely off.
 
 **기 — Something's off [Set 1]**
-User: Why haven't you been texting me?
+User: Why didn't you text me?
 AI: Sorry, I've just been really busy.
-User: I get that, but it's been days.
+User: I get that, but that's too long!
 AI: I know. I'm sorry.
 
 **Outro:**
@@ -1565,9 +1565,9 @@ Meeting in 2 hours. Almost ready... I think.
 
 **기 — Preparation [Set 1]**
 AI: Are you ready for the meeting today?
-User: Yes, I am ready. / Almost, just finishing up.
+User: Yes, I'm ready. / Almost, just finishing up.
 AI: Did you print the documents?
-User: Yes, I did. / I will do that now.
+User: Yes, I did. / I'll do that now.
 
 **Outro:**
 > Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
@@ -1608,7 +1608,7 @@ User: Thank you.
 >
 
 **전 — The question [Set 4]**
-User: I have a question, if I may.
+User: I have a question.
 AI: Of course, go ahead!
 User: When is the deadline for this section?
 AI: It is due by next Friday!
@@ -1629,7 +1629,7 @@ AI: It is due by next Friday!
 **전 — After the meeting [Set 5]**
 AI: Great work today, everyone!
 User: Thank you!
-User: I would be happy to send out the meeting notes.
+User: I'd be happy to send out the meeting notes.
 AI: That would be wonderful, thank you!
 
 **Outro:**
@@ -1639,7 +1639,7 @@ AI: That would be wonderful, thank you!
 
 **결 — Wrapping up [Set 6]**
 AI: See you at the next meeting!
-User: Yes, I will be there.
+User: Yes, I'll be there.
 AI: Have a good rest of your day!
 User: Thank you! You as well!
 
@@ -1672,7 +1672,7 @@ User: Thank you! You as well!
 AI: Have you had lunch yet?
 User: Not yet. / Yes, I already ate.
 AI: Would you like to join me?
-User: Yes, I would love that! / Thank you, that sounds great!
+User: Yes, I'd love that! / Thank you, that sounds great!
 
 **Outro:**
 > Lunch invitation accepted! 🍱 Now the important question: where are we going?
@@ -1700,9 +1700,9 @@ User: That sounds great! Let's go!
 
 **승 — Ordering [Set 3]**
 AI: Do you have any dietary restrictions? Anything you do not eat?
-User: No, I eat everything! / I do not eat meat.
+User: No, I eat everything! / I don't eat meat.
 AI: They have great veggie options too!
-User: That is good to know!
+User: That's good to know!
 
 **Outro:**
 > Dietary needs handled! 🥗 Your coworker is looking out for you.
@@ -1711,7 +1711,7 @@ User: That is good to know!
 
 **전 — Conversation [Set 4]**
 AI: How are you finding it here so far? Are you settling in?
-User: Yes, I am getting used to it. / It has been a bit of an adjustment.
+User: Yes, I'm getting used to it. / It's a bit tough!
 AI: If you ever need anything, please let me know!
 User: Thank you, I appreciate that.
 
@@ -1773,7 +1773,7 @@ You need tomorrow off. Your manager is right there. Deep breath.
 **기 — The request [Set 1]**
 User: Excuse me, do you have a moment?
 AI: Of course, what is it?
-User: I was wondering if I could take tomorrow off for a personal matter.
+User: Can I take tomorrow off? I have a personal matter.
 AI: Tomorrow? Is everything okay?
 
 **Outro:**
@@ -1785,7 +1785,7 @@ AI: Tomorrow? Is everything okay?
 User: Yes, I have a doctor's appointment. / I have a personal matter to take care of.
 AI: I see.
 AI: Can you make sure your tasks are covered before you leave today?
-User: Yes, I will take care of everything before I go.
+User: Yes, I'll take care of everything before I go.
 
 **Outro:**
 > Proactive handover offer! 📋 That is exactly what a good employee does.
@@ -1812,7 +1812,7 @@ User: Thank you, I appreciate it.
 >
 
 **전 — Preparing [Set 4]**
-User: I will send a summary email of my tasks before I leave today.
+User: I'll send a summary email of my tasks before I leave today.
 AI: That would be great, thank you!
 User: Is there anything else you need from me?
 AI: No, that is all! Take care!
@@ -1833,7 +1833,7 @@ AI: No, that is all! Take care!
 **전 — Back at work [Set 5]**
 User: Good morning. Thank you for yesterday.
 AI: Of course! How are you feeling?
-User: Much better, thank you. / I am fine now, thank you.
+User: Much better, thank you. / I'm fine now, thank you.
 AI: I am glad to hear that!
 
 **Outro:**

@@ -233,7 +233,7 @@ Something's been off lately. Your friend noticed. Time to talk.
 AI: Últimamente te noto raro/a. ¿Estás bien?
 User: Estoy un poco mal. / Tengo algo en mente.
 AI: ¿Qué tienes? Cuéntame.
-User: La vida aquí se me hace difícil. / Tengo mucho trabajo.
+User: La vida aquí es difícil. / Tengo mucho trabajo.
 
 **Outro:**
 > It's out there now. 💬 The first step is always the hardest.
@@ -242,7 +242,7 @@ User: La vida aquí se me hace difícil. / Tengo mucho trabajo.
 
 **승 — Escuchando [세트 2]**
 AI: ¿Qué es lo más difícil?
-User: Paso mucho tiempo solo/a. / El español todavía se me complica.
+User: Paso mucho tiempo solo/a. / El español es difícil.
 AI: Debe ser difícil.
 User: Sí, un poco.
 
@@ -417,7 +417,7 @@ User: ¡Sí!
 
 # ✈️ VIAJES (usted — formal) >> Turismo en LATAM
 
-# TR-5: Quisiera hacer el check-in
+# TR-5: Quiero hacer el check-in
 
 - 대분류: Traveling
 - 중분류: Hotel
@@ -436,7 +436,7 @@ User: ¡Sí!
 Finally at the hotel. Time to check in.
 
 **기 — Llegada [세트 1]**
-User: Buenas tardes, quisiera hacer el check-in.
+User: Buenas tardes, quiero hacer el check-in.
 AI: ¡Buenas tardes! ¿Tiene reservación?
 User: Sí, a nombre de ___.
 AI: ¡Perfecto! ¿Me permite su pasaporte, por favor?
@@ -879,7 +879,7 @@ User: Es muy buena persona. / Cuando sonríe es muy bonito/a.
 AI: ¿Dónde lo/la conociste?
 User: ¡En una cafetería! / ¡En clase!
 AI: ¡Qué romántico! ¿Y qué pasó?
-User: Todavía no le he dicho nada. / ¡Ya tengo su número!
+User: Todavía no le digo nada. / ¡Ya tengo su número!
 
 **Outro:**
 > You got their number?! That's huge! 📱 So... is it time to make a move?
@@ -918,7 +918,7 @@ User: ¡Gracias!
 
 **결 — Con esperanza [세트 6]**
 AI: ¡Va a salir bien!
-User: Ojalá.
+User: ¡Espero!
 AI: ¡Claro que sí! ¡Escríbeme!
 User: ¡Sí!
 
@@ -1166,7 +1166,7 @@ AI: Lo siento.
 User: Siento que ya no te importo.
 AI: No, no es eso.
 AI: De verdad es por el trabajo. Lo siento mucho.
-User: Está bien. Pero escríbeme aunque sea un poco.
+User: Está bien. ¡Pero escríbeme más!
 
 **Outro:**
 > Feelings expressed, explanation given. 💬 Now you need to actually meet.
@@ -1196,7 +1196,7 @@ User: Tonto/a. Puedes decirme todo.
 AI: Gracias. Voy a mejorar.
 User: Yo también lo siento, fui muy duro/a.
 AI: No, tenías razón.
-User: De ahora en adelante seamos más honestos.
+User: Vamos a ser más honestos.
 
 **Outro:**
 > Both sides heard, both sides understood. 🤍 This is growth.
@@ -1224,7 +1224,7 @@ User: Yo también te extrañé.
 
 **결 — De nuevo juntos [세트 6]**
 AI: ¿Vamos a comer algo? ¿Qué se te antoja?
-User: ¡Lo que sea! Con tal de estar contigo.
+User: ¡Me da igual! Con tal de estar contigo.
 AI: ¡Vamos!
 User: ¡Sí!
 
@@ -1289,7 +1289,7 @@ AI: ¡Qué emoción! ¡Muchas gracias!
 AI: ¡Gracias a todos por felicitarme!
 User: ¡Felicidades! / ¡Te queremos mucho!
 AI: ¡Gracias a ustedes soy muy feliz!
-User: ¡Nosotros también! ¡Que seas muy feliz!
+User: ¡Nosotros también! ¡Sé muy feliz!
 
 **Outro:**
 > They are literally an angel! 👼 Shh... they're about to make their birthday wish.
@@ -1473,7 +1473,7 @@ AI: ¡Qué envidia! ¿Qué pasó?
 **승 — La historia [세트 2]**
 User: ¡Le di la mano y le hablé!
 AI: ¡No puede ser! ¿Qué le dijiste?
-User: ¡Le dije "te quiero mucho"! / ¡Le pregunté si ya había comido!
+User: ¡Le dije "te quiero mucho"! / ¡Le pregunté si ya comió!
 AI: ¡Estás loco/a! ¡Qué valiente! ¿Y qué dijo?
 
 **Outro:**
@@ -1504,7 +1504,7 @@ AI: ¿En serio? ¡Sí!
 AI: ¿Le diste algo?
 User: ¡Sí, le di una carta! / ¡Intercambiamos fotocards!
 AI: ¿La va a leer?
-User: ¡Sí, dijo que sí la leía!
+User: ¡Sí, prometió leerla!
 
 **Outro:**
 > They promised to read your letter! 💌 That's basically a love confession.
@@ -1598,7 +1598,7 @@ Meeting in progress. Time to share my thoughts.
 
 **승 — En la reunión [세트 3]**
 AI: ¿Tiene alguna opinión sobre este punto?
-User: Sí, creo que podríamos hacerlo así. / Estoy de acuerdo con la propuesta.
+User: Sí, creo que podemos hacerlo así. / Estoy de acuerdo con la propuesta.
 AI: ¡Muy buena idea!
 User: Muchas gracias.
 
@@ -1680,8 +1680,8 @@ User: ¡Sí, con mucho gusto! / ¡Gracias!
 >
 
 **승 — ¿Qué comemos? [세트 2]**
-AI: ¿Qué se le antoja? ¡Hay un lugar muy bueno cerca!
-User: ¡Lo que usted diga! / ¿Qué tienen de bueno?
+AI: ¿Qué quiere comer? ¡Hay un lugar muy bueno cerca!
+User: ¡Cualquier cosa! / ¿Qué tienen de bueno?
 AI: ¡Aquí la sopa de lima es muy famosa!
 User: ¡Perfecto! ¡Vamos!
 
@@ -1700,7 +1700,7 @@ User: ¡Perfecto! ¡Vamos!
 
 **승 — Comiendo [세트 3]**
 AI: ¿Le gusta la comida mexicana? ¿Come picante?
-User: ¡Sí, me gusta! / El picante se me complica un poco.
+User: ¡Sí, me gusta! / ¡No como picante!
 AI: ¡Entonces le recomiendo el caldo de pollo! ¡No pica!
 User: ¡Perfecto!
 
@@ -1711,7 +1711,7 @@ User: ¡Perfecto!
 
 **전 — La conversación [세트 4]**
 AI: ¿Cómo le está yendo aquí? ¿Ya se está adaptando?
-User: Sí, poco a poco me voy adaptando. / A veces se me complica.
+User: Sí, poco a poco. / A veces es difícil.
 AI: ¡Si necesita algo, con mucho gusto le ayudo!
 User: Muchas gracias.
 
@@ -1771,9 +1771,9 @@ User: ¡Sí, vamos!
 You need tomorrow off. Your manager is right there. Deep breath.
 
 **기 — La solicitud [세트 1]**
-User: Disculpe, ¿podría hablar con usted un momento?
+User: Disculpe, ¿puedo hablar con usted un momento?
 AI: Sí, claro. ¿Qué necesita?
-User: ¿Podría tomarme el día de mañana por asuntos personales?
+User: ¿Puedo tomar el día de mañana? / Tengo un asunto personal.
 AI: ¿Mañana? ¿Tiene algo urgente?
 
 **Outro:**
