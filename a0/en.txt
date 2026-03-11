@@ -896,783 +896,448 @@ AI: Come back soon! Safe travels!
 
 ---
 
-# 📺 POP CULTURE / TV (casual) >> American Entertainment
+# 🎓 CAMPUS LIFE (casual + semi-formal) >> Studying in the US
 
-# KD-1: Have You Seen This Show?
+# CL-1: Hey, I Think We're Roommates!
 
-- Category: Pop Culture / TV
-- Subcategory: Netflix Shows
+- Category: Campus Life
+- Subcategory: Dorm Life
 - Level: A0 (Absolute Beginner)
 - 12 turns (6 sets, 3 sims)
 
 ---
 
-### sim1: Netflix Talk
+### sim1: Moving In
 
-**Goal:** To talk about your favorite Netflix show and find out what your friend is watching.
+**Goal:** To introduce yourself to your new roommate and get settled in your dorm room.
 
-**📍 Location:** Someone's apartment (Brooklyn)
+**📍 Location:** Dorm room (first day on campus)
 
 **intro_text:**
-Netflix is open. Snacks are ready.
-Time to find out what they're watching!
+Move-in day. Your stuff is everywhere.
+Someone just walked in — it's your roommate!
 
-**Opening — Shows [Set 1]**
-AI: Hey, do you watch Netflix?
-User: Yeah, all the time! / Sometimes!
-AI: What are you watching right now?
-User: Stranger Things! / The Crown!
+**Opening — First Hello [Set 1]**
+AI: Hey! I think we're roommates! I'm Chris!
+User: Hey! I'm ___! Nice to meet you!
+AI: Cool! Where are you from?
+User: I'm from ___! What about you?
 
 **Outro:**
-> Binge-watcher: Confirmed! 📺
-> But wait... what's their all-time favorite?
+> Roommate unlocked! 🛏️
+> But wait... which bed do they want?
 >
 
-**Favorite Show [Set 2]**
-AI: What's your all-time favorite show?
-User: Breaking Bad! / Friends!
-AI: Oh, I love that one too!
-User: Right? It's so good!
+**Beds [Set 2]**
+AI: Do you have a preference for the bed?
+User: I'll take the one by the window! / I don't mind, you pick!
+AI: Works for me! I'll take this side.
+User: Sounds good! Thanks!
 
 **Outro:**
-> Same taste! ✨
-> Now, find out how deep their Netflix knowledge goes.
+> Beds sorted! 😌
+> Now, find out a little more about each other.
 >
 
 ---
 
-### sim2: Deep Dive
+### sim2: Getting to Know You
 
-**Goal:** To discuss characters and share opinions about a show.
+**Goal:** To discover shared interests and ask about your roommate's major.
 
-**📍 Location:** Apartment (same)
+**📍 Location:** Dorm room (same)
 
 **intro_text:**
-The conversation is getting good.
-Time to go deeper!
+You're both unpacking.
+Good time to break the ice!
 
-**Characters [Set 3]**
-User: Who's your favorite character?
-AI: Me? I love Michael Scott! What about you?
-User: Jim! / Pam!
-AI: Oh nice! Why?
+**Major [Set 3]**
+User: What's your major?
+AI: Computer science! What about you?
+User: I'm studying ___! / I'm still deciding!
+AI: Nice! Have you been to any of your classes yet?
 
 **Outro:**
-> Character debate: Started! 🎬
-> Now, talk about the story itself.
+> Majors shared! 📚
+> Now, find out about life on campus!
 >
 
-**Story [Set 4]**
-AI: What do you think of the ending?
-User: It was so good! / It was a little sad.
-AI: I know! I cried at the last episode!
-User: Me too! / Really? I didn't!
+**Campus Life [Set 4]**
+AI: Have you been to the dining hall yet?
+User: Not yet! Is it good? / Yeah, I went this morning!
+AI: It's decent! The meal plan is pretty convenient though.
+User: Good to know! Thanks!
 
 **Outro:**
-> No spoilers! 🛑
-> This is your chance — recommend something new!
+> Campus tip received! 🍽️
+> Now, make your first plans as roommates.
 >
 
 ---
 
-### sim3: Recommendations
+### sim3: First Night
 
-**Goal:** To recommend a show and make plans to watch together.
+**Goal:** To make plans for dinner on your first night and talk about orientation.
 
-**📍 Location:** Apartment (same)
+**📍 Location:** Dorm hallway → dining hall
 
 **intro_text:**
-They need a new show. You have the perfect one.
-Time to make your recommendation!
+It's almost dinnertime.
+What's the plan for tonight?
 
-**Recommend [Set 5]**
-User: Do you have any recommendations?
-AI: Have you seen Succession? It's so good!
-User: Not yet! Is it good? / I've seen it! It's amazing!
-AI: It's so good! You have to watch it!
+**Dinner Plans [Set 5]**
+User: Hey, wanna grab dinner together?
+AI: Yeah! The dining hall or somewhere off campus?
+User: Let's try the dining hall! / Off campus sounds fun!
+AI: Let's go! I'll grab my student ID!
 
 **Outro:**
-> Recommendation made! 📺
-> Now, make plans to watch together!
+> Dinner plans: Made! 🍴
+> Now, talk about orientation!
 >
 
-**Watch Together [Set 6]**
-AI: Wanna watch it together?
-User: Yes! When?
-AI: How about this weekend?
-User: Let's do it!
+**Orientation [Set 6]**
+AI: Did you go to orientation today?
+User: Yeah! It was a lot to take in! / Mine's tomorrow — a little nervous!
+AI: Same! So much info. But it's exciting, right?
+User: Totally! I can't wait to start!
 
 **Outro:**
-> Watch party planned! 🍿
-> Next up: Time to talk about movies!
+> Roommate bond: Started! 🤝
+> Next up: Time to hit the classroom!
 >
 
 ---
 
-# KD-2: Did You See That Movie?
+# CL-2: Professor, Do You Have a Minute?
 
-- Category: Pop Culture / TV
-- Subcategory: Movies
+- Category: Campus Life
+- Subcategory: Classes & Professors
 - Level: A0 (Absolute Beginner)
 - 12 turns (6 sets, 3 sims)
 
 ---
 
-### sim1: Movie Talk
+### sim1: First Day of Class
 
-**Goal:** To talk about your favorite movies and find out what your friend likes.
+**Goal:** To find a seat and chat with a classmate before class starts.
 
-**📍 Location:** Coffee shop (Brooklyn)
+**📍 Location:** Lecture hall (campus)
 
 **intro_text:**
-The movie talk is getting serious.
-Time to find out if they have good taste!
+First day of class. You have no idea where to sit.
+Good thing someone nearby looks friendly!
 
-**Opening — Movies [Set 1]**
-AI: Do you like movies?
-User: Yeah, I love them! / They're okay!
-AI: What's your favorite?
-User: Interstellar! / The Dark Knight!
+**Finding a Seat [Set 1]**
+AI: Hey, is this seat taken?
+User: No, go ahead! / Sure, sit down!
+AI: Thanks! Is this your first time in this class?
+User: Yeah, first day! What about you?
 
 **Outro:**
-> Movie fan: Confirmed! 🎬
-> But wait... do they know the best scenes?
+> Classmate found! 🙋
+> But wait... do they know what the class is about?
 >
 
-**Favorite Scene [Set 2]**
-AI: What's your favorite scene?
-User: The ending! / The first scene!
-AI: Oh, that part is so good!
-User: Right? It's amazing!
+**Class Info [Set 2]**
+AI: Do you know what this class is like?
+User: I heard it's tough! / I think it's supposed to be interesting!
+AI: Yeah, me too. I hope the professor is cool!
+User: Same! Let's hope for the best!
 
 **Outro:**
-> Scene appreciation: Unlocked! 🔓
-> Now, find out if they've been to the movies recently.
+> Class buddy: Found! 📖
+> Now, time to meet the professor!
 >
 
 ---
 
-### sim2: At the Theater
+### sim2: After Class
 
-**Goal:** To talk about going to the movies and make plans.
+**Goal:** To ask the professor a question after class using polite English.
 
-**📍 Location:** Coffee shop (same)
+**📍 Location:** Lecture hall (after class)
 
 **intro_text:**
-The movie talk is heating up.
-Time to make some plans!
+Class just ended. You have a question.
+Time to talk to the professor!
 
-**Recent Movies [Set 3]**
-User: Have you seen anything good lately?
-AI: Yeah! I just saw the new Marvel movie!
-User: How was it? / I saw that too!
-AI: It was so good! So many action scenes!
+**Asking a Question [Set 3]**
+User: Excuse me, Professor? Do you have a quick minute?
+AI: Of course! What can I help you with?
+User: I wasn't sure about the assignment. Could you explain it again?
+AI: Sure! It's due Friday — just one page about today's topic.
 
 **Outro:**
-> Movie talk: Started! 🎥
-> Now, talk about going together.
+> Question answered! 🙋
+> Now, ask about office hours!
 >
 
-**Plans [Set 4]**
-AI: Wanna go see a movie sometime?
-User: Yeah! What's playing? / I'd love to! When?
-AI: Let me check... there's a new one this Friday!
-User: This Friday works!
+**Office Hours [Set 4]**
+AI: Feel free to come to office hours if you have more questions.
+User: When are your office hours? / That's really helpful, thank you!
+AI: Tuesdays and Thursdays, 2 to 4 PM, in my office.
+User: Thank you so much, Professor!
 
 **Outro:**
-> Movie plans: In progress! 📅
-> Almost there — just confirm the details!
+> Office hours noted! 📅
+> Now, go work on that group project!
 >
 
 ---
 
-### sim3: Movie Night
+### sim3: Group Project
 
-**Goal:** To confirm movie plans and talk about snacks.
+**Goal:** To meet with classmates and plan a group project together.
 
-**📍 Location:** Movie theater (Times Square)
+**📍 Location:** Campus café
 
 **intro_text:**
-It's movie night. You're at the theater.
-Time to get snacks and find your seats!
+You and your group are meeting for the first time.
+Time to figure out who does what!
 
-**Snacks [Set 5]**
-User: Do you want popcorn?
-AI: Yes! I always get popcorn!
-User: Sweet or salty? / Large or small?
-AI: Salty! And large, obviously!
+**Meeting Up [Set 5]**
+User: Okay, so we have a project due next week. Where do we start?
+AI: Good question! What should we each do?
+User: I can do the research! / I'll work on the slides!
+AI: Perfect! I'll write up the introduction then.
 
 **Outro:**
-> Snacks secured! 🍿
-> Now, find your seats!
+> Work divided! ✅
+> Almost there — set a time to meet again!
 >
 
-**Seats [Set 6]**
-AI: Where do you want to sit?
-User: In the middle! / Near the back!
-AI: Good call! Let's go!
-User: This is gonna be so good!
+**Next Meeting [Set 6]**
+AI: When should we meet again to put it all together?
+User: How about Thursday? / Is Sunday okay?
+AI: Thursday works for me! Let's meet here again.
+User: Great! See you then!
 
 **Outro:**
-> Movie night confirmed! 🎉
-> Next up: Time to talk about sports!
+> Group project: In progress! 📝
+> Next up: Time to explore campus life!
 >
 
 ---
 
-# KD-3: Did You Watch the Game?
+# CL-3: What's the Dining Hall Like?
 
-- Category: Pop Culture / TV
-- Subcategory: Sports
+- Category: Campus Life
+- Subcategory: Campus Daily Life
 - Level: A0 (Absolute Beginner)
 - 12 turns (6 sets, 3 sims)
 
 ---
 
-### sim1: Sports Talk
+### sim1: Dining Hall Talk
 
-**Goal:** To talk about your favorite sport and team and find out what your friend follows.
+**Goal:** To navigate the dining hall, chat with a new person, and talk about the meal plan.
 
-**📍 Location:** Sports bar (NYC)
+**📍 Location:** Dining hall (campus)
 
 **intro_text:**
-The game is on. The bar is loud.
-Time to find out if they're a real fan!
+Lunchtime. The dining hall is packed.
+Find a table and make a friend!
 
-**Opening — Sports [Set 1]**
-AI: Hey, do you like sports?
-User: Yeah, I love them! / They're okay!
-AI: What's your favorite?
-User: Basketball! / Football!
+**Opening — Dining Hall [Set 1]**
+AI: Hey! Do you mind if I sit here?
+User: Not at all, go ahead! / Sure, sit down!
+AI: Thanks! Is the food here always this good?
+User: It's pretty solid! / It's hit or miss, honestly!
 
 **Outro:**
-> Sports fan: Confirmed! 🏀
-> But wait... what's their team?
+> New lunch buddy! 🍽️
+> Now, talk about the meal plan!
 >
 
-**Favorite Team [Set 2]**
-AI: What team do you root for?
-User: The Lakers! / The Knicks!
-AI: Oh nice! I'm a Knicks fan!
-User: No way! / Same!
+**Meal Plan [Set 2]**
+AI: Are you on the meal plan?
+User: Yeah! 19 meals a week! / No, I cook in my room sometimes!
+AI: Me too! It's way more convenient than cooking every day.
+User: For sure! Saves so much time!
 
 **Outro:**
-> Team loyalty: Revealed! 🏆
-> Now, find out how they watch the games.
+> Meal plan discussed! 🥗
+> Now, talk about the best spots on campus!
 >
 
 ---
 
-### sim2: Watching the Game
+### sim2: Library Life
 
-**Goal:** To talk about watching games and share reactions.
+**Goal:** To find a study spot in the library and make a study plan.
 
-**📍 Location:** Sports bar (same)
+**📍 Location:** Campus library
 
 **intro_text:**
-The game just started. The energy is high.
-Time to react!
+Midterms are coming up fast.
+Time to hit the library and get serious!
 
-**Game Reactions [Set 3]**
-User: Did you see that play?
-AI: Yes! That was insane!
-User: I know! So good! / I can't believe it!
-AI: This is the best game all season!
+**Study Spot [Set 3]**
+User: Excuse me, is anyone sitting here?
+AI: No, it's free! Go ahead.
+User: Thanks! Are you studying for the midterm? / Thanks so much!
+AI: Yeah, I've been here for two hours already. It's a lot!
 
 **Outro:**
-> Game reactions: Shared! 🔥
-> Now, talk about your favorite player.
+> Study spot secured! 📚
+> Now, talk about the exam!
 >
 
-**Favorite Player [Set 4]**
-AI: Who's your favorite player?
-User: LeBron! / Steph Curry!
-AI: Oh, he's amazing!
-User: Right? The best!
+**Exam Talk [Set 4]**
+AI: Are you feeling ready for the test?
+User: Not really! I need to review more. / Getting there, I think!
+AI: Same! Do you wanna study together sometime?
+User: That sounds great! / Sure, let's do it!
 
 **Outro:**
-> Player debate: Started! ⭐
-> Almost done — make plans for the next game!
+> Study partner found! 💪
+> Almost done — one more part of campus life!
 >
 
 ---
 
-### sim3: Next Game
+### sim3: Campus Clubs
 
-**Goal:** To make plans to watch the next game together.
+**Goal:** To ask about campus clubs and sign up at the student union.
 
-**📍 Location:** Sports bar (same)
+**📍 Location:** Student union (club fair)
 
 **intro_text:**
-The game is almost over. The night is winding down.
-Time to plan the next one!
+It's club fair day at the student union.
+So many options — which one looks good?
 
-**Next Game [Set 5]**
-User: Wanna watch the next game together?
-AI: Yeah! When is it?
-User: Next Sunday! / This Friday!
-AI: I'm in! Where?
+**Club Fair [Set 5]**
+User: Hey, what club is this?
+AI: It's the photography club! We meet every Friday evening.
+User: That sounds awesome! How do I sign up? / I love photography!
+AI: Just put your name here! We'd love to have you!
 
 **Outro:**
-> Game plans: In progress! 📅
-> Almost there — just confirm the details!
+> Club found! 🎉
+> Almost there — make plans with your new club friend!
 >
 
-**Confirm [Set 6]**
-User: Here? Same bar?
-AI: Yeah, this place is great!
-User: Let's do it!
-AI: Can't wait! It's gonna be so good!
+**Signing Up [Set 6]**
+User: When's the first meeting?
+AI: This Friday at 6 PM in the student union! Come hungry — we always bring snacks.
+User: I'll be there for sure! / Sounds great!
+AI: Awesome! See you Friday!
 
 **Outro:**
-> Game night confirmed! 🎉
-> Next up: Time to talk about gaming!
+> Campus club: Joined! 🌟
+> Next up: Time to handle some campus admin!
 >
 
 ---
 
-# KD-4: What Are You Playing?
+# CL-4: Can I Come to Office Hours?
 
-- Category: Pop Culture / TV
-- Subcategory: Gaming
+- Category: Campus Life
+- Subcategory: Campus Admin
 - Level: A0 (Absolute Beginner)
 - 12 turns (6 sets, 3 sims)
 
 ---
 
-### sim1: Gaming Talk
+### sim1: Office Hours
 
-**Goal:** To talk about your favorite games and find out what your friend plays.
+**Goal:** To visit a professor's office hours and ask about your grade or an assignment.
 
-**📍 Location:** Gaming lounge (Brooklyn)
-
-**intro_text:**
-You just finished a game. The controller is still warm.
-Time to find out if they're a real gamer!
-
-**Opening — Games [Set 1]**
-AI: Hey, do you play video games?
-User: Yeah, all the time! / Sometimes!
-AI: What are you playing right now?
-User: Fortnite! / Minecraft!
-
-**Outro:**
-> Gamer: Confirmed! 🎮
-> But wait... what's their all-time favorite?
->
-
-**Favorite Game [Set 2]**
-AI: What's your all-time favorite game?
-User: The Last of Us! / Zelda!
-AI: Oh, that's so good!
-User: Right? It's amazing!
-
-**Outro:**
-> Same taste! ✨
-> Now, find out how long they've been gaming.
->
-
----
-
-### sim2: Gaming Deep Dive
-
-**Goal:** To discuss gaming habits and share opinions.
-
-**📍 Location:** Gaming lounge (same)
+**📍 Location:** Professor's office
 
 **intro_text:**
-The gaming talk is getting serious.
-Time to go deeper!
+You're standing outside the professor's door.
+Deep breath — it's just office hours!
 
-**Gaming Habits [Set 3]**
-User: How long do you play every day?
-AI: Like two or three hours! What about you?
-User: Same! / Way too much!
-AI: Ha! Same. It's hard to stop!
+**Knocking [Set 1]**
+AI: Come in! Oh hi, have a seat!
+User: Thank you, Professor. I had a question about the last assignment.
+AI: Of course! Which part are you wondering about?
+User: I wasn't sure if my answer was right!
 
 **Outro:**
-> Gaming habits: Shared! 🕹️
-> Now, talk about your favorite genre.
+> Office hours: Started! 📋
+> Now, ask your real question!
 >
 
-**Genre [Set 4]**
-AI: What kind of games do you like?
-User: Action games! / RPGs!
-AI: Nice! Me too!
-User: We should play together sometime!
+**The Question [Set 2]**
+AI: Walk me through what you wrote — let's look at it together.
+User: I wrote that the answer is ___. Is that right? / Can I revise my essay?
+AI: Good start! Revisions are welcome by Friday — just email it to me.
+User: Thank you so much, Professor! That really helps.
 
 **Outro:**
-> Gaming bond: Formed! 🤝
-> Almost done — make plans to play together!
+> Feedback received! 😊
+> Now, talk about changing your schedule!
 >
 
 ---
 
-### sim3: Play Together
+### sim2: Changing Your Schedule
 
-**Goal:** To make plans to play games together online.
+**Goal:** To talk to a classmate about the add/drop period and changing your class schedule.
 
-**📍 Location:** Gaming lounge (same)
+**📍 Location:** Campus café
 
 **intro_text:**
-You're both gamers. This was meant to be.
-Time to make it official!
+The add/drop deadline is coming up fast.
+Are you keeping all your classes?
 
-**Play Together [Set 5]**
-User: Wanna play online sometime?
-AI: Yeah! What do you play online?
-User: Fortnite! / Call of Duty!
-AI: I play that! Let's do it!
+**Drop or Stay [Set 3]**
+User: Hey, are you keeping all your classes this semester?
+AI: Honestly, I'm thinking about dropping one. It's way too much work!
+User: I get it! Which one? / I'm keeping all of mine!
+AI: Econ 101. What about you?
 
 **Outro:**
-> Online gaming plans: Made! 🎮
-> Almost there — just share your username!
+> Class decision: In progress! 🤔
+> Now, talk about what to take instead!
 >
 
-**Username [Set 6]**
-AI: What's your username?
-User: It's ___!
-AI: Got it! I'll add you!
-User: Let's play tonight!
+**Switching [Set 4]**
+AI: What are you thinking about taking instead?
+User: Maybe intro to psychology! / I'm looking at art history!
+AI: Oh, I heard that class is great! And pretty easy too.
+User: That's exactly why I want it! Ha!
 
 **Outro:**
-> Gaming squad: Formed! 🎉
-> Next up: Time to talk about music!
+> New class in sight! 📋
+> Almost done — now talk to your RA!
 >
 
 ---
 
-# 🎵 MUSIC & CONCERTS (casual + polite) >> American Music Scene
+### sim3: Talking to Your RA
 
-# KP-1: Do You Like Taylor Swift?
+**Goal:** To talk to your RA (resident advisor) about a dorm issue and learn the rules.
 
-- Category: Music & Concerts
-- Subcategory: Music Taste
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: Music Talk
-
-**Goal:** To talk about your favorite artist and find out what your friend listens to.
-
-**📍 Location:** Coffee shop (SoHo)
+**📍 Location:** Dorm hallway
 
 **intro_text:**
-The playlist is on. The vibes are immaculate.
-Time to find out if they have good taste!
+There's an issue in the dorm. You need help.
+Time to find your RA!
 
-**Opening — Music [Set 1]**
-AI: Hey, do you like music?
-User: Yeah, I love it! / It's okay!
-AI: Who's your favorite artist?
-User: Taylor Swift! / Beyoncé!
+**Talking to the RA [Set 5]**
+User: Hey, are you the RA for this floor?
+AI: Yeah, that's me! What's going on?
+User: My roommate plays loud music late at night. / There's a noise problem on my floor.
+AI: I hear you! I'll take care of it. Thanks for letting me know.
 
 **Outro:**
-> Music taste: Confirmed! 🎵
-> But wait... what's their favorite song?
+> Problem reported! 🙌
+> Almost there — ask about dorm rules!
 >
 
-**Favorite Song [Set 2]**
-AI: What's your favorite song right now?
-User: "Anti-Hero"! / "Cruel Summer"!
-AI: Oh, that's such a good song!
-User: Right? I can't stop listening!
+**Dorm Rules [Set 6]**
+AI: Do you have any questions about the dorm policies?
+User: Yeah — what are quiet hours? / When does the front door lock at night?
+AI: Quiet hours are 10 PM to 8 AM. Front door locks at midnight.
+User: Got it! Thanks so much!
 
 **Outro:**
-> Same taste! 🎶
-> Now, find out how they discovered their favorite artist.
->
-
----
-
-### sim2: Discovery
-
-**Goal:** To talk about how you discovered your favorite artist and share recommendations.
-
-**📍 Location:** Coffee shop (same)
-
-**intro_text:**
-The music talk is getting good.
-Time to go deeper!
-
-**How Did You Find Them? [Set 3]**
-User: How did you find Taylor Swift?
-AI: I heard her on the radio! What about you?
-User: I saw her on TikTok! / My friend showed me!
-AI: Oh nice! Which song?
-
-**Outro:**
-> Discovery story: Shared! 📖
-> Now, talk about your favorite album.
->
-
-**Favorite Album [Set 4]**
-AI: Do you have a favorite album?
-User: "Midnights"! / I haven't heard them all yet!
-AI: "Midnights" is so good!
-User: I know! / I'll listen to it!
-
-**Outro:**
-> Album love: Confirmed! 💿
-> Now, find out if they want to go to a concert!
->
-
----
-
-### sim3: Concert Plans
-
-**Goal:** To talk about going to a concert together.
-
-**📍 Location:** Coffee shop (same)
-
-**intro_text:**
-The music talk is at its peak.
-Time to make some real plans!
-
-**Concert [Set 5]**
-User: I want to see Taylor Swift live!
-AI: Me too! Did you get tickets?
-User: Not yet! Wanna try together? / I already got them!
-AI: We have to go! It's gonna be amazing!
-
-**Outro:**
-> Concert dreams! 🎤
-> Almost there — just confirm the details!
->
-
-**Tickets [Set 6]**
-AI: When is the concert?
-User: Next month!
-AI: Let's go! I'm so excited!
-User: Me too! It's gonna be amazing!
-
-**Outro:**
-> Concert confirmed! 🎉
-> Next up: Time to actually go to the concert!
->
-
----
-
-# KP-2: That Concert Was Insane!
-
-- Category: Music & Concerts
-- Subcategory: Concert Experience
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: Before the Concert
-
-**Goal:** To meet up before the concert and talk about your excitement.
-
-**📍 Location:** Outside the concert venue (Madison Square Garden)
-
-**intro_text:**
-The day is finally here.
-You're about to see your favorite artist live!
-
-**Opening — Before [Set 1]**
-AI: You made it! Are you excited?
-User: So excited! / A little nervous!
-AI: Me too! What song do you want to hear?
-User: "Anti-Hero"! / All of them!
-
-**Outro:**
-> Excitement level: MAX! 🎤
-> But wait... did they get the merch?
->
-
-**Merch [Set 2]**
-AI: Did you get any merch?
-User: Yeah, I got a shirt! / Not yet! Wanna go look?
-AI: Nice! Let's go look too!
-User: Let's go!
-
-**Outro:**
-> Merch secured! 🛍️
-> Now, time to go in!
->
-
----
-
-### sim2: During the Concert
-
-**Goal:** To react to the concert and share your excitement with your friend.
-
-**📍 Location:** Inside the concert venue
-
-**intro_text:**
-The lights go down. The crowd goes wild.
-This is it!
-
-**Concert Reactions [Set 3]**
-User: Oh my god, this is amazing!
-AI: I know! Her voice is insane!
-User: Right? I'm gonna cry! / This is the best night ever!
-AI: Me too! I'm already crying!
-
-**Outro:**
-> Feelings: Overflowing! 😭
-> Now, react to your favorite song!
->
-
-**Favorite Song [Set 4]**
-AI: Oh! "Anti-Hero" is next!
-User: No way! My favorite song! / Let's go!
-AI: Sing it with me!
-User: I'm singing!
-
-**Outro:**
-> Singing together! 🎶
-> Almost at the end — make it count!
->
-
----
-
-### sim3: After the Concert
-
-**Goal:** To talk about the concert after it ends and make plans to come again.
-
-**📍 Location:** Outside the venue
-
-**intro_text:**
-The concert is over. Your ears are ringing.
-But you don't want it to end!
-
-**After [Set 5]**
-User: That was incredible!
-AI: Best concert ever!
-User: I want to go again! / Let's go next time too!
-AI: We have to go again!
-
-**Outro:**
-> Concert memories: Made! 🌟
-> Now, talk about your favorite moment!
->
-
-**Best Moment [Set 6]**
-AI: What was your favorite part?
-User: "Anti-Hero"! / The last song!
-AI: Same! That part was insane!
-User: I want to go again!
-
-**Outro:**
-> Night to remember! 🎤
-> Next up: Time for the ultimate fan experience — the meet and greet!
->
-
----
-
-# KP-3: I Met Her at the Meet and Greet!
-
-- Category: Music & Concerts
-- Subcategory: Fan Culture
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: Before the Event
-
-**Goal:** To talk about your excitement before a meet and greet and prepare.
-
-**📍 Location:** Outside the event venue
-
-**intro_text:**
-The meet and greet is today.
-You're about to meet your favorite artist!
-
-**Opening — Before [Set 1]**
-AI: Are you nervous?
-User: So nervous! / Just a little!
-AI: You'll be fine! What are you gonna say?
-User: "I love your music"! / I don't know yet!
-
-**Outro:**
-> Preparation: In progress! 💪
-> But wait... what do you want to ask them?
->
-
-**What to Ask [Set 2]**
-AI: Are you gonna ask anything?
-User: "What's your favorite song to perform?" / I don't know yet!
-AI: That's a great question! Keep it simple!
-User: Okay! I'll try!
-
-**Outro:**
-> Question ready! 🎯
-> Now, time to actually meet them!
->
-
----
-
-### sim2: At the Meet and Greet
-
-**Goal:** To interact with an artist at a meet and greet using polite English.
-
-**📍 Location:** Inside the event venue
-
-**intro_text:**
-It's your turn. Deep breath.
-You've got this!
-
-**Meet and Greet [Set 3]**
-User: Hi! I'm such a big fan!
-AI: Thank you so much! That means a lot!
-User: What's your favorite song to perform? / I love your music so much!
-AI: Thank you! I love performing "Anti-Hero"!
-
-**Outro:**
-> Artist met! 🌟
-> Now, share the experience with your friend!
->
-
-**Tell Your Friend [Set 4]**
-AI: How was it? What happened?
-User: It was amazing! She was so nice! / I was so nervous!
-AI: What did you say?
-User: I said "I love your music"! / I asked about her favorite song!
-
-**Outro:**
-> Story shared! 💬
-> Now, talk about what they said to you!
->
-
----
-
-### sim3: After the Event
-
-**Goal:** To talk about the meet and greet experience and make plans to come again.
-
-**📍 Location:** Outside the venue
-
-**intro_text:**
-The event is over. You're still shaking.
-Time to process what just happened!
-
-**After [Set 5]**
-User: That was the best day of my life!
-AI: I know! Are you gonna come to the next one?
-User: Yes! When is it? / Of course!
-AI: Let's look it up!
-
-**Outro:**
-> Next event: Planned! 📅
-> Almost there — just one more thing to share!
->
-
-**Wrap Up [Set 6]**
-AI: Did you have fun today?
-User: So much fun! Best day ever!
-AI: Let's do it again next time!
-User: Yes! I can't wait!
-
-**Outro:**
-> Fan life: Unlocked! 🎤
-> Next up: Time to take your English to the workplace!
+> Dorm life: Figured out! 🏠
+> You're officially a campus pro. Next up: Workplace English!
 >
 
 ---
