@@ -1,102 +1,24 @@
-# KD-3: このドラマ、みた？
-
-- 大分類: Anime & Drama
-- 中分類: J-Drama
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Drama Talk
-
-**Goal:** To talk about your favorite J-drama and find out what your friend is watching.
-
-**📍 場所:** うち
-
-**intro_text:**
-Netflix is open. Popcorn is ready.
-Time to find out what they're watching!
-
-**起 — ドラマ [セット 1]**
 AI: ドラマ すき？
 User: うん、すき！ / アニメの ほうが すき！
 AI: いま なに みてる？
 User: 半沢直樹！ / あたらしい やつ！
-
-**Outro:**
-> Drama fan: Confirmed! 📺
-> But wait... what's their all-time favorite?
->
-
-**承 — いちばん すき [セット 2]**
 AI: いちばん すきな ドラマ なに？
 User: 逃げるは恥だが役に立つ！ / コウノドリ！
 AI: え、みた！めっちゃ よかった！
 User: ほんとに！なきそうだった！
-
-**Outro:**
-> Same taste! 😭
-> Now, find out what they think about the ending.
->
-
----
-
-### sim2: Opinions
-
-**Goal:** To share opinions about a drama and discuss favorite scenes.
-
-**📍 場所:** うち (同じ)
-
-**承 — いけん [セット 3]**
 User: さいごは どう おもった？
 AI: めっちゃ よかった！なきそうだった！きみは？
 User: わたしも！ / ちょっと びっくりした！
 AI: わかる！あの シーン やばかった！
-
-**Outro:**
-> Feelings shared! 💬
-> Now, talk about your favorite character.
->
-
-**転 — キャラ [セット 4]**
 AI: いちばん すきな キャラ だれ？
 User: みくり！ / ひらまさ！
 AI: え、いいね！なんで？
 User: かわいいから！ / かっこいいから！
-
-**Outro:**
-> Character love: Confirmed! ❤️
-> Now, recommend something new!
->
-
----
-
-### sim3: Recommendations
-
-**Goal:** To recommend a drama and make plans to watch together.
-
-**📍 場所:** うち (同じ)
-
-**転 — おすすめ [セット 5]**
 User: なにか おすすめ ある？
 AI: 「silent」みた？めっちゃ いいよ！
 User: みてない！どんな はなし？ / みた！めっちゃ よかった！
 AI: ラブストーリーだよ！みてみて！
-
-**Outro:**
-> Recommendation made! 📺
-> Now, make plans to watch together!
->
-
-**結 — いっしょに みよう [セット 6]**
 AI: いっしょに みる？
 User: みたい！いつ？
 AI: こんど どう？
 User: いいね！たのしみ！
-
-**Outro:**
-> Watch party planned! 🍿
-> Next up: Time to talk about J-Pop idols!
->
-
----

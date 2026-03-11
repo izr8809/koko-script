@@ -1,99 +1,24 @@
-# PI-8: 一緒に旅行しない？
-
-
----
-
-### sim1: Where to Go
-
-**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
-
-**📍 장소:** カフェ
-
-**intro_text:**
-A long weekend is coming. Your friend has no plans. This is your moment.
-
-**기 — 旅行の提案 [세트 1]**
 User: 来週の連休何する？
 AI: まだ何もない！なんで？
 User: 一緒に旅行しない？
 AI: やばい！いいね！どこ？
-
-**Outro:**
-> Road trip confirmed! 🗺️ Now the real question: where are we going?
-> Kyoto or Osaka? The debate begins.
->
-
-**승 — 決める [세트 2]**
 User: 京都どう？ / 大阪行きたい！
 AI: いいね！私も行きたかった！
 AI: 何日行く？
 User: 一泊二日？ / 二泊三日？
-
-**Outro:**
-> Destination locked! 📍 Now let's figure out how to get there.
-> Transport choices incoming — budget vs. comfort.
->
-
----
-
-### sim2: Planning
-
-**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
-
-**📍 장소:** カフェ (同じ)
-
-**승 — 計画 [세트 3]**
 AI: 何で行く？新幹線？バス？
 User: 新幹線にしよう！ / バス安い？
 AI: 新幹線が早い！2時間くらいで着くよ！
 User: いいね！
-
-**Outro:**
-> Shinkansen it is! 🚅 Fast, smooth, and very Japanese.
-> Next up: where are we sleeping?
->
-
-**전 — 宿泊 [세트 4]**
 AI: 宿どうする？ホテル？ゲストハウス？
 User: ゲストハウス！安いから！ / ホテルの方が楽じゃない？
 AI: ゲストハウス予約するね！
 User: うん、ありがとう！
-
-**Outro:**
-> Accommodation sorted! 🏠 Budget travel wins again.
-> Now the fun part — what are we actually doing there?
->
-
----
-
-### sim3: Getting Excited
-
-**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
-
-**📍 장소:** カフェ (同じ)
-
-**전 — ワクワク [세트 5]**
 User: 京都で何したい？
 AI: 伏見稲荷行きたい！君は？
 User: 私は抹茶食べたい！ / 嵐山行きたい！
 AI: いいね！全部行こう！
-
-**Outro:**
-> The itinerary is basically writing itself! 🌸 Shrines, matcha, bamboo — perfect.
-> The countdown to departure starts now.
->
-
-**결 — 楽しみ [세트 6]**
 AI: 楽しみだね！
 User: 私も！早く行きたい！
 AI: じゃあその時ね！荷物まとめといて！
 User: わかった！
-
-**Outro:**
-> Bags packed (mentally)! 🧳 This trip is going to be legendary.
-> Japan is waiting — and so is the best matcha of your life.
->
-
----
-
-# ✈️ TRAVELING (です・ます体) >> Japan Travel

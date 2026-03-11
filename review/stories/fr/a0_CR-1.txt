@@ -1,110 +1,24 @@
-# CR-1 : Je me présente
-
-- Catégorie : Travail
-- Sous-catégorie : Présentation Professionnelle
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : La Présentation
-
-**Goal:** To introduce yourself professionally in a French workplace.
-
-**📍 Lieu :** Bureau (Paris, La Défense)
-
-**intro_text:**
-Premier jour au bureau.
-C'est l'heure de vous présenter !
-
-**Présentation — Bonjour [Série 1]**
 AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
 User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
 AI: Enchanté(e) ! Je suis Marie, responsable du projet.
 User: Enchanté(e), Marie. Je suis ravi(e) d'être ici.
-
-**Outro:**
-> Première impression : Excellente ! 🤝
-> Maintenant, parlez de votre poste.
->
-
-**Poste — Votre rôle [Série 2]**
 User: Je suis chargé(e) de communication. Et vous ?
 AI: Je suis chef de projet. Bienvenue dans l'équipe !
 User: Merci beaucoup. / Je suis très content(e) de rejoindre l'équipe.
 AI: Nous sommes ravis de vous avoir !
-
-**Outro:**
-> Rôles clarifiés ! 📋
-> La suite : La réunion vous attend.
->
-
----
-
-### sim2 : Le Bureau
-
-**Goal:** To ask about the office and find your way around.
-
-**📍 Lieu :** Bureau (même endroit)
-
-**intro_text:**
-Vous découvrez le bureau.
-Où est tout ?
-
-**Bureau — Où est... ? [Série 3]**
 User: Excusez-moi, où est la salle de réunion ?
 AI: C'est au 3e étage, à gauche de l'ascenseur.
 User: Merci beaucoup. / Et la cafétéria ?
 AI: La cafétéria est au rez-de-chaussée.
-
-**Outro:**
-> Bureau exploré ! 🏢
-> Vous commencez à vous repérer.
->
-
-**Collègues — L'équipe [Série 4]**
 AI: Vous avez rencontré toute l'équipe ?
 User: Pas encore. Il y a combien de personnes ? / Oui, tout le monde est très sympa.
 AI: Nous sommes 12 dans l'équipe. Je vous présente tout le monde.
 User: Avec plaisir, merci !
-
-**Outro:**
-> Équipe découverte ! 👥
-> La suite : La première réunion arrive.
->
-
----
-
-### sim3 : La Première Journée
-
-**Goal:** To wrap up your first day and confirm plans for tomorrow.
-
-**📍 Lieu :** Bureau (fin de journée)
-
-**intro_text:**
-La première journée se termine.
-Comment ça s'est passé ?
-
-**Bilan — C'était bien ? [Série 5]**
 User: C'était une bonne première journée.
 AI: Vous vous êtes bien intégré(e) ?
 User: Oui, tout le monde est très accueillant. / Oui, c'était très bien.
 AI: Parfait ! Demain, nous avons une réunion à 9h.
-
-**Outro:**
-> Première journée réussie ! ✅
-> Demain, la vraie aventure commence.
->
-
-**Demain — À demain [Série 6]**
 AI: Vous avez des questions pour demain ?
 User: Non, je crois que c'est bon. Merci ! / Oui, à quelle heure commence la réunion ?
 AI: La réunion est à 9h précises. Bonne soirée !
 User: Merci, bonne soirée à vous aussi !
-
-**Outro:**
-> Prêt(e) pour demain ! 🌅
-> La suite : La réunion vous attend.
->
-
----

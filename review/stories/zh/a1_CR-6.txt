@@ -1,95 +1,24 @@
-# CR-6: 我明天可以请假吗？
-
-
----
-
-### sim1: 申请请假
-
-**Goal:** To politely request a day off from your manager and explain the reason clearly.
-
-**📍 장소:** 办公室（经理位置前）
-
-**intro_text:**
-You need tomorrow off. Your manager is right there. Deep breath.
-
-**기 — 申请 [세트 1]**
 User: 经理，我有事。
 AI: 好的，请说。
 User: 明天我可以请假吗？
 AI: 明天？有急事吗？
-
-**Outro:**
-> The ask is out there! 😬 Now explain yourself calmly and professionally.
-> This is the moment that separates the rookies from the pros.
->
-
-**승 — 解释 [세트 2]**
 User: 是的，需要去医院。/ 有点私事。
 AI: 好的，明白了。
 AI: 明天的工作可以交给别人吗？
 User: 可以，我来整理。
-
-**Outro:**
-> Proactive handover offer! 📋 That's exactly what a good employee does.
-> Now wait for the official answer.
->
-
----
-
-### sim2: 确认
-
-**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
-
-**📍 장소:** 办公室（经理位置前，同一）
-
-**승 — 确认 [세트 3]**
 AI: 那明天休息吧。
 User: 谢谢您。
 AI: 注意身体！
 User: 好的，谢谢您。
-
-**Outro:**
-> Leave approved! 🎉 Your manager is actually human — who knew?
-> Now make sure everything is in order before you go.
->
-
-**전 — 准备 [세트 4]**
 User: 明天的工作，我发邮件给您。
 AI: 好的，谢谢！
 User: 还有什么需要的吗？
 AI: 没有了！辛苦了！
-
-**Outro:**
-> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
-> One more day — then you're free.
->
-
----
-
-### sim3: 回来了
-
-**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
-
-**📍 장소:** 办公室（自己的位置）
-
-**전 — 回来 [세트 5]**
 User: 经理，您好！昨天谢谢您！
 AI: 没关系！身体怎么样了？
 User: 好多了。/ 没事了，谢谢您。
 AI: 太好了！
-
-**Outro:**
-> Back and better! 💪 Your manager genuinely cares — that's a good sign.
-> Now ease back in and show them it was worth the day off.
->
-
-**결 — 回到工作 [세트 6]**
 AI: 慢慢来！别太勉强！
 User: 好的，谢谢您。
 AI: 辛苦了！
 User: 您辛苦了！
-
-**Outro:**
-> "您辛苦了！" 🏢 The most Chinese way to end a workday.
-> You navigated Chinese office culture like a true professional.
->

@@ -1,97 +1,24 @@
-# PI-7: 你最近有烦恼？
-
-
----
-
-### sim1: 有点不对劲
-
-**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
-
-**📍 장소:** 咖啡馆
-
-**intro_text:**
-Something's been off lately. Your friend noticed. Time to talk.
-
-**기 — 烦恼 [세트 1]**
 AI: 你最近看起来不太开心。怎么了？
 User: 有点难受。/ 有点烦恼。
 AI: 什么烦恼？说说看。
 User: 在中国生活有点难。/ 事情太多了。
-
-**Outro:**
-> It's out there now. 💬 The first step is always the hardest.
-> Your friend is listening — keep going.
->
-
-**승 — 倾听 [세트 2]**
 AI: 哪方面最难？
 User: 一个人的时间太多了。/ 中文还是很难。
 AI: 你一定很辛苦。
 User: 嗯，有点。
-
-**Outro:**
-> Heard and understood. 🫂 That's what real friends do.
-> Now it's time to do something about it.
->
-
----
-
-### sim2: 给建议
-
-**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
-
-**📍 장소:** 咖啡馆 → 后海
-
-**승 — 建议 [세트 3]**
 AI: 别一个人想太多。跟我说！
 User: 谢谢。/ 好的。
 AI: 要不要出去散散心？走吧！
 User: 去哪儿？/ 好啊！
-
-**Outro:**
-> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
-> Houhai has a way of making everything feel better.
->
-
-**전 — 出去走走 [세트 4]**
 AI: 去后海吧！吹吹风心情会好一点！
 User: 好，走吧！
 AI: 要不要买点吃的带着？
 User: 好啊！/ 去便利店吧！
-
-**Outro:**
-> Convenience store snacks + Houhai = perfect combo! 🍜 Let's go.
-> The best conversations happen by the water.
->
-
----
-
-### sim3: 好多了
-
-**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
-
-**📍 장소:** 后海边
-
-**전 — 心情好多了 [세트 5]**
 AI: 心情好一点了吗？
 User: 嗯，好多了！/ 谢谢你！
 AI: 太好了！
 User: 真的谢谢你。
-
-**Outro:**
-> From stressed to refreshed! 🌊 Houhai delivered.
-> Now make it official — promise to reach out next time.
->
-
-**결 — 随时找我 [세트 6]**
 AI: 难受的时候随时找我！
 User: 嗯，好的！
 AI: 说好了！
 User: 说好了！
-
-**Outro:**
-> Pinky promise made! 🤙 You're not alone in this.
-> Life in China is tough, but with friends like this, you've got this.
->
-
----

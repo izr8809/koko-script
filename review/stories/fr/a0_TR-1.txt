@@ -1,113 +1,24 @@
-# TR-1 : Un café, s'il vous plaît
-
-- Catégorie : Voyages et Déplacements
-- Sous-catégorie : Café / Brasserie
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
-Vous êtes dans un café parisien.
-Commandez comme un(e) vrai(e) Parisien(ne) !
-
----
-
-### sim1 : La Commande
-
-**Goal:** To order a coffee and a pastry at a Parisian café.
-
-**📍 Lieu :** Café (Paris, rive gauche)
-
-**intro_text:**
-Vous êtes dans un café parisien.
-Commandez comme un(e) vrai(e) Parisien(ne) !
-
-**Commande — Au café [Série 1]**
 AI: Bonjour ! Vous désirez ?
 User: Un café, s'il vous plaît. / Un allongé, s'il vous plaît.
 AI: Très bien ! Et avec ça ?
 User: Un croissant, s'il vous plaît.
-
-**Outro:**
-> Commande passée ! ☕
-> Maintenant, trouvez une bonne table.
->
-
-**Installation — La table [Série 2]**
 User: Excusez-moi, cette table est libre ?
 AI: Oui, bien sûr ! Asseyez-vous.
 User: Merci beaucoup.
 AI: Je vous apporte ça tout de suite.
-
-**Outro:**
-> Installé(e) ! 🪑
-> Le café arrive... savourez le moment.
->
-
----
-
-### sim2 : L'Addition
-
-**Goal:** To ask for the bill and pay at a café.
-
-**📍 Lieu :** Café (même endroit)
-
-**intro_text:**
-Le café était excellent. Maintenant, il faut payer.
-Comment demander l'addition en français ?
-
-**Addition — On paie [Série 3]**
 User: L'addition, s'il vous plaît.
 AI: Bien sûr ! Voilà, c'est 4 euros 50.
 User: Voilà. / Je paye par carte.
 AI: Merci ! Bonne journée !
-
-**Outro:**
-> Payé ! 💳
-> Vous avez survécu à votre premier café parisien !
->
-
-**Départ — Au revoir [Série 4]**
 AI: Tout s'est bien passé ?
 User: Oui, c'était très bon ! / Excellent, merci !
 AI: Merci à vous ! À bientôt !
 User: Au revoir !
-
-**Outro:**
-> Expérience café : Réussie ! 🥐
-> La suite : Un vrai repas vous attend.
->
-
----
-
-### sim3 : Une Question
-
-**Goal:** To ask a question about the menu or a recommendation.
-
-**📍 Lieu :** Café (même endroit)
-
-**intro_text:**
-Vous voulez essayer quelque chose de nouveau.
-Demandez conseil au serveur !
-
-**Menu — Qu'est-ce que vous recommandez ? [Série 5]**
 User: Qu'est-ce que vous recommandez ?
 AI: Le café crème est très bon ! Et nos croissants sont frais.
 User: Parfait, je prends ça ! / Je vais prendre le café crème.
 AI: Excellent choix !
-
-**Outro:**
-> Conseil pris ! 👌
-> Vous commencez à vous sentir comme un(e) local(e).
->
-
-**Spécialité — C'est quoi ça ? [Série 6]**
 AI: Vous voulez goûter notre tarte du jour ?
 User: C'est quoi ? / Oui, pourquoi pas !
 AI: C'est une tarte aux pommes. C'est délicieux !
 User: D'accord, je vais essayer !
-
-**Outro:**
-> Aventurier(ère) culinaire ! 🍎
-> La suite : Un restaurant vous attend ce soir.
->
-
----

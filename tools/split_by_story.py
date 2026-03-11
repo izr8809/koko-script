@@ -2,7 +2,7 @@
 """
 Split koko-script files by story into individual text files.
 Output: review/stories/{lang}/{level}_{story_id}.txt
-e.g. review/stories/en/a0_PI-1.txt
+Only AI/User dialogue lines are kept — all metadata, intros, outros, headers stripped.
 """
 
 import re
@@ -19,7 +19,10 @@ LANG_NAMES = {
 # Story header pattern: # PI-1: ..., # TR-2: ..., # FAM-3: ..., etc.
 STORY_HEADER = re.compile(r"^(?:\d+#[A-Z]{2}\|)?# ([A-Z]{2,4}-\d+)\s*:\s*(.+)$")
 
-# Internal Korean metadata to strip
+# Lines to keep: only AI: and User: dialogue
+DIALOGUE = re.compile(r"^(AI|User):")
+
+# Patterns to always strip (Korean metadata)
 STRIP_PATTERNS = [
     re.compile(r"^- (대분류|중분류|난이도|분류|카테고리|서브카테고리):"),
     re.compile(r"^- \d+턴 \(\d+세트"),
@@ -56,9 +59,9 @@ def split_file(input_path: str, lang: str, level: str, output_dir: str):
                 stories.append((current_id, current_title, current_lines))
             current_id = m.group(1)
             current_title = m.group(2).strip()
-            current_lines = [text]
+            current_lines = []  # title not included — dialogue only
         else:
-            if current_id is not None:
+            if current_id is not None and DIALOGUE.match(text):
                 current_lines.append(text)
 
     # Save last story
@@ -71,14 +74,19 @@ def split_file(input_path: str, lang: str, level: str, output_dir: str):
         filename = f"{level}_{story_id}.txt"
         filepath = os.path.join(output_dir, filename)
 
-        # Trim trailing blank lines
-        while lines and not lines[-1].strip():
-            lines.pop()
-
+        # Group into pairs separated by blank line for readability
+        output_lines = []
+        for i, line in enumerate(lines):
+            output_lines.append(line)
+            # blank line between AI→User or User→AI transitions
+            if i + 1 < len(lines):
+                cur_role = lines[i].split(":")[0]
+                nxt_role = lines[i + 1].split(":")[0]
+                if cur_role != nxt_role:
+                    pass  # keep compact, no blank lines
         with open(filepath, "w", encoding="utf-8") as f:
-            f.write("\n".join(lines))
-
-        print(f"    {filename}  ({len(lines)} lines)")
+            f.write("\n".join(output_lines))
+        print(f"    {filename}  ({len(lines)} dialogue lines)")
 
     return len(stories)
 

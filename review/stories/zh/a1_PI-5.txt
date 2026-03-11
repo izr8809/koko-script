@@ -1,100 +1,24 @@
-# PI-5: 咱们去吃饭吧！
-
-
----
-
-### sim1: 选地方
-
-**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
-
-**📍 장소:** 三里屯街头
-
-**intro_text:**
-Lunchtime in Beijing. Endless options. What are we eating?
-
-**기 — 吃什么 [세트 1]**
 User: 我饿了！吃什么好？
 AI: 我也饿了！你想吃什么？
 User: 想吃烤肉！/ 吃烤肉怎么样？
 AI: 好啊！我知道一家超好吃的！走吧！
-
-**Outro:**
-> Kǎoròu it is! 🥩 Now, how far is this place?
-> Your stomach is already counting down.
->
-
-**승 — 怎么去 [세트 2]**
 AI: 就在附近！走路去吧！
 User: 好！要走多久？/ 走路去啊？
 AI: 五分钟就到了！走吧！
 User: 好的！
-
-**Outro:**
-> Five minutes away! 🚶 The smell of grilling meat is basically pulling you there.
-> Almost there — let's go!
->
-
----
-
-### sim2: 在餐厅
-
-**Goal:** To order food together and enjoy the meal like a true Beijing local.
-
-**📍 장소:** 烤肉店里
-
-**intro_text:**
-You're here. The place looks packed. That's always a good sign.
-
-**승 — 点菜 [세트 3]**
 AI: 到了！怎么样？
 User: 哇，不错！/ 人好多！
 AI: 点什么？这是菜单！
 User: 烤肉两人份！/ 再来个凉菜！
-
-**Outro:**
-> Order placed! 🥩 Now comes the most important question in China...
-> Who's in charge of the grill? The real power move starts now.
->
-
-**전 — 吃饭 [세트 4]**
 AI: 我来烤吧！
 User: 好，你来！/ 我来烤！
 AI: 超好吃！
 User: 真的超好吃！/ 这家找对了！
-
-**Outro:**
-> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
-> Brace yourself — the Chinese bill fight is legendary.
->
-
----
-
-### sim3: 吃完了
-
-**Goal:** To insist on paying the bill and make plans to keep the hangout going.
-
-**📍 장소:** 烤肉店里 → 店外街头
-
-**전 — 结账 [세트 5]**
 User: 我来付！
 AI: 不行，一起付！
 User: 不用，今天我请！
 AI: 真的？谢谢！下次我请！
-
-**Outro:**
-> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
-> The hangout isn't over yet — round two incoming.
->
-
-**결 — 下一站 [세트 6]**
 AI: 吃饱了！现在去哪儿？
 User: 去喝奶茶？/ 走走消化一下？
 AI: 好，走吧！
 User: 走！
-
-**Outro:**
-> Food coma incoming! 🧋 Time to grab some milk tea and keep the vibe going.
-> A perfect hangout deserves a perfect ending.
->
-
----

@@ -1,100 +1,24 @@
-# CR-4: Vous êtes prêt(e) pour la réunion ?
-
-
----
-
-### sim1: Avant la réunion
-
-**Goal:** To confirm meeting preparations with your colleague and secure the conference room booking.
-
-**📍 장소:** Bureau (open space)
-
-**intro_text:**
-Meeting in 2 hours. Almost ready... I think.
-
-**기 — La préparation [세트 1]**
 AI: Vous êtes prêt(e) pour la réunion de cet après-midi ?
 User: Oui, je suis prêt(e). / Presque, j'ai presque fini.
 AI: Vous avez imprimé les documents ?
 User: Oui, c'est fait. / Je le fais maintenant.
-
-**Outro:**
-> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
-> A meeting without a room is just a hallway conversation.
->
-
-**승 — La salle [세트 2]**
 AI: Vous avez réservé la salle de réunion ?
 User: Oui, j'ai réservé pour 15h.
 AI: Parfait ! On se retrouve là-bas !
 User: Oui, entendu.
-
-**Outro:**
-> Room booked and ready to go! 📅 Deep breath... it's showtime.
-> Time to walk into that meeting like you own the place.
->
-
----
-
-### sim2: Pendant la réunion
-
-**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
-
-**📍 장소:** Salle de réunion
-
-**intro_text:**
-Meeting in progress. Time to share my thoughts.
-
-**승 — Votre avis [세트 3]**
 AI: Vous avez un avis sur ce point ?
 User: Oui, je pense que c'est mieux. / Je suis d'accord !
 AI: Très bonne remarque !
 User: Je vous remercie.
-
-**Outro:**
-> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
-> One more question and you'll have nailed this meeting.
->
-
-**전 — Une question [세트 4]**
 User: J'ai une question, s'il vous plaît.
 AI: Oui, je vous en prie !
 User: Quelle est la date limite pour cette partie ?
 AI: C'est pour vendredi prochain !
-
-**Outro:**
-> Deadline secured: Next Friday. ⏳ You are officially surviving corporate France!
-> Now wrap it up and get back to your desk.
->
-
----
-
-### sim3: Après la réunion
-
-**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
-
-**📍 장소:** Salle de réunion → bureau
-
-**전 — On conclut [세트 5]**
 AI: Merci à tous pour cette réunion !
 User: Merci à vous !
 User: Je peux envoyer le compte-rendu !
 AI: C'est parfait, merci !
-
-**Outro:**
-> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
-> One last professional exchange and you're done.
->
-
-**결 — À la prochaine [세트 6]**
 AI: On se retrouve à la prochaine réunion alors !
 User: Oui, entendu.
 AI: Bon courage !
 User: Merci, vous aussi !
-
-**Outro:**
-> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your colleagues.
-> Corporate France: 0, You: 1.
->
-
----

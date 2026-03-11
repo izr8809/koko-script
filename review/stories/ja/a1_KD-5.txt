@@ -1,97 +1,24 @@
-# KD-5: 最近好きな人いるんだけど
-
-
----
-
-### sim1: Confession to a Friend
-
-**Goal:** To confess to your best friend that you have a crush and share details about who they are.
-
-**📍 장소:** カフェ
-
-**intro_text:**
-Two coffees. One secret. Here we go...
-
-**기 — 秘密 [세트 1]**
 User: 私ちょっと秘密があるんだけど。
 AI: 何？教えて！
 User: 最近好きな人いるんだよね。
 AI: え、本当に？誰？！
-
-**Outro:**
-> The secret is out! 🤫 Now, who is this lucky person?
-> Your friend is already losing their mind.
->
-
-**승 — 誰 [세트 2]**
 AI: もしかして私が知ってる人？
 User: うん。 / ううん、知らないと思う。
 AI: どんな人なの？
 User: 本当に優しい。 / 笑った時かわいい。
-
-**Outro:**
-> A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
-> The origin story is always the best part.
->
-
----
-
-### sim2: Details
-
-**Goal:** To share how you met your crush and open up about being too nervous to confess.
-
-**📍 장소:** カフェ (同じ)
-
-**승 — どこで会った [세트 3]**
 AI: どこで会ったの？
 User: カフェで！ / 授業で！
 AI: ロマンチック！それでどうなったの？
 User: まだ何も言えてない。 / 連絡先もらった！
-
-**Outro:**
-> You got their number?! That's huge! 📱 So... is it time to make a move?
-> Your friend is about to give you the push you need.
->
-
-**전 — アドバイス [세트 4]**
 AI: 告白しないの？
 User: したいけど怖い。 / まだ早い。
 AI: 君はいい人だよ！自信持って！
 User: 本当に？ありがとう。
-
-**Outro:**
-> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
-> The confession is getting closer — can you feel it?
->
-
----
-
-### sim3: Encouragement
-
-**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
-
-**📍 장소:** カフェ (同じ)
-
-**전 — 応援 [세트 5]**
 AI: 告白したら教えて！応援するよ！
 User: わかった！ / 緊張するけどやってみる。
 AI: 頑張れ！
 User: ありがとう！
-
-**Outro:**
-> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
-> The universe is rooting for you.
->
-
-**결 — 期待 [세트 6]**
 AI: うまくいくよ！
 User: そうだといいな。
 AI: 絶対大丈夫！連絡して！
 User: うん！
-
-**Outro:**
-> Romance is definitely in the air! 🌸 But wait... is there a drama plot twist coming?
-> Stay tuned — the story is just getting started.
->
-
----

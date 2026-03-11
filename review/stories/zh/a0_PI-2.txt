@@ -1,102 +1,24 @@
-# PI-2: 你喜欢什么？
-
-- 大分类: Personal Interest
-- 中分类: Hobbies
-- 难易度: A0 (Absolute Beginner)
-- 12轮 (6组, 3sim)
-
----
-
-### sim1: The Basics
-
-**Goal:** To ask and answer questions about age and where you live.
-
-**📍 장소:** 咖啡馆
-
-**intro_text:**
-You made it to the café. Now the real small talk begins.
-Age, location... and then the question everyone asks.
-
-**기 — 年龄 [세트 1]**
 AI: 你多大？
 User: 我___岁！
 AI: 哦，跟我差不多！我25岁！
 User: 真的？ / 哦，这样啊！
-
-**Outro:**
-> Age revealed! 🎂
-> Now find out where they actually live.
->
-
-**승 — 住哪儿 [세트 2]**
 User: 你住哪儿？
 AI: 我？我住三里屯附近！你呢？
 User: 我住国贸！ / 我住国贸附近！
 AI: 哦，不远！
-
-**Outro:**
-> Neighbors? Maybe! 📍
-> Get ready — the MBTI question is coming.
->
-
----
-
-### sim2: MBTI Talk
-
-**Goal:** To discuss MBTI types and talk about personality.
-
-**📍 장소:** 咖啡馆 (同一地点)
-
-**승 — MBTI [세트 3]**
 User: 你的MBTI是什么？
 AI: 我是INFJ！你呢？
 User: 我是ENFP！ / 我不知道！
 AI: ENFP？感觉很对！
-
-**Outro:**
-> Compatibility check: Passed! 💫
-> Now dig a little deeper into who they really are.
->
-
-**전 — 性格 [세트 4]**
 AI: 你喜欢在家还是出去玩？
 User: 喜欢出去！ / 喜欢在家！
 AI: 我也喜欢出去！
 User: 哦，一样！
-
-**Outro:**
-> Same energy! ✨
-> One more round — what are they up to these days?
->
-
----
-
-### sim3: More About You
-
-**Goal:** To talk about what you've been doing lately and your Chinese learning journey.
-
-**📍 장소:** 咖啡馆 (同一地点)
-
-**전 — 最近在做什么 [세트 5]**
 AI: 你最近在做什么？
 User: 学中文！ / 看中国剧！
 AI: 中文怎么样？有意思吗？
 User: 有意思！ / 有点难。
-
-**Outro:**
-> Honest answer! 😄
-> Time to wrap this up and make plans to talk again.
->
-
-**결 — 下次见 [세트 6]**
 User: 你有什么爱好？
 AI: 我喜欢听歌！你呢？
 User: 我喜欢看电影！ / 我喜欢打游戏！
 AI: 下次一起去看电影吧！
-
-**Outro:**
-> Plans made! 🎬
-> You're officially becoming friends. The adventure continues!
->
-
----

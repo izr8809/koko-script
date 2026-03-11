@@ -1,99 +1,24 @@
-# PI-8: 咱们一起去旅行吧？
-
-
----
-
-### sim1: 去哪儿
-
-**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
-
-**📍 장소:** 咖啡馆
-
-**intro_text:**
-A long weekend is coming. Your friend has no plans. This is your moment.
-
-**기 — 旅行提议 [세트 1]**
 User: 下周小长假你有什么计划？
 AI: 还没有！怎么了？
 User: 一起去旅行吧？
 AI: 太好了！去哪儿？
-
-**Outro:**
-> Road trip confirmed! 🗺️ Now the real question: where are we going?
-> Xiamen or Chengdu? The debate begins.
->
-
-**승 — 定目的地 [세트 2]**
 User: 去厦门怎么样？/ 想去成都！
 AI: 好啊！我也一直想去！
 AI: 去几天？
 User: 两天一夜？/ 三天两夜？
-
-**Outro:**
-> Destination locked! 📍 Now let's figure out how to get there.
-> Transport choices incoming — budget vs. comfort.
->
-
----
-
-### sim2: 计划行程
-
-**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
-
-**📍 장소:** 咖啡馆（同一地点）
-
-**승 — 怎么去 [세트 3]**
 AI: 怎么去？坐高铁还是飞机？
 User: 坐高铁吧！/ 飞机贵吗？
 AI: 高铁便宜！两个小时就到了！
 User: 好！
-
-**Outro:**
-> High-speed rail it is! 🚄 Fast, cheap, and very Chinese.
-> Next up: where are we sleeping?
->
-
-**전 — 住哪儿 [세트 4]**
 AI: 住哪儿？酒店还是民宿？
 User: 住民宿吧！便宜！/ 酒店比较方便？
 AI: 我来订民宿！
 User: 好，谢谢！
-
-**Outro:**
-> Accommodation sorted! 🏠 Budget travel wins again.
-> Now the fun part — what are we actually doing there?
->
-
----
-
-### sim3: 好期待
-
-**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
-
-**📍 장소:** 咖啡馆（同一地点）
-
-**전 — 期待 [세트 5]**
 User: 到了厦门想做什么？
 AI: 想去鼓浪屿！你呢？
 User: 我想吃海鲜！/ 想逛老街！
 AI: 好！都去！
-
-**Outro:**
-> The itinerary is basically writing itself! 🌊 Island, seafood, old streets — perfect.
-> The countdown to departure starts now.
->
-
-**결 — 出发 [세트 6]**
 AI: 好期待！
 User: 我也是！快点出发！
 AI: 到时候见！把行李收拾好！
 User: 好的！
-
-**Outro:**
-> Bags packed (mentally)! 🧳 This trip is going to be legendary.
-> China is waiting — and so is the best seafood of your life.
->
-
----
-
-# ✈️ 旅行（您/礼貌用语）>> 中国旅行

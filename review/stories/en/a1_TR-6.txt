@@ -1,97 +1,24 @@
-# TR-6: How do I take the subway?
-
-
----
-
-### sim1: At the Station
-
-**Goal:** To buy a MetroCard, charge it, and find the right subway line to your destination.
-
-**📍 Location:** Subway station (Times Square)
-
-**intro_text:**
-NYC subway. Dozens of lines. Hundreds of stations. You've got this.
-
-**기 — At the station [Set 1]**
 User: Excuse me! Where can I buy a MetroCard?
 AI: Right over there at the machine!
 User: Thank you! Can I add money there too?
 AI: Yes, you can!
-
-**Outro:**
-> MetroCard acquired! 💳 Now, which line do you need?
-> NYC's subway map looks scary — but it's actually pretty logical.
->
-
-**승 — Which line [Set 2]**
 User: I want to get to SoHo. Which train do I take?
 AI: Take the C or E train! It's right over there.
 User: Do I need to transfer?
 AI: Nope, it's a straight shot!
-
-**Outro:**
-> No transfers! 🚇 That's the best news you've heard all day.
-> Now hop on and try not to miss your stop.
->
-
----
-
-### sim2: On the Train
-
-**Goal:** To ask a fellow passenger for help and figure out how to transfer to the right line.
-
-**📍 Location:** On the subway
-
-**승 — On the train [Set 3]**
 AI: (fellow passenger) Where are you headed?
 User: SoHo!
 AI: You've got three more stops!
 User: Three stops? Thank you so much!
-
-**Outro:**
-> Three more stops! 🎯 A kind stranger just saved your day.
-> But what if you need to transfer somewhere else?
->
-
-**전 — Transferring [Set 4]**
 User: Excuse me! How do I transfer at 14th Street?
 AI: Just follow the signs when you get off! Look for the A or C line!
 User: Thank you!
 AI: Easy! Don't worry!
-
-**Outro:**
-> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
-> Almost at your destination — just a few more stops.
->
-
----
-
-### sim3: Arriving
-
-**Goal:** To confirm you've arrived at the right station and find the correct exit.
-
-**📍 Location:** Subway station (arrival platform)
-
-**전 — Arrived [Set 5]**
 User: Is this Spring Street station?
 AI: Yes, it is!
 User: Which exit should I take?
 AI: Take exit 1 — it puts you right on Spring Street!
-
-**Outro:**
-> Exit 1! 🚪 You made it through the NYC subway like a pro.
-> One last thank-you and you're free.
->
-
-**결 — Heading out [Set 6]**
 User: Thank you so much!
 AI: No problem at all!
 User: You were really helpful!
 AI: Have a great day!
-
-**Outro:**
-> NYC subway: conquered! 🏆 You're officially a local now.
-> Next challenge: shopping in SoHo without spending your whole budget.
->
-
----

@@ -1,102 +1,24 @@
-# TR-2: からくない やつ ください
-
-- 大分類: Traveling
-- 中分類: Restaurant
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Welcome to the Restaurant
-
-**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
-
-**📍 場所:** 食堂
-
-**intro_text:**
-First Japanese restaurant experience.
-Get ready for some serious flavor!
-
-**起 — せきにつく [セット 1]**
 AI: いらっしゃいませ！なんめいさまですか？
 User: ひとりです。 / ふたりです。
 AI: こちらへ どうぞ。
 User: はい、ありがとうございます。
-
-**Outro:**
-> Survived the seating! 🪑
-> Now, the real challenge begins: the menu.
->
-
-**承 — ちゅうもん [セット 2]**
 AI: ご注文は？
 User: すみません！カレーライス ひとつ ください。
 AI: はい、カレーライス ひとつですね。
 User: あ、それから お水も ください。
-
-**Outro:**
-> Order placed! 🍲
-> But wait... is the curry too spicy for you?
->
-
----
-
-### sim2: The Flavor Check
-
-**Goal:** To adjust your order and politely request extra items.
-
-**📍 場所:** 食堂 (同じ)
-
-**承 — からさ [セット 3]**
 AI: カレーライス、すこし からいです。だいじょうぶですか？
 User: からいですか？ / はい、だいじょうぶです！
 AI: はい、すこし からいです。
 User: じゃあ からくない やつ ください。 / からくて だいじょうぶです！
-
-**Outro:**
-> Crisis averted! 🥵
-> Time to discover the magic of Japanese side dishes.
->
-
-**転 — おかわり [セット 4]**
 User: すみません！おかわり ください。
 AI: なにを おかわりしますか？
 User: みそしる おかわり ください。 / これ おかわり ください。
 AI: はい、しょうしょう おまちください！
-
-**Outro:**
-> The food is amazing! 🥢
-> Now, how do you politely finish the meal?
->
-
----
-
-### sim3: Check, Please!
-
-**Goal:** To ask for the bill, handle the payment process, and offer polite closing greetings after the meal.
-
-**📍 場所:** 食堂 カウンター
-
-**転 — おかいけい [セット 5]**
 User: おかいけい おねがいします！
 AI: 1000円です。カードですか？
 User: はい、カードで。 / げんきんです。
 AI: レシート いりますか？
-
-**Outro:**
-> Bill sorted! 💳
-> Just one last thing to say before you walk out.
->
-
-**結 — あいさつ [セット 6]**
 User: はい、ください。 / いいえ、だいじょうぶです。
 AI: ありがとうございました。またどうぞ！
 User: ごちそうさまでした！
 AI: またのご来店を おまちしております！
-
-**Outro:**
-> Meal complete! 🍱
-> You're officially a Japanese restaurant regular. Next up: Time to navigate the city!
->
-
----

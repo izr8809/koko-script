@@ -1,100 +1,24 @@
-# PI-5: 一緒にご飯食べに行こうよ
-
-
----
-
-### sim1: Choosing a Place
-
-**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
-
-**📍 장소:** 渋谷の路上
-
-**intro_text:**
-Lunchtime in Tokyo. Endless options. What are we eating?
-
-**기 — 何食べる [세트 1]**
 User: お腹すいた！何食べようか？
 AI: 私もお腹すいた！何食べたい？
 User: 焼肉食べたい！ / 焼肉どう？
 AI: いいね！おいしい店知ってる！行こう！
-
-**Outro:**
-> Yakiniku it is! 🥩 Now the real question: how far is it?
-> Lace up your shoes — it might be a walk.
->
-
-**승 — 行き方 [세트 2]**
 AI: ここから近いよ！歩いて行く？
 User: うん、歩こう！ / どのくらいかかる？
 AI: 10分くらいかな！行こう！
 User: わかった！
-
-**Outro:**
-> Just a short walk! 🚶 The smell of grilling meat is already calling.
-> Almost there — get ready for a feast.
->
-
----
-
-### sim2: At the Restaurant
-
-**Goal:** To order food together and enjoy yakiniku like a true Tokyo local.
-
-**📍 장소:** 焼肉屋の中
-
-**intro_text:**
-We're here. The grill is already hot.
-
-**승 — 食堂 [세트 3]**
 AI: ここだよ！どう？
 User: わあ、いいね！ / 人多い！
 AI: 何頼む？メニュー見て！
 User: 牛タン！ / カルビ！
-
-**Outro:**
-> Order placed! 🔥 Now comes the most important question in Japan...
-> Who manages the grill? The real power move starts now.
->
-
-**전 — 食べる [세트 4]**
 AI: 焼いてあげようか？
 User: うん、焼いて！ / 自分で焼く！
 AI: おいしい！
 User: 本当においしい！ / ここ来てよかった！
-
-**Outro:**
-> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
-> Brace yourself — the Japanese bill fight is legendary.
->
-
----
-
-### sim3: After Eating
-
-**Goal:** To insist on paying the bill and make plans to keep the hangout going.
-
-**📍 장소:** 焼肉屋の中 → 外の路上
-
-**전 — 食後 [세트 5]**
 User: 私が払う！
 AI: いや、割り勘にしよう！
 User: いや、今日は私が出す！
 AI: 本当に？ありがとう！次は私が払う！
-
-**Outro:**
-> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
-> The hangout isn't over yet — round two incoming.
->
-
-**결 — 次は [세트 6]**
 AI: お腹いっぱい！次何する？
 User: カフェ行く？ / ちょっと歩く？
 AI: いいね、行こう！
 User: 行こう！
-
-**Outro:**
-> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
-> A perfect hangout deserves a perfect ending.
->
-
----

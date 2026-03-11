@@ -1,110 +1,24 @@
-# CR-2 : La Réunion
-
-- Catégorie : Travail
-- Sous-catégorie : Réunion Professionnelle
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Avant la Réunion
-
-**Goal:** To prepare for a meeting and confirm the agenda.
-
-**📍 Lieu :** Salle de réunion (Paris, La Défense)
-
-**intro_text:**
-La réunion commence dans 5 minutes.
-Vous êtes prêt(e) ?
-
-**Préparation — Avant [Série 1]**
 AI: Bonjour ! Vous avez reçu l'ordre du jour ?
 User: Oui, je l'ai reçu ce matin. / Oui, par email.
 AI: Parfait. Nous commençons dans 5 minutes.
 User: Je suis prêt(e). Merci.
-
-**Outro:**
-> Réunion imminente ! 📊
-> Concentrez-vous — ça commence.
->
-
-**Agenda — Les points [Série 2]**
 User: Combien de points à l'ordre du jour ?
 AI: Trois points principaux. Ça ne devrait pas être long.
 User: Très bien. / Et la durée prévue ?
 AI: Une heure environ.
-
-**Outro:**
-> Agenda clair ! 📋
-> La réunion commence.
->
-
----
-
-### sim2 : Pendant la Réunion
-
-**Goal:** To participate in a meeting and ask a question.
-
-**📍 Lieu :** Salle de réunion (même endroit)
-
-**intro_text:**
-La réunion est en cours.
-C'est l'heure de participer !
-
-**Question — Je peux ? [Série 3]**
 User: Permettez-moi de poser une question.
 AI: Bien sûr, je vous en prie.
 User: Quel est le délai pour ce projet ? / Qui est responsable de cette partie ?
 AI: Le délai est fin du mois. Merci pour la question.
-
-**Outro:**
-> Question posée ! 🙋
-> Vous participez activement.
->
-
-**Avis — Votre opinion [Série 4]**
 AI: Vous avez un avis sur cette proposition ?
 User: Oui, je pense que c'est une bonne idée. / Je voudrais réfléchir encore.
 AI: Merci pour votre contribution.
 User: Je vous remercie.
-
-**Outro:**
-> Contribution notée ! ✅
-> La réunion se termine bien.
->
-
----
-
-### sim3 : Après la Réunion
-
-**Goal:** To follow up after a meeting and confirm next steps.
-
-**📍 Lieu :** Bureau (après la réunion)
-
-**intro_text:**
-La réunion est terminée.
-Quelles sont les prochaines étapes ?
-
-**Suivi — Les actions [Série 5]**
 User: Quelles sont les prochaines étapes ?
 AI: Vous préparez le rapport d'ici vendredi.
 User: Très bien, je m'en occupe. / D'accord, pas de problème.
 AI: Merci. N'hésitez pas si vous avez des questions.
-
-**Outro:**
-> Actions claires ! 📝
-> Le travail commence maintenant.
->
-
-**Rapport — Vendredi [Série 6]**
 AI: Vous avez besoin d'aide pour le rapport ?
 User: Non merci, je pense que c'est bon. / Oui, pourriez-vous m'envoyer les données ?
 AI: Bien sûr, je vous envoie ça par email.
 User: Je vous remercie beaucoup.
-
-**Outro:**
-> Collaboration en marche ! 🤝
-> La suite : L'email professionnel vous attend.
->
-
----

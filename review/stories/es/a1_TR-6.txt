@@ -1,97 +1,24 @@
-# TR-6: ¿Cómo tomo el metro?
-
-
----
-
-### sim1: En la estación
-
-**Goal:** To buy a metro card, charge it, and find the right line to your destination.
-
-**📍 장소:** Estación de metro
-
-**intro_text:**
-Mexico City metro. 12 lines. Hundreds of stations. You've got this.
-
-**기 — En la estación [세트 1]**
 User: Disculpe, ¿dónde compro la tarjeta del metro?
 AI: ¡En esa máquina de allá!
 User: ¡Gracias! ¿También puedo recargarla ahí?
 AI: ¡Sí, ahí mismo!
-
-**Outro:**
-> Metro card acquired! 💳 Now, which line do you need?
-> CDMX's metro map looks scary — but it's actually pretty logical.
->
-
-**승 — La línea [세트 2]**
 User: Disculpe, ¿qué línea va a la Condesa?
 AI: ¡Tome la línea 1! ¡Está por allá!
 User: ¿Tengo que hacer transbordo?
 AI: ¡No, es directo!
-
-**Outro:**
-> Line 1, no transfers! 🚇 That's the best news you've heard all day.
-> Now hop on and try not to miss your stop.
->
-
----
-
-### sim2: En el vagón
-
-**Goal:** To ask a fellow passenger for help and figure out how many stops to your destination.
-
-**📍 장소:** Vagón del metro
-
-**승 — En el metro [세트 3]**
 AI: (pasajero) ¿A dónde va?
 User: ¡A Insurgentes!
 AI: ¡Entonces bájese en tres estaciones más!
 User: ¿Tres estaciones? ¡Muchas gracias!
-
-**Outro:**
-> Three more stops! 🎯 A kind stranger just saved your day.
-> But wait — what if you need to transfer somewhere else?
->
-
-**전 — El transbordo [세트 4]**
 User: Disculpe, ¿cómo hago transbordo en Balderas?
 AI: ¡Al bajar, siga los letreros! ¡Siga la línea 3!
 User: ¡Muchas gracias!
 AI: ¡Es fácil! ¡No se preocupe!
-
-**Outro:**
-> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
-> Almost at your destination — just a few more stops.
->
-
----
-
-### sim3: Llegando
-
-**Goal:** To confirm you've arrived at the right station and find the correct exit.
-
-**📍 장소:** Estación de metro (destino)
-
-**전 — Llegando [세트 5]**
 User: Disculpe, ¿esta es la estación Insurgentes?
 AI: ¡Sí, es aquí!
 User: ¿Por qué salida salgo?
 AI: ¡Por la salida 1, por favor!
-
-**Outro:**
-> Exit 1! 🚪 You made it through the CDMX metro like a pro.
-> One last thank-you and you're free.
->
-
-**결 — Saliendo [세트 6]**
 User: ¡Muchas gracias!
 AI: ¡De nada!
 User: ¡Me ayudó mucho!
 AI: ¡Que tenga buen día!
-
-**Outro:**
-> CDMX metro: conquered! 🏆 You're officially a local now.
-> Next challenge: shopping without spending your whole budget.
->
-
----

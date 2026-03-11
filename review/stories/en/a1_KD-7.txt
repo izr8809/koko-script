@@ -1,97 +1,24 @@
-# KD-7: Do you wanna be official?
-
-
----
-
-### sim1: The Moment
-
-**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
-
-**📍 Location:** Central Park (evening)
-
-**intro_text:**
-Central Park at sunset. You said you had something to say. This is it.
-
-**기 — The confession [Set 1]**
 AI: You said you had something to tell me. What is it?
 User: I'm a little nervous. / Come sit closer.
 AI: Why are you nervous? Just say it!
 User: I... I like you.
-
-**Outro:**
-> You said it! 💘 Three words that change everything.
-> Now hold your breath and wait for the answer.
->
-
-**승 — The answer [Set 2]**
 AI: Really? I like you too.
 User: Really? / Since when?
 AI: Since the first time we met.
 User: Me too.
-
-**Outro:**
-> Mutual feelings confirmed! 🌅 Central Park just witnessed a rom-com moment.
-> So... does this mean what we think it means?
->
-
----
-
-### sim2: Officially Together
-
-**Goal:** To officially become a couple and start planning your first date together.
-
-**📍 Location:** Central Park (same)
-
-**승 — Making it official [Set 3]**
 AI: So are we... together now?
 User: Yeah. / I think so, right?
 AI: I'm happy.
 User: Me too.
-
-**Outro:**
-> Official! 💑 You are now a couple. Congratulations.
-> First order of business: plan the perfect first date.
->
-
-**전 — First date [Set 4]**
 AI: So what should our first date be?
 User: I want to go to the beach! / Let's go somewhere with good food!
 AI: Yes! Let's go this weekend!
 User: I can't wait!
-
-**Outro:**
-> First date planned! 🗓️ The excitement is real.
-> But first — the sweetest part of any new relationship.
->
-
----
-
-### sim3: Sweet
-
-**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
-
-**📍 Location:** Each at home (iMessage)
-
-**전 — Late night texts [Set 5]**
 AI: Did you get home okay?
 User: Yeah, just got back!
 AI: Tonight was really special.
 User: Me too. / I keep thinking about it.
-
-**Outro:**
-> Late night texts after a perfect evening! 📱 This feeling is everything.
-> One last message before you both fall asleep smiling.
->
-
-**결 — Goodnight [Set 6]**
 AI: I want to see you again tomorrow.
 User: I want to see you too.
 AI: Goodnight. Sweet dreams.
 User: Goodnight.
-
-**Outro:**
-> "Sweet dreams." 😴 The most romantic goodnight there is.
-> Sweet dreams — you're going to need the energy for what comes next.
->
-
----

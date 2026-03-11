@@ -1,110 +1,24 @@
-# CR-1: Nice to Meet You, I'm ___
-
-- Category: Workplace
-- Subcategory: Introductions
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: First Day Introduction
-
-**Goal:** To introduce yourself formally on your first day at an American company.
-
-**📍 Location:** Office (conference room, NYC)
-
-**intro_text:**
-First day at an American company.
-Time to make a great first impression!
-
-**Opening — Introduction [Set 1]**
 AI: Hi! I'm Sarah (David). Nice to meet you!
 User: Nice to meet you! I'm ___.
 AI: Welcome to the team! Where are you from?
 User: I'm from ___.
-
-**Outro:**
-> Introduction: Nailed it! 🤝
-> But wait... time to exchange contact info!
->
-
-**Contact Info [Set 2]**
 AI: Here's my card. Feel free to reach out!
 User: Thank you! Here's mine as well.
 AI: Great! Which department are you in?
 User: I'm in sales. / I'm in marketing.
-
-**Outro:**
-> Cards exchanged! 💼
-> Now, find out more about your new colleague.
->
-
----
-
-### sim2: Getting to Know the Office
-
-**Goal:** To ask about the office layout and daily routines.
-
-**📍 Location:** Office (open floor plan)
-
-**intro_text:**
-You have your badge. You have your desk.
-Now, figure out how things work around here!
-
-**Lunch [Set 3]**
 AI: Where do you usually eat lunch?
 User: I go to the deli nearby. / I bring my lunch.
 AI: I see. Would you like to join me today?
 User: I would love that, thank you.
-
-**Outro:**
-> Lunch buddy: Found! 🥪
-> Now, ask about the daily schedule.
->
-
-**Schedule [Set 4]**
 AI: What time does your day start?
 User: I start at 9am. / I start at 8:30.
 AI: And when do you finish?
 User: I finish at 6. / It depends on the day.
-
-**Outro:**
-> Schedule confirmed! 📅
-> Almost settled in — just one more thing.
->
-
----
-
-### sim3: End of First Day
-
-**Goal:** To wrap up the first day and say goodbye to colleagues.
-
-**📍 Location:** Office
-
-**intro_text:**
-It's 6pm. First day is almost done.
-Time to say goodbye properly!
-
-**End of Day [Set 5]**
 AI: Great work today! How was your first day?
 User: It was great, thank you! / It was a lot to take in!
 AI: If you have any questions, just ask me.
 User: Thank you. I really appreciate that.
-
-**Outro:**
-> First day: Survived! 💪
-> Now, say goodbye properly!
->
-
-**Goodbye [Set 6]**
 AI: I'm heading out. Have a good evening!
 User: You too! See you tomorrow!
 AI: See you tomorrow! Welcome again!
 User: Thank you! Good night!
-
-**Outro:**
-> First day: Complete! 🎉
-> Next up: Time to run a meeting!
->
-
----

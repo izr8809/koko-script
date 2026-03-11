@@ -1,110 +1,24 @@
-# PI-2: What's Your Sign?
-
-- Category: Personal Interest
-- Subcategory: Small Talk
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: The Basics
-
-**Goal:** To ask and answer questions about age and where you live.
-
-**📍 Location:** Coffee shop (SoHo)
-
-**intro_text:**
-You made it to the coffee shop. Now the real small talk begins.
-Age, location... and then the question everyone asks.
-
-**Opening — Age [Set 1]**
 AI: How old are you?
 User: I'm ___! / I'm ___ years old!
 AI: Oh, same as me! I'm 25!
 User: Really? / No way!
-
-**Outro:**
-> Age revealed! 🎂
-> Now find out where they actually live.
->
-
-**Where Do You Live? [Set 2]**
 User: Where do you live?
 AI: Me? I live in Brooklyn! What about you?
 User: I live in Manhattan! / I live near here!
 AI: Oh, that's close!
-
-**Outro:**
-> Neighbors? Maybe! 📍
-> Get ready — the astrology question is coming.
->
-
----
-
-### sim2: Astrology Talk
-
-**Goal:** To discuss star signs and talk about personality.
-
-**📍 Location:** Coffee shop (same)
-
-**intro_text:**
-The coffee is good. The conversation is better.
-Time for the question everyone in NYC asks.
-
-**Star Sign [Set 3]**
 User: What's your sign?
 AI: I'm a Scorpio! What about you?
 User: I'm a Leo! / I don't know!
 AI: A Leo? That makes sense!
-
-**Outro:**
-> Compatibility check: Passed! 💫
-> Now dig a little deeper into who they really are.
->
-
-**Personality [Set 4]**
 AI: Are you more of a homebody or do you go out a lot?
 User: I go out a lot! / I stay home mostly!
 AI: Me too, I love going out!
 User: Same! / Oh really?
-
-**Outro:**
-> Same energy! ✨
-> One more round — what are they up to these days?
->
-
----
-
-### sim3: More About You
-
-**Goal:** To talk about what you've been doing lately.
-
-**📍 Location:** Coffee shop (same)
-
-**intro_text:**
-You're on your second coffee. This is going well.
-Time to get a little more personal.
-
-**Lately [Set 5]**
 AI: What have you been up to lately?
 User: Learning English! / Watching Netflix!
 AI: Nice! How's that going?
 User: It's fun! / It's a little hard.
-
-**Outro:**
-> Honest answer! 😄
-> Time to wrap this up and make plans to talk again.
->
-
-**Wrap Up [Set 6]**
 AI: We should hang out again!
 User: Yeah, for sure!
 AI: Text me, okay?
 User: I will!
-
-**Outro:**
-> New friend unlocked! 🔓
-> Next up: Turn that chat into actual plans.
->
-
----

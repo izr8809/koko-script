@@ -1,99 +1,24 @@
-# KD-8: ¿Por qué estás tan raro/a últimamente?
-
-
----
-
-### sim1: Algo cambió
-
-**Goal:** To bring up the distance you've been feeling and give your partner a chance to explain.
-
-**📍 장소:** Cada quien en su casa (WhatsApp)
-
-**intro_text:**
-Three days. No message. Something is definitely off.
-
-**기 — El cambio [세트 1]**
 User: ¿Por qué últimamente no me escribes?
 AI: Perdón, he estado muy ocupado/a.
 User: Lo entiendo, pero es mucho tiempo sin escribir.
 AI: Lo siento.
-
-**Outro:**
-> "Lo siento." Is that enough? 😔 You need more than an apology.
-> Time to say what's really on your mind.
->
-
-**승 — Lo que siento [세트 2]**
 User: Siento que ya no te importo.
 AI: No, no es eso.
 AI: De verdad es por el trabajo. Lo siento mucho.
 User: Está bien. ¡Pero escríbeme más!
-
-**Outro:**
-> Feelings expressed, explanation given. 💬 Now you need to actually meet.
-> Some conversations only work face to face.
->
-
----
-
-### sim2: Hablando con honestidad
-
-**Goal:** To meet in person, hear each other out honestly, and start to understand each other better.
-
-**📍 장소:** Cafetería (se encontraron)
-
-**승 — Siendo honestos [세트 3]**
 AI: Últimamente he estado muy mal. No te traté bien.
 User: ¿Por qué no me dijiste? / Si estás mal, dímelo.
 AI: No quería preocuparte.
 User: Tonto/a. Puedes decirme todo.
-
-**Outro:**
-> Walls coming down! 🧱 This is what real intimacy looks like.
-> Now it's your turn to be honest too.
->
-
-**전 — Entendiendo [세트 4]**
 AI: Gracias. Voy a mejorar.
 User: Yo también lo siento, fui muy duro/a.
 AI: No, tenías razón.
 User: Vamos a ser más honestos.
-
-**Outro:**
-> Both sides heard, both sides understood. 🤍 This is growth.
-> The hard part is over — now comes the good part.
->
-
----
-
-### sim3: Mejor que antes
-
-**Goal:** To feel the warmth return between you and end the day closer than before.
-
-**📍 장소:** Cafetería → calle (saliendo)
-
-**전 — Mejorando [세트 5]**
 AI: Desde hoy voy a portarme mejor.
 User: ¡Yo también!
 AI: Te extrañé.
 User: Yo también te extrañé.
-
-**Outro:**
-> "Te extrañé." Said out loud. 💗 That's the real turning point.
-> End the day the right way — together.
->
-
-**결 — De nuevo juntos [세트 6]**
 AI: ¿Vamos a comer algo? ¿Qué se te antoja?
 User: ¡Me da igual! Con tal de estar contigo.
 AI: ¡Vamos!
 User: ¡Sí!
-
-**Outro:**
-> "Con tal de estar contigo." 🥺 The most telenovela line of the whole course.
-> Relationship trouble? More like relationship upgrade.
->
-
----
-
-# 🎵 MÚSICA (tú/usted mixto) >> Cultura Fan en LATAM

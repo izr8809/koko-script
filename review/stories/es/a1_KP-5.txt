@@ -1,97 +1,24 @@
-# KP-5: ¿Qué significa esta letra?
-
-
----
-
-### sim1: Preguntando sobre la letra
-
-**Goal:** To ask your friend about lyrics you don't understand and learn some key phrases.
-
-**📍 장소:** Casa de un amigo (escuchando música)
-
-**intro_text:**
-Bad Bunny's new song is on repeat. But what does it actually mean?
-
-**기 — La letra [세트 1]**
 User: ¿Qué dice esta canción?
 AI: (amigo/a) ¿Qué parte?
 User: ¡Esta parte de aquí!
 AI: ¡Dice que te extraña mucho!
-
-**Outro:**
-> "Te extraña" — now you'll never forget it! 💭 What else don't you know?
-> The vocabulary lesson is just getting started.
->
-
-**승 — Aprendiendo más [세트 2]**
 User: ¿Y "te quiero" qué significa?
 AI: ¡Significa "I love you" pero más casual!
 User: ¡Ah, qué interesante! / ¿En serio?
 AI: ¡Sí! ¡Las letras en español son muy bonitas!
-
-**Outro:**
-> Love vs. like — the eternal distinction! 🎵 Now you know the difference.
-> Time to put that knowledge to use and actually sing along.
->
-
----
-
-### sim2: Cantando juntos
-
-**Goal:** To try singing along to a Spanish song and get encouragement from your friend.
-
-**📍 장소:** Casa de un amigo (mismo)
-
-**승 — Cantando [세트 3]**
 AI: ¿Quieres cantar esta canción conmigo?
 User: ¡Sí! / ¿No importa si no sé la letra?
 AI: ¡No importa! ¡Repite lo que yo diga!
 User: ¡Está bien!
-
-**Outro:**
-> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
-> Your friend is about to give you the best compliment.
->
-
-**전 — Cantando [세트 4]**
 AI: ¡Lo haces muy bien!
 User: ¿De verdad? / ¿No suena raro?
 AI: ¡No! ¡Tienes muy buen ritmo!
 User: ¡Gracias!
-
-**Outro:**
-> "¡Tienes muy buen ritmo!" — you've got the feel! 🌟 That's the highest compliment.
-> Now let's talk about the new song everyone's obsessing over.
->
-
----
-
-### sim3: La nueva canción
-
-**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
-
-**📍 장소:** Casa de un amigo (mismo)
-
-**전 — La nueva canción [세트 5]**
 User: ¿Ya escuchaste la nueva canción de Karol G?
 AI: ¡Sí! ¡Está buenísima! ¿Y tú?
 User: ¡Sí! ¡La letra es muy triste!
 AI: ¡Sí! ¡La parte de "te espero" me llegó al corazón!
-
-**Outro:**
-> "Te espero" — I'll wait for you. 😢 Why is Latin music always so emotional?
-> End the session the only way possible: listening together.
->
-
-**결 — Escuchando juntos [세트 6]**
 User: ¡Escúchala conmigo y me explicas la letra!
 AI: ¡Sí! ¡Ponla!
 User: ¡Esta canción está muy buena!
 AI: ¡Sí!
-
-**Outro:**
-> Music + friendship + Spanish lyrics = perfect afternoon! 🎶 You're basically fluent now.
-> Next up: a fan story that will make you want to go to a meet and greet immediately.
->
-
----

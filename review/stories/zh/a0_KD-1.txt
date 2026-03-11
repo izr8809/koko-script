@@ -1,102 +1,24 @@
-# KD-1: 你最近在看什么剧？
-
-- 大分类: Drama/Movie
-- 中分类: Watching Dramas
-- 难易度: A0 (Absolute Beginner)
-- 12轮 (6组, 3sim)
-
----
-
-### sim1: Drama Talk Begins
-
-**Goal:** To ask what dramas someone is watching and share your own current watch.
-
-**📍 장소:** 宿舍
-
-**intro_text:**
-It's a lazy Sunday. Your friend texts you out of nowhere.
-The drama conversation is about to begin!
-
-**기 — 看什么剧 [세트 1]**
 AI: 喂！你最近在看什么剧？
 User: 我在看《甄嬛传》！ / 我在看《庆余年》！
 AI: 哦！好看吗？
 User: 超好看！ / 还行，一般般。
-
-**Outro:**
-> Drama discovered! 📺
-> Now find out how far they've watched!
->
-
-**승 — 看到哪儿了 [세트 2]**
 AI: 你看到哪儿了？
 User: 我看到第10集了！ / 我刚开始看！
 AI: 哦！我也在看！
 User: 真的？你看到哪儿了？
-
-**Outro:**
-> Watching buddies found! 👯
-> Now make sure you don't spoil each other!
->
-
----
-
-### sim2: Spoiler Alert
-
-**Goal:** To talk about plot points without spoiling and share reactions.
-
-**📍 장소:** 宿舍 (同一)
-
-**승 — 剧情 [세트 3]**
 User: 你觉得好看吗？
 AI: 好看！剧情很精彩！
 User: 对！我也这么觉得！ / 我觉得有点慢。
 AI: 慢？后面越来越好看！
-
-**Outro:**
-> Opinions shared! 💬
-> Now talk about your favorite character!
->
-
-**전 — 最喜欢的角色 [세트 4]**
 AI: 你最喜欢哪个角色？
 User: 我最喜欢主角！ / 我最喜欢反派！
 AI: 哦！为什么？
 User: 因为他（她）很厉害！
-
-**Outro:**
-> Character loyalty declared! 🏆
-> Time to make plans to watch together!
->
-
----
-
-### sim3: Watch Together
-
-**Goal:** To make plans to watch a drama together and decide on a platform.
-
-**📍 장소:** 微信聊天
-
-**전 — 一起看 [세트 5]**
 AI: 我们一起看吧！
 User: 好啊！在哪儿看？ / 好！用什么平台？
 AI: 用爱奇艺吧！
 User: 好！我有会员！
-
-**Outro:**
-> Platform chosen! 📱
-> Now set a time and make it official!
->
-
-**결 — 约好了 [세트 6]**
 User: 什么时候看？
 AI: 今晚八点怎么样？
 User: 好！说好了！
 AI: 不见不散！
-
-**Outro:**
-> Drama date confirmed! 🎬
-> Tonight's going to be epic. Don't forget the snacks!
->
-
----

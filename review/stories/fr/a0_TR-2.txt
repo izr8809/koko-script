@@ -1,110 +1,24 @@
-# TR-2 : Une table pour deux
-
-- Catégorie : Voyages et Déplacements
-- Sous-catégorie : Restaurant
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Bienvenue
-
-**Goal:** To be seated and order drinks at a French restaurant.
-
-**📍 Lieu :** Restaurant (Paris, Montmartre)
-
-**intro_text:**
-Vous entrez dans un restaurant à Montmartre.
-Une belle soirée commence !
-
-**Accueil — Bonsoir [Série 1]**
 AI: Bonsoir ! Vous avez une réservation ?
 User: Oui, au nom de ___. / Non, est-ce qu'il y a de la place ?
 AI: Très bien ! Une table pour combien ?
 User: Pour deux, s'il vous plaît.
-
-**Outro:**
-> Table obtenue ! 🍽️
-> Maintenant, regardez la carte.
->
-
-**Boissons — Qu'est-ce que vous buvez ? [Série 2]**
 User: Qu'est-ce que vous avez comme vin ?
 AI: Nous avons un très bon bordeaux. Et un rosé de Provence.
 User: Un verre de bordeaux, s'il vous plaît. / Le rosé, s'il vous plaît.
 AI: Très bien !
-
-**Outro:**
-> Vin choisi ! 🍷
-> La carte des plats vous attend.
->
-
----
-
-### sim2 : Le Plat Principal
-
-**Goal:** To order a main course and ask about ingredients.
-
-**📍 Lieu :** Restaurant (même endroit)
-
-**intro_text:**
-Le vin est servi. La carte est ouverte.
-Qu'est-ce que vous allez manger ?
-
-**Plat — La commande [Série 3]**
 User: Je voudrais le steak-frites, s'il vous plaît.
 AI: Quelle cuisson ? Saignant, à point ou bien cuit ?
 User: À point, s'il vous plaît. / Bien cuit, s'il vous plaît.
 AI: Parfait !
-
-**Outro:**
-> Commande passée ! 🥩
-> Le plat arrive... patience !
->
-
-**Question — Les ingrédients [Série 4]**
 AI: Vous avez des allergies ?
 User: Non, pas d'allergies. / Oui, je suis allergique aux noix.
 AI: Très bien, je note. Merci !
 User: Merci à vous.
-
-**Outro:**
-> Informations données ! ✅
-> Votre repas sera parfait.
->
-
----
-
-### sim3 : L'Addition
-
-**Goal:** To ask for the bill and compliment the meal.
-
-**📍 Lieu :** Restaurant (même endroit)
-
-**intro_text:**
-Le repas était excellent. Il est temps de partir.
-Comment finir en beauté ?
-
-**Compliment — C'était bon ! [Série 5]**
 User: C'était délicieux ! Mes compliments au chef.
 AI: Merci beaucoup ! Vous avez tout aimé ?
 User: Oui, tout était parfait ! / Le steak était excellent !
 AI: Je suis ravi(e) !
-
-**Outro:**
-> Chef impressionné ! 👨‍🍳
-> Maintenant, demandez l'addition.
->
-
-**Addition — On y va [Série 6]**
 AI: Vous désirez un dessert ?
 User: Non merci, l'addition s'il vous plaît. / Oui, qu'est-ce que vous avez ?
 AI: Voilà l'addition. C'est 45 euros.
 User: Voilà. Merci, bonne soirée !
-
-**Outro:**
-> Soirée parfaite ! 🌟
-> La suite : Paris vous attend dehors.
->
-
----

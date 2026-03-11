@@ -1,95 +1,24 @@
-# CR-6: 明日お休みいただいてもよろしいでしょうか？
-
-
----
-
-### sim1: Asking for Leave
-
-**Goal:** To politely request a day off from your manager and explain the reason clearly.
-
-**📍 장소:** オフィス (上司の席の前)
-
-**intro_text:**
-You need tomorrow off. Your manager is right there. Deep breath.
-
-**기 — お願い [세트 1]**
 User: 部長、少しいいですか？
 AI: はい、どうぞ。
 User: 明日、休んでもいいですか？個人的な理由です。
 AI: 明日ですか？急なご用件ですか？
-
-**Outro:**
-> The ask is out there! 😬 Now explain yourself calmly and professionally.
-> This is the moment that separates the rookies from the pros.
->
-
-**승 — 説明 [세트 2]**
 User: はい、病院に行きます。 / 個人的な用事があります。
 AI: わかりました。
 AI: 明日のお仕事は他の方にお願いできますか？
 User: はい、準備しておきます。
-
-**Outro:**
-> Proactive handover offer! 📋 That's exactly what a good employee does.
-> Now wait for the official answer.
->
-
----
-
-### sim2: Confirmation
-
-**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
-
-**📍 장소:** オフィス (上司の席の前, 同じ)
-
-**승 — 確認 [세트 3]**
 AI: では明日はお休みください。
 User: ありがとうございます。
 AI: 無理なさらないでください！
 User: はい、ありがとうございます。
-
-**Outro:**
-> Leave approved! 🎉 Your manager is actually human — who knew?
-> Now make sure everything is in order before you go.
->
-
-**전 — 準備 [세트 4]**
 User: 明日の仕事をまとめてメールで送ります。
 AI: はい、ありがとうございます！
 User: 他に何かありますか？
 AI: いいえ、大丈夫です！お疲れ様でした！
-
-**Outro:**
-> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
-> One more day — then you're free.
->
-
----
-
-### sim3: The Day After
-
-**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
-
-**📍 장소:** オフィス (自分の席)
-
-**전 — 復帰 [세트 5]**
 User: おはようございます。昨日はありがとうございました。
 AI: 大丈夫ですよ！お体の具合はいかがですか？
 User: だいぶよくなりました。 / 大丈夫です、ありがとうございます。
 AI: よかったです！
-
-**Outro:**
-> Back and better! 💪 Your manager genuinely cares — that's a good sign.
-> Now ease back in and show them it was worth the day off.
->
-
-**결 — 業務復帰 [세트 6]**
 AI: ゆっくりやってください！無理しないでくださいね！
 User: はい、ありがとうございます。
 AI: お疲れ様です！
 User: ありがとうございます！よろしくお願いします！
-
-**Outro:**
-> "よろしくお願いいたします！" 🏢 The most Japanese way to end a workday.
-> You navigated Japanese office culture like a true professional.
->

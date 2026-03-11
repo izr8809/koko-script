@@ -1,113 +1,24 @@
-# AV-3 : La Soirée — Dîner Chez des Amis
-
-- Catégorie : Art de Vivre
-- Sous-catégorie : Soirée / Dîner entre Amis
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
-Tu es invité(e) à dîner chez des amis français.
-Complimenter, partager, rire... bienvenue dans une vraie soirée française !
-
----
-
-### sim1 : L'Arrivée
-
-**Goal:** To arrive at a French dinner party and greet your host using informal tu.
-
-**📍 Lieu :** Appartement (Paris, 11e arrondissement)
-
-**intro_text:**
-Tu es invité(e) à dîner chez ton ami(e) français(e).
-Tu apportes du vin et du fromage — parfait !
-
-**Arrivée — Coucou ! [Série 1]**
 User: Coucou ! Bonsoir ! J'apporte du vin !
 AI: Super ! Entre, entre ! T'es en avance !
 User: Oh pardon ! Je repasse dans dix minutes ? / Non, c'est bien ?
 AI: Mais non, je blague ! Viens, l'apéro est prêt !
-
-**Outro:**
-> Arrivée réussie ! 🎉
-> En France, arriver légèrement en retard est même considéré poli !
->
-
-**Compliment — Ça sent tellement bon ! [Série 2]**
 AI: Voilà, viens t'asseoir ! Ça te plaît chez moi ?
 User: C'est super beau ! Et ça sent délicieux ! / Ton appartement est magnifique !
 AI: Merci ! J'ai fait un bœuf bourguignon ce soir !
 User: Mon plat préféré ! / Tu es vraiment un(e) chef !
-
-**Outro:**
-> Compliments échangés ! 💝
-> Un bon hôte français met tout son cœur dans la cuisine.
->
-
----
-
-### sim2 : Le Dîner
-
-**Goal:** To compliment the food and discuss wine at a French dinner using informal tu.
-
-**📍 Lieu :** Salle à manger (même appartement)
-
-**intro_text:**
-Le dîner est servi. C'est magnifique !
-Complimente ton ami(e) comme un(e) vrai(e) Français(e) !
-
-**Plat — C'est absolument délicieux ! [Série 3]**
 User: Mmm ! C'est absolument délicieux ! Tu as fait ça toi-même ?
 AI: Oui ! C'est la recette de ma grand-mère. Un secret de famille !
 User: C'est incroyable ! / Vraiment, c'est parfait !
 AI: Tu me flattes ! Sers-toi encore, il y en a plein !
-
-**Outro:**
-> Chef du soir reconnu ! 👨‍🍳
-> En France, complimenter la cuisine, c'est un signe de respect.
->
-
-**Vin — Tu m'en sers encore ? [Série 4]**
 AI: Tu veux encore du vin ? C'est un bordeaux de 2019.
 User: Oui, s'il te plaît ! / Juste un tout petit peu, merci.
 AI: Il est bon, non ? Mon oncle me l'a apporté de Bordeaux.
 User: Il est excellent ! / Oui, vraiment très bon. Quelle région ?
-
-**Outro:**
-> Œnologue amateur ! 🍷
-> Le vin, c'est toute une culture et une conversation en France.
->
-
----
-
-### sim3 : La Fin de Soirée
-
-**Goal:** To enjoy dessert and say goodbye at the end of a French dinner using informal tu.
-
-**📍 Lieu :** Salon (même appartement)
-
-**intro_text:**
-Le dîner est fini, mais la soirée continue.
-Dessert et bonne humeur — c'est incontournable !
-
-**Dessert — C'est quoi ? [Série 5]**
 User: Oh, tu as préparé un dessert aussi ?
 AI: Bien sûr ! Une tarte tatin maison ! Tu aimes ?
 User: J'adore la tarte tatin ! / Oui, c'est mon dessert préféré !
 AI: Parfait ! Avec une boule de glace à la vanille ?
-
-**Outro:**
-> Dessert parfait ! 🍮
-> Les soirées françaises finissent toujours trop tôt...
->
-
-**Départ — Merci pour tout ! [Série 6]**
 AI: Tu pars déjà ? Il est presque minuit !
 User: Oui, il faut y aller... Merci pour ce dîner incroyable !
 AI: Avec plaisir ! Tu reviens la semaine prochaine ?
 User: Avec joie ! / Oui, la prochaine fois c'est moi qui cuisine !
-
-**Outro:**
-> Soirée inoubliable ! 🌟
-> La prochaine fois, c'est toi qui cuisines !
->
-
----

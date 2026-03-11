@@ -1,104 +1,24 @@
-# KD-4: 你觉得结局怎么样？
-
-- 大分类: Drama/Movie
-- 中分类: Discussing Endings
-- 难易度: A0 (Absolute Beginner)
-- 12轮 (6组, 3sim)
-
----
-
-### sim1: The Ending Debate
-
-**Goal:** To share your opinion on a drama ending and hear your friend's take.
-
-**📍 장소:** 微信聊天
-
-**intro_text:**
-You just finished the drama. The ending hit different.
-Time to process it with your friend!
-
-**기 — 结局 [세트 1]**
 AI: 你看完了吗？结局怎么样？
 User: 看完了！结局很好！ / 看完了！结局太虐了！
 AI: 对！我也这么觉得！
 User: 你喜欢结局吗？
-
-**Outro:**
-> Opinions flying! 💬
-> Now get into the details — what exactly happened?
->
-
-**승 — 剧情讨论 [세트 2]**
 AI: 你觉得最后那一幕怎么样？
 User: 太感动了！ / 太难过了！
 AI: 我也哭了！
 User: 真的？我也哭了！
-
-**Outro:**
-> Tears confirmed! 😭
-> Now talk about what you wish had happened differently!
->
-
----
-
-### sim2: What If?
-
-**Goal:** To discuss alternative endings and share what you wished had happened.
-
-**📍 장소:** 微信聊天 (同一)
-
-**승 — 如果是你 [세트 3]**
 User: 你希望结局怎么样？
 AI: 我希望他们在一起！
 User: 我也是！ / 我觉得这样更好！
 AI: 编剧太狠了！
-
-**Outro:**
-> Alternate ending imagined! ✨
-> Now rate the whole drama!
->
-
-**전 — 打分 [세트 4]**
 AI: 你给这部剧打几分？
 User: 我给9分！ / 我给8分！
 AI: 我给10分！太好看了！
 User: 哈哈！你是真爱粉！
-
-**Outro:**
-> Ratings submitted! ⭐
-> Time to decide — would you recommend it?
->
-
----
-
-### sim3: Recommend or Not?
-
-**Goal:** To decide whether to recommend the drama and suggest the next one to watch.
-
-**📍 장소:** 微信聊天 (同一)
-
-**전 — 推荐吗 [세트 5]**
 AI: 你会推荐给别人吗？
 User: 会！强烈推荐！ / 会！但要有心理准备！
 AI: 哈哈！对！要准备好纸巾！
 User: 对！哭死了！
-
-**Outro:**
-> Recommendation made! 📢
-> Now what's next on the watch list?
->
-
-**결 — 下一部 [세트 6]**
 User: 下一部看什么？
 AI: 看《山河令》怎么样？
 User: 好！听说很好看！
 AI: 我们一起追！
-
-**Outro:**
-> Next drama locked in! 📺
-> The binge-watching never ends. You're a true drama fan now!
->
-
----
-
-# 💼 CAREER (您/formal) >> Chinese Workplace

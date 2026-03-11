@@ -1,97 +1,24 @@
-# TR-6: Comment prendre le métro ?
-
-
----
-
-### sim1: À la station
-
-**Goal:** To buy a carnet of tickets, charge a Navigo card, and find the right line to your destination.
-
-**📍 장소:** Station de métro (Paris)
-
-**intro_text:**
-Paris métro. 16 lines. Hundreds of stations. You've got this.
-
-**기 — À la station [세트 1]**
 User: Excusez-moi, où est-ce que je peux acheter des tickets ?
 AI: Aux guichets automatiques, là-bas !
 User: Merci ! Je peux aussi recharger un Navigo là-bas ?
 AI: Oui, bien sûr !
-
-**Outro:**
-> Navigo card acquired! 💳 Now, which line do you need?
-> Paris's métro map looks scary — but it's actually pretty logical.
->
-
-**승 — La bonne ligne [세트 2]**
 User: Je veux aller au Marais. C'est quelle ligne ?
 AI: Prenez la ligne 1 ! C'est par là.
 User: Je dois changer ?
 AI: Non, c'est direct !
-
-**Outro:**
-> Line 1, no transfers! 🚇 That's the best news you've heard all day.
-> Now hop on and try not to miss your stop.
->
-
----
-
-### sim2: Dans le métro
-
-**Goal:** To ask a fellow passenger for help and figure out how many stops to your destination.
-
-**📍 장소:** Dans le métro
-
-**승 — Dans la rame [세트 3]**
 AI: (voisin) Vous allez où ?
 User: Je vais au Marais !
 AI: Alors, encore trois stations !
 User: Trois stations ? Merci beaucoup !
-
-**Outro:**
-> Three more stops! 🎯 A kind stranger just saved your day.
-> But wait — what if you need to transfer somewhere else?
->
-
-**전 — La correspondance [세트 4]**
 User: Excusez-moi, comment je fais la correspondance à Châtelet ?
 AI: En sortant, suivez les panneaux ! Ligne 4, c'est bien indiqué !
 User: Merci beaucoup !
 AI: C'est facile ! Ne vous inquiétez pas !
-
-**Outro:**
-> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
-> Almost at your destination — just a few more stops.
->
-
----
-
-### sim3: À l'arrivée
-
-**Goal:** To confirm you've arrived at the right station and find the correct exit.
-
-**📍 장소:** Station de métro (quai d'arrivée)
-
-**전 — On est arrivé ? [세트 5]**
 User: C'est bien la station Hôtel de Ville ?
 AI: Oui, c'est ça !
 User: Je prends quelle sortie ?
 AI: La sortie numéro 2, s'il vous plaît !
-
-**Outro:**
-> Exit 2! 🚪 You made it through the Paris métro like a pro.
-> One last thank-you and you're free.
->
-
-**결 — Merci ! [세트 6]**
 User: Merci beaucoup !
 AI: De rien !
 User: Vous m'avez vraiment aidé(e) !
 AI: Bonne journée !
-
-**Outro:**
-> Paris métro: conquered! 🏆 You're officially a local now.
-> Next challenge: shopping in Le Marais without spending your whole budget.
->
-
----

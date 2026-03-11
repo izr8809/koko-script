@@ -1,102 +1,24 @@
-# KD-2: このせいゆう、やばくない？
-
-- 大分類: Anime & Drama
-- 中分類: Voice Actors
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Voice Actor Talk
-
-**Goal:** To talk about favorite voice actors and their roles.
-
-**📍 場所:** カフェ
-
-**intro_text:**
-The anime talk is getting serious.
-Time to test their seiyuu knowledge!
-
-**起 — せいゆう [セット 1]**
 AI: せいゆう、すき？
 User: うん、めっちゃ すき！ / まあまあ。
 AI: いちばん すきな せいゆう だれ？
 User: 花江夏樹！ / 神谷浩史！
-
-**Outro:**
-> Seiyuu knowledge: Confirmed! 🎙️
-> But wait... do they know their favorite roles?
->
-
-**承 — やく [セット 2]**
 AI: 花江夏樹、なんの やく すき？
 User: 炭治郎！ / 東京グールの カネキ！
 AI: え、いいね！こえ やばくない？
 User: ほんとに！めっちゃ いい！
-
-**Outro:**
-> Voice appreciation: Unlocked! 🔓
-> Now, find out if they've been to a seiyuu event.
->
-
----
-
-### sim2: Events
-
-**Goal:** To talk about seiyuu events and anime conventions.
-
-**📍 場所:** カフェ (同じ)
-
-**承 — イベント [セット 3]**
 User: せいゆう の イベント いった こと ある？
 AI: うん、いった！めっちゃ よかった！きみは？
 User: まだ！いきたい！ / うん、いった！
 AI: ぜったい いって！
-
-**Outro:**
-> Event talk: Started! 🎪
-> Now, talk about anime conventions.
->
-
-**転 — コミケ [セット 4]**
 AI: コミケ いった こと ある？
 User: うん！めっちゃ たのしかった！ / まだ！
 AI: コミケ、すごいよ！ひと おおい！
 User: いきたい！ / わかる！
-
-**Outro:**
-> Comiket dreams! 🎌
-> Now, make plans for the next event!
->
-
----
-
-### sim3: Next Event
-
-**Goal:** To make plans to attend an anime event together.
-
-**📍 場所:** カフェ (同じ)
-
-**転 — つぎの イベント [セット 5]**
 User: つぎの イベント いっしょに いく？
 AI: いきたい！いつ？
 User: らいげつ どう？
 AI: いいね！なんの イベント？
-
-**Outro:**
-> Event plans: In progress! 📅
-> Almost there — just confirm the details!
->
-
-**結 — かくにん [セット 6]**
 User: アニメ エキスポ！しってる？
 AI: しってる！めっちゃ いきたかった！
 User: じゃあ いっしょに いこう！
 AI: やった！たのしみ！
-
-**Outro:**
-> Event confirmed! 🎉
-> Next up: Time to talk about J-Pop!
->
-
----

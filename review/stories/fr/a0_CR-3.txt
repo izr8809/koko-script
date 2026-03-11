@@ -1,108 +1,24 @@
-# CR-3 : Un Email Professionnel
-
-- Catégorie : Travail
-- Sous-catégorie : Email Professionnel
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Écrire un Email
-
-**Goal:** To write and send a professional email in French.
-
-**📍 Lieu :** Bureau (Paris)
-
-**intro_text:**
-Vous devez envoyer un email professionnel.
-Comment commencer ?
-
-**Email — La structure [Série 1]**
 AI: Vous savez comment commencer un email formel ?
 User: Je commence par "Madame, Monsieur" ? / Je commence par "Bonjour" ?
 AI: "Madame, Monsieur" pour un email formel. C'est parfait.
 User: Merci pour le conseil.
-
-**Outro:**
-> Structure apprise ! 📧
-> Maintenant, rédigez le corps de l'email.
->
-
-**Corps — Le message [Série 2]**
 User: Comment je formule ma demande ?
 AI: "Je me permets de vous contacter au sujet de..."
 User: Merci, c'est clair. / Et pour finir l'email ?
 AI: "Je vous remercie de votre attention. Cordialement."
-
-**Outro:**
-> Email structuré ! ✉️
-> La suite : Envoyez et attendez la réponse.
->
-
----
-
-### sim2 : Répondre à un Email
-
-**Goal:** To respond to a professional email appropriately.
-
-**📍 Lieu :** Bureau (même endroit)
-
-**intro_text:**
-Vous avez reçu un email de votre collègue.
-Comment répondre ?
-
-**Réponse — Je réponds [Série 3]**
 User: J'ai reçu un email de Marie. Comment je réponds ?
 AI: Commencez par "Chère Marie" ou "Bonjour Marie".
 User: Et si c'est formel ? / Et pour un client ?
 AI: Pour un client, utilisez "Madame" ou "Monsieur".
-
-**Outro:**
-> Formule choisie ! 📝
-> Rédigez votre réponse.
->
-
-**Formule — La politesse [Série 4]**
 AI: Vous avez une formule de politesse pour finir ?
 User: "Cordialement" ? / "Bien à vous" ?
 AI: Les deux sont parfaits. "Cordialement" est très courant.
 User: Merci, je vais utiliser ça.
-
-**Outro:**
-> Email professionnel maîtrisé ! ✅
-> Vous communiquez comme un(e) pro.
->
-
----
-
-### sim3 : Une Demande
-
-**Goal:** To make a professional request by email and follow up.
-
-**📍 Lieu :** Bureau (même endroit)
-
-**intro_text:**
-Vous devez faire une demande à votre responsable.
-Comment formuler ça par email ?
-
-**Demande — La requête [Série 5]**
 User: Je voudrais demander un jour de congé. Comment je formule ?
 AI: "Je me permets de solliciter un jour de congé le..."
 User: Merci, c'est parfait. / Et si c'est urgent ?
 AI: Ajoutez "dans les meilleurs délais" pour l'urgence.
-
-**Outro:**
-> Demande formulée ! 📋
-> Envoyez et attendez la réponse.
->
-
-**Réponse — C'est accordé ? [Série 6]**
 AI: Votre responsable a répondu. C'est accordé !
 User: Excellent ! Je vous remercie. / Parfait, merci beaucoup !
 AI: De rien. Bon repos !
 User: Merci, bonne journée à vous !
-
-**Outro:**
-> Congé accordé ! 🎉
-> Vous maîtrisez le français professionnel. Bravo !
->

@@ -1,109 +1,24 @@
-# CR-3: El Correo Perfecto
-
-- Categoría: Trabajo
-- Subcategoría: Email Profesional
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Escribir el Correo
-
-**Goal:** To write a basic professional email requesting information.
-
-**📍 Lugar:** Oficina (CDMX)
-
-**intro_text:**
-Necesita información de un cliente.
-¡Es hora de escribir un correo profesional!
-
-**Apertura — El Correo [Set 1]**
 AI: ¿Necesita ayuda con el correo?
 User: Sí, por favor. ¿Cómo empiezo? / Sí, gracias. ¿Qué escribo primero?
 AI: Empiece con "Estimado/a señor/a".
 User: Entendido. ¿Y después? / Gracias, ¿qué sigue?
-
-**Outro:**
-> ¡Correo iniciado! ✍️
-> Ahora escriba el cuerpo del correo.
->
-
-**El Cuerpo [Set 2]**
 AI: Escriba: "Le escribo para solicitar información sobre..."
 User: Entendido. ¿Y el cierre? / Gracias. ¿Cómo termino?
 AI: Termine con "Quedo a sus órdenes. Atentamente, ___".
 User: Perfecto. Muchas gracias. / Entendido, gracias.
-
-**Outro:**
-> ¡Correo escrito! 📝
-> Ahora revíselo antes de enviarlo.
->
-
----
-
-### sim2: Revisar y Enviar
-
-**Goal:** To review and send a professional email.
-
-**📍 Lugar:** Oficina (mismo)
-
-**intro_text:**
-El correo está escrito. ¡Revíselo!
-Un buen correo no tiene errores.
-
-**Revisión [Set 3]**
 AI: ¿Ya revisó el correo?
 User: Sí, ya lo revisé. / Todavía no.
 AI: ¿Está todo correcto?
 User: Sí, todo está bien. / Creo que sí.
-
-**Outro:**
-> ¡Correo revisado! 🔍
-> Ahora envíelo.
->
-
-**Enviar [Set 4]**
 AI: ¿Listo para enviar?
 User: Sí, lo envío ahora. / Sí, ya está listo.
 AI: ¡Perfecto! ¿A quién va dirigido?
 User: Al señor Rodríguez. / A la señora Flores.
-
-**Outro:**
-> ¡Correo enviado! 📤
-> Ahora espere la respuesta.
->
-
----
-
-### sim3: La Respuesta
-
-**Goal:** To read and respond to a professional email reply.
-
-**📍 Lugar:** Oficina (mismo)
-
-**intro_text:**
-Llegó la respuesta del cliente.
-¡Léala con atención!
-
-**La Respuesta [Set 5]**
 AI: ¡Llegó la respuesta del señor Rodríguez!
 User: ¿Qué dice? / ¡Qué bien! ¿Qué responde?
 AI: Dice que puede reunirse el martes.
 User: Perfecto. Le respondo ahora. / Entendido. ¿A qué hora?
-
-**Outro:**
-> ¡Respuesta recibida! 📬
-> Ahora confirme la reunión.
->
-
-**Confirmar la Reunión [Set 6]**
 User: ¿Le confirmo el martes a las 11?
 AI: Sí, por favor. Eso sería perfecto.
 User: Con mucho gusto. Le escribo ahora. / Entendido. Lo confirmo.
 AI: Le agradezco su eficiencia. Hasta el martes.
-
-**Outro:**
-> ¡Reunión confirmada! 🤝
-> ¡Felicidades! Completaste el curso de español A0.
-> ¡Ahora eres un/a profesional del español latinoamericano! 🌎
->

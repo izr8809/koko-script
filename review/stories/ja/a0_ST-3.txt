@@ -1,104 +1,24 @@
-# ST-3: 大学の てつづき
-
-- 大分類: Study Abroad
-- 中分類: University Administration
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Course Registration
-
-**Goal:** To ask about course registration and get help from the student affairs office.
-
-**📍 場所:** 事務局 (じむきょく)
-
-**intro_text:**
-The student affairs office is open.
-Time to sort out your classes!
-
-**起 — りしゅうとうろく [セット 1]**
 AI: いらっしゃいませ。どのような ご用件 でしょうか？
 User: りしゅうとうろくの ことで うかがいたいのですが。
 AI: かしこまりました。がくせいしょうを みせて いただけますか？
 User: はい、どうぞ。よろしく おねがいします。
-
-**Outro:**
-> First step: Done! 📋
-> But wait... which classes do you want?
->
-
-**承 — じゅぎょうを えらぶ [セット 2]**
 AI: どの じゅぎょうを ご希望 ですか？
 User: にほんごの じゅぎょうを とりたいです。 / えいごの じゅぎょうを とりたいです。
 AI: かしこまりました。こちらに にゅうりょく して ください。
 User: ありがとう ございます。よろしく おねがいします。
-
-**Outro:**
-> Registration: Complete! ✅
-> Next up: Time to visit the library!
->
-
----
-
-### sim2: At the Library
-
-**Goal:** To find study materials and borrow books from the university library.
-
-**📍 場所:** 図書館 (としょかん)
-
-**承 — きょうざいを さがす [セット 3]**
 User: すみません、にほんごの きょうざいは どこに ありますか？
 AI: にかいの にほんご セクションに ございます。
 User: ありがとう ございます。カードを つくりたいのですが。
 AI: はい、こちらに おいで ください。
-
-**Outro:**
-> Materials: Found! 📚
-> Now, get your library card sorted!
->
-
-**転 — ほんを かりる [セット 4]**
 AI: がくせいしょうを みせて いただけますか？
 User: はい、どうぞ。この ほんを かりたいです。
 AI: かしだしは にしゅうかんです。ご了承 ください。
 User: わかりました。ありがとう ございます。
-
-**Outro:**
-> Books: Borrowed! 📖
-> Almost there — one last stop at the office!
->
-
----
-
-### sim3: Student ID Card
-
-**Goal:** To ask about your student ID card and wrap up your admin tasks at the office.
-
-**📍 場所:** 事務局 (同じ)
-
-**転 — がくせいしょう [セット 5]**
 User: すみません、がくせいしょうが まだ できていないのですが。
 AI: あ、そうですか。おなまえを おしえて いただけますか？
 User: ___ と もうします。いつ できますか？
 AI: らいしゅうの もくようびに できあがります。
-
-**Outro:**
-> ID status: Confirmed! 🪪
-> Almost done — just one final check!
->
-
-**結 — おわり [セット 6]**
 AI: ほかに なにか ご用件は ございますか？
 User: いいえ、だいじょうぶです。ありがとう ございました。
 AI: それでは、どうぞ よろしく おねがいします。
 User: はい！がんばります！ありがとう ございました！
-
-**Outro:**
-> University life: Conquered! 🎌
-> Next up: Time to put your Japanese skills to work in the real world!
->
-
----
-
-# 💼 CAREER (敬語) >> Japanese Workplace

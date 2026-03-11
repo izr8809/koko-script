@@ -1,100 +1,24 @@
-# CR-3: 我能请假吗？
-
-- 大分类: Career
-- 中分类: Requesting Leave
-- 难易度: A0 (Absolute Beginner)
-- 12轮 (6组, 3sim)
-
----
-
-### sim1: Preparing the Request
-
-**Goal:** To prepare to request leave and understand the company's leave policy.
-
-**📍 장소:** 公司 (办公室)
-
-**intro_text:**
-You need a day off. Your manager looks busy.
-Time to ask — politely and professionally!
-
-**기 — 了解请假流程 [세트 1]**
 AI: 您好！有什么事吗？
 User: 您好！请问请假怎么申请？
 AI: 需要填请假单！
 User: 好的！请假单在哪儿？
-
-**Outro:**
-> Process understood! 📋
-> Now fill out the form and make your request!
->
-
-**승 — 填表 [세트 2]**
 AI: 请假单在系统里！您要请几天假？
 User: 我要请一天假！ / 我要请两天假！
 AI: 好的！原因是什么？
 User: 身体不舒服！ / 家里有事！
-
-**Outro:**
-> Form filled! 📝
-> Now submit it and wait for approval!
->
-
----
-
-### sim2: Making the Request
-
-**Goal:** To formally request leave from the manager and provide a reason.
-
-**📍 장소:** 公司 (经理办公室)
-
-**승 — 正式请假 [세트 3]**
 User: 经理，不好意思，打扰一下！
 AI: 没关系！什么事？
 User: 我想请明天一天假！ / 我想请后天假！
 AI: 原因是什么？
-
-**Outro:**
-> Request made! 🙏
-> Now give a clear and professional reason!
->
-
-**전 — 说明原因 [세트 4]**
 AI: 请说明一下原因！
 User: 我身体不太好！ / 家里有急事！
 AI: 好的！注意身体！假批了！
 User: 谢谢您！非常感谢！
-
-**Outro:**
-> Leave approved! ✅
-> That went better than expected. Now make sure work is covered!
->
-
----
-
-### sim3: Handing Over Work
-
-**Goal:** To hand over work responsibilities before taking leave.
-
-**📍 장소:** 公司 (办公室)
-
-**전 — 交接工作 [세트 5]**
 AI: 请假期间，工作怎么安排？
 User: 我会提前完成！ / 我请同事帮忙！
 AI: 好的！有什么需要帮忙的吗？
 User: 没有！谢谢您！ / 有！请问___怎么处理？
-
-**Outro:**
-> Handover planned! 🤝
-> Almost done — just confirm everything is in order!
->
-
-**결 — 确认 [세트 6]**
 AI: 好！那您好好休息！
 User: 谢谢您！我会的！
 AI: 有事随时联系！
 User: 好的！谢谢您！再见！
-
-**Outro:**
-> Leave secured! 🎉
-> You asked professionally, got approved, and handed over work. Office pro!
->

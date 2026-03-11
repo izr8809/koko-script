@@ -1,104 +1,24 @@
-# PI-4: 我来中国是因为你
-
-- 大分类: Personal Interest
-- 中分类: Deeper Friendship
-- 难易度: A0 (Absolute Beginner)
-- 12轮 (6组, 3sim)
-
----
-
-### sim1: Getting Real
-
-**Goal:** To share deeper reasons for coming to China and express genuine interest in the culture.
-
-**📍 장소:** 外滩 (上海)
-
-**intro_text:**
-The sun is setting over the Bund.
-Time to get a little more real with your new friend.
-
-**기 — 为什么来中国 [세트 1]**
 AI: 你为什么来中国？
 User: 因为我喜欢中国文化！ / 因为我喜欢中文！
 AI: 哦，真的？喜欢什么？
 User: 喜欢美食！ / 喜欢音乐！
-
-**Outro:**
-> Honesty unlocked! 💬
-> Now let's see how deep this connection really goes.
->
-
-**승 — 中国文化 [세트 2]**
 AI: 你来中国多久了？
 User: 三个月了！ / 半年了！
 AI: 哇，不短！中文进步了吗？
 User: 进步了一点！ / 还在学！
-
-**Outro:**
-> Progress acknowledged! 📈
-> Time to talk about what you actually love about this place.
->
-
----
-
-### sim2: Shared Passions
-
-**Goal:** To talk about favorite Chinese things and bond over shared interests.
-
-**📍 장소:** 外滩 (同一)
-
-**승 — 最喜欢什么 [세트 3]**
 User: 你最喜欢中国什么？
 AI: 我最喜欢美食！你呢？
 User: 我最喜欢音乐！ / 我最喜欢这里的人！
 AI: 哦，太好了！
-
-**Outro:**
-> Bonding moment! 🤝
-> Now share something you miss from home.
->
-
-**전 — 想家吗 [세트 4]**
 AI: 你想家吗？
 User: 有时候想。 / 不太想。
 AI: 想家的时候做什么？
 User: 打电话给家人！ / 吃家乡菜！
-
-**Outro:**
-> Vulnerability accepted! 🥺
-> Time to make a promise to keep in touch.
->
-
----
-
-### sim3: Making It Official
-
-**Goal:** To make plans to meet again and express that this friendship matters.
-
-**📍 장소:** 外滩 (同一)
-
-**전 — 下次见面 [세트 5]**
 AI: 下次你想去哪儿？
 User: 想去新天地！ / 想去南京路！
 AI: 好！我带你去！
 User: 太好了！谢谢你！
-
-**Outro:**
-> Future plans locked in! 🗓️
-> One last thing — make sure they know this friendship is real.
->
-
-**결 — 真心话 [세트 6]**
 User: 认识你很开心！
 AI: 我也是！你是我的好朋友！
 User: 我们要常联系！
 AI: 当然！微信随时找我！
-
-**Outro:**
-> Friendship certified! 💖
-> You've made a real connection. This is just the beginning!
->
-
----
-
-# 🌏 TRAVELING (您/polite) >> China Travel

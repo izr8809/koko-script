@@ -1,97 +1,24 @@
-# PI-7: Are you going through something?
-
-
----
-
-### sim1: Something's Wrong
-
-**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
-
-**📍 Location:** Coffee shop
-
-**intro_text:**
-Something's been off lately. Your friend noticed. Time to talk.
-
-**기 — What's up [Set 1]**
 AI: You seem a little off lately. Is everything okay?
 User: I'm struggling a bit. / I have a lot on my mind.
 AI: What's going on? Talk to me.
 User: Life here is tough. / I'm just really busy.
-
-**Outro:**
-> It's out there now. 💬 The first step is always the hardest.
-> Your friend is listening — keep going.
->
-
-**승 — Listening [Set 2]**
 AI: What's been the hardest part?
 User: I spend a lot of time alone. / English is still really hard for me.
 AI: That sounds really tough.
 User: Yeah, a little.
-
-**Outro:**
-> Heard and understood. 🫂 That's what real friends do.
-> Now it's time to do something about it.
->
-
----
-
-### sim2: Advice
-
-**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
-
-**📍 Location:** Coffee shop → Central Park
-
-**승 — Getting out [Set 3]**
 AI: Don't keep it all inside. Talk to me whenever!
 User: Thank you. / I will, I promise.
 AI: You need some fresh air. Let's get out of here!
 User: Where to? / Yeah, let's go!
-
-**Outro:**
-> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
-> Central Park has a way of making everything feel better.
->
-
-**전 — Outside [Set 4]**
 AI: Let's go to Central Park! The walk will do you good!
 User: Yeah, let's do it!
 AI: Should we grab some snacks on the way?
 User: Good idea! / Let's stop at a corner store!
-
-**Outro:**
-> Corner store snacks + Central Park = perfect combo! 🍜 Let's go.
-> The best conversations happen outside.
->
-
----
-
-### sim3: Feeling Better
-
-**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
-
-**📍 Location:** Central Park
-
-**전 — Better now [Set 5]**
 AI: Feeling better?
 User: Yeah, a lot better! / Thanks to you!
 AI: I'm so glad!
 User: Seriously, thank you.
-
-**Outro:**
-> From stressed to refreshed! 🌊 Central Park delivered.
-> Now make it official — promise to reach out next time.
->
-
-**결 — Promise [Set 6]**
 AI: Reach out anytime you're struggling!
 User: I will, I promise!
 AI: That's a deal!
 User: Deal!
-
-**Outro:**
-> Pinky promise made! 🤙 You're not alone in this.
-> Life here is tough, but with friends like this, you've got this.
->
-
----

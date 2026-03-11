@@ -1,97 +1,24 @@
-# KP-5: C'est quoi le sens de ces paroles ?
-
-
----
-
-### sim1: On demande
-
-**Goal:** To ask your friend about French lyrics you don't understand and learn some key phrases.
-
-**📍 장소:** Chez un(e) ami(e) (en écoutant de la musique)
-
-**intro_text:**
-Stromae's new song is on repeat. But what does it actually mean?
-
-**기 — Les paroles [세트 1]**
 User: C'est quoi ce qu'il dit dans cette chanson ?
 AI: (ami(e)) Quelle partie ?
 User: "Alors on danse" — ça veut dire quoi exactement ?
 AI: Ça veut dire "So we dance" — c'est une métaphore pour continuer malgré tout !
-
-**Outro:**
-> "Alors on danse" — now you'll never forget it! 💭 What else don't you know?
-> The vocabulary lesson is just getting started.
->
-
-**승 — On apprend [세트 2]**
 User: Et "papaoutai", ça veut dire quoi ?
 AI: C'est "papa où t'es ?" — "where are you, dad?" C'est très émouvant !
 User: Ah, je comprends maintenant ! / Vraiment ?
 AI: Ouais ! Les paroles françaises sont super riches !
-
-**Outro:**
-> Papaoutai decoded — the most emotional lyric in French pop! 🎵 Now you know the story.
-> Time to put that knowledge to use and actually sing along.
->
-
----
-
-### sim2: On chante
-
-**Goal:** To try singing along to a French song and get encouragement from your friend.
-
-**📍 장소:** Chez un(e) ami(e) (même endroit)
-
-**승 — On chante ensemble [세트 3]**
 AI: On chante ensemble ?
 User: Bonne idée ! / Je connais pas toutes les paroles.
 AI: C'est pas grave ! Suis le rythme !
 User: D'accord !
-
-**Outro:**
-> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
-> Your friend is about to give you the best compliment.
->
-
-**전 — T'es doué(e) ! [세트 4]**
 AI: T'es pas mal du tout !
 User: Vraiment ? / Ma prononciation est bizarre ?
 AI: Non, t'as le rythme ! C'est bien !
 User: Merci !
-
-**Outro:**
-> "T'as le rythme!" — you've got the feel! 🌟 That's the highest compliment.
-> Now let's talk about the new song everyone's obsessing over.
->
-
----
-
-### sim3: La nouvelle chanson
-
-**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
-
-**📍 장소:** Chez un(e) ami(e) (même endroit)
-
-**전 — La nouvelle sortie [세트 5]**
 User: T'as entendu la nouvelle chanson d'Angèle ?
 AI: Oui ! Elle est trop bien ! Et toi ?
 User: J'ai écouté ! Les paroles sont tristes.
 AI: Ouais ! La partie "je t'attends" est vraiment émouvante.
-
-**Outro:**
-> "Je t'attends" — I'm waiting for you. 😢 Why is French pop always so emotional?
-> End the session the only way possible: listening together.
->
-
-**결 — On écoute ensemble [세트 6]**
 User: Écoute avec moi et explique-moi les paroles !
 AI: Bonne idée ! Écoute bien !
 User: Cette chanson est vraiment belle.
 AI: Ouais !
-
-**Outro:**
-> Music + friendship + French lyrics = perfect afternoon! 🎶 You're basically fluent now.
-> Next up: a fan story that will make you want to go to a meet and greet immediately.
->
-
----

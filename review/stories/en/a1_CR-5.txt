@@ -1,97 +1,24 @@
-# CR-5: Have you had lunch yet?
-
-
----
-
-### sim1: Lunch Break
-
-**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
-
-**📍 Location:** Office
-
-**intro_text:**
-12:30 PM. Your stomach is growling. A coworker appears.
-
-**기 — Lunch invite [Set 1]**
 AI: Have you had lunch yet?
 User: Not yet. / Yes, I already ate.
 AI: Would you like to join me?
 User: Yes, I'd love that! / Thank you, that sounds great!
-
-**Outro:**
-> Lunch invitation accepted! 🍱 Now the important question: where are we going?
-> Your coworker has a recommendation — and it sounds amazing.
->
-
-**승 — Where to eat [Set 2]**
 AI: What are you in the mood for? There is a great place nearby!
 User: Anything is fine! / What do you recommend?
 AI: The deli on the corner is really good!
 User: That sounds great! Let's go!
-
-**Outro:**
-> Deli it is! 🥪 The ultimate American office lunch.
-> Time to bond over a good sandwich.
->
-
----
-
-### sim2: At Lunch
-
-**Goal:** To navigate the menu, handle the food question, and have a real conversation with your coworker.
-
-**📍 Location:** Deli near the office
-
-**승 — Ordering [Set 3]**
 AI: Do you have any dietary restrictions? Anything you do not eat?
 User: No, I eat everything! / I don't eat meat.
 AI: They have great veggie options too!
 User: That's good to know!
-
-**Outro:**
-> Dietary needs handled! 🥗 Your coworker is looking out for you.
-> Now the real workplace bonding begins.
->
-
-**전 — Conversation [Set 4]**
 AI: How are you finding it here so far? Are you settling in?
 User: Yes, I'm getting used to it. / It's a bit tough!
 AI: If you ever need anything, please let me know!
 User: Thank you, I appreciate that.
-
-**Outro:**
-> A coworker who actually cares! ☕ That is rare and precious.
-> Now comes the slightly awkward part: who pays?
->
-
----
-
-### sim3: Going Back
-
-**Goal:** To handle the bill gracefully and head back to the office on good terms.
-
-**📍 Location:** Deli
-
-**전 — The check [Set 5]**
 User: Please let me get this.
 AI: No, no — I invited you, so it is on me!
 User: Thank you so much!
 AI: Did you enjoy it?
-
-**Outro:**
-> They paid! 💼 Accept it gracefully and say thank you.
-> Almost back to the office — one last exchange.
->
-
-**결 — Heading back [Set 6]**
 User: Yes, it was delicious! Thank you!
 AI: I am glad!
 AI: Shall we head back up?
 User: Yes, let's go!
-
-**Outro:**
-> Lunch: successful. Relationship: upgraded. 📈 You have got a work friend now.
-> Back to the desk — and maybe a coffee to power through the afternoon.
->
-
----

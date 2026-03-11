@@ -1,110 +1,24 @@
-# TR-3 : Excusez-moi, le métro ?
-
-- Catégorie : Voyages et Déplacements
-- Sous-catégorie : Directions / Métro
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Dans la Rue
-
-**Goal:** To ask for and understand basic directions in Paris.
-
-**📍 Lieu :** Rue de Rivoli, Paris
-
-**intro_text:**
-Vous êtes perdu(e) dans Paris.
-Demandez votre chemin !
-
-**Direction — Où est... ? [Série 1]**
 User: Excusez-moi, où est la tour Eiffel ?
 AI: C'est par là ! Prenez la rue à gauche.
 User: C'est loin ? / Merci, c'est à droite ?
 AI: Non, c'est à gauche. Environ 10 minutes à pied.
-
-**Outro:**
-> Direction trouvée ! 🗺️
-> Maintenant, trouvez le métro.
->
-
-**Métro — La station [Série 2]**
 User: Excusez-moi, il y a un métro près d'ici ?
 AI: Oui ! La station Châtelet est à 5 minutes.
 User: Merci beaucoup ! / C'est quelle ligne ?
 AI: La ligne 1. Direction La Défense.
-
-**Outro:**
-> Station trouvée ! 🚇
-> Vous maîtrisez le métro parisien !
->
-
----
-
-### sim2 : Dans le Métro
-
-**Goal:** To buy a ticket and find the right platform.
-
-**📍 Lieu :** Station de métro Châtelet, Paris
-
-**intro_text:**
-Vous êtes dans le métro. Maintenant, il faut le bon ticket.
-Et le bon quai !
-
-**Ticket — Au guichet [Série 3]**
 User: Un ticket, s'il vous plaît.
 AI: Un carnet ou un ticket simple ?
 User: Un ticket simple, s'il vous plaît. / Un carnet, s'il vous plaît.
 AI: Voilà, c'est 1 euro 90.
-
-**Outro:**
-> Ticket en main ! 🎫
-> Maintenant, trouvez le bon quai.
->
-
-**Quai — Quelle direction ? [Série 4]**
 AI: Vous allez où ?
 User: Je vais à Montmartre. / Je vais à la tour Eiffel.
 AI: Prenez la ligne 4, direction Porte de Clignancourt.
 User: Merci !
-
-**Outro:**
-> Direction confirmée ! ✅
-> Vous voyagez comme un(e) Parisien(ne) !
->
-
----
-
-### sim3 : À l'Arrivée
-
-**Goal:** To ask for help finding your destination after exiting the metro.
-
-**📍 Lieu :** Sortie de métro Abbesses, Montmartre
-
-**intro_text:**
-Vous sortez du métro à Montmartre.
-Mais où est exactement ce que vous cherchez ?
-
-**Sortie — Par où ? [Série 5]**
 User: Excusez-moi, le Sacré-Cœur, c'est par où ?
 AI: Montez les escaliers et continuez tout droit.
 User: C'est loin ? / Merci, je continue tout droit ?
 AI: Non, c'est à 5 minutes. Vous ne pouvez pas le rater !
-
-**Outro:**
-> Presque arrivé(e) ! 🏔️
-> Le Sacré-Cœur vous attend.
->
-
-**Arrivée — Vous y êtes ! [Série 6]**
 AI: Vous cherchez quelque chose ?
 User: Oui, je cherche un bon restaurant ici. / Oui, je cherche une boulangerie.
 AI: Il y en a un très bon rue Lepic !
 User: Merci beaucoup !
-
-**Outro:**
-> Montmartre exploré ! 🎨
-> La suite : Un hôtel confortable vous attend.
->
-
----

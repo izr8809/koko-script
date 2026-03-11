@@ -1,97 +1,24 @@
-# PI-7: Tu as un problème ?
-
-
----
-
-### sim1: Quelque chose ne va pas
-
-**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
-
-**📍 장소:** Café (Canal Saint-Martin)
-
-**intro_text:**
-Something's been off lately. Your friend noticed. Time to talk.
-
-**기 — Ça va pas ? [세트 1]**
 AI: T'as l'air pas bien ces derniers temps. Il se passe quoi ?
 User: C'est un peu dur en ce moment. / J'ai un truc qui me pèse.
 AI: C'est quoi ? Tu peux me dire.
 User: La vie à Paris, c'est parfois compliqué. / J'ai trop de boulot.
-
-**Outro:**
-> It's out there now. 💬 The first step is always the hardest.
-> Your friend is listening — keep going.
->
-
-**승 — T'écoute [세트 2]**
 AI: C'est quoi le truc le plus dur ?
 User: Je me retrouve souvent seul(e). / Le français, c'est encore difficile.
 AI: C'est dur, ça.
 User: Ouais, un peu.
-
-**Outro:**
-> Heard and understood. 🫂 That's what real friends do.
-> Now it's time to do something about it.
->
-
----
-
-### sim2: Un peu d'air frais
-
-**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
-
-**📍 장소:** Café → Quais de Seine
-
-**승 — Un conseil [세트 3]**
 AI: Arrête de tout garder pour toi. Parle-moi !
 User: Merci. / D'accord.
 AI: T'as besoin de te changer les idées. On sort !
 User: Où ça ? / Bonne idée !
-
-**Outro:**
-> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
-> The Seine has a way of making everything feel better.
->
-
-**전 — Dehors [세트 4]**
 AI: On va se balader au bord de la Seine ! Ça fait du bien !
 User: Ouais, allons-y !
 AI: On s'achète un truc à manger en chemin ?
 User: Bonne idée ! / On passe à la boulangerie !
-
-**Outro:**
-> Boulangerie snacks + Seine riverside = perfect combo! 🥐 Let's go.
-> The best conversations happen by the water.
->
-
----
-
-### sim3: Ça va mieux
-
-**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
-
-**📍 장소:** Quais de Seine
-
-**전 — Ça va mieux ? [세트 5]**
 AI: Tu te sens mieux ?
 User: Oui, beaucoup mieux ! / Grâce à toi !
 AI: Tant mieux !
 User: Vraiment merci.
-
-**Outro:**
-> From stressed to refreshed! 🌊 The Seine delivered.
-> Now make it official — promise to reach out next time.
->
-
-**결 — Toujours là [세트 6]**
 AI: Si ça va pas, tu m'appelles, d'accord !
 User: Oui, promis !
 AI: C'est une promesse !
 User: Promis !
-
-**Outro:**
-> Pinky promise made! 🤙 You're not alone in this.
-> Paris life is tough, but with friends like this, you've got this.
->
-
----

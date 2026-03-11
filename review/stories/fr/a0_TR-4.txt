@@ -1,112 +1,24 @@
-# TR-4 : Une chambre, s'il vous plaît
-
-- Catégorie : Voyages et Déplacements
-- Sous-catégorie : Hôtel
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Check-in
-
-**Goal:** To check in to a hotel and confirm your reservation.
-
-**📍 Lieu :** Hôtel (Paris, 6e arrondissement)
-
-**intro_text:**
-Vous arrivez à l'hôtel après une longue journée.
-La chambre vous attend !
-
-**Arrivée — Bonsoir [Série 1]**
 AI: Bonsoir ! Vous avez une réservation ?
 User: Oui, au nom de ___. / Oui, j'ai réservé en ligne.
 AI: Très bien ! Votre chambre est au 3e étage.
 User: Merci. C'est quelle chambre ?
-
-**Outro:**
-> Check-in réussi ! 🏨
-> Maintenant, posez vos valises.
->
-
-**Chambre — Les détails [Série 2]**
 User: Est-ce que le petit-déjeuner est inclus ?
 AI: Oui, de 7h à 10h au restaurant.
 User: Très bien, merci. / Et le wifi, c'est gratuit ?
 AI: Oui, le wifi est gratuit. Voici le code.
-
-**Outro:**
-> Tout est clair ! 📋
-> Profitez de votre séjour à Paris !
->
-
----
-
-### sim2 : Un Problème
-
-**Goal:** To report a problem in your hotel room.
-
-**📍 Lieu :** Hôtel (même endroit)
-
-**intro_text:**
-La chambre est bien... mais il y a un petit problème.
-Comment le signaler poliment ?
-
-**Problème — À la réception [Série 3]**
 User: Excusez-moi, il y a un problème dans ma chambre.
 AI: Je suis désolé(e) ! C'est quoi le problème ?
 User: La douche ne marche pas. / Il n'y a pas de serviettes.
 AI: Je vous envoie quelqu'un tout de suite.
-
-**Outro:**
-> Problème signalé ! 🔧
-> La solution arrive.
->
-
-**Solution — C'est réglé [Série 4]**
 AI: Voilà, c'est réparé. Tout va bien maintenant ?
 User: Oui, merci beaucoup ! / Oui, c'est parfait maintenant.
 AI: Je suis ravi(e). Bonne nuit !
 User: Merci, bonne nuit !
-
-**Outro:**
-> Problème résolu ! ✅
-> Dormez bien — Paris vous attend demain.
->
-
----
-
-### sim3 : Check-out
-
-**Goal:** To check out of the hotel and ask for a receipt.
-
-**📍 Lieu :** Hôtel (même endroit)
-
-**intro_text:**
-C'est le dernier matin. Il faut partir.
-Comment faire un bon check-out ?
-
-**Départ — Check-out [Série 5]**
 User: Je voudrais faire le check-out, s'il vous plaît.
 AI: Bien sûr ! Votre chambre était la 312 ?
 User: Oui, c'est ça. / Oui, au nom de ___.
 AI: Voilà votre facture.
-
-**Outro:**
-> Check-out lancé ! 🧳
-> Vérifiez la facture avant de partir.
->
-
-**Facture — Tout est bon ? [Série 6]**
 AI: Tout s'est bien passé pendant votre séjour ?
 User: Oui, très bien, merci ! / Oui, c'était excellent !
 AI: Merci ! Bonne continuation et bon voyage !
 User: Merci, au revoir !
-
-**Outro:**
-> Séjour terminé ! 🌟
-> Paris vous a conquis(e). À bientôt !
->
-
----
-
-# 🥐 ART DE VIVRE (tu/vous mixte) >> French Culture & Lifestyle

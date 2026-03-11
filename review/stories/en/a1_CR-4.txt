@@ -1,100 +1,24 @@
-# CR-4: Are you ready for the meeting?
-
-
----
-
-### sim1: Before the Meeting
-
-**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
-
-**📍 Location:** Office (at your desk)
-
-**intro_text:**
-Meeting in 2 hours. Almost ready... I think.
-
-**기 — Preparation [Set 1]**
 AI: Are you ready for the meeting today?
 User: Yes, I'm ready. / Almost, just finishing up.
 AI: Did you print the documents?
 User: Yes, I did. / I'll do that now.
-
-**Outro:**
-> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
-> A meeting without a room is just a hallway conversation.
->
-
-**승 — The room [Set 2]**
 AI: Did you book the conference room?
 User: Yes, I booked it for 3 o'clock.
 AI: Perfect! See you then!
 User: Yes, see you there.
-
-**Outro:**
-> Room booked and ready to go! 📅 Deep breath... it's showtime.
-> Time to walk into that meeting like you own the place.
->
-
----
-
-### sim2: During the Meeting
-
-**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
-
-**📍 Location:** Conference room
-
-**intro_text:**
-Meeting in progress. Time to share your thoughts.
-
-**승 — In the meeting [Set 3]**
 AI: Does anyone have thoughts on this section?
 User: Yes, I think this approach would work well. / I agree with that direction.
 AI: That is a great point!
 User: Thank you.
-
-**Outro:**
-> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
-> One more question and you will have nailed this meeting.
->
-
-**전 — The question [Set 4]**
 User: I have a question.
 AI: Of course, go ahead!
 User: When is the deadline for this section?
 AI: It is due by next Friday!
-
-**Outro:**
-> Deadline secured: Next Friday. ⏳ You are officially surviving corporate America!
-> Now wrap it up and get back to your desk.
->
-
----
-
-### sim3: After the Meeting
-
-**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
-
-**📍 Location:** Conference room → office
-
-**전 — After the meeting [Set 5]**
 AI: Great work today, everyone!
 User: Thank you!
 User: I'd be happy to send out the meeting notes.
 AI: That would be wonderful, thank you!
-
-**Outro:**
-> Volunteering for the meeting notes? Total pro move! 📝 Time to wrap this up and get back to your desk.
-> One last professional exchange and you are done.
->
-
-**결 — Wrapping up [Set 6]**
 AI: See you at the next meeting!
 User: Yes, I'll be there.
 AI: Have a good rest of your day!
 User: Thank you! You as well!
-
-**Outro:**
-> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
-> Corporate America: 0, You: 1.
->
-
----

@@ -1,97 +1,24 @@
-# KP-5: What does this lyric mean?
-
-
----
-
-### sim1: Asking About Lyrics
-
-**Goal:** To ask your friend about lyrics you don't understand and learn some key phrases.
-
-**📍 Location:** Friend's place (listening to music together)
-
-**intro_text:**
-Her new song is on repeat. But what does it actually mean?
-
-**기 — The lyrics [Set 1]**
 User: What is she saying in this part?
 AI: (friend) Which part?
 User: "I'm the problem, it's me" — this part!
 AI: It means she's saying she's the one causing the issues!
-
-**Outro:**
-> "It's me, hi, I'm the problem" — now you'll never forget it! 💭 What else don't you know?
-> The vocabulary lesson is just getting started.
->
-
-**승 — Learning more [Set 2]**
 User: I know "I love you"! What about "I miss you"?
 AI: That's "I miss you" — pretty much the same in English!
 User: Oh, that's easy! / Wait, really?
 AI: Yeah! English lyrics are fun, right?
-
-**Outro:**
-> Love vs. miss — the eternal pop song distinction! 🎵 Now you know the difference.
-> Time to put that knowledge to use and actually sing along.
->
-
----
-
-### sim2: Singing Along
-
-**Goal:** To try singing along to a song and get encouragement from your friend.
-
-**📍 Location:** Friend's place (same)
-
-**승 — Singing together [Set 3]**
 AI: Want to try singing along?
 User: Sure! / Do I have to know all the words?
 AI: Nope! Just follow along!
 User: Okay, let's try!
-
-**Outro:**
-> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
-> Your friend is about to give you the best compliment.
->
-
-**전 — You're good [Set 4]**
 AI: Hey, you're actually really good!
 User: Really? / Is my accent weird?
 AI: No way, you sound great! You've got the feel for it!
 User: Thank you!
-
-**Outro:**
-> "You've got the feel for it!" 🌟 That's the highest compliment.
-> Now let's talk about the new song everyone's obsessing over.
->
-
----
-
-### sim3: New Song
-
-**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
-
-**📍 Location:** Friend's place (same)
-
-**전 — New release [Set 5]**
 User: Did you hear her new song? Have you listened yet?
 AI: Yes! I love it! What about you?
 User: I listened! The lyrics are so sad though.
 AI: Right? The part about "waiting" is so emotional.
-
-**Outro:**
-> "Waiting" — why is pop music always so emotional? 😢
-> End the session the only way possible: listening together.
->
-
-**결 — Listen together [Set 6]**
 User: Listen with me and explain the lyrics!
 AI: Yes! Let's go!
 User: This song is so good.
 AI: Right?!
-
-**Outro:**
-> Music + friendship + lyrics = perfect afternoon! 🎶 You're basically fluent now.
-> Next up: a fan story that will make you want to go to a meet-and-greet immediately.
->
-
----

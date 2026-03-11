@@ -1,110 +1,24 @@
-# CL-1: Hey, I Think We're Roommates!
-
-- Category: Campus Life
-- Subcategory: Dorm Life
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: Moving In
-
-**Goal:** To introduce yourself to your new roommate and get settled in your dorm room.
-
-**📍 Location:** Dorm room (first day on campus)
-
-**intro_text:**
-Move-in day. Your stuff is everywhere.
-Someone just walked in — it's your roommate!
-
-**Opening — First Hello [Set 1]**
 AI: Hey! I think we're roommates! I'm Chris!
 User: Hey! I'm ___! Nice to meet you!
 AI: Cool! Where are you from?
 User: I'm from ___! What about you?
-
-**Outro:**
-> Roommate unlocked! 🛏️
-> But wait... which bed do they want?
->
-
-**Beds [Set 2]**
 AI: Do you have a preference for the bed?
 User: I'll take the one by the window! / I don't mind, you pick!
 AI: Works for me! I'll take this side.
 User: Sounds good! Thanks!
-
-**Outro:**
-> Beds sorted! 😌
-> Now, find out a little more about each other.
->
-
----
-
-### sim2: Getting to Know You
-
-**Goal:** To discover shared interests and ask about your roommate's major.
-
-**📍 Location:** Dorm room (same)
-
-**intro_text:**
-You're both unpacking.
-Good time to break the ice!
-
-**Major [Set 3]**
 User: What's your major?
 AI: Computer science! What about you?
 User: I'm studying ___! / I'm still deciding!
 AI: Nice! Have you been to any of your classes yet?
-
-**Outro:**
-> Majors shared! 📚
-> Now, find out about life on campus!
->
-
-**Campus Life [Set 4]**
 AI: Have you been to the dining hall yet?
 User: Not yet! Is it good? / Yeah, I went this morning!
 AI: It's decent! The meal plan is pretty convenient though.
 User: Good to know! Thanks!
-
-**Outro:**
-> Campus tip received! 🍽️
-> Now, make your first plans as roommates.
->
-
----
-
-### sim3: First Night
-
-**Goal:** To make plans for dinner on your first night and talk about orientation.
-
-**📍 Location:** Dorm hallway → dining hall
-
-**intro_text:**
-It's almost dinnertime.
-What's the plan for tonight?
-
-**Dinner Plans [Set 5]**
 User: Hey, wanna grab dinner together?
 AI: Yeah! The dining hall or somewhere off campus?
 User: Let's try the dining hall! / Off campus sounds fun!
 AI: Let's go! I'll grab my student ID!
-
-**Outro:**
-> Dinner plans: Made! 🍴
-> Now, talk about orientation!
->
-
-**Orientation [Set 6]**
 AI: Did you go to orientation today?
 User: Yeah! It was a lot to take in! / Mine's tomorrow — a little nervous!
 AI: Same! So much info. But it's exciting, right?
 User: Totally! I can't wait to start!
-
-**Outro:**
-> Roommate bond: Started! 🤝
-> Next up: Time to hit the classroom!
->
-
----

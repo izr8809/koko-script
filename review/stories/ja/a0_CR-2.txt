@@ -1,102 +1,24 @@
-# CR-2: ほうこく いたします
-
-- 大分類: Career
-- 中分類: Reporting to Boss
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Morning Report
-
-**Goal:** To give a morning status report to your supervisor.
-
-**📍 場所:** かいしゃ (上司の デスク)
-
-**intro_text:**
-Monday morning. Your boss is at their desk.
-Time to give your weekly report!
-
-**起 — ほうこく [セット 1]**
 AI: おはようございます！___さん、すこし よろしいですか？
 User: はい、どうぞ。
 AI: せんしゅうの しごとに ついて ほうこく いたします。
 User: はい、どうぞ。
-
-**Outro:**
-> Report started! 📊
-> But wait... what's the actual update?
->
-
-**承 — しごとの じょうきょう [セット 2]**
 AI: プロジェクトは じゅんちょうです。
 User: そうですか。もんだいは ありますか？
 AI: いいえ、もんだいは ありません。 / はい、すこし もんだいが あります。
 User: わかりました。つづけてください。
-
-**Outro:**
-> Status: Reported! ✅
-> Now, ask about the next steps.
->
-
----
-
-### sim2: Asking for Instructions
-
-**Goal:** To ask your supervisor for instructions on the next task.
-
-**📍 場所:** かいしゃ (上司の デスク, 同じ)
-
-**承 — しじ [セット 3]**
 User: すみません。つぎは なにを すれば よいですか？
 AI: この しりょうを まとめてください。
 User: はい、わかりました。いつまでに ですか？
 AI: もくようびまでに おねがいします。
-
-**Outro:**
-> Instructions received! 📋
-> Now, confirm you understand.
->
-
-**転 — かくにん [セット 4]**
 User: もくようびまでに しりょうを まとめます。よろしいですか？
 AI: はい、よろしく おねがいします。
 User: ありがとうございます。がんばります。
 AI: よろしく おねがいします。
-
-**Outro:**
-> Task confirmed! 💼
-> Almost done — just one more thing.
->
-
----
-
-### sim3: End of Day Report
-
-**Goal:** To give an end-of-day report and ask if there's anything else needed.
-
-**📍 場所:** かいしゃ (上司の デスク)
-
-**転 — おわりの ほうこく [セット 5]**
 User: ___さん、きょうの しごとが おわりました。
 AI: おつかれさまでした。どうでしたか？
 User: じゅんちょうでした。しりょうも できました。
 AI: そうですか。ありがとうございます。
-
-**Outro:**
-> Day's work: Reported! 📊
-> Now, wrap up and head home!
->
-
-**結 — おわり [セット 6]**
 User: ほかに なにか ありますか？
 AI: いいえ、だいじょうぶです。おつかれさまでした。
 User: おつかれさまでした。おさきに しつれいします。
 AI: おつかれさまでした！
-
-**Outro:**
-> Work day: Complete! 🎉
-> Next up: Time for the big meeting!
->
-
----

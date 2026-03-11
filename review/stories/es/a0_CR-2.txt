@@ -1,109 +1,24 @@
-# CR-2: La Reunión de Equipo
-
-- Categoría: Trabajo
-- Subcategoría: Reunión Profesional
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Antes de la Reunión
-
-**Goal:** To prepare for a team meeting and confirm attendance.
-
-**📍 Lugar:** Oficina (CDMX)
-
-**intro_text:**
-Hay una reunión de equipo mañana.
-¡Confirme su asistencia!
-
-**Apertura — Confirmación [Set 1]**
 AI: ¿Puede asistir a la reunión mañana?
 User: Sí, con mucho gusto. ¿A qué hora es? / Sí, ahí estaré.
 AI: A las 10 de la mañana, en la sala B.
 User: Entendido. Ahí estaré. / Perfecto, gracias.
-
-**Outro:**
-> ¡Asistencia confirmada! 📅
-> Ahora prepárese para la reunión.
->
-
-**Preparación [Set 2]**
 AI: ¿Necesita algo para la reunión?
 User: ¿Hay agenda? / No, gracias, estoy listo/a.
 AI: Sí, le envío la agenda por correo.
 User: Muchas gracias. / Le agradezco.
-
-**Outro:**
-> ¡Preparación lista! 📋
-> La reunión empieza mañana.
->
-
----
-
-### sim2: Durante la Reunión
-
-**Goal:** To follow along in a meeting and ask for clarification.
-
-**📍 Lugar:** Sala de reuniones (mismo)
-
-**intro_text:**
-La reunión empezó. ¡Preste atención!
-
-**La Reunión [Set 3]**
 AI: Hoy vamos a hablar del nuevo proyecto.
 User: Disculpe, ¿puede repetir eso? / Entendido.
 AI: Claro. El proyecto empieza el lunes.
 User: Gracias. ¿Cuál es mi rol? / Entendido, gracias.
-
-**Outro:**
-> ¡Pregunta hecha con confianza! 💪
-> Ahora tome nota de su rol.
->
-
-**El Rol [Set 4]**
 AI: Usted va a coordinar el equipo.
 User: Entendido. ¿Con quién trabajo? / Con mucho gusto.
 AI: Con la señora López y el señor Martínez.
 User: Perfecto. Gracias. / Entendido, gracias.
-
-**Outro:**
-> ¡Rol asignado! 🎯
-> Ya sabe qué hacer.
->
-
----
-
-### sim3: Después de la Reunión
-
-**Goal:** To follow up after a meeting and confirm next steps.
-
-**📍 Lugar:** Oficina (mismo)
-
-**intro_text:**
-La reunión terminó. ¡Buen trabajo!
-Ahora confirme los próximos pasos.
-
-**Próximos Pasos [Set 5]**
 AI: ¿Tiene alguna pregunta sobre lo que discutimos?
 User: Sí, ¿cuándo es la próxima reunión? / No, todo está claro.
 AI: La próxima reunión es el jueves.
 User: Entendido. Gracias. / Perfecto.
-
-**Outro:**
-> ¡Próximos pasos claros! 📆
-> Ahora envíe un correo de seguimiento.
->
-
-**Seguimiento [Set 6]**
 User: ¿Le puedo enviar un resumen de la reunión?
 AI: Sí, por favor. Le agradezco mucho.
 User: Con mucho gusto. Lo envío hoy. / Claro, lo envío esta tarde.
 AI: Muchas gracias. Hasta luego.
-
-**Outro:**
-> ¡Profesional del año! 🏆
-> Lo siguiente: El correo profesional perfecto.
->
-
----

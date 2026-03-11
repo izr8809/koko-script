@@ -1,97 +1,24 @@
-# CR-5: ¿Ya almorzó?
-
-
----
-
-### sim1: La hora del almuerzo
-
-**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
-
-**📍 장소:** Oficina
-
-**intro_text:**
-12:30 PM. Your stomach is growling. A coworker appears.
-
-**기 — El almuerzo [세트 1]**
 AI: ¿Ya almorzó?
 User: Todavía no. / Sí, ya almorcé.
 AI: ¿Quiere ir a comer juntos?
 User: ¡Sí, con mucho gusto! / ¡Gracias!
-
-**Outro:**
-> Lunch invitation accepted! 🍱 Now the important question: where are we going?
-> Your coworker has a recommendation — and it sounds amazing.
->
-
-**승 — ¿Qué comemos? [세트 2]**
 AI: ¿Qué quiere comer? ¡Hay un lugar muy bueno cerca!
 User: ¡Cualquier cosa! / ¿Qué tienen de bueno?
 AI: ¡Aquí la sopa de lima es muy famosa!
 User: ¡Perfecto! ¡Vamos!
-
-**Outro:**
-> Sopa de lima it is! 🌶️ The ultimate office lunch.
-> Time to bond over a bowl of something delicious.
->
-
----
-
-### sim2: En el restaurante
-
-**Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
-
-**📍 장소:** Restaurante cerca de la oficina
-
-**승 — Comiendo [세트 3]**
 AI: ¿Le gusta la comida mexicana? ¿Come picante?
 User: ¡Sí, me gusta! / ¡No como picante!
 AI: ¡Entonces le recomiendo el caldo de pollo! ¡No pica!
 User: ¡Perfecto!
-
-**Outro:**
-> Caldo de pollo: the safe and delicious choice! 🥣 Your coworker is looking out for you.
-> Now the real workplace bonding begins.
->
-
-**전 — La conversación [세트 4]**
 AI: ¿Cómo le está yendo aquí? ¿Ya se está adaptando?
 User: Sí, poco a poco. / A veces es difícil.
 AI: ¡Si necesita algo, con mucho gusto le ayudo!
 User: Muchas gracias.
-
-**Outro:**
-> A coworker who actually cares! ☕ That's rare and precious.
-> Now comes the awkward part: who pays?
->
-
----
-
-### sim3: Regresando
-
-**Goal:** To handle the bill gracefully and head back to the office on good terms.
-
-**📍 장소:** Restaurante
-
-**전 — La cuenta [세트 5]**
 User: Yo pago.
 AI: ¡No, no! ¡Yo invito, soy el/la mayor!
 User: ¡Muchas gracias!
 AI: ¿Le gustó la comida?
-
-**Outro:**
-> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
-> Almost back to the office — one last exchange.
->
-
-**결 — De regreso [세트 6]**
 User: ¡Sí, estuvo muy rica! ¡Gracias por invitarme!
 AI: ¡Con mucho gusto!
 AI: ¿Subimos?
 User: ¡Sí, vamos!
-
-**Outro:**
-> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
-> Back to the desk — and maybe a coffee to power through the afternoon.
->
-
----

@@ -1,102 +1,24 @@
-# TR-3: えきは どこですか？
-
-- 大分類: Traveling
-- 中分類: Directions
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Finding the Station
-
-**Goal:** To ask for directions to the station and understand basic directional responses.
-
-**📍 場所:** 街 (浅草)
-
-**intro_text:**
-You're lost in Asakusa.
-Time to ask a local for help!
-
-**起 — みちをきく [セット 1]**
 User: すみません！えきは どこですか？
 AI: えきですか？まっすぐ いってください。
 User: まっすぐ ですか？
 AI: はい、そこを みぎに まがってください。
-
-**Outro:**
-> Directions received! 🗺️
-> But wait... which exit do you need?
->
-
-**承 — でぐち [セット 2]**
 User: ありがとうございます！なんばん でぐちですか？
 AI: A1 でぐちです。
 User: A1 でぐちですね。ありがとうございます！
 AI: どういたしまして。
-
-**Outro:**
-> Exit confirmed! 🚉
-> Now, can you actually get there on time?
->
-
----
-
-### sim2: At the Ticket Machine
-
-**Goal:** To buy a train ticket and ask about the fare.
-
-**📍 場所:** えき (浅草えき)
-
-**承 — きっぷ [セット 3]**
 User: すみません！渋谷まで いくらですか？
 AI: 200円です。
 User: ありがとうございます！
 AI: どういたしまして。
-
-**Outro:**
-> Fare found! 🎫
-> Now, figure out which platform to go to.
->
-
-**転 — ホーム [セット 4]**
 User: すみません！渋谷ゆきは なんばん ホームですか？
 AI: 3ばん ホームです。
 User: 3ばん ホームですね。ありがとうございます！
 AI: どうぞ。
-
-**Outro:**
-> Platform found! 🚃
-> Almost there — just one more thing to check.
->
-
----
-
-### sim3: On the Train
-
-**Goal:** To confirm your stop and ask a fellow passenger for help.
-
-**📍 場所:** でんしゃ の なか
-
-**転 — でんしゃ [セット 5]**
 User: すみません！つぎは 渋谷ですか？
 AI: はい、つぎです。
 User: ありがとうございます！
 AI: どうぞ。
-
-**Outro:**
-> Almost at your stop! 🚉
-> Just one more step — get off at the right place.
->
-
-**結 — とうちゃく [セット 6]**
 User: すみません！ここで おりますか？
 AI: はい、ここです！
 User: ありがとうございます！
 AI: お気をつけて！
-
-**Outro:**
-> Arrived safely! 🎉
-> Next up: Checking into your hotel.
->
-
----

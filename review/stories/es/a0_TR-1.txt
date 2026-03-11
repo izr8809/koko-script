@@ -1,109 +1,24 @@
-# TR-1: ¿Me puede traer un café?
-
-- Categoría: Viajes y Lugares
-- Subcategoría: Café / Tortería
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Ordenando
-
-**Goal:** To order your drink, choose a size, and ask about additional menu items like pastries.
-
-**📍 Lugar:** Mostrador de cafetería (Café de Olla, CDMX)
-
-**intro_text:**
-Primer pedido en una cafetería mexicana. ¡Usted puede... solo dígalo!
-
-**Apertura — Ordenar [Set 1]**
 AI: ¡Buenos días! ¿Qué le pongo?
 User: ¿Me puede traer un café americano, por favor? / ¿Me puede traer un café con leche, por favor?
 AI: ¿De qué tamaño?
 User: Mediano, por favor. / Grande, por favor.
-
-**Outro:**
-> ¡Bebida ordenada! ☕
-> Pero espera... ese pan dulce en el mostrador lo está llamando.
->
-
-**Extra [Set 2]**
 AI: ¿Algo más?
 User: ¿Tienen pan dulce? / Eso es todo, gracias.
 AI: ¡Sí! Tenemos conchas y cuernitos.
 User: Una concha, por favor. / Un cuernito, por favor.
-
-**Outro:**
-> ¡Pedido completo! 🥐
-> Ahora, es hora de pagar como un experto.
->
-
----
-
-### sim2: Pagando
-
-**Goal:** To ask about payment methods and give your name for the order.
-
-**📍 Lugar:** Mostrador de cafetería (mismo)
-
-**intro_text:**
-Pedido hecho. Ahora viene el momento de la verdad.
-¡Es hora de pagar y dar su nombre!
-
-**Pago [Set 3]**
 AI: Son 85 pesos, por favor.
 User: ¿Puedo pagar con tarjeta? / Voy a pagar en efectivo.
 AI: ¡Claro que sí, adelante!
 User: Muchas gracias.
-
-**Outro:**
-> ¡Pago listo! 💳
-> Solo una cosa más antes de esperar...
->
-
-**Nombre [Set 4]**
 AI: ¿A nombre de quién?
 User: A nombre de ___.
 AI: ¡Perfecto! Le avisamos cuando esté listo.
 User: ¡Gracias!
-
-**Outro:**
-> ¡Nombre dado! 📝
-> Ahora, la parte más difícil: esperar el café.
->
-
----
-
-### sim3: Recogiendo el Pedido
-
-**Goal:** To pick up your order, ask for extras, and find a seat.
-
-**📍 Lugar:** Cafetería → área de mesas
-
-**intro_text:**
-Ya van a llamar su nombre.
-¡Prepárese para recoger su pedido!
-
-**Recoger [Set 5]**
 AI: ¡___, su café americano está listo!
 User: ¡Muchas gracias!
 AI: ¿Necesita azúcar o crema?
 User: Azúcar, por favor. / No, gracias, así está bien.
-
-**Outro:**
-> ¡Café en mano! ☕
-> Ahora busque un lugar para sentarse.
->
-
-**Asiento [Set 6]**
 User: Disculpe, ¿está ocupado este lugar?
 AI: No, está libre. ¡Pase!
 User: ¡Gracias!
 AI: ¡Que lo disfrute!
-
-**Outro:**
-> ¡Asiento encontrado! 🪑
-> Lo siguiente: Ordenar comida en un restaurante de verdad.
->
-
----

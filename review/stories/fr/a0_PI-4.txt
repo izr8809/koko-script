@@ -1,112 +1,24 @@
-# PI-4 : T'es sur les réseaux ?
-
-- Catégorie : Vie Personnelle
-- Sous-catégorie : Réseaux Sociaux / WhatsApp
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Les Réseaux
-
-**Goal:** To ask about and share social media handles.
-
-**📍 Lieu :** Café (Paris)
-
-**intro_text:**
-Le café est bon. La conversation aussi.
-C'est l'heure de se connecter en ligne !
-
-**Réseaux — T'es où en ligne ? [Série 1]**
 AI: T'es sur Instagram ?
 User: Oui, je suis dessus ! / Non, pas vraiment.
 AI: T'es sur quoi alors ?
 User: C'est ___ ! / Je t'envoie sur WhatsApp !
-
-**Outro:**
-> Connectés en ligne ! 📱
-> Mais est-ce qu'il/elle poste des trucs intéressants ?
->
-
-**Contenu — Tu postes quoi ? [Série 2]**
 User: Tu postes quoi sur Instagram ?
 AI: Des photos de Paris ! Et toi ?
 User: Des photos de nourriture ! / Des selfies !
 AI: Oh, j'adore ça !
-
-**Outro:**
-> Profil validé ! ✅
-> La suite : Est-ce que vous allez vous suivre ?
->
-
----
-
-### sim2 : WhatsApp
-
-**Goal:** To exchange WhatsApp contact and send a first message.
-
-**📍 Lieu :** Café (même endroit)
-
-**intro_text:**
-Instagram, c'est bien. WhatsApp, c'est mieux.
-C'est l'heure d'échanger les numéros !
-
-**Contact — WhatsApp [Série 3]**
 User: T'as WhatsApp ?
 AI: Oui ! Tu veux mon numéro ?
 User: Oui, s'il te plaît ! / Envoie-moi !
 AI: Voilà ! Je t'envoie un message.
-
-**Outro:**
-> Numéro échangé ! 🔢
-> Maintenant, envoie le premier message !
->
-
-**Premier Message — Coucou ! [Série 4]**
 AI: Coucou ! C'est moi, Léa !
 User: Coucou ! Je t'ai eu ! / Salut ! Ça marche !
 AI: Super ! On se reparle bientôt !
 User: Oui, à bientôt !
-
-**Outro:**
-> Premier message envoyé ! 💬
-> La suite : La vraie conversation commence maintenant.
->
-
----
-
-### sim3 : On reste en contact
-
-**Goal:** To make plans to meet again and stay in touch.
-
-**📍 Lieu :** En ligne (WhatsApp)
-
-**intro_text:**
-Le contact est établi. Maintenant, il faut l'entretenir.
-Un message, et c'est reparti !
-
-**Plans — On se revoit ? [Série 5]**
 AI: On se revoit quand ?
 User: Ce week-end ? / La semaine prochaine !
 AI: Ce week-end, c'est parfait !
 User: Super, j'attends ça !
-
-**Outro:**
-> Plans en vue ! 🗓️
-> Confirme les détails et c'est dans la poche.
->
-
-**Confirmation — C'est noté ! [Série 6]**
 User: Samedi, c'est bon pour toi ?
 AI: Oui, samedi c'est parfait !
 User: À samedi alors !
 AI: À samedi ! Hâte d'y être !
-
-**Outro:**
-> Rendez-vous confirmé ! 🎯
-> La suite : Samedi arrive... prépare-toi !
->
-
----
-
-# 🧳 VOYAGES ET DÉPLACEMENTS (vous) >> Paris et la France

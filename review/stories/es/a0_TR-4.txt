@@ -1,112 +1,24 @@
-# TR-4: Una Habitación, Por Favor
-
-- Categoría: Viajes y Lugares
-- Subcategoría: Hotel
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Check-In
-
-**Goal:** To check in to a hotel and confirm your reservation.
-
-**📍 Lugar:** Recepción de hotel (Hotel Centro Histórico, CDMX)
-
-**intro_text:**
-Llegó al hotel. ¡Por fin!
-Es hora de hacer el check-in.
-
-**Apertura — Reservación [Set 1]**
 AI: ¡Buenas tardes! ¿Tiene reservación?
 User: Sí, tengo una reservación. / Sí, reservé en línea.
 AI: ¿A nombre de quién?
 User: A nombre de ___.
-
-**Outro:**
-> ¡Reservación confirmada! 🏨
-> Ahora, ¿qué tipo de habitación tiene?
->
-
-**La Habitación [Set 2]**
 AI: Tiene una habitación doble. ¿Está bien?
 User: ¡Sí, perfecto! / ¿Tiene habitación sencilla?
 AI: ¡Claro! ¿Prefiere piso alto o bajo?
 User: Piso alto, por favor. / Piso bajo, por favor.
-
-**Outro:**
-> ¡Habitación asignada! 🛏️
-> Ahora, ¿qué incluye el hotel?
->
-
----
-
-### sim2: Los Servicios
-
-**Goal:** To ask about hotel amenities and breakfast.
-
-**📍 Lugar:** Recepción de hotel (mismo)
-
-**intro_text:**
-Ya tiene su habitación. Ahora pregunte qué incluye.
-¡No tenga pena!
-
-**Desayuno [Set 3]**
 AI: ¿Tiene alguna pregunta?
 User: ¿El desayuno está incluido? / ¿A qué hora es el desayuno?
 AI: ¡Sí! El desayuno es de 7 a 10 de la mañana.
 User: ¡Perfecto, gracias!
-
-**Outro:**
-> ¡Desayuno confirmado! 🍳
-> Ahora pregunte por el WiFi.
->
-
-**WiFi [Set 4]**
 User: ¿Cuál es la contraseña del WiFi?
 AI: La contraseña es "hotel2024".
 User: ¡Gracias! / ¿Tiene buena señal?
 AI: ¡Sí, muy buena! ¿Necesita algo más?
-
-**Outro:**
-> ¡WiFi conectado! 📶
-> Ya puede descansar... o explorar la ciudad.
->
-
----
-
-### sim3: Check-Out
-
-**Goal:** To check out of the hotel and ask for a receipt.
-
-**📍 Lugar:** Recepción de hotel (mismo)
-
-**intro_text:**
-Es hora de salir. ¡Qué rápido pasó!
-Haga el check-out y pida su recibo.
-
-**Check-Out [Set 5]**
 AI: ¡Buenos días! ¿Va a hacer el check-out?
 User: Sí, voy a hacer el check-out. / Sí, me voy hoy.
 AI: ¿Cómo estuvo su estancia?
 User: ¡Muy bien, gracias! / ¡Excelente, me gustó mucho!
-
-**Outro:**
-> ¡Estancia terminada! 🧳
-> Solo falta pagar y pedir el recibo.
->
-
-**El Recibo [Set 6]**
 AI: Son 1,200 pesos en total.
 User: ¿Me puede dar un recibo? / ¿Puedo pagar con tarjeta?
 AI: ¡Claro que sí! Aquí tiene su recibo.
 User: ¡Muchas gracias! ¡Hasta pronto!
-
-**Outro:**
-> ¡Check-out completo! ✅
-> Lo siguiente: La vida con familia y comunidad en español.
->
-
----
-
-# 👨‍👩‍👧 FAMILIA Y COMUNIDAD (tú) >> Vida Social en LATAM

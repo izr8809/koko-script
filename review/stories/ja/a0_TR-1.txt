@@ -1,101 +1,24 @@
-# TR-1: アイスコーヒー ください
-
-- 大分類: Traveling
-- 中分類: Cafe
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Ordering
-
-**Goal:** To order your drink, choose a size, and ask about additional menu items like cake.
-
-**📍 場所:** カフェ カウンター
-
-**intro_text:**
-First Japanese café order. You got this... just say it!
-
-**起 — ちゅうもん [セット 1]**
 AI: いらっしゃいませ！ご注文は？
 User: アイスコーヒー ください。 / アイスラテ ください。
 AI: サイズは？
 User: レギュラーで。 / ラージで。
-
-**Outro:**
-> Drink ordered! ☕
-> But wait... that cake in the display is calling your name.
->
-
-**承 — ついか [セット 2]**
 AI: ほかに なにか ありますか？
 User: ケーキ ありますか？ / だいじょうぶです。
 AI: チーズケーキと チョコケーキが あります！
 User: チーズケーキ ください。 / チョコケーキ ください。
-
-**Outro:**
-> Order complete! 🍰
-> Now, time to pay like a pro.
->
-
----
-
-### sim2: Paying
-
-**Goal:** To ask about payment methods and provide your name for the order pickup.
-
-**📍 場所:** カフェ カウンター (同じ)
-
-**承 — おしはらい [セット 3]**
 AI: 500円です！
 User: カード つかえますか？ / 現金で おねがいします。
 AI: はい、どうぞ。
 User: ありがとうございます。
-
-**Outro:**
-> Payment done! 💳
-> Just one more thing before you wait...
->
-
-**転 — まつ [セット 4]**
 AI: すこし おまちください！おなまえは？
 User: ___です。
 AI: できたら よびます！
 User: はい！
-
-**Outro:**
-> Name given! 📝
-> Now, the hardest part: waiting for coffee.
->
-
----
-
-### sim3: Getting the Drink
-
-**Goal:** To pick up your order, request any extras, and find a seat in the café.
-
-**📍 場所:** カフェ ピックアップ → カフェ せき
-
-**転 — うけとり [セット 5]**
 AI: アイスコーヒー できました！
 User: ありがとうございます！
 AI: ストロー いりますか？
 User: はい、ください。 / だいじょうぶです。
-
-**Outro:**
-> Coffee in hand! ☕
-> Now, find the perfect spot to enjoy it.
->
-
-**結 — せき [セット 6]**
 User: せき ありますか？
 AI: おくに あります！
 User: ありがとうございます！
 AI: ごゆっくり どうぞ！
-
-**Outro:**
-> Mission accomplished! ☕🍰
-> You're officially a Japanese café regular. Next up: Time to explore the streets!
->
-
----

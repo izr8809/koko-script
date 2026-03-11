@@ -1,97 +1,24 @@
-# TR-7: Est-ce que je peux essayer ça ?
-
-
----
-
-### sim1: On regarde
-
-**Goal:** To browse a clothing boutique, find something you like, and ask to try it on.
-
-**📍 장소:** Boutique (Le Marais)
-
-**intro_text:**
-Le Marais shopping street. So many cute clothes. Where do you even start?
-
-**기 — On regarde [세트 1]**
 AI: Bonjour ! Je peux vous aider ?
 User: Je regarde juste, merci. / Je cherche un pull.
 AI: On vient de recevoir de nouveaux modèles ! Vous voulez voir ?
 User: Oui, avec plaisir !
-
-**Outro:**
-> New arrivals section — dangerous territory! 👀 Everything looks good.
-> You spotted something. Time to try it on.
->
-
-**승 — On choisit [세트 2]**
 User: Celui-là est joli ! Est-ce que je peux l'essayer ?
 AI: Bien sûr ! La cabine est par là !
 User: Merci !
 AI: Vous faites quelle taille ?
-
-**Outro:**
-> Fitting room secured! 🪞 The moment of truth is coming.
-> Will it fit? Will it look good? Only one way to find out.
->
-
----
-
-### sim2: On essaie
-
-**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
-
-**📍 장소:** Boutique (cabine d'essayage)
-
-**승 — Ça va ? [세트 3]**
 AI: Ça vous va bien ?
 User: C'est un peu petit. Vous avez une taille au-dessus ? / Ça me va très bien !
 AI: Je vous apporte la taille supérieure !
 User: Merci beaucoup !
-
-**Outro:**
-> One size up on the way! 📦 French sizing can be tricky.
-> Now comes the real question: how much does it cost?
->
-
-**전 — Le prix [세트 4]**
 User: C'est combien ?
 AI: C'est quarante euros !
 User: Vous pouvez faire un geste ? / D'accord, je le prends !
 AI: Je vous fais trente-cinq euros !
-
-**Outro:**
-> Discount secured! 💰 Bargaining in French — you're a natural.
-> Time to head to the register and seal the deal.
->
-
----
-
-### sim3: On achète
-
-**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
-
-**📍 장소:** Boutique (caisse)
-
-**전 — Le paiement [세트 5]**
 User: Alors, je le prends !
 AI: Vous payez par carte ?
 User: Oui, par carte.
 AI: Voici votre reçu !
-
-**Outro:**
-> Purchase complete! 🛍️ New outfit, new confidence.
-> The staff loved you — they're already hoping you'll come back.
->
-
-**결 — Au revoir [세트 6]**
 AI: Vous voulez voir autre chose ?
 User: Non merci, c'est bon !
 AI: À bientôt !
 User: Au revoir !
-
-**Outro:**
-> Shopping mission accomplished! 🎉 Le Marais: 1, Budget: 0.
-> Next stop: finding the most famous food in the neighborhood.
->
-
----

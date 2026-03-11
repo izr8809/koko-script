@@ -1,97 +1,24 @@
-# KD-7: ¿Quieres que seamos novios?
-
-
----
-
-### sim1: El momento
-
-**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
-
-**📍 장소:** Parque de noche
-
-**intro_text:**
-Park at night. You said you had something to say. This is it.
-
-**기 — La confesión [세트 1]**
 AI: Dijiste que tenías algo que decirme. ¿Qué es?
 User: Estoy un poco nervioso/a. / Acércate.
 AI: ¿Por qué estás nervioso/a? ¡Dime!
 User: Es que... me gustas.
-
-**Outro:**
-> You said it! 💘 Three words that change everything.
-> Now hold your breath and wait for the answer.
->
-
-**승 — La respuesta [세트 2]**
 AI: ¿En serio? A mí también me gustas.
 User: ¿De verdad? / ¿Desde cuándo?
 AI: Desde la primera vez que te vi.
 User: Yo también.
-
-**Outro:**
-> Mutual feelings confirmed! 🌅 The park just witnessed a telenovela moment.
-> So... does this mean what we think it means?
->
-
----
-
-### sim2: Oficialmente juntos
-
-**Goal:** To officially become a couple and start planning your first date together.
-
-**📍 장소:** Parque de noche (mismo)
-
-**승 — La pareja [세트 3]**
 AI: Entonces, ¿quieres que seamos novios?
 User: Sí. / ¿Tú qué crees?
 AI: ¡Qué bueno!
 User: A mí también me da gusto.
-
-**Outro:**
-> Official! 💑 You are now a couple. Congratulations.
-> First order of business: plan the perfect first date.
->
-
-**전 — La primera cita [세트 4]**
 AI: ¡Ahora tenemos que tener nuestra primera cita! ¿A dónde quieres ir?
 User: ¡Quiero ir a la playa! / ¡Vamos a comer algo rico!
 AI: ¡Sí! ¡El fin de semana vamos!
 User: ¡Tengo muchas ganas!
-
-**Outro:**
-> First date planned! 🗓️ The excitement is real.
-> But first — the sweetest part of any new relationship.
->
-
----
-
-### sim3: Lo dulce
-
-**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
-
-**📍 장소:** Cada quien en su casa (WhatsApp)
-
-**전 — La emoción [세트 5]**
 AI: ¿Ya llegaste a tu casa?
 User: ¡Sí, acabo de llegar!
 AI: Esta noche estuvo muy bonita.
 User: A mí también me gustó mucho. / No puedo dejar de pensar en eso.
-
-**Outro:**
-> Late night texts after a perfect evening! 📱 This feeling is everything.
-> One last message before you both fall asleep smiling.
->
-
-**결 — Buenas noches [세트 6]**
 AI: Mañana quiero verte de nuevo.
 User: Yo también quiero verte.
 AI: Buenas noches. Que sueñes conmigo.
 User: Buenas noches.
-
-**Outro:**
-> "Que sueñes conmigo." 😴 The most romantic goodnight in Spanish.
-> Sweet dreams — you're going to need the energy for what comes next.
->
-
----

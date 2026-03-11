@@ -1,104 +1,24 @@
-# PI-4: LINE してね！
-
-- 大分類: Personal Interest
-- 中分類: Staying in Touch
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: First Text
-
-**Goal:** To start a casual conversation over text.
-
-**📍 場所:** オンライン (LINE)
-
-**intro_text:**
-You have their LINE ID.
-Now what? Just... text them!
-
-**起 — はじめての LINE [セット 1]**
 User: なにしてる？
 AI: うちに いる！きみは？
 User: わたしも うち！ひまだ。
 AI: わたしも！でかけよう？
-
-**Outro:**
-> Conversation started! 💬
-> Now keep it going — ask about their day.
->
-
-**承 — はなし [セット 2]**
 AI: きょう なにした？
 User: 日本語 べんきょうした。 / アニメ みた。
 AI: え、なに みた？
 User: あたらしいやつ！ / ひみつ！
-
-**Outro:**
-> Chatting like pros! 😎
-> Time to take it up a notch — share something fun.
->
-
----
-
-### sim2: Chatting More
-
-**Goal:** To share photos and links and react to them.
-
-**📍 場所:** オンライン (LINE, 同じ)
-
-**承 — しゃしん [セット 3]**
 AI: わたし いま ここだよ！(しゃしん)
 User: どこ？ / わあ、きれい！
 AI: 隅田川だよ！こんど いっしょに いこう！
 User: いこう！ / うん、いきたい！
-
-**Outro:**
-> Sumida River plans made! 🌊
-> Now send them something funny.
->
-
-**転 — たのしい [セット 4]**
 User: これ みた？(リンク)
 AI: なに？みてない！
 User: めっちゃ おもしろい！みてみて！
 AI: わかった！みる！
-
-**Outro:**
-> Link sent! 😂
-> The night is winding down... time to say goodnight.
->
-
----
-
-### sim3: Good Night
-
-**Goal:** To end a conversation naturally and say goodnight.
-
-**📍 場所:** オンライン (LINE, 同じ)
-
-**転 — よる [セット 5]**
 AI: ごはん たべた？
 User: うん、たべた。 / まだ！
 AI: わたしも たべた！ラーメン！
 User: いいな！ / まじで？
-
-**Outro:**
-> Dinner check done! 🍜
-> Almost time to wrap up for the night.
->
-
-**結 — おやすみ [セット 6]**
 AI: わたし もう ねるね！おやすみ！
 User: おやすみ！またね！
 AI: うん、またね！またLINEしてね！
 User: うん！
-
-**Outro:**
-> Goodnight said! 🌙
-> Next up: Taking your Japanese out into the real world.
->
-
----
-
-# ✈️ TRAVELING (です・ます) >> Japan Travel

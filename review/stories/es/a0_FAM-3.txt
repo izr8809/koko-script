@@ -1,110 +1,24 @@
-# FAM-3: La Reunión Familiar
-
-- Categoría: Familia y Comunidad
-- Subcategoría: Fiesta / Reunión
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: La Invitación
-
-**Goal:** To invite someone to a family gathering.
-
-**📍 Lugar:** Casa (CDMX)
-
-**intro_text:**
-¡Hay una reunión familiar el domingo!
-¿Vas a venir?
-
-**¡Hay fiesta! [Set 1]**
 AI: ¡Oye! El domingo es el cumpleaños de mi abuela.
 User: ¡Qué chido! ¿Dónde es?
 AI: En casa de mis tíos. ¿Puedes venir?
 User: ¡Sí, claro! / No puedo, lo siento.
-
-**Outro:**
-> ¡Invitación enviada! 🎉
-> ¡A prepararse!
->
-
-**¿Vas a venir? [Set 2]**
 AI: ¿A qué hora llegas?
 User: A las tres. / A las cuatro.
 AI: ¡Perfecto! Te esperamos.
 User: ¡Hasta el domingo!
-
-**Outro:**
-> ¡Hora confirmada! ⏰
-> ¡El domingo llega pronto!
->
-
----
-
-### sim2: En la Reunión
-
-**Goal:** To greet family members and meet new people.
-
-**📍 Lugar:** Casa de los tíos (CDMX)
-
-**intro_text:**
-¡Llegaste a la reunión!
-Hay mucha gente.
-
-**¡Llegaron! [Set 3]**
 AI: ¡Llegaste! ¡Bienvenido! ¿Cómo estás?
 User: ¡Muy bien, gracias! ¿Y tú?
 AI: ¡Súper bien! ¡Qué gusto verte!
 User: ¡Igualmente!
-
-**Outro:**
-> ¡Bien llegado! 🎊
-> Hay muchas personas por conocer.
->
-
-**¡Conoce a todos! [Set 4]**
 AI: ¡Mira, él es mi tío Roberto!
 User: ¡Mucho gusto, tío Roberto! / ¡Hola, señor!
 AI: ¡El gusto es mío! ¿Eres amigo de...?
 User: Sí, soy su amigo. / Sí, soy su compañero.
-
-**Outro:**
-> ¡Nuevos conocidos! 🤝
-> ¡La fiesta está buena!
->
-
----
-
-### sim3: La Comida
-
-**Goal:** To talk about the food at the party.
-
-**📍 Lugar:** Comedor (CDMX)
-
-**intro_text:**
-¡Es hora de comer!
-Hay mucha comida deliciosa.
-
-**¡Qué rico! [Set 5]**
 AI: ¡Sírvete! ¿Qué quieres?
 User: Quiero tamales. / Quiero pozole.
 AI: ¡Están muy ricos! ¿Y de tomar?
 User: Agua de jamaica, por favor. / Agua de horchata.
-
-**Outro:**
-> ¡Plato servido! 🫔
-> ¡A comer!
->
-
-**¡Gracias! [Set 6]**
 AI: ¿Te gustó la comida?
 User: ¡Sí, muy rica! / ¡Sí, qué rico!
 AI: ¡Me alegra! ¡Gracias por venir!
 User: ¡Gracias por invitarme!
-
-**Outro:**
-> ¡Reunión exitosa! 🎂
-> Lo siguiente: El barrio y los vecinos.
->
-
----

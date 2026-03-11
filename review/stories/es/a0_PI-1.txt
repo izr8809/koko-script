@@ -1,113 +1,24 @@
-# PI-1: ¡Hola, soy ___!
-
-- Categoría: Vida Personal
-- Subcategoría: Primera Cita de Amigos
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
-Primera vez que se conocen en la Ciudad de México.
-¡Respira hondo... y saluda!
-
----
-
-### sim1: Mucho Gusto
-
-**Goal:** To introduce yourself, say where you're from, and share one thing you like about Mexico City.
-
-**📍 Lugar:** Afuera (Colonia Roma / Condesa, CDMX)
-
-**intro_text:**
-Primera vez que se conocen en la Ciudad de México.
-¡Respira hondo... y saluda!
-
-**Apertura — Primer Saludo [Set 1]**
 AI: ¡Hola! Soy Alex. ¿Cómo te llamas?
 User: ¡Hola! Me llamo ___. / ¡Hola! Soy ___.
 AI: ¡Mucho gusto! ¿De dónde eres?
 User: ¡Soy de ___!
-
-**Outro:**
-> Primera impresión: ¡Aprobada! 🎯
-> Pero espera... ¿por qué estás realmente aquí en CDMX?
->
-
-**Gustos — Lo que te gusta [Set 2]**
 AI: ¿Te gusta la Ciudad de México?
 User: ¡Sí, me encanta! / ¡Es muy bonita!
 AI: ¿Qué te gusta de aquí?
 User: ¡La comida! / ¡La gente!
-
-**Outro:**
-> ¡Les encantó tu respuesta! 👀
-> ¿Bandera roja o verde? Veamos si sus gustos coinciden.
->
-
----
-
-### sim2: Más Cerca
-
-**Goal:** To discover shared hobbies and talk about your experience with Mexican food.
-
-**📍 Lugar:** Afuera (mismo lugar)
-
-**intro_text:**
-Siguen hablando. ¡Buena señal!
-Es hora de ver qué tienen en común.
-
-**Pasatiempos — ¿Qué te gusta hacer? [Set 3]**
 User: Alex, ¿qué te gusta hacer?
 AI: ¿A mí? ¡Me gusta la música! ¿Y a ti?
 User: ¡A mí también! / ¡Me gustan las películas!
 AI: ¿En serio? ¿Música mexicana?
-
-**Outro:**
-> ¡Vibras compatibles! ✔️
-> Ahora prepárate para la obsesión número uno de México... la comida.
->
-
-**Comida — ¿Ya probaste? [Set 4]**
 AI: ¿Ya probaste los tacos al pastor?
 User: ¡Sí! / ¡Todavía no!
 AI: ¡Tienes que probarlos! ¡Están riquísimos!
 User: ¡Quiero probarlos! / ¡Sí, estaban increíbles!
-
-**Outro:**
-> ¡Basta de hablar! 🛑
-> Esta es tu oportunidad de oro. ¡Propón salir juntos!
->
-
----
-
-### sim3: ¡Salgamos!
-
-**Goal:** To make casual weekend plans and exchange numbers on WhatsApp.
-
-**📍 Lugar:** Afuera (mismo lugar)
-
-**intro_text:**
-El ambiente está muy bien. Muy bien.
-¡Es hora de hacerlo oficial!
-
-**Planes — Este Fin de Semana [Set 5]**
 User: ¿Qué haces este fin de semana?
 AI: ¿Yo? ¡Nada todavía! ¿Quieres salir?
 User: ¡Sí! ¿Qué hacemos?
 AI: ¡Vamos a comer algo!
-
-**Outro:**
-> ¡Es oficialmente una cita! 🥂
-> ¡Espera! ¡No dejes que se vaya sin su número de WhatsApp!
->
-
-**Contacto — Quedemos en Contacto [Set 6]**
 User: ¿Me das tu número de WhatsApp?
 AI: ¡Claro que sí! Aquí está.
 User: ¡Listo!
 AI: ¡Escríbeme! ¡Hasta pronto!
-
-**Outro:**
-> ¡Contacto guardado! 🔒
-> Lo siguiente: La prueba que decide si son *de verdad* compatibles.
->
-
----

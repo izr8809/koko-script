@@ -1,97 +1,24 @@
-# KD-5: I have a crush on someone
-
-
----
-
-### sim1: Confession to a Friend
-
-**Goal:** To confess to your best friend that you have a crush and share details about who they are.
-
-**📍 Location:** Coffee shop
-
-**intro_text:**
-Two coffees. One secret. Here we go...
-
-**기 — The secret [Set 1]**
 User: I have to tell you something.
 AI: What? Tell me!
 User: I kind of have a crush on someone.
 AI: No way! Really? Who?!
-
-**Outro:**
-> The secret is out! 🤫 Now, who is this lucky person?
-> Your friend is already losing their mind.
->
-
-**승 — Who is it [Set 2]**
 AI: Wait, do I know them?
 User: Yeah. / No, you don't.
 AI: What are they like?
 User: They're really sweet. / They have the best smile.
-
-**Outro:**
-> A perfect smile? Sounds like a main character. ✨ Now, how did this romance begin?
-> The origin story is always the best part.
->
-
----
-
-### sim2: Details
-
-**Goal:** To share how you met your crush and open up about being too nervous to say anything.
-
-**📍 Location:** Coffee shop (same)
-
-**승 — How you met [Set 3]**
 AI: Where did you meet them?
 User: At a coffee shop! / In class!
 AI: That's so cute! So what happened?
 User: I didn't say anything. / I got their number though!
-
-**Outro:**
-> You got their number?! That's huge! 📱 So... is it time to make a move?
-> Your friend is about to give you the push you need.
->
-
-**전 — Advice [Set 4]**
 AI: Are you gonna say something?
 User: I want to but I'm scared. / It's still too early.
 AI: You're amazing! Just go for it!
 User: You really think so? Thanks.
-
-**Outro:**
-> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
-> The confession is getting closer — can you feel it?
->
-
----
-
-### sim3: Encouragement
-
-**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
-
-**📍 Location:** Coffee shop (same)
-
-**전 — Cheering you on [Set 5]**
 AI: Tell me when you do it! I'm rooting for you!
 User: Okay! / I'm nervous but I'll try.
 AI: You've got this!
 User: Thank you!
-
-**Outro:**
-> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
-> The universe is rooting for you.
->
-
-**결 — Hopeful ending [Set 6]**
 AI: It's gonna work out!
 User: I really hope so.
 AI: Of course it will! Keep me posted!
 User: I will!
-
-**Outro:**
-> Romance is definitely in the air! 🌸 But wait... is there a plot twist coming?
-> Stay tuned — the story is just getting started.
->
-
----

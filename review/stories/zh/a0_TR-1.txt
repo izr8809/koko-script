@@ -1,102 +1,24 @@
-# TR-1: 来一杯咖啡
-
-- 大分类: Traveling
-- 中分类: Café Order
-- 难易度: A0 (Absolute Beginner)
-- 12轮 (6组, 3sim)
-
----
-
-### sim1: Entering the Café
-
-**Goal:** To greet café staff, ask about the menu, and order a drink politely.
-
-**📍 장소:** 咖啡馆 (三里屯)
-
-**intro_text:**
-You've found a cute café in Sanlitun.
-Time to order your first coffee in Chinese!
-
-**기 — 点单 [세트 1]**
 AI: 您好！欢迎光临！请问喝点什么？
 User: 请问有拿铁吗？ / 请问有美式吗？
 AI: 有的！要热的还是冰的？
 User: 要热的，谢谢！
-
-**Outro:**
-> Order placed! ☕
-> But wait... what size do you want?
->
-
-**승 — 大小 [세트 2]**
 AI: 请问要大杯还是中杯？
 User: 大杯，谢谢！
 AI: 好的！还要别的吗？
 User: 不用了，谢谢！ / 再来一个蛋糕！
-
-**Outro:**
-> Order confirmed! 🎂
-> Now it's time to pay. Do you have the app ready?
->
-
----
-
-### sim2: Paying
-
-**Goal:** To ask about the price, pay, and handle the transaction politely.
-
-**📍 장소:** 咖啡馆 (同一)
-
-**승 — 多少钱 [세트 3]**
 User: 请问多少钱？
 AI: 一共38块！
 User: 可以微信支付吗？ / 可以刷卡吗？
 AI: 可以！请扫码！
-
-**Outro:**
-> Payment in progress! 💳
-> Almost done — just confirm the transaction!
->
-
-**전 — 付款 [세트 4]**
 AI: 好的，付款成功！
 User: 谢谢！
 AI: 请稍等，马上好！
 User: 好的，谢谢！
-
-**Outro:**
-> Transaction complete! ✅
-> Now find a seat and enjoy your coffee!
->
-
----
-
-### sim3: Enjoying the Café
-
-**Goal:** To ask for help finding a seat and make small talk with the barista.
-
-**📍 장소:** 咖啡馆 (同一)
-
-**전 — 找座位 [세트 5]**
 AI: 您的拿铁！请慢用！
 User: 谢谢！请问可以坐那里吗？
 AI: 当然可以！请便！
 User: 谢谢您！
-
-**Outro:**
-> Seated and sipping! ☕
-> One last interaction — the barista wants to chat!
->
-
-**결 — 聊天 [세트 6]**
 AI: 请问您是第一次来吗？
 User: 是的，第一次！ / 不是，来过几次！
 AI: 欢迎！希望您喜欢！
 User: 谢谢！很好喝！
-
-**Outro:**
-> Café conquered! 🏆
-> You ordered, paid, and charmed the barista. Next stop: dinner!
->
-
----

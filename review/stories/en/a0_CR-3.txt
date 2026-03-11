@@ -1,108 +1,24 @@
-# CR-3: Please See the Attached
-
-- Category: Workplace
-- Subcategory: Professional Emails
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: Writing an Email
-
-**Goal:** To write a simple professional email to a colleague.
-
-**📍 Location:** Office (at your desk)
-
-**intro_text:**
-Monday morning. Your inbox is full.
-Time to write your first professional email!
-
-**Opening — Email [Set 1]**
 AI: Have you sent the report yet?
 User: Not yet. I'm writing the email now.
 AI: Okay. Don't forget to attach the file.
 User: Got it. I will.
-
-**Outro:**
-> Email started! 📧
-> But wait... what's the right way to open it?
->
-
-**Opening Line [Set 2]**
 AI: How do you usually start an email?
 User: I write "Hi" and their name. / I write "Dear" and their name.
 AI: Both work! "Hi" is more casual, "Dear" is more formal.
 User: I see. Thank you!
-
-**Outro:**
-> Email etiquette: Learned! ✉️
-> Now, write the body of the email.
->
-
----
-
-### sim2: The Email Body
-
-**Goal:** To write the main content of a professional email.
-
-**📍 Location:** Office (at your desk, same)
-
-**intro_text:**
-The opening is done. Now the hard part.
-What do you actually say?
-
-**Body [Set 3]**
 User: How do I ask for something politely?
 AI: You can say "Could you please..." or "I would appreciate it if..."
 User: That's helpful! Thank you.
 AI: No problem! Keep it short and clear.
-
-**Outro:**
-> Email body: Written! 📝
-> Now, how do you close the email?
->
-
-**Closing [Set 4]**
 AI: How do you end your emails?
 User: I write "Best regards" and my name. / I write "Thanks" and my name.
 AI: Good! "Best regards" is more formal. "Thanks" is more casual.
 User: Got it. I'll use "Best regards."
-
-**Outro:**
-> Email closing: Confirmed! ✅
-> Almost done — just send it!
->
-
----
-
-### sim3: Sending and Following Up
-
-**Goal:** To send an email and follow up professionally.
-
-**📍 Location:** Office (at your desk)
-
-**intro_text:**
-The email is ready. Deep breath.
-Time to hit send!
-
-**Send [Set 5]**
 User: I sent the email!
 AI: Great! Did you attach the file?
 User: Yes, I did. / Oh no, I forgot!
 AI: Always double-check the attachment!
-
-**Outro:**
-> Email sent! 📤
-> Now, what if they don't reply?
->
-
-**Follow Up [Set 6]**
 AI: Did you hear back from them?
 User: Not yet. Should I follow up?
 AI: Yes. Wait one or two days, then send a short follow-up.
 User: Okay. Thank you for the advice!
-
-**Outro:**
-> Professional skills: Unlocked! 🎉
-> You've mastered the American workplace. The world is yours!
->

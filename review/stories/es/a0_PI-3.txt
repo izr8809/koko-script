@@ -1,110 +1,24 @@
-# PI-3: ¿Qué haces este fin de semana?
-
-- Categoría: Vida Personal
-- Subcategoría: Hacer Planes
-- Nivel: A0 (Principiante Absoluto)
-- 12 turnos (6 sets, 3 sims)
-
----
-
-### sim1: Este Fin de Semana
-
-**Goal:** To suggest and agree on weekend plans.
-
-**📍 Lugar:** En línea (WhatsApp)
-
-**intro_text:**
-El mensaje está parpadeando.
-¡Es hora de lanzarte y proponer salir!
-
-**Apertura — Fin de Semana [Set 1]**
 User: ¿Qué haces este fin de semana?
 AI: ¿Yo? ¡Nada todavía! ¿Por qué?
 User: ¡Salgamos!
 AI: ¡Sí! ¿Qué quieres hacer?
-
-**Outro:**
-> ¡Dijo que sí! 🙌
-> Ahora decide qué van a hacer exactamente.
->
-
-**¿A dónde? [Set 2]**
 User: ¿Vamos a tomar un café? ¿O a comer algo?
 AI: ¡A comer! Tengo hambre. ¿A dónde?
 User: ¿Qué tal la Roma?
 AI: ¡Vamos!
-
-**Outro:**
-> ¡Destino: La Roma! 🗺️
-> Ahora confirma los detalles... ¿cuándo y dónde exactamente?
->
-
----
-
-### sim2: ¿Cuándo y Dónde?
-
-**Goal:** To confirm the meeting time and place.
-
-**📍 Lugar:** En línea (WhatsApp, mismo)
-
-**intro_text:**
-Los planes están listos. Ahora confirma los detalles.
-No seas esa persona que llega al lugar equivocado.
-
-**Hora [Set 3]**
 AI: ¿A qué hora nos vemos?
 User: ¿A las 2? / ¡Por la tarde!
 AI: ¡A las 2 está bien! ¿En el metro Insurgentes?
 User: ¡Perfecto!
-
-**Outro:**
-> ¡Hora confirmada! ⏰
-> Una confirmación más y ya están listos.
->
-
-**Confirmar [Set 4]**
 AI: Entonces el sábado a las 2, en Insurgentes.
 User: ¡Sí!
 AI: ¡No llegues tarde!
 User: ¡No voy a llegar tarde! / ¡Ahí estaré!
-
-**Outro:**
-> ¡Planes confirmados! 📅
-> El sábado se acerca... ¿estás listo para el encuentro real?
->
-
----
-
-### sim3: El Día
-
-**Goal:** To coordinate arrival and find each other in real time.
-
-**📍 Lugar:** Metro Insurgentes, Colonia Roma
-
-**intro_text:**
-Es sábado. Ya casi llegas.
-¡Un último mensaje para encontrarse!
-
-**El Día [Set 5]**
 AI: ¿Ya vas para acá?
 User: ¡Sí, ya casi llego! / ¡Ya estoy aquí!
 AI: ¡Yo ya estoy aquí! ¡Apúrate!
 User: ¡Ya voy!
-
-**Outro:**
-> ¡Ya casi! 🏃
-> Solo un paso más... encuéntrense de verdad.
->
-
-**¡Te encontré! [Set 6]**
 User: ¿Dónde estás?
 AI: ¡Aquí estoy! ¡Por aquí!
 User: ¡Ah, ya te veo!
 AI: ¡Vamos!
-
-**Outro:**
-> ¡Se encontraron! 🎉
-> Lo siguiente: Mantenerse en contacto entre salidas.
->
-
----

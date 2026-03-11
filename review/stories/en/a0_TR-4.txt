@@ -1,112 +1,24 @@
-# TR-4: I Have a Reservation
-
-- Category: Travel & Places
-- Subcategory: Hotel / Airbnb
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: Check-In
-
-**Goal:** To check in at the hotel, confirm your reservation, and get your room key.
-
-**📍 Location:** Hotel front desk (NYC)
-
-**intro_text:**
-Long day of travel. Finally, the hotel.
-Let's get that room key!
-
-**Opening — Check-In [Set 1]**
 AI: Welcome! Do you have a reservation?
 User: Yes, under the name ___.
 AI: Let me pull that up. Can I see your ID?
 User: Sure, here you go.
-
-**Outro:**
-> Check-in started! 🏨
-> But wait... what floor is your room on?
->
-
-**Room Info [Set 2]**
 AI: You're in room 305, on the third floor.
 User: Thank you! Where's the elevator?
 AI: Right over there!
 User: Thank you so much!
-
-**Outro:**
-> Room confirmed! 🗝️
-> Now, find out what's included in your stay.
->
-
----
-
-### sim2: Room Amenities
-
-**Goal:** To ask about breakfast, Wi-Fi, and other hotel services.
-
-**📍 Location:** Hotel front desk (same)
-
-**intro_text:**
-Room key in hand. But first — a few questions.
-Let's find out what's included!
-
-**Breakfast [Set 3]**
 User: Is breakfast included?
 AI: Yes! It's from 7 to 10am.
 User: Great! Where is it?
 AI: In the restaurant on the first floor.
-
-**Outro:**
-> Breakfast info secured! 🍳
-> Now, get connected.
->
-
-**Wi-Fi [Set 4]**
 User: Is there Wi-Fi?
 AI: Yes! Here's the password.
 User: Thank you!
 AI: Enjoy your stay!
-
-**Outro:**
-> Connected! 📶
-> Almost settled in — just one more thing.
->
-
----
-
-### sim3: Check-Out
-
-**Goal:** To check out of the hotel and confirm the bill.
-
-**📍 Location:** Hotel front desk
-
-**intro_text:**
-Time to check out. It was a great stay.
-Let's wrap it up!
-
-**Check-Out [Set 5]**
 User: I'd like to check out, please.
 AI: Of course! Let me get your bill. One moment.
 User: Sure.
 AI: Your total is $150. How would you like to pay?
-
-**Outro:**
-> Bill ready! 💳
-> Just one last thing before you head out.
->
-
-**Goodbye [Set 6]**
 User: By card, please.
 AI: Perfect! Thank you for staying with us!
 User: Thank you! I had a great time!
 AI: Come back soon! Safe travels!
-
-**Outro:**
-> Check-out complete! 🧳
-> Next up: Time to explore pop culture!
->
-
----
-
-# 🎓 CAMPUS LIFE (casual + semi-formal) >> Studying in the US

@@ -1,100 +1,24 @@
-# CR-3: かいぎを はじめます
-
-- 大分類: Career
-- 中分類: Meeting
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: Before the Meeting
-
-**Goal:** To prepare for a meeting and confirm the agenda.
-
-**📍 場所:** かいしゃ (会議室)
-
-**intro_text:**
-The meeting room is filling up.
-Time to show them you're prepared!
-
-**起 — かいぎの じゅんび [セット 1]**
 AI: ___さん、かいぎの じゅんびは できていますか？
 User: はい、できています。 / もうすこし まってください。
 AI: しりょうは ありますか？
 User: はい、こちらです。 / いま プリントしています。
-
-**Outro:**
-> Preparation: Confirmed! 📋
-> But wait... is everyone here?
->
-
-**承 — かいぎ かいし [セット 2]**
 AI: では、かいぎを はじめます。よろしく おねがいします。
 User: よろしく おねがいします。
 AI: きょうの ぎだいは ___です。
 User: はい、わかりました。
-
-**Outro:**
-> Meeting started! 🤝
-> Now, time to present your ideas!
->
-
----
-
-### sim2: During the Meeting
-
-**Goal:** To present an idea and respond to questions in a meeting.
-
-**📍 場所:** かいしゃ (会議室, 同じ)
-
-**承 — はっぴょう [セット 3]**
 AI: ___さん、いけんを きかせてください。
 User: はい。わたしは ___が いいと おもいます。
 AI: そうですか。りゆうは なんですか？
 User: ___だからです。
-
-**Outro:**
-> Opinion shared! 💡
-> Now, respond to a question.
->
-
-**転 — しつもん [セット 4]**
 AI: ___さん、しつもんが あります。
 User: はい、どうぞ。
 AI: この けいかくは いつ はじまりますか？
 User: らいげつから はじまります。 / まだ きまっていません。
-
-**Outro:**
-> Question answered! ✅
-> Almost done — just wrap up the meeting!
->
-
----
-
-### sim3: End of Meeting
-
-**Goal:** To wrap up a meeting and confirm next steps.
-
-**📍 場所:** かいしゃ (会議室)
-
-**転 — まとめ [セット 5]**
 AI: では、まとめます。つぎの ステップは ___です。
 User: はい、わかりました。
 AI: なにか しつもんは ありますか？
 User: いいえ、だいじょうぶです。 / はい、ひとつ あります。
-
-**Outro:**
-> Summary: Done! 📋
-> Now, close the meeting properly!
->
-
-**結 — かいぎ しゅうりょう [セット 6]**
 AI: では、かいぎを おわります。おつかれさまでした。
 User: おつかれさまでした。ありがとうございました。
 AI: つぎの かいぎは らいしゅうです。よろしく おねがいします。
 User: はい、よろしく おねがいします。
-
-**Outro:**
-> Meeting complete! 🎉
-> You've mastered the Japanese workplace. Next up: The world is yours!
->

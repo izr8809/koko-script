@@ -1,110 +1,24 @@
-# CL-2: Professor, Do You Have a Minute?
-
-- Category: Campus Life
-- Subcategory: Classes & Professors
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
----
-
-### sim1: First Day of Class
-
-**Goal:** To find a seat and chat with a classmate before class starts.
-
-**📍 Location:** Lecture hall (campus)
-
-**intro_text:**
-First day of class. You have no idea where to sit.
-Good thing someone nearby looks friendly!
-
-**Finding a Seat [Set 1]**
 AI: Hey, is this seat taken?
 User: No, go ahead! / Sure, sit down!
 AI: Thanks! Is this your first time in this class?
 User: Yeah, first day! What about you?
-
-**Outro:**
-> Classmate found! 🙋
-> But wait... do they know what the class is about?
->
-
-**Class Info [Set 2]**
 AI: Do you know what this class is like?
 User: I heard it's tough! / I think it's supposed to be interesting!
 AI: Yeah, me too. I hope the professor is cool!
 User: Same! Let's hope for the best!
-
-**Outro:**
-> Class buddy: Found! 📖
-> Now, time to meet the professor!
->
-
----
-
-### sim2: After Class
-
-**Goal:** To ask the professor a question after class using polite English.
-
-**📍 Location:** Lecture hall (after class)
-
-**intro_text:**
-Class just ended. You have a question.
-Time to talk to the professor!
-
-**Asking a Question [Set 3]**
 User: Excuse me, Professor? Do you have a quick minute?
 AI: Of course! What can I help you with?
 User: I wasn't sure about the assignment. Could you explain it again?
 AI: Sure! It's due Friday — just one page about today's topic.
-
-**Outro:**
-> Question answered! 🙋
-> Now, ask about office hours!
->
-
-**Office Hours [Set 4]**
 AI: Feel free to come to office hours if you have more questions.
 User: When are your office hours? / That's really helpful, thank you!
 AI: Tuesdays and Thursdays, 2 to 4 PM, in my office.
 User: Thank you so much, Professor!
-
-**Outro:**
-> Office hours noted! 📅
-> Now, go work on that group project!
->
-
----
-
-### sim3: Group Project
-
-**Goal:** To meet with classmates and plan a group project together.
-
-**📍 Location:** Campus café
-
-**intro_text:**
-You and your group are meeting for the first time.
-Time to figure out who does what!
-
-**Meeting Up [Set 5]**
 User: Okay, so we have a project due next week. Where do we start?
 AI: Good question! What should we each do?
 User: I can do the research! / I'll work on the slides!
 AI: Perfect! I'll write up the introduction then.
-
-**Outro:**
-> Work divided! ✅
-> Almost there — set a time to meet again!
->
-
-**Next Meeting [Set 6]**
 AI: When should we meet again to put it all together?
 User: How about Thursday? / Is Sunday okay?
 AI: Thursday works for me! Let's meet here again.
 User: Great! See you then!
-
-**Outro:**
-> Group project: In progress! 📝
-> Next up: Time to explore campus life!
->
-
----

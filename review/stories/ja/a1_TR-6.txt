@@ -1,97 +1,24 @@
-# TR-6: 電車の乗り方教えてください
-
-
----
-
-### sim1: At the Station
-
-**Goal:** To buy a transit card, charge it, and find the right train line to your destination.
-
-**📍 장소:** 駅の券売機の前
-
-**intro_text:**
-Tokyo trains. Dozens of lines. Hundreds of stations. You've got this.
-
-**기 — 駅で [세트 1]**
 User: すみません、Suicaカードはどこで買えますか？
 AI: あちらの機械で買えますよ！
 User: ありがとうございます！チャージもそこでできますか？
 AI: はい、できますよ！
-
-**Outro:**
-> Suica card acquired! 💳 Now, which line do you need?
-> Tokyo's train map looks scary — but it's actually pretty logical.
->
-
-**승 — 路線 [세트 2]**
 User: 渋谷駅は何線ですか？
 AI: JR山手線に乗ってください！あちらです。
 User: 乗り換えは必要ですか？
 AI: いいえ、直接行けますよ！
-
-**Outro:**
-> Yamanote Line, no transfers! 🚃 That's the best news you've heard all day.
-> Now hop on and try not to miss your stop.
->
-
----
-
-### sim2: On the Train
-
-**Goal:** To ask a fellow passenger for help and figure out how many stops to your destination.
-
-**📍 장소:** 電車の中
-
-**승 — 電車の中 [세트 3]**
 AI: (隣の人) どちらまで行かれますか？
 User: 渋谷です！
 AI: それでしたらあと3駅ですよ！
 User: 3駅ですか？ありがとうございます！
-
-**Outro:**
-> Three more stops! 🎯 A kind stranger just saved your day.
-> But wait — what if you need to transfer somewhere else?
->
-
-**전 — 乗り換え [세트 4]**
 User: すみません、新宿駅の乗り換えは？
 AI: 降りたらすぐ案内板が見えますよ！中央線の表示に従ってください！
 User: ありがとうございます！
 AI: 簡単ですよ！大丈夫です！
-
-**Outro:**
-> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
-> Almost at your destination — just a few more stops.
->
-
----
-
-### sim3: Arriving
-
-**Goal:** To confirm you've arrived at the right station and find the correct exit.
-
-**📍 장소:** 駅のホーム (到着駅)
-
-**전 — 到着 [세트 5]**
 User: ここが渋谷駅ですか？
 AI: はい、そうですよ！
 User: 何番出口ですか？
 AI: ハチ公口から出てください！
-
-**Outro:**
-> Hachiko Exit! 🐕 You made it through the Tokyo train system like a pro.
-> One last thank-you and you're free.
->
-
-**결 — 出る [세트 6]**
 User: ありがとうございます！
 AI: どういたしまして！
 User: 本当に助かりました！
 AI: 良い一日をお過ごしください！
-
-**Outro:**
-> Tokyo trains: conquered! 🏆 You're officially a local now.
-> Next challenge: shopping in Harajuku without spending your whole budget.
->
-
----

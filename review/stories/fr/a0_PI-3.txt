@@ -1,110 +1,24 @@
-# PI-3 : Tu fais quoi ce week-end ?
-
-- Catégorie : Vie Personnelle
-- Sous-catégorie : Faire des Plans
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Ce Week-end
-
-**Goal:** To suggest and agree on weekend plans.
-
-**📍 Lieu :** En ligne (WhatsApp)
-
-**intro_text:**
-La bulle de message clignote.
-C'est l'heure de tenter ta chance — propose de sortir !
-
-**Plans — Le week-end [Série 1]**
 User: Tu fais quoi ce week-end ?
 AI: Moi ? Rien encore ! Pourquoi ?
 User: On sort ensemble ?
 AI: Bonne idée ! On fait quoi ?
-
-**Outro:**
-> Il/Elle a dit oui ! 🙌
-> Maintenant, décide ce que vous allez vraiment faire.
->
-
-**Destination — On va où ? [Série 2]**
 User: On va au café ? On va manger ?
 AI: Manger ! J'ai faim ! Où ça ?
 User: Le Marais, ça te va ?
 AI: Parfait !
-
-**Outro:**
-> Destination : Le Marais ! 🗺️
-> Maintenant, fixe les détails — quand et où exactement ?
->
-
----
-
-### sim2 : Quand et Où
-
-**Goal:** To confirm the meeting time and place.
-
-**📍 Lieu :** En ligne (WhatsApp, même conversation)
-
-**intro_text:**
-Les plans sont lancés. Plus qu'à confirmer.
-Heure et lieu — et c'est bon !
-
-**Heure — On se retrouve quand ? [Série 3]**
 AI: On se retrouve à quelle heure ?
 User: À 14h ? / Le soir !
 AI: Bonne idée ! Devant le métro Arts et Métiers ?
 User: OK !
-
-**Outro:**
-> Heure confirmée ! ⏰
-> Une dernière confirmation et c'est réglé.
->
-
-**Confirmation — C'est bon ? [Série 4]**
 AI: Alors samedi, Arts et Métiers !
 User: C'est bon !
 AI: Sois pas en retard !
 User: Promis ! / Je suis jamais en retard !
-
-**Outro:**
-> Plans confirmés ! 📅
-> Samedi arrive... tu es prêt(e) pour le vrai truc ?
->
-
----
-
-### sim3 : Le Jour J
-
-**Goal:** To meet up and start the outing together.
-
-**📍 Lieu :** Métro Arts et Métiers, Paris
-
-**intro_text:**
-Samedi. Tu es là. Il/Elle arrive.
-C'est parti !
-
-**Arrivée — On est là ! [Série 5]**
 User: Je suis là ! T'es où ?
 AI: J'arrive ! Une minute !
 User: OK, je t'attends !
 AI: Me voilà ! Désolé(e) !
-
-**Outro:**
-> Enfin réunis ! 🎉
-> Maintenant, profite du moment — c'est parti !
->
-
-**Sortie — C'est parti ! [Série 6]**
 AI: On va où d'abord ?
 User: La boulangerie ! J'ai faim ! / Le café d'abord !
 AI: Bonne idée ! Allons-y !
 User: Super !
-
-**Outro:**
-> Aventure lancée ! 🥐
-> La suite : Est-ce que vous allez vous revoir ?
->
-
----

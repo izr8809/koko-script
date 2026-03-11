@@ -1,102 +1,24 @@
-# CR-1: はじめまして、___と もうします
-
-- 大分類: Career
-- 中分類: Self-Introduction / Business Card
-- 難易度: A0 (Absolute Beginner)
-- 12ターン (6セット, 3sim)
-
----
-
-### sim1: First Day Introduction
-
-**Goal:** To introduce yourself formally on your first day at a Japanese company.
-
-**📍 場所:** かいしゃ (会議室)
-
-**intro_text:**
-First day at a Japanese company.
-Time to make a great first impression!
-
-**起 — じこしょうかい [セット 1]**
 AI: はじめまして！___と もうします。よろしく おねがいします。
 User: はじめまして！わたしは ___と もうします。よろしく おねがいします。
 AI: ___さんは どちらから いらっしゃいましたか？
 User: ___から まいりました。
-
-**Outro:**
-> Introduction: Nailed it! 🤝
-> But wait... time to exchange business cards!
->
-
-**承 — めいし [セット 2]**
 AI: こちら、わたしの めいしです。どうぞ。
 User: ありがとうございます。わたしの めいしも どうぞ。
 AI: ありがとうございます。___さんは どの ぶしょですか？
 User: えいぎょうぶです。 / かいはつぶです。
-
-**Outro:**
-> Business cards exchanged! 💼
-> Now, find out more about your new colleague.
->
-
----
-
-### sim2: Getting to Know the Office
-
-**Goal:** To ask about the office layout and daily routines.
-
-**📍 場所:** かいしゃ (オフィス)
-
-**承 — オフィス [セット 3]**
 AI: ランチは どこで たべますか？
 User: ちかくの しょくどうで たべます。 / べんとうを もってきます。
 AI: そうですか。いっしょに いきませんか？
 User: ぜひ！よろしく おねがいします。
-
-**Outro:**
-> Lunch buddy: Found! 🍱
-> Now, ask about the daily schedule.
->
-
-**転 — スケジュール [セット 4]**
 AI: なんじに しごとが はじまりますか？
 User: 9じに はじまります。 / 8じはんに はじまります。
 AI: そうですか。なんじに おわりますか？
 User: 6じに おわります。 / ときどき おそくなります。
-
-**Outro:**
-> Schedule confirmed! 📅
-> Almost settled in — just one more thing.
->
-
----
-
-### sim3: End of First Day
-
-**Goal:** To wrap up the first day and say goodbye to colleagues.
-
-**📍 場所:** かいしゃ (オフィス)
-
-**転 — おわり [セット 5]**
 AI: きょうは おつかれさまでした！
 User: おつかれさまでした！ありがとうございました。
 AI: わからない ことが あったら きいてください。
 User: はい、ありがとうございます。よろしく おねがいします。
-
-**Outro:**
-> First day: Survived! 💪
-> Now, say goodbye properly!
->
-
-**結 — さようなら [セット 6]**
 AI: おさきに しつれいします。
 User: おつかれさまでした！
 AI: また あした！
 User: はい、また あした！よろしく おねがいします。
-
-**Outro:**
-> First day: Complete! 🎉
-> Next up: Time to report to your boss!
->
-
----

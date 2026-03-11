@@ -1,113 +1,24 @@
-# PI-1: Hey, I'm ___!
-
-- Category: Personal Interest
-- Subcategory: First Meeting
-- Level: A0 (Absolute Beginner)
-- 12 turns (6 sets, 3 sims)
-
-First meeting in New York.
-Deep breath... say hi!
-
----
-
-### sim1: Nice to Meet You
-
-**Goal:** To introduce yourself, say where you're from, and share one reason you like the US.
-
-**📍 Location:** Outside (SoHo, NYC)
-
-**intro_text:**
-First meeting in New York.
-Deep breath... say hi!
-
-**Opening — First Hello [Set 1]**
 AI: Hey! I'm Alex (Jamie)! What's your name?
 User: I'm ___! / My name is ___!
 AI: Nice to meet you! Where are you from?
 User: I'm from ___!
-
-**Outro:**
-> First impression: Passed! 🎯
-> But wait... why are you *really* here in New York?
->
-
-**Getting Closer — Likes [Set 2]**
 AI: Do you like it here?
 User: Yeah, I love it! / It's so cool!
 AI: What do you like about it?
 User: The food! / The people!
-
-**Outro:**
-> They loved your answer! 👀
-> Red flag or green flag? Let's see if your hobbies match.
->
-
----
-
-### sim2: Getting Closer
-
-**Goal:** To discover shared hobbies and talk about your experience with American food.
-
-**📍 Location:** Outside (same)
-
-**intro_text:**
-You're still talking. Good sign!
-Time to find out what you have in common.
-
-**Hobbies — What Do You Like? [Set 3]**
 User: Alex (Jamie), what do you like?
 AI: Me? I love music! What about you?
 User: Me too! / I like movies!
 AI: Oh really? American music?
-
-**Outro:**
-> Vibe check passed! ✔️
-> Now, prepare for the ultimate American obsession... Food.
->
-
-**Food — Have You Tried It? [Set 4]**
 AI: Have you tried BBQ here?
 User: Yeah! / Not yet!
 AI: You have to try it! It's so good!
 User: I want to! / Yeah, it was amazing!
-
-**Outro:**
-> Enough talking! 🛑
-> This is your golden chance. Make a move and ask them to hang out!
->
-
----
-
-### sim3: Let's Hang Out
-
-**Goal:** To make casual weekend plans and exchange numbers to stay in touch.
-
-**📍 Location:** Outside (same)
-
-**intro_text:**
-The vibe is good. Really good.
-Time to make this official!
-
-**Plans — This Weekend [Set 5]**
 User: What are you doing this weekend?
 AI: Me? Nothing yet! Wanna hang out?
 User: Yeah! What should we do?
 AI: Let's grab some food!
-
-**Outro:**
-> It's officially a date! 🥂
-> ...Wait! Don't let them walk away without getting their number!
->
-
-**Contact — Let's Stay in Touch [Set 6]**
 User: Can I get your number?
 AI: Yeah, for sure! Here you go!
 User: Got it!
 AI: Text me! See you soon!
-
-**Outro:**
-> Contact secured! 🔒
-> Next up: The test that decides if you're *truly* compatible.
->
-
----

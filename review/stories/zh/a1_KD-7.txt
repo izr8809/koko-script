@@ -1,97 +1,24 @@
-# KD-7: 我们在一起吧？
-
-
----
-
-### sim1: 这一刻
-
-**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
-
-**📍 장소:** 外滩（晚上）
-
-**intro_text:**
-The Bund at night. You said you had something to say. This is it.
-
-**기 — 表白 [세트 1]**
 AI: 你说今天有话要说。是什么？
 User: 有点紧张。/ 你靠近一点。
 AI: 为什么紧张？说吧！
 User: 我……喜欢你。
-
-**Outro:**
-> You said it! 💘 Three words that change everything.
-> Now hold your breath and wait for the answer.
->
-
-**승 — 回答 [세트 2]**
 AI: 真的？我也喜欢你。
 User: 真的？/ 从什么时候？
 AI: 从第一次见面就开始了。
 User: 我也是。
-
-**Outro:**
-> Mutual feelings confirmed! 🌅 The Bund just witnessed a drama moment.
-> So... does this mean what we think it means?
->
-
----
-
-### sim2: 正式在一起
-
-**Goal:** To officially become a couple and start planning your first date together.
-
-**📍 장소:** 外滩（同一地点）
-
-**승 — 在一起 [세트 3]**
 AI: 那我们在一起吧？
 User: 好。/ 对吧？
 AI: 太好了。
 User: 我也很开心。
-
-**Outro:**
-> Official! 💑 You are now a couple. Congratulations.
-> First order of business: plan the perfect first date.
->
-
-**전 — 第一次约会 [세트 4]**
 AI: 在一起之后第一次约会！想去哪儿？
 User: 想去看海！/ 去吃好吃的吧！
 AI: 好！周末去！
 User: 好期待！
-
-**Outro:**
-> First date planned! 🗓️ The excitement is real.
-> But first — the sweetest part of any new relationship.
->
-
----
-
-### sim3: 甜蜜
-
-**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
-
-**📍 장소:** 各自家里（微信聊天）
-
-**전 — 心动 [세트 5]**
 AI: 到家了吗？
 User: 嗯，刚到！
 AI: 今天真的很开心。
 User: 我也是。/ 一直在想你。
-
-**Outro:**
-> Late night texts after a perfect evening! 📱 This feeling is everything.
-> One last message before you both fall asleep smiling.
->
-
-**결 — 晚安 [세트 6]**
 AI: 明天还想见你。
 User: 我也想见你。
 AI: 晚安。做个好梦。
 User: 晚安。
-
-**Outro:**
-> "做个好梦。" 😴 The most romantic goodnight in Chinese.
-> Sweet dreams — you're going to need the energy for what comes next.
->
-
----
