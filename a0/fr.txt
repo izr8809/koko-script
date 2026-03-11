@@ -1382,8 +1382,8 @@ C'est l'heure de vous présenter !
 **Présentation — Bonjour [Série 1]**
 AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
 User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
-AI: Enchanté ! Je suis Marc, responsable du projet.
-User: Enchantée, Marc. Je suis ravie d'être ici.
+AI: Enchanté ! Je suis ___, responsable du projet.
+User: Enchantée, ___. Je suis ravie d'être ici.
 
 **Outro:**
 > Première impression : Excellente ! 🤝
