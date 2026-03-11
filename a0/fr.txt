@@ -16,7 +16,7 @@ Respire un coup... et dis bonjour !
 
 ---
 
-### sim1 : Enchanté(e)
+### sim1 : Enchantée
 
 **Goal:** To introduce yourself, say where you're from, and share one thing you like about Paris.
 
@@ -301,7 +301,7 @@ User: Promis ! / Je suis jamais en retard !
 
 **Outro:**
 > Plans confirmés ! 📅
-> Samedi arrive... tu es prêt(e) pour le vrai truc ?
+> Samedi arrive... tu es prête pour le vrai truc ?
 >
 
 ---
@@ -320,7 +320,7 @@ C'est parti !
 User: Je suis là ! T'es où ?
 AI: J'arrive ! Une minute !
 User: OK, je t'attends !
-AI: Me voilà ! Désolé(e) !
+AI: Me voilà ! Désolé !
 
 **Outro:**
 > Enfin réunis ! 🎉
@@ -658,7 +658,7 @@ Comment finir en beauté ?
 User: C'était délicieux ! Mes compliments au chef.
 AI: Merci beaucoup ! Vous avez tout aimé ?
 User: Oui, tout était parfait ! / Le steak était excellent !
-AI: Je suis ravi(e) !
+AI: Je suis ravi !
 
 **Outro:**
 > Chef impressionné ! 👨‍🍳
@@ -844,7 +844,7 @@ Comment le signaler poliment ?
 
 **Problème — À la réception [Série 3]**
 User: Excusez-moi, il y a un problème dans ma chambre.
-AI: Je suis désolé(e) ! C'est quoi le problème ?
+AI: Je suis désolé ! C'est quoi le problème ?
 User: La douche ne marche pas. / Il n'y a pas de serviettes.
 AI: Je vous envoie quelqu'un tout de suite.
 
@@ -856,7 +856,7 @@ AI: Je vous envoie quelqu'un tout de suite.
 **Solution — C'est réglé [Série 4]**
 AI: Voilà, c'est réparé. Tout va bien maintenant ?
 User: Oui, merci beaucoup ! / Oui, c'est parfait maintenant.
-AI: Je suis ravi(e). Bonne nuit !
+AI: Je suis ravi. Bonne nuit !
 User: Merci, bonne nuit !
 
 **Outro:**
@@ -1167,7 +1167,7 @@ AI: Mais non, je blague ! Viens, l'apéro est prêt !
 AI: Voilà, viens t'asseoir ! Ça te plaît chez moi ?
 User: C'est super beau ! Et ça sent délicieux ! / Ton appartement est magnifique !
 AI: Merci ! J'ai fait un bœuf bourguignon ce soir !
-User: Mon plat préféré ! / Tu es vraiment un(e) chef !
+User: Mon plat préféré ! / Tu es vraiment un chef !
 
 **Outro:**
 > Compliments échangés ! 💝
@@ -1338,7 +1338,7 @@ Parle de ce que t'as vu. Partage l'émotion !
 User: J'ai adoré ! Les peintures étaient absolument incroyables !
 AI: T'as un tableau préféré ?
 User: Oui ! Le Matisse ! / Oui, une toile impressionniste magnifique !
-AI: Oh, j'adore Matisse ! T'es devenu(e) fan d'art ?
+AI: Oh, j'adore Matisse ! T'es devenue fan d'art ?
 
 **Outro:**
 > Amateur(rice) d'art confirmé(e) ! 🎨
@@ -1382,8 +1382,8 @@ C'est l'heure de vous présenter !
 **Présentation — Bonjour [Série 1]**
 AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
 User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
-AI: Enchanté(e) ! Je suis Marie, responsable du projet.
-User: Enchanté(e), Marie. Je suis ravi(e) d'être ici.
+AI: Enchanté ! Je suis Marc, responsable du projet.
+User: Enchantée, Marc. Je suis ravie d'être ici.
 
 **Outro:**
 > Première impression : Excellente ! 🤝
@@ -1391,9 +1391,9 @@ User: Enchanté(e), Marie. Je suis ravi(e) d'être ici.
 >
 
 **Poste — Votre rôle [Série 2]**
-User: Je suis chargé(e) de communication. Et vous ?
+User: Je suis chargée de communication. Et vous ?
 AI: Je suis chef de projet. Bienvenue dans l'équipe !
-User: Merci beaucoup. / Je suis très content(e) de rejoindre l'équipe.
+User: Merci beaucoup. / Je suis très contente de rejoindre l'équipe.
 AI: Nous sommes ravis de vous avoir !
 
 **Outro:**
@@ -1449,7 +1449,7 @@ Comment ça s'est passé ?
 
 **Bilan — C'était bien ? [Série 5]**
 User: C'était une bonne première journée.
-AI: Vous vous êtes bien intégré(e) ?
+AI: Vous vous êtes bien intégrée ?
 User: Oui, tout le monde est très accueillant. / Oui, c'était très bien.
 AI: Parfait ! Demain, nous avons une réunion à 9h.
 
@@ -1488,13 +1488,13 @@ User: Merci, bonne soirée à vous aussi !
 
 **intro_text:**
 La réunion commence dans 5 minutes.
-Vous êtes prêt(e) ?
+Vous êtes prête ?
 
 **Préparation — Avant [Série 1]**
 AI: Bonjour ! Vous avez reçu l'ordre du jour ?
 User: Oui, je l'ai reçu ce matin. / Oui, par email.
 AI: Parfait. Nous commençons dans 5 minutes.
-User: Je suis prêt(e). Merci.
+User: Je suis prête. Merci.
 
 **Outro:**
 > Réunion imminente ! 📊
