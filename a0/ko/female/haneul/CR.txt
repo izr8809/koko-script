@@ -1,0 +1,278 @@
+# 👔 CAREER (반말)
+
+### CR-1: 작업실에서
+
+**대분류:** Career
+**중분류:** 프리랜서 — 공유 작업실
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 첫 만남
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To meet Haneul at the shared studio for the first time
+
+**intro_text:**
+You just rented a desk at a cozy studio in Mangwon.
+Someone is already there, staring out the window.
+
+**기 — 빛 이야기 [세트 1]**
+AI: 오늘 빛 이상해.
+User: 네?
+AI: 창가 빛. 이상하잖아.
+User: 아, 그러네요.
+
+**Outro:**
+> She gestures vaguely at the window. No further explanation.
+>
+
+**승 — 자리 [세트 2]**
+User: 저 여기 앉아도 돼요?
+AI: 응.
+User: 고마워요.
+AI: 조용히 있어.
+
+---
+
+## sim2: 작업 중
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To talk briefly while working
+
+**intro_text:**
+You settle in. She has a camera on the table.
+The room is quiet except for the scratch of a pen.
+
+**전 — 카메라 [세트 3]**
+AI: 카메라 있어?
+User: 없어요.
+AI: 그래?
+User: 핸드폰만요.
+
+**Outro:**
+> She nods. Seems satisfied with this answer.
+>
+
+**결 — 작업 [세트 4]**
+User: 뭐 해요?
+AI: 그림.
+User: 뭐 그려요?
+AI: 오늘.
+
+---
+
+## sim3: 인사
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To exchange names before leaving
+
+**intro_text:**
+An hour passes. She puts down her pen.
+She finally looks at you properly.
+
+**기 — 이름 [세트 5]**
+AI: 이름 뭐야?
+User: ___.
+AI: 하늘이야.
+User: 예쁜 이름이다.
+
+**Outro:**
+> She smiles slightly and picks up her pen again.
+>
+
+**승 — 다음에 [세트 6]**
+User: 내일도 와요?
+AI: 아마도.
+User: 또 봐요.
+AI: 응.
+
+---
+
+### CR-2: 작업 중 대화
+
+**대분류:** Career
+**중분류:** 프리랜서 — 공유 작업실
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 사진
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To talk about Haneul's photography
+
+**intro_text:**
+You arrive at the studio. Haneul is looking at photos on her phone.
+She holds it out without a word.
+
+**기 — 사진 [세트 1]**
+AI: 어때?
+User: 예뻐.
+AI: 빛이 좋았어.
+User: 어디서 찍었어?
+
+**Outro:**
+> She points at the window. It's the same angle you always see.
+>
+
+**승 — 찍기 [세트 2]**
+User: 나도 찍어줘?
+AI: 응.
+User: 고마워.
+AI: 움직이지 마.
+
+---
+
+## sim2: 작업물
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To look at each other's work briefly
+
+**intro_text:**
+She leans over to see what you're working on.
+Her eyes are calm. Observant.
+
+**전 — 작업물 [세트 3]**
+AI: 이거 뭐야?
+User: 내 작업이야.
+AI: 좋네.
+User: 정말?
+
+**Outro:**
+> She shrugs like it's obvious. You feel weirdly proud.
+>
+
+**결 — 소개 [세트 4]**
+User: 하늘 거 봐도 돼?
+AI: 응.
+User: 멋있다.
+AI: 아직 멀었어.
+
+---
+
+## sim3: 쉬는 시간
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To take a short break together
+
+**intro_text:**
+Both of you pause at the same time.
+A rare moment of nothing.
+
+**기 — 커피 [세트 5]**
+AI: 커피 마셔?
+User: 어.
+AI: 기다려.
+User: 고마워.
+
+**Outro:**
+> She goes to the corner and comes back with two paper cups.
+>
+
+**승 — 쉬기 [세트 6]**
+User: 잠깐 쉬자.
+AI: 이미 쉬고 있었어.
+User: 나도.
+AI: 알아.
+
+---
+
+### CR-3: 작업 마무리
+
+**대분류:** Career
+**중분류:** 프리랜서 — 공유 작업실
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 정리
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To wrap up the work session
+
+**intro_text:**
+The afternoon light is fading.
+Haneul starts slowly putting things away.
+
+**기 — 마무리 [세트 1]**
+AI: 오늘 끝?
+User: 응, 끝냈어.
+AI: 나도.
+User: 오늘 많이 했다.
+
+**Outro:**
+> She nods. Closes her sketchbook slowly.
+>
+
+**승 — 정리 [세트 2]**
+User: 짐 챙겨?
+AI: 응.
+User: 나도 챙긴다.
+AI: 서두르지 마.
+
+---
+
+## sim2: 오늘 감상
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To share thoughts about today
+
+**intro_text:**
+The studio is nearly empty now.
+You both linger a little.
+
+**전 — 오늘 [세트 3]**
+AI: 오늘 어땠어?
+User: 좋았어.
+AI: 나도.
+User: 왜 좋았어?
+
+**Outro:**
+> She thinks for a moment. Then doesn't answer.
+>
+
+**결 — 생각 [세트 4]**
+User: 여기 자주 와?
+AI: 거의 매일.
+User: 나도 올게.
+AI: 그래.
+
+---
+
+## sim3: 다음 만남
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To say goodbye and plan to meet again
+
+**intro_text:**
+She slings her camera bag over one shoulder.
+Pauses at the door.
+
+**기 — 인사 [세트 5]**
+AI: 잘 가.
+User: 응, 잘 가.
+AI: 내일도 와.
+User: 올게.
+
+**Outro:**
+> She leaves without turning back. But she said to come back.
+>
+
+**승 — 다음 [세트 6]**
+User: 내일 몇 시야?
+AI: 낮에.
+User: 알겠어.
+AI: 또 보자.

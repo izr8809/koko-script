@@ -1,0 +1,280 @@
+# 👔 CAREER (존댓말→반말)
+
+---
+
+### CR-1: 카페 알바 첫날
+
+**대분류:** Career
+**중분류:** 알바 — 카페
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 첫 인사
+
+**📍 장소:** 신촌 카페
+
+**Goal:** To meet Yuna on your first day at the café
+
+**intro_text:**
+You just started working at a café in Sinchon.
+A cheerful coworker rushes over to greet you.
+
+**기 — 첫 만남 [세트 1]**
+AI: 안녕하세요! 저 유나예요.
+User: 안녕하세요. 잘 부탁해요.
+AI: 저도요! 같이 일해요.
+User: 네, 잘 부탁해요.
+
+**Outro:**
+> She hands you an apron before you even ask.
+>
+
+**승 — 자기소개 [세트 2]**
+User: 여기 처음이에요.
+AI: 저도 얼마 안 됐어요.
+User: 다행이에요.
+AI: 같이 잘 해요!
+
+---
+
+## sim2: 업무 파악
+
+**📍 장소:** 신촌 카페 카운터
+
+**Goal:** To learn the basics of the job from Yuna
+
+**intro_text:**
+Yuna is giving you a quick tour of the café.
+She doesn't wait for you to ask questions.
+
+**기 — 메뉴 설명 [세트 3]**
+AI: 이게 메뉴판이에요.
+User: 어렵네요.
+AI: 금방 외워요.
+User: 해볼게요.
+
+**Outro:**
+> She taps the menu board cheerfully, pointing at everything.
+>
+
+**승 — 주문 연습 [세트 4]**
+User: 이건 뭐예요?
+AI: 라떼예요. 많이 팔려요.
+User: 알겠어요.
+AI: 잘 할 거예요.
+
+---
+
+## sim3: 쉬는 시간 (반말 전환)
+
+**📍 장소:** 신촌 카페 직원 공간
+
+**Goal:** To take a break and try speaking informally
+
+**intro_text:**
+It's your first break together.
+Yuna plops down next to you and leans in.
+
+**기 — 반말 제안 [세트 5]**
+AI: 나 반말해도 돼요?
+User: 네, 편하게 해요.
+AI: 고마워! 편하다.
+User: 나도.
+
+**Outro:**
+> She grins and kicks her legs up on the chair.
+>
+
+**승 — 편한 대화 [세트 6]**
+User: 힘들어?
+AI: 조금. 재밌어.
+User: 나도 그래.
+AI: 잘 됐다!
+
+---
+
+### CR-2: 알바 중 대화
+
+**대분류:** Career
+**중분류:** 알바 — 카페
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 주문 받기
+
+**📍 장소:** 신촌 카페 카운터
+
+**Goal:** To handle orders with Yuna during a rush
+
+**intro_text:**
+The café is suddenly busy.
+Yuna waves you over to the counter.
+
+**기 — 바쁜 시간 [세트 1]**
+AI: 손님 많아요! 와요.
+User: 네, 가요!
+AI: 여기 서요.
+User: 알겠어요.
+
+**Outro:**
+> She's already taking an order before you even arrive.
+>
+
+**승 — 주문 확인 [세트 2]**
+User: 이거 맞아요?
+AI: 맞아요! 잘했어요.
+User: 다행이에요.
+AI: 잘 하고 있어요.
+
+---
+
+## sim2: 쉬는 시간
+
+**📍 장소:** 신촌 카페 창고
+
+**Goal:** To chat casually with Yuna on break
+
+**intro_text:**
+The rush is finally over.
+Yuna drops into a chair next to you with a sigh.
+
+**기 — 피로 표현 [세트 3]**
+AI: 힘드셨죠? 쉬어요.
+User: 바쁘네요, 여기.
+AI: 주말엔 더요.
+User: 그렇군요.
+
+**Outro:**
+> She hands you a drink without saying anything.
+>
+
+**승 — 카페 얘기 [세트 4]**
+User: 여기 얼마나 됐어요?
+AI: 두 달요. 재밌어요.
+User: 좋겠어요.
+AI: 같이 하면 더요.
+
+---
+
+## sim3: 마감 전 (반말 전환)
+
+**📍 장소:** 신촌 카페
+
+**Goal:** To wrap up and switch to casual speech
+
+**intro_text:**
+The last customer just left.
+Yuna stretches and turns to you.
+
+**기 — 반말 전환 [세트 5]**
+AI: 말 편하게 해도 돼요?
+User: 네, 그래요.
+AI: 잘 했어, 오늘.
+User: 너도.
+
+**Outro:**
+> She starts wiping down the counter, humming to herself.
+>
+
+**승 — 청소 대화 [세트 6]**
+User: 뭐 도와줄까?
+AI: 테이블 닦아줘.
+User: 알겠어.
+AI: 고마워!
+
+---
+
+### CR-3: 알바 마무리
+
+**대분류:** Career
+**중분류:** 알바 — 카페
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 마감 청소
+
+**📍 장소:** 신촌 카페
+
+**Goal:** To finish the closing shift with Yuna
+
+**intro_text:**
+It's the end of the shift.
+You and Yuna are the last ones left.
+
+**기 — 청소 시작 [세트 1]**
+AI: 청소 시작해요!
+User: 제가 뭐 해요?
+AI: 테이블 닦아요.
+User: 알겠어요.
+
+**Outro:**
+> She ties her hair back and grabs the mop right away.
+>
+
+**승 — 역할 분담 [세트 2]**
+User: 다 닦았어요.
+AI: 빠르다! 고마워요.
+User: 뭐 더 있어요?
+AI: 바닥만요.
+
+---
+
+## sim2: 퇴근 준비
+
+**📍 장소:** 신촌 카페 직원 공간
+
+**Goal:** To get ready to leave with Yuna
+
+**intro_text:**
+Cleaning is done.
+Yuna grabs her bag and turns to you.
+
+**기 — 퇴근 준비 [세트 3]**
+AI: 다 끝났어요! 수고했어요.
+User: 드디어요.
+AI: 오늘 어땠어요?
+User: 재밌었어요.
+
+**Outro:**
+> She claps her hands together and looks satisfied.
+>
+
+**승 — 퇴근 대화 [세트 4]**
+User: 집 어디예요?
+AI: 신촌이요. 가까워요.
+User: 좋겠어요.
+AI: 같이 나가요!
+
+---
+
+## sim3: 반말 전환
+
+**📍 장소:** 신촌 카페 앞
+
+**Goal:** To say goodbye and fully switch to casual speech
+
+**intro_text:**
+You're standing outside the café after the shift.
+Yuna zips up her jacket and smiles at you.
+
+**기 — 반말 제안 [세트 5]**
+AI: 나 반말해도 돼?
+User: 응, 해.
+AI: 오늘 진짜 고마워.
+User: 나도.
+
+**Outro:**
+> She waves and starts walking, then glances back.
+>
+
+**승 — 작별 [세트 6]**
+User: 또 보자.
+AI: 응! 내일 봐.
+User: 잘 가.
+AI: 너도!

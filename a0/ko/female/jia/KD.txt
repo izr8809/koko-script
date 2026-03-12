@@ -1,0 +1,278 @@
+# 🎬 K-DRAMA (격식체)
+
+### KD-1: 첫 만남 장면
+
+**대분류:** K-Drama
+**중분류:** 재벌 로맨스 — 첫 만남
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 로비에서
+
+**📍 장소:** 대기업 로비
+
+**Goal:** To practice the first meeting scene
+
+**intro_text:**
+You're practicing a drama scene with Jia.
+She plays the cold female lead. You play the male lead.
+
+**기 — 등장 [세트 1]**
+User: 여기서 뭐 해요?
+AI: 제 일이에요.
+User: 이 회사가 제 회사예요.
+AI: 알아요.
+
+**Outro:**
+> Jia delivers the line flatly, barely making eye contact.
+>
+
+**승 — 첫 대화 [세트 2]**
+User: 당신 이름이 뭐예요?
+AI: 알 필요 없어요.
+User: 궁금해서요.
+AI: 됐어요.
+
+---
+
+### sim2: 엘리베이터에서
+
+**📍 장소:** 대기업 엘리베이터
+
+**Goal:** To practice the awkward elevator encounter scene
+
+**intro_text:**
+You're both in the elevator.
+It's just the two of you, and neither speaks first.
+
+**기 — 침묵 [세트 1]**
+User: 몇 층 가요?
+AI: 20층이에요.
+User: 저도요.
+AI: 그렇군요.
+
+**Outro:**
+> She stares at the door, keeping her distance.
+>
+
+**승 — 우연 [세트 2]**
+User: 아까 봤어요.
+AI: 저도요.
+User: 또 보네요.
+AI: 우연이에요.
+
+---
+
+### sim3: 복도에서
+
+**📍 장소:** 대기업 복도
+
+**Goal:** To practice the hallway confrontation scene
+
+**intro_text:**
+You run into her again in the hallway.
+You decide to say something this time.
+
+**기 — 재회 [세트 1]**
+User: 또 만났어요.
+AI: 회사가 좁네요.
+User: 이름 알려줘요.
+AI: 싫어요.
+
+**Outro:**
+> She walks past you without slowing down.
+>
+
+**승 — 질문 [세트 2]**
+User: 왜 이렇게 차가워요?
+AI: 원래 이래요.
+User: 알겠어요.
+AI: 비켜요.
+
+---
+
+### KD-2: 오해 장면
+
+**대분류:** K-Drama
+**중분류:** 재벌 로맨스 — 오해
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 냉랭한 태도
+
+**📍 장소:** 사무실 복도
+
+**Goal:** To practice the misunderstanding scene
+
+**intro_text:**
+She overheard something and misunderstood.
+Now she's giving you the cold shoulder.
+
+**기 — 냉랭함 [세트 1]**
+User: 왜 화났어요?
+AI: 화 안 났어요.
+User: 그런 것 같아요.
+AI: 착각이에요.
+
+**Outro:**
+> She turns away and pretends to check her phone.
+>
+
+**승 — 해명 [세트 2]**
+User: 오해예요.
+AI: 됐어요.
+User: 들어봐요.
+AI: 바빠요.
+
+---
+
+### sim2: 해명 시도
+
+**📍 장소:** 회사 옥상
+
+**Goal:** To practice the rooftop clarification scene
+
+**intro_text:**
+You followed her up to the rooftop.
+She's standing by the railing, looking away.
+
+**기 — 설명 [세트 1]**
+User: 잠깐요.
+AI: 할 말 없어요.
+User: 오해예요.
+AI: 상관없어요.
+
+**Outro:**
+> The wind blows. She doesn't move.
+>
+
+**승 — 감정 [세트 2]**
+User: 왜 그렇게 생각해요?
+AI: 봤으니까요.
+User: 틀렸어요.
+AI: …네.
+
+---
+
+### sim3: 화해
+
+**📍 장소:** 회사 로비
+
+**Goal:** To practice the reconciliation scene
+
+**intro_text:**
+You meet her again the next morning.
+The air between you is still tense.
+
+**기 — 화해 시도 [세트 1]**
+User: 오늘은 어때요?
+AI: 보통이에요.
+User: 화 풀렸어요?
+AI: 원래부터 없었어요.
+
+**Outro:**
+> She walks away, but you catch a glimpse of the faintest expression change.
+>
+
+**승 — 마무리 [세트 2]**
+User: 앞으로 잘 지내요.
+AI: …알겠어요.
+User: 감사해요.
+AI: 네.
+
+---
+
+### KD-3: 우연한 재회
+
+**대분류:** K-Drama
+**중분류:** 재벌 로맨스 — 재회
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 카페에서
+
+**📍 장소:** 강남 카페
+
+**Goal:** To practice the unexpected café encounter scene
+
+**intro_text:**
+You're at a café when you suddenly spot her.
+You decide to approach.
+
+**기 — 발견 [세트 1]**
+User: 여기 있었어요?
+AI: 일 중이에요.
+User: 방해할게요.
+AI: 알아서 해요.
+
+**Outro:**
+> She sighs softly and closes her laptop halfway.
+>
+
+**승 — 짧은 대화 [세트 2]**
+User: 커피 사줄까요?
+AI: 됐어요.
+User: 그냥이요.
+AI: …알겠어요.
+
+---
+
+### sim2: 비 오는 날
+
+**📍 장소:** 강남 거리
+
+**Goal:** To practice the rainy street encounter scene
+
+**intro_text:**
+It suddenly starts raining.
+You spot her standing outside without an umbrella.
+
+**기 — 우산 [세트 1]**
+User: 우산 없어요?
+AI: 금방 그쳐요.
+User: 쓰세요.
+AI: 괜찮아요.
+
+**Outro:**
+> You insist. She accepts reluctantly without meeting your eyes.
+>
+
+**승 — 귀가 [세트 2]**
+User: 같이 가요.
+AI: 방향 달라요.
+User: 잠깐이요.
+AI: …됐어요.
+
+---
+
+### sim3: 저녁 거리
+
+**📍 장소:** 강남 거리
+
+**Goal:** To practice the evening street encounter scene
+
+**intro_text:**
+You run into her late in the evening.
+She's walking home alone.
+
+**기 — 저녁 만남 [세트 1]**
+User: 혼자예요?
+AI: 늘 혼자예요.
+User: 같이 걸어도 돼요?
+AI: 빨리 가요.
+
+**Outro:**
+> She doesn't say no. You walk beside her in silence.
+>
+
+**승 — 작별 [세트 2]**
+User: 다음에 또 봐요.
+AI: 모르겠어요.
+User: 봤으면 해요.
+AI: …그러네요.

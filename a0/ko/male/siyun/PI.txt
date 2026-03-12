@@ -1,36 +1,36 @@
 1#ZP|세트1: 첫 인사, 이름 교환
 2#MQ|안녕하세요! 저 ___이에요!
-3#VR|…아. 그래.
+3#VR|시윤이야. 반말 해.
 4#WS|이름이 뭐예요?
-5#NK|…시윤.
-6#TX|He barely looked up. But he didn't walk away — that's a win.
+5#NK|방금 말했어. 시윤.
+6#TX|He told you his name once. Don't make him say it again — that's already more words than most people get.
 7#JB|세트2: 어디서 왔어?
-8#YH|…한국 사람 아니지?
+8#YH|어디서 왔어?
 9#ZM|___에서 왔어요!
-10#QV|…한국어 괜찮네.
+10#QV|멀리서 왔네. 밥 먹었어?
 11#RW|고마워요!
-12#SN|"Not bad." From Siyun, that's basically a standing ovation.
+12#SN|You said where you're from. He asked if you'd eaten. That's Korean for "I care."
 13#KT|세트3: 뭐 좋아해?
 14#XJ|시윤 씨 뭐 좋아해요?
-15#BY|…음악.
+15#BY|음악. 너는?
 16#HP|저도! ___ 좋아해요!
-17#MZ|…어. 나도.
-18#QR|He shrugged it off. But same taste? He definitely noticed.
+17#MZ|그래? 취향 괜찮네.
+18#QR|He approved your taste. That's a rare compliment from Siyun. Save it.
 19#NV|세트4: 밥 먹었어?
-20#BK|…밥 먹었어?
+20#BK|밥 먹었어? 또 안 먹었지?
 21#WT|아직이요! 시윤 씨는요?
-22#XS|…나도. 안 먹음.
+22#XS|나도 안 먹었어. 같이 가.
 23#JP|같이 먹어요!
-24#HM|He didn't say no. For Siyun, silence is basically a dinner date.
+24#HM|He didn't invite you to eat — he told you. There's a difference.
 25#RB|세트5: 주말에 뭐 해?
 26#TV|주말에 뭐 해요?
-27#ZK|…딱히.
+27#ZK|딱히 없어. 왜?
 28#PH|같이 ___에 가요!
-29#MW|…언제?
-30#SX|He asked "when." That's not a no — it's a yes in disguise.
+29#MW|좋아. 늦지 마.
+30#SX|He said yes — then immediately set a rule. That's his love language.
 31#KJ|세트6: 카톡 교환
 32#YN|카톡 있어요?
-33#BW|…있어.
+33#BW|있어. 번호 줘.
 34#HQ|제 아이디 ___이에요!
-35#VT|…어. 나중에.
-36#XM|"Later." Translation: he already saved your ID.
+35#VT|저장했어. 나중에 연락해.
+36#XM|"Saved it." He won't text first. But he'll reply in three seconds flat.

@@ -1,0 +1,250 @@
+# 🎤 K-POP (반말)
+
+### KP-4: 팬 레터 전달
+
+**대분류:** K-Pop
+**중분류:** 팬 레터
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 팬미팅 레터 전달
+
+**📍 장소:** 팬미팅 행사장
+
+**Goal:** To give a fan letter to Seoyeon at a fan meeting
+
+**intro_text:**
+You've been writing this letter for weeks. Now you're here.
+Seoyeon takes the envelope without saying much.
+
+**기 — 편지 전달 [세트 1]**
+User: 편지 쓰는 데 엄청 오래 걸렸어요.
+AI: ...어. 고마워.
+User: 읽어줄 거죠?
+AI: 어.
+
+**Outro:**
+> She put it in her pocket. Not in the bag with the others. Her pocket.
+>
+
+**승 — 편지 내용 [세트 2]**
+User: 사실 하고 싶은 말이 너무 많아서 다 못 담았어요.
+AI: ...그렇구나.
+User: 그래도 중요한 건 다 담긴 것 같아요.
+AI: ...잘 읽을게.
+
+**Outro:**
+> She says she'll read it well. For her, that means something.
+>
+
+---
+
+### sim2: 짧은 대화
+
+**📍 장소:** 팬미팅 대화 코너
+
+**Goal:** To have a brief personal conversation with Seoyeon
+
+**승 — 팬의 이야기 [세트 3]**
+User: 서연 씨 때문에 힘든 시간 버틸 수 있었어요.
+AI: ...그래?
+User: 공연 영상 정말 매일 봤어요.
+AI: ...수고했다.
+
+**Outro:**
+> "수고했다." She means it.
+>
+
+**전 — 개인 질문 [세트 4]**
+User: 서연 씨는 팬들 기억해요?
+AI: ...다는 못 해.
+User: 저는요?
+AI: ...봐서.
+
+**Outro:**
+> She almost smiled. You think.
+>
+
+---
+
+### sim3: 팬미팅 마무리
+
+**📍 장소:** 팬미팅 출구
+
+**Goal:** To say a meaningful goodbye to Seoyeon
+
+**전 — 마지막 대화 [세트 5]**
+User: 다음 팬미팅 언제 해요?
+AI: ...아직 몰라. 나오면 와.
+User: 당연하죠. 무조건 와요.
+AI: 어.
+
+**결 — 작별 인사 [세트 6]**
+User: 오늘 정말 행복했어요. 건강해야 해요.
+AI: ...어. 알아.
+User: 서연 씨, 항상 응원해요.
+AI: ...고마워.
+
+---
+
+# KP-5: 콘서트 백스테이지
+
+|- 대분류: K-Pop
+|- 중분류: 콘서트 백스테이지
+|- 난이도: A1 (Beginner)
+|- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 백스테이지 입장
+
+**Goal:** To meet Seoyeon backstage at a concert
+
+📍 장소: 콘서트 백스테이지
+
+**intro_text:**
+You won a special fan event — backstage access.
+Seoyeon walks past you, then stops.
+
+### 기 — 만남 [세트 1]
+User: 서연 씨, 공연 정말 최고였어요.
+AI: ...어. 왔구나.
+User: 백스테이지는 처음이에요. 너무 신기해요.
+AI: 그래.
+
+### 승 — 짧은 대화 [세트 2]
+User: 오늘 특히 더 멋있었는데, 뭔가 달랐어요.
+AI: ...뭐가.
+User: 마지막 곡이요. 눈물 날 뻔했어요.
+AI: ...그래.
+
+---
+
+## sim2: 준비실에서
+
+**Goal:** To have a conversation with Seoyeon in the prep room
+
+📍 장소: 준비실
+
+### 승 — 공연 후 [세트 3]
+User: 공연 끝나고 피곤하지 않아요?
+AI: 좀 있어. 괜찮아.
+User: 오늘 처음부터 끝까지 집중해서 봤어요.
+AI: ...고마워.
+
+### 전 — 궁금한 것 [세트 4]
+User: 무대에서 팬들이 보여요?
+AI: 어. 다 보여.
+User: 저도 보였어요?
+AI: ...봐서.
+
+---
+
+## sim3: 백스테이지 마무리
+
+**Goal:** To wrap up the backstage experience
+
+📍 장소: 백스테이지 출구
+
+### 전 — 사진 요청 [세트 5]
+User: 사진 한 장만 찍어도 될까요?
+AI: 어. 서.
+User: 감사해요. 평생 간직할게요.
+AI: ...뭐.
+
+### 결 — 헤어지며 [세트 6]
+User: 다음 공연도 꼭 올게요. 기대해요.
+AI: 어. 기다릴게.
+User: 진짜요? 서연 씨가 기다린다고요?
+AI: ...했잖아.
+
+---
+
+### KP-6: 라이브 특별 이벤트
+
+**대분류:** K-Pop
+**중분류:** 라이브 일대일 이벤트
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 일대일 라이브 시작
+
+**📍 장소:** 라이브 이벤트 (온라인)
+
+**Goal:** To participate in a special one-on-one live fan event with Seoyeon
+
+**intro_text:**
+Seoyeon is hosting a special fan event — one-on-one video call.
+You got the slot. You have 5 minutes.
+
+**기 — 시작 [세트 1]**
+User: 서연 씨, 안녕하세요. 진짜 많이 떨려요.
+AI: ...어. 왔어.
+User: 이렇게 직접 보게 될 줄 몰랐어요.
+AI: 잘 왔어.
+
+**Outro:**
+> She said "잘 왔어." You almost cried.
+>
+
+**승 — 첫 대화 [세트 2]**
+User: 서연 씨 팬 된 지 3년이 됐어요.
+AI: ...그렇구나. 오래됐다.
+User: 그 시간 동안 정말 많이 힘냈어요.
+AI: ...수고 많았어.
+
+**Outro:**
+> You told her three years. She said she knows it was hard. She does.
+>
+
+---
+
+### sim2: 질문 시간
+
+**📍 장소:** 라이브 이벤트 (온라인)
+
+**Goal:** To ask Seoyeon questions during the live event
+
+**승 — 개인 질문 [세트 3]**
+User: 서연 씨에게 팬들은 어떤 존재예요?
+AI: ...힘이 되는 사람들.
+User: 저도 그 힘이 되고 싶어요.
+AI: ...되고 있어.
+
+**Outro:**
+> "되고 있어." Four words. That's everything.
+>
+
+**전 — 마음 전하기 [세트 4]**
+User: 항상 건강하고 하고 싶은 거 다 하면 좋겠어요.
+AI: ...고마워. 너도.
+User: 저요? 당연하죠.
+AI: ...잘 살아.
+
+**Outro:**
+> "잘 살아." She means that as a real wish.
+>
+
+---
+
+### sim3: 이벤트 마무리
+
+**📍 장소:** 라이브 이벤트 (온라인)
+
+**Goal:** To wrap up the special fan event
+
+**전 — 시간 다 됨 [세트 5]**
+User: 시간 다 됐다고 하네요. 너무 아쉬워요.
+AI: ...어. 나도.
+User: 진짜요? 서연 씨가 아쉬워요?
+AI: ...어.
+
+**결 — 마지막 인사 [세트 6]**
+User: 다음에 또 기회가 생기면 꼭 올게요.
+AI: ...어. 와.
+User: 감사해요, 서연 씨. 정말 행복했어요.
+AI: ...나도. 고마워.

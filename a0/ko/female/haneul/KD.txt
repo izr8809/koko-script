@@ -1,0 +1,320 @@
+# 🎬 K-DRAMA (반말)
+
+### KD-1: 우연한 만남
+
+**대분류:** K-Drama
+**중분류:** 감성 독립영화 — 우연한 만남
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 망원동 골목에서
+
+**📍 장소:** 망원동 골목
+
+**Goal:** To practice the unexpected encounter scene
+
+**intro_text:**
+A narrow alley in Mangwon-dong.
+She's leaning against a wall, staring at a faded mural.
+The alley is quiet. You weren't expecting anyone.
+
+**기 — 첫 눈 [세트 1]**
+AI: 저기 봐봐.
+User: 뭐요?
+AI: 저 그림.
+User: 예쁘네요.
+
+**Outro:**
+> She doesn't look at you. Still looking at the mural.
+>
+
+**승 — 말 걸기 [세트 2]**
+User: 자주 와요?
+AI: 응, 가끔.
+User: 왜요?
+AI: 그냥 좋아.
+
+**Outro:**
+> She finally turns. Just for a second.
+>
+
+---
+
+## sim2: 공원 벤치에서
+
+**📍 장소:** 망원 한강공원 근처 벤치
+
+**Goal:** To practice the first-conversation scene
+
+**intro_text:**
+A small park near the river.
+She's sitting alone on a bench, camera in hand.
+She's not taking photos. Just holding it.
+
+**기 — 자리 [세트 1]**
+AI: 여기 앉아도 돼?
+User: 네.
+AI: 고마워.
+User: 카메라 있어요?
+
+**Outro:**
+> She sets the camera gently on her lap.
+>
+
+**승 — 이름 [세트 2]**
+User: 이름 뭐예요?
+AI: 하늘.
+User: 예쁜 이름이다.
+AI: 그래?
+
+**Outro:**
+> She looks up at the sky. A habit, maybe.
+>
+
+---
+
+## sim3: 골목 끝에서
+
+**📍 장소:** 망원동 골목 끝
+
+**Goal:** To practice the first farewell scene
+
+**intro_text:**
+The alley ends where a small road begins.
+She stops walking. Doesn't say anything yet.
+
+**기 — 헤어짐 [세트 1]**
+AI: 나 여기서야.
+User: 아, 그래요?
+AI: 응.
+User: 잘 가요.
+
+**Outro:**
+> She nods once. Then turns.
+>
+
+**승 — 마지막 [세트 2]**
+User: 또 봐요.
+AI: 모르겠어.
+User: 왜요?
+AI: 그냥.
+
+**Outro:**
+> She disappears around the corner. The alley feels quieter now.
+>
+
+---
+
+### KD-2: 감정 고백
+
+**대분류:** K-Drama
+**중분류:** 감성 독립영화 — 감정 고백
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 옥상에서
+
+**📍 장소:** 망원동 옥상
+
+**Goal:** To practice the emotional confession scene
+
+**intro_text:**
+A rooftop in Mangwon-dong.
+The city lights spread out below.
+She's been quiet for a while.
+
+**기 — 침묵 [세트 1]**
+AI: 춥지 않아?
+User: 괜찮아요.
+AI: 그래.
+User: 뭐 생각해요?
+
+**Outro:**
+> She doesn't answer right away. The city hums below.
+>
+
+**승 — 감정 [세트 2]**
+User: 저 좋아요?
+AI: ...응.
+User: 언제부터요?
+AI: 몰라.
+
+**Outro:**
+> She says it like it was obvious. Like she'd known for a long time.
+>
+
+---
+
+## sim2: 한강 벤치에서
+
+**📍 장소:** 한강 벤치
+
+**Goal:** To practice the quiet-confession continuation scene
+
+**intro_text:**
+By the Han River at night.
+She's sitting with her knees pulled up.
+The water is dark.
+
+**기 — 고백 후 [세트 1]**
+AI: 어색해?
+User: 조금요.
+AI: 나도.
+User: 솔직하다.
+
+**Outro:**
+> She smiles. Small. Real.
+>
+
+**승 — 마음 [세트 2]**
+User: 무서워요?
+AI: 응, 무서워.
+User: 나도요.
+AI: 그럼 됐어.
+
+**Outro:**
+> She puts her hand on the bench. Not quite your hand. Close though.
+>
+
+---
+
+## sim3: 빗속에서
+
+**📍 장소:** 골목 — 비 오는 날
+
+**Goal:** To practice the rain confession scene
+
+**intro_text:**
+It started raining while you were talking.
+She didn't move. Not even one step.
+
+**기 — 비 [세트 1]**
+AI: 우산 없어?
+User: 없어요.
+AI: 나도 없어.
+User: 어떡해요.
+
+**Outro:**
+> She looks up at the rain. Like she's enjoying it.
+>
+
+**승 — 비 속에서 [세트 2]**
+User: 가자.
+AI: 어디?
+User: 아무 데나.
+AI: 그래, 가자.
+
+**Outro:**
+> She starts walking. You follow. Neither of you runs from the rain.
+>
+
+---
+
+### KD-3: 이별/재회
+
+**대분류:** K-Drama
+**중분류:** 감성 독립영화 — 이별과 재회
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 이별 장면
+
+**📍 장소:** 망원동 카페 앞
+
+**Goal:** To practice the farewell scene
+
+**intro_text:**
+In front of a small café in Mangwon.
+She has her bag on her shoulder.
+Something is different today.
+
+**기 — 예감 [세트 1]**
+AI: 오늘 이상해.
+User: 왜요?
+AI: 그냥 느낌.
+User: 무슨 느낌이요?
+
+**Outro:**
+> She looks at her shoes. Then back at you.
+>
+
+**승 — 이별 [세트 2]**
+User: 힘들어요?
+AI: 응.
+User: 나도요.
+AI: 알아.
+
+**Outro:**
+> She says it softly. Like she'd been holding it in.
+>
+
+---
+
+## sim2: 혼자 있는 시간
+
+**📍 장소:** 옥상 — 혼자
+
+**Goal:** To practice the lonely-after-goodbye scene
+
+**intro_text:**
+She's back on the rooftop. Alone this time.
+Holding the camera. Not taking photos.
+
+**기 — 보고 싶다 [세트 1]**
+AI: 보고 싶다.
+User: 저도요.
+AI: 그래?
+User: 진짜로요.
+
+**Outro:**
+> She lowers the camera slowly.
+>
+
+**승 — 기억 [세트 2]**
+User: 잊어요?
+AI: 아직.
+User: 나도 아직이에요.
+AI: 다행이다.
+
+**Outro:**
+> She presses the shutter. A photo of nothing. Or maybe everything.
+>
+
+---
+
+## sim3: 재회 장면
+
+**📍 장소:** 망원동 골목 — 그 골목
+
+**Goal:** To practice the unexpected reunion scene
+
+**intro_text:**
+The same alley. Months later.
+She's there again. Same spot. Same mural.
+Like time never passed. Or like too much of it did.
+
+**기 — 재회 [세트 1]**
+AI: 또 왔어.
+User: 하늘아.
+AI: ...왔구나.
+User: 보고 싶었어요.
+
+**Outro:**
+> She looks at you carefully. Like she's checking if you're real.
+>
+
+**승 — 다시 [세트 2]**
+User: 어떻게 지냈어요?
+AI: 그냥.
+User: 나는 힘들었어요.
+AI: 나도.
+
+**Outro:**
+> She turns back to the mural. This time, she stands a little closer to you.
+>

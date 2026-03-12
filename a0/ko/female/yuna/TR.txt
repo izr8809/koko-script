@@ -1,0 +1,278 @@
+# 🗺️ TRAVEL & LIFESTYLE (존댓말→반말)
+
+### TR-1: 신촌 야시장
+
+**대분류:** Travel & Lifestyle
+**중분류:** 신촌 — 야시장
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 야시장 도착
+
+**📍 장소:** 신촌 야시장
+
+**Goal:** To arrive at the night market in Sinchon with Yuna
+
+**intro_text:**
+It's Friday night in Sinchon.
+Yuna is already pulling you toward the food stalls.
+
+**기 — 도착 [세트 1]**
+AI: 여기 왔어요!
+User: 사람 많네요.
+AI: 맞아요, 신나요.
+User: 뭐 먹어요?
+
+> She's already pointing at three different stalls at once.
+
+**승 — 구경 [세트 2]**
+User: 이거 뭐예요?
+AI: 떡볶이예요.
+User: 맛있겠다.
+AI: 같이 먹어요.
+
+> The spicy smell drifts through the crowd.
+
+---
+
+## sim2: 야시장 쇼핑
+
+**📍 장소:** 신촌 야시장 — 소품 가판대
+
+**Goal:** To browse and shop at the market stalls
+
+**intro_text:**
+Yuna spots a cute accessories stall.
+She grabs your sleeve and runs over.
+
+**기 — 쇼핑 [세트 1]**
+AI: 이거 예쁘죠?
+User: 네, 귀엽네요.
+AI: 살까요?
+User: 좋아요.
+
+> She holds up three different items at once.
+
+**승 — 계산 [세트 2]**
+User: 얼마예요?
+AI: 오천 원이에요.
+User: 깎아 주세요.
+AI: 네, 사천 원요.
+
+> The vendor smiles and wraps it carefully.
+
+---
+
+## sim3: 야시장 마무리
+
+**📍 장소:** 신촌 야시장 — 출구
+
+**Goal:** To wrap up the night market visit using casual speech
+
+**intro_text:**
+The stalls are closing one by one.
+Yuna switches to casual speech without warning.
+
+**기 — 정리 [세트 1]**
+AI: 재밌었어.
+User: 나도 좋았어.
+AI: 또 와.
+User: 그래, 또 오자.
+
+> She ties her shopping bag and grins.
+
+**승 — 귀가 [세트 2]**
+User: 집 멀어?
+AI: 아니, 가까워.
+User: 잘 들어가.
+AI: 응, 너도.
+
+> She waves and disappears into the crowd.
+
+---
+
+### TR-2: 신촌 포장마차
+
+**대분류:** Travel & Lifestyle
+**중분류:** 신촌 — 포장마차
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 포장마차 도착
+
+**📍 장소:** 신촌 포장마차
+
+**Goal:** To arrive at a pojangmacha in Sinchon with Yuna
+
+**intro_text:**
+A red tent glows in the night.
+Yuna stops and turns to you excitedly.
+
+**기 — 도착 [세트 1]**
+AI: 여기 어때요?
+User: 좋아요, 들어가요.
+AI: 자리 있어요.
+User: 앉아요.
+
+> Steam rises from the pots inside.
+
+**승 — 메뉴 [세트 2]**
+User: 뭐 있어요?
+AI: 순대 있어요.
+User: 두 개요.
+AI: 네, 잠깐만요.
+
+> She peers at the menu board with wide eyes.
+
+---
+
+## sim2: 포장마차 주문
+
+**📍 장소:** 신촌 포장마차 — 테이블
+
+**Goal:** To order food and drinks at the pojangmacha
+
+**intro_text:**
+The food arrives quickly.
+Yuna pours the drinks with great care.
+
+**기 — 주문 [세트 1]**
+AI: 뭐 마셔요?
+User: 따뜻한 거요.
+AI: 오뎅탕 어때요?
+User: 좋아요.
+
+> The broth smells rich and comforting.
+
+**승 — 식사 [세트 2]**
+User: 맛있어요?
+AI: 네, 진짜요.
+User: 저도 맛있어요.
+AI: 다행이에요.
+
+> She smiles with her cheeks full.
+
+---
+
+## sim3: 포장마차 마무리
+
+**📍 장소:** 신촌 포장마차 — 계산대
+
+**Goal:** To finish the meal and leave the pojangmacha using casual speech
+
+**intro_text:**
+The meal is almost over.
+Yuna leans back and sighs happily.
+
+**기 — 계산 [세트 1]**
+AI: 내가 낼게.
+User: 아니야, 같이 내.
+AI: 그래, 반반.
+User: 얼마야?
+
+> She pulls out her phone to calculate.
+
+**승 — 나가기 [세트 2]**
+User: 또 오자.
+AI: 응, 꼭.
+User: 배불러.
+AI: 나도 배불러.
+
+> She pats her stomach and laughs quietly.
+
+---
+
+### TR-3: 신촌 카페
+
+**대분류:** Travel & Lifestyle
+**중분류:** 신촌 — 카페
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 카페 입장
+
+**📍 장소:** 신촌 카페
+
+**Goal:** To enter a café in Sinchon with Yuna
+
+**intro_text:**
+It's a rainy afternoon in Sinchon.
+Yuna finds a cozy café tucked between buildings.
+
+**기 — 입장 [세트 1]**
+AI: 여기 좋아요.
+User: 아늑하네요.
+AI: 자주 와요.
+User: 진짜요?
+
+> Soft music plays from a corner speaker.
+
+**승 — 자리 [세트 2]**
+User: 어디 앉아요?
+AI: 창가 어때요?
+User: 좋아요.
+AI: 가요, 빨리요.
+
+> She rushes to the window seat.
+
+---
+
+## sim2: 카페 주문
+
+**📍 장소:** 신촌 카페 — 주문대
+
+**Goal:** To order drinks at the café
+
+**intro_text:**
+Yuna studies the menu board carefully.
+She seems to have a plan already.
+
+**기 — 주문 [세트 1]**
+AI: 뭐 마셔요?
+User: 아이스 아메리카노요.
+AI: 저는 라떼요.
+User: 좋아요.
+
+> She approaches the counter with confidence.
+
+**승 — 계산 [세트 2]**
+User: 제가 낼게요.
+AI: 아니에요, 제가요.
+User: 다음에 사줘요.
+AI: 네, 알겠어요.
+
+> The barista smiles at their argument.
+
+---
+
+## sim3: 카페 대화
+
+**📍 장소:** 신촌 카페 — 창가 자리
+
+**Goal:** To have a casual chat at the café using informal speech
+
+**intro_text:**
+The drinks arrive.
+Yuna wraps both hands around her cup and grins.
+
+**기 — 대화 [세트 1]**
+AI: 따뜻하다.
+User: 맛있어?
+AI: 응, 최고야.
+User: 나도 좋아.
+
+> Rain taps softly against the window.
+
+**승 — 마무리 [세트 2]**
+User: 또 오자.
+AI: 응, 자주 와.
+User: 좋아.
+AI: 나도 좋아.
+
+> She holds her empty cup and smiles at the rain.

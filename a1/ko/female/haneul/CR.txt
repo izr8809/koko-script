@@ -1,0 +1,320 @@
+# 👔 CAREER (반말)
+
+---
+
+### CR-4: 작업 의뢰
+
+**대분류:** Career
+**중분류:** 프리랜서 — 클라이언트 미팅
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 미팅 준비
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To prepare for a client meeting at the shared studio
+
+**intro_text:**
+A new client is coming to discuss a photography project.
+Haneul is rearranging her desk without any clear reason.
+
+**기 — 대기 [세트 1]**
+AI: 오늘 클라이언트 오는 거 알고 있지?
+User: 네, 알아요. 몇 시에 오는 거예요?
+AI: 두 시에 와. 포트폴리오 챙겨 둬.
+User: 알겠어요. 미리 정리해 놓을게요.
+
+**Outro:**
+> She's already rearranged her desk twice this morning.
+>
+
+**승 — 준비 [세트 2]**
+AI: 이 사진 좀 더 앞으로 빼.
+User: 여기 이렇게 놓으면 될까요?
+AI: 응, 빛 잘 받아야 하니까.
+User: 맞아요. 여기가 훨씬 낫겠어요.
+
+**Outro:**
+> She tilts her head and studies the light for a moment.
+>
+
+---
+
+## sim2: 클라이언트 소개
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To understand what the client wants
+
+**intro_text:**
+The client arrives right on time.
+Haneul pours coffee before asking anything.
+
+**전 — 소개 [세트 1]**
+AI: 어떤 작업 원하는지 물어봤어?
+User: 브랜드 사진이래요. 따뜻한 느낌으로요.
+AI: 따뜻한 거, 알겠어.
+User: 자연스러운 분위기가 좋다고 했어요.
+
+**Outro:**
+> She nods slowly. Already imagining the shots.
+>
+
+**결 — 방향 [세트 2]**
+AI: 어디서 찍을지 생각해봤어?
+User: 여기 작업실에서 하면 어때요?
+AI: 좋겠다, 빛 잘 들어오니까.
+User: 오전이 제일 예쁠 것 같아요.
+
+**Outro:**
+> She walks to the window and squints at the morning light.
+>
+
+---
+
+## sim3: 작업 조건 확인
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To confirm the project conditions and schedule
+
+**intro_text:**
+The coffee is getting cold.
+Haneul is scribbling something in a small notebook.
+
+**기 — 일정 [세트 1]**
+AI: 언제까지 필요한지 물어봤어?
+User: 다음 주 금요일까지 줄 수 있어요?
+AI: 충분해. 할 수 있어.
+User: 정말 다행이에요. 감사해요.
+
+**Outro:**
+> She circles a date on her notebook page.
+>
+
+**승 — 계약 [세트 2]**
+AI: 수정은 두 번까지 가능하다고 해.
+User: 네, 충분해요. 계약서는 어떻게 해요?
+AI: 메일로 보낼게. 확인해 줘.
+User: 알겠어요. 기대하고 있을게요.
+
+**Outro:**
+> She closes her notebook and smiles at nothing in particular.
+>
+
+---
+
+---
+
+### CR-5: 작업 진행
+
+**대분류:** Career
+**중분류:** 프리랜서 — 피드백 및 수정
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 초안 공유
+
+**📍 장소:** 카카오톡 (메시지)
+
+**Goal:** To share the first draft photos with the client
+
+**intro_text:**
+A week has passed. She edited 200 photos down to 20.
+Sends the link before breakfast.
+
+**기 — 발송 [세트 1]**
+AI: 초안 사진 방금 보냈는데 확인해봐.
+User: 지금 열어보고 있어요. 예쁘다!
+AI: 마음에 드는 거 있으면 말해줘.
+User: 세 번째 사진이 제일 좋은 것 같아요.
+
+**Outro:**
+> She already knew which ones were the strongest.
+>
+
+**승 — 반응 [세트 2]**
+AI: 전체적인 분위기는 어때?
+User: 딱 원하던 느낌이에요. 마음에 들어요.
+AI: 잘됐다. 수정할 거 있으면 말해.
+User: 한 장만 좀 밝게 해주실 수 있을까요?
+
+**Outro:**
+> She opens the file immediately. One adjustment. Done.
+>
+
+---
+
+## sim2: 피드백 받기
+
+**📍 장소:** 카카오톡 (메시지)
+
+**Goal:** To receive and understand the client's feedback
+
+**intro_text:**
+The client sends a long message with detailed notes.
+Haneul reads it standing up, still holding her coffee.
+
+**전 — 내용 [세트 1]**
+AI: 피드백 왔는데 같이 한번 봐.
+User: 어떤 내용이에요?
+AI: 배경이 너무 복잡하다고 하네.
+User: 아, 그 사진 알겠어요.
+
+**Outro:**
+> She pulls up the photo and stares at it for a long time.
+>
+
+**결 — 수정 방향 [세트 2]**
+AI: 다시 찍을지 편집으로 할지 봐야겠어.
+User: 편집으로 해결이 될까요?
+AI: 가능해, 배경만 정리하면 되니까.
+User: 그럼 번거롭겠지만 부탁드릴게요.
+
+**Outro:**
+> She taps the screen twice and gets to work.
+>
+
+---
+
+## sim3: 수정 완료
+
+**📍 장소:** 카카오톡 (메시지)
+
+**Goal:** To confirm the revised photos are acceptable
+
+**intro_text:**
+She sends the revised version the next morning.
+Earlier than expected, as usual.
+
+**기 — 전달 [세트 1]**
+AI: 수정한 사진 다시 보냈어. 확인해봐.
+User: 지금 확인해볼게요. 잠깐만요.
+AI: 배경 정리하고 밝기도 조금 손봤어.
+User: 훨씬 깔끔해졌어요. 정말 감사해요.
+
+**Outro:**
+> She types "다행" and sets the phone face down.
+>
+
+**승 — 최종 확인 [세트 2]**
+AI: 이제 괜찮아?
+User: 네, 완전히 좋아요. 마음에 들어요.
+AI: 잘됐다. 다음 단계로 넘어가자.
+User: 네, 납품은 언제쯤 가능해요?
+
+**Outro:**
+> She checks her calendar. Already planned ahead.
+>
+
+---
+
+---
+
+### CR-6: 납품 완료
+
+**대분류:** Career
+**중분류:** 프리랜서 — 납품 및 정산
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 최종 파일 정리
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To prepare the final deliverables for the client
+
+**intro_text:**
+The last edits are done. She's organizing folders.
+The naming system makes sense only to her.
+
+**기 — 정리 [세트 1]**
+AI: 최종 파일 정리 중인데 거의 다 됐어.
+User: 파일 형식은 어떻게 드릴 거예요?
+AI: JPEG랑 PNG 둘 다 줄게.
+User: 완벽해요. 정말 감사해요.
+
+**Outro:**
+> She double-checks the folder name and nods once.
+>
+
+**승 — 수량 확인 [세트 2]**
+AI: 총 스물다섯 장인데 괜찮아?
+User: 충분해요. 기대보다 훨씬 많네요.
+AI: 잘 나온 게 많아서 다 드리는 거야.
+User: 정말 감사해요. 최고예요.
+
+**Outro:**
+> She almost says something but just shrugs instead.
+>
+
+---
+
+## sim2: 납품
+
+**📍 장소:** 이메일 / 구글 드라이브
+
+**Goal:** To send the final files to the client
+
+**intro_text:**
+She shares the Google Drive link.
+Writes a short note, deletes half of it, sends it anyway.
+
+**전 — 전송 [세트 1]**
+AI: 드라이브 링크 이메일로 방금 보냈어.
+User: 받았어요. 지금 바로 확인해볼게요.
+AI: 폴더 구조대로 열어보면 돼.
+User: 깔끔하게 정리돼 있네요. 감사해요.
+
+**Outro:**
+> She refreshes her email twice to make sure it was received.
+>
+
+**결 — 완료 확인 [세트 2]**
+AI: 파일 다 잘 열려?
+User: 네, 다 잘 돼요. 문제없어요.
+AI: 다행이다. 필요한 거 있으면 말해.
+User: 네, 정말 수고하셨어요.
+
+**Outro:**
+> She closes the laptop and looks out the window again.
+>
+
+---
+
+## sim3: 마무리 및 정산
+
+**📍 장소:** 망원동 공유 작업실
+
+**Goal:** To complete the project and finalize payment
+
+**intro_text:**
+The invoice was sent yesterday.
+She checks her bank account while making coffee.
+
+**기 — 정산 [세트 1]**
+AI: 세금계산서 발행했는데 확인해봐.
+User: 네, 받았어요. 바로 처리할게요.
+AI: 고마워. 이번 작업 재밌었어.
+User: 저도요. 또 부탁드려도 될까요?
+
+**Outro:**
+> She smiles at the cup warming her hands.
+>
+
+**승 — 마무리 [세트 2]**
+AI: 물론이지. 언제든지 연락해.
+User: 다음 프로젝트도 꼭 같이 해요.
+AI: 기대된다. 연락 줘.
+User: 감사합니다. 정말 좋은 작업이었어요.
+
+**Outro:**
+> She opens a new page. Writes: "다음엔 뭘 찍지?"
+>

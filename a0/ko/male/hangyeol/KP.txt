@@ -126,9 +126,9 @@ He's somewhere behind that curtain.
 
 ### 기 — 공연 전 [세트 1]
 
-AI: 안녕하세요! 자리 찾았어요?
-User: 네! / 네, 찾았어요!
-AI: 잘됐다! 같이 즐겨요!
+AI: 안녕하세요! 한결 팬이에요? 저도요!
+User: 네! / 진짜요?!
+AI: 같이 소리 질러요! 잘됐다!
 User: 네, 같이요!
 
 **Outro:**
@@ -138,10 +138,10 @@ User: 네, 같이요!
 
 ### 승 — 기다림 [세트 2]
 
-AI: 많이 기다렸어요?
-User: 네, 많이요! / 진짜 기다렸어요!
-AI: 저도요! 빨리 보고 싶어요!
-User: 저도요!
+AI: 한결 나오면 같이 소리 질러요!
+User: 네! / 진짜 기다렸어요!
+AI: 저도요! 한결 최고예요!
+User: 최고예요!
 
 **Outro:**
 > The lights just cut out. 🌑
@@ -164,8 +164,8 @@ AI: 이쪽 봤어요!
 User: 진짜요?! / 설레요!
 
 **Outro:**
-> He pointed at this section. Your section. 🫵
-> The whole arena lost it. You lost it more.
+> He pointed at this section. YOUR section. And smiled. 🫵
+> The whole arena lost it. You lost it more. He waved back.
 >
 
 ### 전 — 앵콜 [세트 4]
@@ -176,8 +176,8 @@ AI: 나왔어요! 최고예요!
 User: 최고예요! / 와, 대박!
 
 **Outro:**
-> Encore delivered. He came back smiling. 🎤
-> The show is over. Your voice is gone. Worth it.
+> Encore delivered. He ran back on stage like he'd been waiting to. 🎤
+> The show is over. Your voice is gone. His energy? Still at 200%.
 >
 
 ---
@@ -192,8 +192,8 @@ User: 최고예요! / 와, 대박!
 
 User: 진짜 좋았어요!
 AI: 맞아요! 최고였어요!
-User: 한결이 봤어요!
-AI: 나도요! 진짜요?!
+User: 한결이 손 흔들었어요!
+AI: 나도 봤어요! 웃고 있었어요!
 
 **Outro:**
 > Post-concert high. Everything is glowing. 🌟
@@ -208,8 +208,8 @@ AI: 다음에 또 와요!
 User: 네, 꼭이요!
 
 **Outro:**
-> Concert buddy confirmed. 🎫
-> Next up: He went live — and he's reading every comment.
+> Concert buddy for life. 🎫
+> Next up: He went live — and he's reading every single comment out loud.
 >
 
 ---

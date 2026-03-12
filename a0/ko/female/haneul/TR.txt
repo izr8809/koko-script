@@ -1,0 +1,316 @@
+# 🗺️ TRAVEL & LIFESTYLE (반말)
+
+### TR-1: 망원동 빵집
+
+**대분류:** Travel & Lifestyle
+**중분류:** 망원동 — 빵집
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 빵집 앞
+
+**📍 장소:** 망원동 빵집 앞
+
+**Goal:** To discover a bakery in Mangwon with Haneul
+
+**intro_text:**
+You're walking through a quiet alley in Mangwon.
+Haneul suddenly stops in front of a small bakery.
+
+**기 — 발견 [세트 1]**
+AI: 여기 빵 맛있어.
+User: 그래요?
+AI: 응, 들어가.
+User: 알겠어요.
+
+**Outro:**
+> She walks in without waiting for your response.
+>
+
+**승 — 구경 [세트 2]**
+AI: 맛있어 보여.
+User: 진짜요.
+AI: 뭐 먹을 거야?
+User: 모르겠어요.
+
+**Outro:**
+> She keeps staring at the display case.
+>
+
+---
+
+## sim2: 주문 카운터
+
+**📍 장소:** 빵집 카운터
+
+**Goal:** To order at the counter
+
+**intro_text:**
+You both approach the counter.
+
+**전 — 주문 [세트 3]**
+User: 뭐 살 거야?
+AI: 크로플.
+User: 나도 같은 거.
+AI: 크로플 두 개요.
+
+**Outro:**
+> She orders for both of you without a second thought.
+>
+
+**결 — 계산 [세트 4]**
+User: 내가 살게요.
+AI: 괜찮아?
+User: 응, 돼요.
+AI: 고마워.
+
+**Outro:**
+> She accepts with a quiet nod.
+>
+
+---
+
+## sim3: 빵집 앞 의자
+
+**📍 장소:** 빵집 앞 야외 좌석
+
+**Goal:** To enjoy the bread outside with Haneul
+
+**intro_text:**
+You step outside with your food.
+There's a small wooden bench by the door.
+
+**기 — 앉기 [세트 5]**
+AI: 여기 앉자.
+User: 어디요?
+AI: 저기 의자.
+User: 아, 좋아요.
+
+**Outro:**
+> She sits down and unwraps her bread slowly.
+>
+
+**승 — 맛 [세트 6]**
+User: 맛있어요.
+AI: 그렇지.
+User: 또 오고 싶어요.
+AI: 또 와.
+
+**Outro:**
+> She takes another bite without looking at you.
+>
+
+---
+
+---
+
+### TR-2: 망원동 공원
+
+**대분류:** Travel & Lifestyle
+**중분류:** 망원동 — 공원
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 공원 입구
+
+**📍 장소:** 망원 한강공원 입구
+
+**Goal:** To go to the park with Haneul
+
+**intro_text:**
+You're standing on the street in Mangwon.
+Haneul glances at the sky and decides.
+
+**기 — 제안 [세트 1]**
+AI: 공원 가자.
+User: 지금요?
+AI: 응, 빨리.
+User: 좋아요.
+
+**Outro:**
+> She's already walking before you agree.
+>
+
+**승 — 도착 [세트 2]**
+AI: 사람 많다.
+User: 그러네요.
+AI: 저쪽 가자.
+User: 네, 가요.
+
+**Outro:**
+> She weaves through the crowd without looking back.
+>
+
+---
+
+## sim2: 잔디밭
+
+**📍 장소:** 공원 잔디밭
+
+**Goal:** To sit and take photos at the park
+
+**intro_text:**
+Haneul finds a quiet spot on the grass.
+
+**전 — 사진 [세트 3]**
+User: 앉을까요?
+AI: 잠깐만.
+User: 왜요?
+AI: 사진 찍어.
+
+**Outro:**
+> She takes out her phone and aims it at the sky.
+>
+
+**결 — 감상 [세트 4]**
+AI: 잘 나왔어.
+User: 보여줘요.
+AI: 이것 봐.
+User: 예뻐요.
+
+**Outro:**
+> She smiles at the photo. Just a little.
+>
+
+---
+
+## sim3: 산책로
+
+**📍 장소:** 공원 산책로
+
+**Goal:** To take a walk with Haneul
+
+**intro_text:**
+You both get up and start walking along the path.
+
+**기 — 산책 [세트 5]**
+AI: 걷자.
+User: 어디요?
+AI: 저기.
+User: 알겠어요.
+
+**Outro:**
+> She points nowhere specific. Just walks.
+>
+
+**승 — 이야기 [세트 6]**
+User: 자주 와요?
+AI: 생각 날 때.
+User: 무슨 생각이요?
+AI: 그냥 다.
+
+**Outro:**
+> She says it like it's obvious. You don't ask again.
+>
+
+---
+
+---
+
+### TR-3: 망원동 벼룩시장
+
+**대분류:** Travel & Lifestyle
+**중분류:** 망원동 — 벼룩시장
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 시장 입구
+
+**📍 장소:** 망원동 벼룩시장 입구
+
+**Goal:** To explore the flea market with Haneul
+
+**intro_text:**
+You're walking through Mangwon on a weekend morning.
+There's a flea market set up along the street.
+Haneul knew about this already.
+
+**기 — 발견 [세트 1]**
+AI: 오늘 장 서.
+User: 벼룩시장이요?
+AI: 응, 같이 가.
+User: 좋아요.
+
+**Outro:**
+> She's already scanning the stalls before you answer.
+>
+
+**승 — 탐색 [세트 2]**
+AI: 오래된 거 많아.
+User: 신기해요.
+AI: 구경해.
+User: 어디 먼저요?
+
+**Outro:**
+> She walks into the crowd without answering.
+>
+
+---
+
+## sim2: 물건 구경
+
+**📍 장소:** 벼룩시장 물건 구경
+
+**Goal:** To look at items at the flea market
+
+**intro_text:**
+You follow Haneul through the stalls.
+She stops at a table full of old things.
+
+**전 — 물건 [세트 3]**
+User: 이거 뭐예요?
+AI: 필름 카메라야.
+User: 오래됐어요.
+AI: 그게 좋아.
+
+**Outro:**
+> She picks it up carefully and checks the lens.
+>
+
+**결 — 선택 [세트 4]**
+AI: 이거 어때?
+User: 예뻐요.
+AI: 사.
+User: 얼마예요?
+
+**Outro:**
+> She shrugs and looks at the seller.
+>
+
+---
+
+## sim3: 구매
+
+**📍 장소:** 벼룩시장 구매 코너
+
+**Goal:** To buy something at the flea market
+
+**intro_text:**
+You decide to buy something.
+Haneul turns to the seller.
+
+**기 — 가격 [세트 5]**
+AI: 이거 얼마예요?
+User: 살 거야?
+AI: 응, 좋아.
+User: 저도요.
+
+**Outro:**
+> She nods at the price and pays.
+>
+
+**승 — 완료 [세트 6]**
+AI: 두 개요.
+User: 뭐 샀어요?
+AI: 엽서야.
+User: 예뻐요.
+
+**Outro:**
+> She holds it up to the light, checking it.
+>

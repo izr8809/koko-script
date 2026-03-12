@@ -11,35 +11,35 @@
 
 ### sim1: First Encounter
 
-**Goal:** To greet Siyun at the fan sign, get his autograph, and say your name without blanking out.
+**Goal:** To greet Siyun at the fan sign, get his autograph, and say your name.
 
 **📍 장소:** 팬미팅 사인회 (테이블)
 
 **intro_text:**
 He's already holding his pen.
-No smile. No eye contact.
-Your turn. Don't waste it.
+He looks at the long line behind you.
+"빨리 와." Your turn.
 
 **기 — 첫 만남 [세트 1]**
 User: 안녕하세요!
-AI: …어.
+AI: 어. 안녕. 밥 먹었어?
 User: 반가워요!
-AI: 그래.
+AI: 줄 길었지? 힘들었어?
 
 **Outro:**
-> Two words. From Siyun, that's basically a speech. 🧊
-> Now ask for what you actually came here for.
+> First thing he asked a fan: "Have you eaten?" 🧊
+> Second thing: "Was the line hard?" He's already worrying.
 >
 
 **승 — 사인 [세트 2]**
 User: 사인 해주세요!
-AI: 이름.
+AI: 이름 뭐야?
 User: ___이에요!
-AI: …됐어.
+AI: 알았어. 잠깐만.
 
 **Outro:**
-> He wrote your name. He didn't have to do it carefully.
-> He did anyway. ✍️
+> He took his time writing your name.
+> Carefully. ✍️
 >
 
 ---
@@ -51,25 +51,25 @@ AI: …됐어.
 **📍 장소:** 팬미팅 현장 (동일)
 
 **승 — 기억 [세트 3]**
-AI: 자주 와?
+AI: 또 왔어? 멀리서 왔지?
 User: 네! / 항상 와요!
-AI: …알아.
+AI: 무리하지 마. 건강이 먼저야.
 User: 기억해요?
 
 **Outro:**
-> He noticed before you even asked. 👀
-> He's waiting to see what you'll say next.
+> He told you not to overdo it. He remembers you. 👀
+> He just won't say it directly.
 >
 
 **전 — 대화 [세트 4]**
 AI: 좋아해?
 User: 네, 좋아해요!
-AI: …그래.
+AI: 고마워. 밥 잘 먹어.
 User: 앞으로도 올게요!
 
 **Outro:**
-> "…그래." = Siyun for "I'll be here." 🥹
-> Time to hand over the gift you've been hiding.
+> "고마워. 밥 잘 먹어." = Thank you. Eat well. 🥹
+> That's Siyun for "I care about you."
 >
 
 ---
@@ -82,24 +82,23 @@ User: 앞으로도 올게요!
 
 **전 — 선물 [세트 5]**
 User: 이거요.
-AI: 뭐야.
+AI: 뭐야? 선물이야?
 User: 편지예요!
-AI: …받을게.
+AI: 고마워. 잘 읽을게.
 
 **Outro:**
-> He took it without saying thank you.
-> But he held it tight. 💌
+> He took it with both hands. 💌
+> "잘 읽을게." He means it.
 >
 
 **결 — 작별 [세트 6]**
-AI: 조심히 가.
+AI: 조심히 가. 뛰지 마.
 User: 네, 감사해요!
-AI: …또 봐.
+AI: 다음에도 와. 밥 먹고 와.
 User: 꼭이요!
 
 **Outro:**
-> "또 봐." He said it first.
-> That's basically a promise. ✨
+> "Come again. Eat first." His goodbye is always a command. ✨
 > Next up: See him on stage — if your heart can take it.
 >
 
@@ -127,15 +126,15 @@ Say something before the lights go down.
 
 ### 기 — 공연 전 [세트 1]
 
-AI: 안녕하세요! 혼자예요?
-User: 네! / 네, 혼자요!
+AI: 안녕하세요! 시윤 팬이에요?
+User: 네! / 네, 좋아해요!
 
-AI: 자리 좋아요!
-User: 감사해요!
+AI: 저도요! 걱정 많이 해줘요!
+User: 맞아요!
 
 **Outro:**
 > New fan friend found! 🎪
-> Share what you're really feeling inside.
+> You both fell for the same nagging face.
 >
 
 ### 승 — 기다림 [세트 2]
@@ -143,12 +142,12 @@ User: 감사해요!
 AI: 떨려요?
 User: 네, 많이요! / 진짜 떨려요!
 
-AI: 저도요!
+AI: 시윤이 팬한테 밥 먹었냐고 물어봐요!
 User: 빨리 보고 싶어요!
 
 **Outro:**
 > The lights just went dark. 🌑
-> He's walking out right now.
+> He's walking out. Already scanning the crowd.
 >
 
 ---
@@ -168,8 +167,8 @@ AI: 이쪽 봤어요!
 User: 진짜요?! / 설레요!
 
 **Outro:**
-> He looked your way. Only yours. 👀
-> The whole arena screamed. He kept his face straight.
+> He looked your way. Then pointed. Like he was checking on you. 👀
+> That's Siyun for "I found you."
 >
 
 ### 전 — 앵콜 [세트 4]
@@ -181,8 +180,8 @@ AI: 진짜 나왔어요!
 User: 최고예요! / 와, 대박!
 
 **Outro:**
-> Encore delivered. 🎤
-> The show is over. Your heart is still racing.
+> Encore. He came back and said "다들 조심히 가." 🎤
+> Even on stage, he nags. The crowd loved it.
 >
 
 ---
@@ -196,14 +195,14 @@ User: 최고예요! / 와, 대박!
 ### 전 — 끝 [세트 5]
 
 User: 진짜 좋았어요!
-AI: 맞아요! 최고였어요!
+AI: 맞아요! 시윤 진짜 멋있었어요!
 
 User: 시윤이 봤어요!
-AI: 나도 봤어요! / 진짜요?!
+AI: 나도 봤어요! 걱정해주는 거 최고예요!
 
 **Outro:**
 > Post-concert high. 🌟
-> Lock in your next concert partner.
+> "걱정해주는 거 최고예요!" Every Siyun fan knows that feeling.
 >
 
 ### 결 — 인사 [세트 6]
@@ -216,7 +215,7 @@ User: 네, 꼭이요!
 
 **Outro:**
 > Concert buddy confirmed. 🎫
-> Next up: He actually replied to your message.
+> Next up: He actually went live. And he's nagging the chat.
 >
 
 ---
@@ -238,33 +237,33 @@ User: 네, 꼭이요!
 
 **intro_text:**
 Notification: Siyun is live.
-The chat is moving fast. He's barely talking.
-Type now — he's actually reading.
+The chat is moving fast. He's already scolding someone for staying up late.
+Type now — he's reading.
 
 ### 기 — 라이브 방송 [세트 1]
 
-AI: …왔어?
+AI: 왔어? 늦었어.
 User: 네! / 왔어요!
 
-AI: 그래.
+AI: 그래. 밥 먹었어?
 User: 수고했어요!
 
 **Outro:**
 > He found your message in a flood of comments. 💬
-> He's still here. Keep going.
+> First thing he said: you're late. Second: have you eaten.
 >
 
 ### 승 — 대화 [세트 2]
 
-AI: 뭐 했어?
+AI: 오늘 뭐 했어?
 User: 기다렸어요! / 라이브 기다렸어요!
 
-AI: …그래.
+AI: 기다리지 마. 할 거 해.
 User: 사랑해요!
 
 **Outro:**
-> Love sent. He received it in silence. 💖
-> Now check your messages — he left you something.
+> "Don't wait around. Do your stuff." 💖
+> He nags because he cares. The chat exploded.
 >
 
 ---
@@ -277,15 +276,15 @@ User: 사랑해요!
 
 ### 승 — 답장 [세트 3]
 
-AI: …봤어.
+AI: 메시지 봤어.
 User: 진짜요?! / 읽었어요?
 
-AI: 그래.
+AI: 응. 고마워.
 User: 감사해요!
 
 **Outro:**
-> "봤어." Two syllables. Maximum Siyun. 🧊
-> He's still typing. Sort of.
+> "봤어. 고마워." He read it. He said thanks. 🧊
+> For Siyun, that's a love letter.
 >
 
 ### 전 — 질문 [세트 4]
@@ -293,12 +292,12 @@ User: 감사해요!
 AI: 뭐가 좋았어?
 User: 다 좋아요! / 다 좋았어요!
 
-AI: …그래.
+AI: 그래? 고마워. 무리하지 마.
 User: 항상 응원할게요!
 
 **Outro:**
-> "…그래." = Siyun for "thank you." 🌟
-> Send one last message before he disappears.
+> "고마워. 무리하지 마." Thank you. Don't overdo it. 🌟
+> He can't just say thanks. He has to add a warning.
 >
 
 ---
@@ -312,25 +311,26 @@ User: 항상 응원할게요!
 ### 전 — 메시지 [세트 5]
 
 User: 오늘 영상 봤어요!
-AI: …어.
+AI: 그래? 늦게까지 보지 마.
 
 User: 진짜 좋았어요!
-AI: …알아.
+AI: 고마워. 일찍 자.
 
 **Outro:**
-> Message absorbed. He said "어." That's Siyun for "tell me more." 📩
-> One final exchange before the night ends.
+> "Don't stay up late. Sleep early." 📩
+> His fan service is 100% nagging. We love it.
 >
 
 ### 결 — 잘 자 [세트 6]
 
-AI: 자.
+AI: 이제 자. 늦었어.
 User: 잘 자요!
 
-AI: …어.
+AI: 응. 내일 밥 먹어.
 User: 좋은 꿈 꿔요!
 
 **Outro:**
-> Goodnight exchanged. 🌙
+> "자. 늦었어." Go to sleep. It's late. 🌙
+> His goodnight comes with tomorrow's breakfast reminder.
 > Next up: Time to put on your professional face.
 >

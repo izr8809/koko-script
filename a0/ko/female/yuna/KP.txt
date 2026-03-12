@@ -1,0 +1,278 @@
+# 🎤 K-POP (존댓말→반말)
+
+### KP-1: 팬미팅
+
+**대분류:** K-Pop
+**중분류:** 팬미팅 — 사인회
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 사인회
+
+**📍 장소:** 팬미팅 사인회장
+
+**Goal:** To meet Yuna at a fan signing event
+
+**intro_text:**
+You've been waiting in line for hours.
+Yuna spots you and waves before you even reach the table.
+
+**기 — 첫 만남 [세트 1]**
+AI: 안녕하세요! 오셨어요?
+User: 네, 왔어요.
+AI: 잘 오셨어요!
+User: 감사해요.
+
+**Outro:**
+> She picks up her pen and opens your album to the first page.
+>
+
+**승 — 사인 [세트 2]**
+User: 사인해 주세요.
+AI: 네, 여기요!
+User: 고마워요.
+AI: 천만에요!
+
+---
+
+## sim2: 포토타임
+
+**📍 장소:** 팬미팅 포토존
+
+**Goal:** To take a photo with Yuna at the fan meeting
+
+**intro_text:**
+The signing is over.
+Yuna hops up from her seat and calls you over for photos.
+
+**기 — 준비 [세트 1]**
+AI: 사진 찍어요!
+User: 네, 찍어요.
+AI: 가까이 와요!
+User: 알겠어요.
+
+**Outro:**
+> She wraps her arm around you and grins at the camera.
+>
+
+**승 — 확인 [세트 2]**
+User: 잘 나왔어요?
+AI: 예쁘게 나왔어요!
+User: 같이 봐요.
+AI: 봐요!
+
+---
+
+## sim3: 사인회 후
+
+**📍 장소:** 팬미팅 대기실 복도
+
+**Goal:** To have a casual chat with Yuna after the event (반말)
+
+**intro_text:**
+The event is wrapping up.
+Yuna catches your eye and suddenly switches to casual speech.
+
+**기 — 반말 전환 [세트 1]**
+AI: 잠깐, 반말 해도 돼?
+User: 응, 해.
+AI: 고마워!
+User: 괜찮아.
+
+**Outro:**
+> She leans over and whispers something just for you.
+>
+
+**승 — 편한 대화 [세트 2]**
+User: 또 와?
+AI: 응, 또 와!
+User: 기다릴게.
+AI: 알았어!
+
+---
+
+### KP-2: 콘서트
+
+**대분류:** K-Pop
+**중분류:** 콘서트
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 공연 시작
+
+**📍 장소:** 콘서트 무대 앞
+
+**Goal:** To see Yuna before the concert begins
+
+**intro_text:**
+The arena is packed.
+Yuna runs onto the stage and immediately looks for the crowd.
+
+**기 — 인사 [세트 1]**
+AI: 다들 왔어요?
+User: 네, 왔어요.
+AI: 반가워요!
+User: 저도요.
+
+**Outro:**
+> The lights dim and the music begins to swell.
+>
+
+**승 — 기대 [세트 2]**
+User: 노래 해요?
+AI: 네, 할게요!
+User: 기대해요.
+AI: 잘 할게요!
+
+---
+
+## sim2: 앵콜
+
+**📍 장소:** 콘서트 무대
+
+**Goal:** To cheer for Yuna during the encore
+
+**intro_text:**
+The main set is over.
+The crowd is screaming for more, and Yuna can't stop smiling.
+
+**기 — 앵콜 요청 [세트 1]**
+AI: 더 볼래요?
+User: 네, 더요!
+AI: 한 곡만요.
+User: 감사해요!
+
+**Outro:**
+> The crowd erupts as the opening notes ring out.
+>
+
+**승 — 환호 [세트 2]**
+User: 최고예요!
+AI: 감사해요!
+User: 또 해요.
+AI: 알겠어요!
+
+---
+
+## sim3: 콘서트 후
+
+**📍 장소:** 콘서트장 입구
+
+**Goal:** To talk with Yuna casually after the show (반말)
+
+**intro_text:**
+The concert is over and everyone is heading out.
+Yuna is near the exit, glowing, and spots you in the crowd.
+
+**기 — 반말 [세트 1]**
+AI: 어땠어?
+User: 최고였어.
+AI: 진짜?
+User: 응, 정말.
+
+**Outro:**
+> She reaches out and briefly squeezes your hand.
+>
+
+**승 — 소감 [세트 2]**
+User: 힘들었어?
+AI: 아니, 재밌었어!
+User: 다행이야.
+AI: 고마워!
+
+---
+
+### KP-3: 라이브 방송
+
+**대분류:** K-Pop
+**중분류:** 라이브 방송
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 방송 오프닝
+
+**📍 장소:** 라이브 방송 화면
+
+**Goal:** To join Yuna's live stream at the start
+
+**intro_text:**
+Yuna just went live.
+She's already waving at the screen like she's been waiting all day.
+
+**기 — 방송 시작 [세트 1]**
+AI: 왔어요?
+User: 네, 왔어요.
+AI: 기다렸어요!
+User: 저도요.
+
+**Outro:**
+> She claps her hands and does a little spin in her chair.
+>
+
+**승 — 확인 [세트 2]**
+User: 언제부터요?
+AI: 방금이요!
+User: 잘됐어요.
+AI: 맞아요!
+
+---
+
+## sim2: 방송 중 Q&A
+
+**📍 장소:** 라이브 방송 채팅창
+
+**Goal:** To ask Yuna a question during the live stream
+
+**intro_text:**
+Yuna is reading comments out loud.
+She suddenly points at the screen and calls on you.
+
+**기 — 질문 [세트 1]**
+AI: 질문 있어요?
+User: 네, 있어요.
+AI: 뭐예요?
+User: 좋아하는 노래요.
+
+**Outro:**
+> She tilts her head, thinks for a second, then lights up.
+>
+
+**승 — 노래 [세트 2]**
+User: 불러줘요.
+AI: 네, 불러요!
+User: 좋아요.
+AI: 들어요!
+
+---
+
+## sim3: 방송 마무리
+
+**📍 장소:** 라이브 방송 화면 (후반)
+
+**Goal:** To chat with Yuna as she wraps up the stream (반말)
+
+**intro_text:**
+The stream is almost over.
+Yuna leans into the camera and switches to casual speech out of nowhere.
+
+**기 — 반말 전환 [세트 1]**
+AI: 반말 해도 돼?
+User: 응, 해.
+AI: 편하다!
+User: 나도.
+
+**Outro:**
+> She smiles straight into the camera like she's talking only to you.
+>
+
+**승 — 마무리 [세트 2]**
+User: 내일도 와?
+AI: 응, 올게!
+User: 기다릴게.
+AI: 알았어!

@@ -1,0 +1,269 @@
+# 🎬 K-DRAMA (존댓말→반말)
+
+### KD-1: 우연한 만남
+
+**대분류:** K-Drama
+**중분류:** 청춘 드라마 — 우연한 만남
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 신촌 거리에서
+
+**📍 장소:** 신촌 거리
+
+**Goal:** To practice the unexpected encounter scene
+
+**intro_text:**
+A busy afternoon in Sinchon.
+She bumps into you and looks up.
+
+**기 — 첫 만남 [세트 1]**
+AI: 앗, 죄송해요!
+User: 괜찮아요.
+AI: 많이 놀랐죠?
+User: 아니에요.
+
+**Outro:**
+> She adjusts her bag nervously, still looking at you.
+
+**승 — 대화 시작 [세트 2]**
+User: 자주 와요, 여기?
+AI: 네, 자주요.
+User: 저도요.
+AI: 그럼 또 봐요.
+
+---
+
+## sim2: 편의점 앞에서
+
+**📍 장소:** 신촌 편의점
+
+**Goal:** To practice the second encounter scene
+
+**intro_text:**
+You meet again unexpectedly at the convenience store.
+She spots you first.
+
+**기 — 반가운 재회 [세트 1]**
+AI: 또 만났네요.
+User: 진짜요?
+AI: 동네가 좁죠.
+User: 그러네요.
+
+**Outro:**
+> She's clearly happy to see you again.
+
+**승 — 연락처 교환 [세트 2]**
+User: 연락해도 돼요?
+AI: 좋아요, 네.
+User: 번호 알려줘요.
+AI: 잠깐만요.
+
+---
+
+## sim3: 동네 공원에서 (반말 전환)
+
+**📍 장소:** 신촌 공원
+
+**Goal:** To practice the casual neighborhood scene
+
+**intro_text:**
+You've bumped into each other enough times now.
+She greets you like an old friend.
+
+**기 — 편안한 만남 [세트 1]**
+AI: 또 왔어?
+User: 응, 산책하러.
+AI: 나도 자주 와.
+User: 몰랐어.
+
+**Outro:**
+> She falls into step beside you naturally.
+
+**승 — 편한 대화 [세트 2]**
+User: 오늘 뭐 했어?
+AI: 수업 들었어.
+User: 힘들었겠다.
+AI: 좀 그랬어.
+
+---
+
+### KD-2: 설레는 고백
+
+**대분류:** K-Drama
+**중분류:** 청춘 드라마 — 고백
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 도서관에서
+
+**📍 장소:** 연세대 도서관
+
+**Goal:** To practice the confession preparation scene
+
+**intro_text:**
+A quiet library in Sinchon.
+She sits down across from you.
+
+**기 — 우연한 자리 [세트 1]**
+AI: 여기 자리 있어요?
+User: 네, 앉아요.
+AI: 감사해요.
+User: 같이 공부해요.
+
+**Outro:**
+> She opens her book but keeps glancing up.
+
+**승 — 설레는 분위기 [세트 2]**
+User: 시험 있어요?
+AI: 네, 내일요.
+User: 저도요.
+AI: 같이 해요, 그럼.
+
+---
+
+## sim2: 카페에서
+
+**📍 장소:** 신촌 카페
+
+**Goal:** To practice the pre-confession scene
+
+**intro_text:**
+A cozy café after studying together.
+She seems nervous about something.
+
+**기 — 할 말이 있어요 [세트 1]**
+AI: 있잖아요.
+User: 네?
+AI: 드릴 말 있어요.
+User: 말해요.
+
+**Outro:**
+> She takes a deep breath and looks at you.
+
+**승 — 고백 [세트 2]**
+User: 뭔데요?
+AI: 저, 좋아해요.
+User: 진짜요?
+AI: 네, 진짜요.
+
+---
+
+## sim3: 학교 앞에서 (반말 전환)
+
+**📍 장소:** 학교 정문 앞
+
+**Goal:** To practice the post-confession scene
+
+**intro_text:**
+The next day after the confession.
+She's waiting for you at the school gate.
+
+**기 — 다음 날 [세트 1]**
+AI: 어젯밤에 생각했어.
+User: 나도.
+AI: 어떻게 생각해?
+User: 나도 좋아해.
+
+**Outro:**
+> She breaks into a wide smile and looks down.
+
+**승 — 새로운 시작 [세트 2]**
+User: 오늘 뭐 해?
+AI: 너랑 있고 싶어.
+User: 나도.
+AI: 그럼 가자.
+
+---
+
+### KD-3: 화해와 재회
+
+**대분류:** K-Drama
+**중분류:** 청춘 드라마 — 화해/재회
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 학교 복도에서
+
+**📍 장소:** 학교 복도
+
+**Goal:** To practice the awkward reconciliation scene
+
+**intro_text:**
+You haven't spoken in a while.
+She stops when she sees you in the hallway.
+
+**기 — 어색한 재회 [세트 1]**
+AI: 안녕하세요.
+User: 안녕하세요.
+AI: 잘 지냈어요?
+User: 네, 잘 지냈어요.
+
+**Outro:**
+> She stands still, clearly wanting to say more.
+
+**승 — 대화 시도 [세트 2]**
+User: 시간 있어요?
+AI: 네, 있어요.
+User: 얘기할게요.
+AI: 저도요.
+
+---
+
+## sim2: 버스 정류장에서
+
+**📍 장소:** 신촌 버스 정류장
+
+**Goal:** To practice the honest conversation scene
+
+**intro_text:**
+Waiting for the bus together.
+She's the first one to speak honestly.
+
+**기 — 솔직한 대화 [세트 1]**
+AI: 미안해요, 그때.
+User: 저도요.
+AI: 많이 서운했죠?
+User: 조금요.
+
+**Outro:**
+> She exhales slowly, like she's been holding that in for a while.
+
+**승 — 화해 [세트 2]**
+User: 괜찮아요, 이제.
+AI: 다행이에요.
+User: 다시 친하게 지내요.
+AI: 네, 그래요.
+
+---
+
+## sim3: 집 앞에서 (반말 전환)
+
+**📍 장소:** 유나의 집 앞
+
+**Goal:** To practice the full reconciliation scene
+
+**intro_text:**
+She walks you to her door.
+Formality falls away completely.
+
+**기 — 완전한 화해 [세트 1]**
+AI: 오늘 고마워.
+User: 나도.
+AI: 많이 보고 싶었어.
+User: 나도 그랬어.
+
+**Outro:**
+> She leans against the door with a soft smile.
+
+**승 — 새 출발 [세트 2]**
+User: 이제 자주 봐.
+AI: 당연하지.
+User: 약속해.
+AI: 응, 약속할게.

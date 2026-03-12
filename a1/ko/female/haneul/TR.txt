@@ -1,0 +1,320 @@
+# 🗺️ TRAVEL & LIFESTYLE (반말)
+
+---
+
+### TR-4: 망원동 독립서점
+
+**대분류:** Travel & Lifestyle
+**중분류:** 망원동 — 독립서점 탐방
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 서점 입장
+
+**📍 장소:** 망원동 독립서점
+
+**Goal:** To enter the bookshop and get a feel for the space
+
+**intro_text:**
+She wanders in with no particular reason.
+The shop smells like old paper and wood.
+
+**기 — 입장 [세트 1]**
+AI: 어서 오세요. 천천히 구경하세요.
+User: 여기 시간이 멈춘 것 같아.
+AI: 오래된 책들이 많거든요.
+User: 종이 냄새가 진짜 좋아.
+
+**Outro:**
+> She stands in the doorway a moment longer than expected.
+>
+
+**승 — 탐색 [세트 2]**
+AI: 찾으시는 책 있으세요?
+User: 혼자 있는 느낌 나는 책.
+AI: 저쪽 에세이 코너 보세요.
+User: 에세이가 다 그런 느낌이야?
+
+**Outro:**
+> She walks slowly, trailing her fingers along the spines.
+>
+
+---
+
+## sim2: 책 고르기
+
+**📍 장소:** 망원동 독립서점
+
+**Goal:** To browse and find a book to buy
+
+**intro_text:**
+She stops in front of a small shelf by the window.
+She's been in here for twenty minutes and forgotten why.
+
+**전 — 발견 [세트 1]**
+AI: 이 책 인기 많아요, 한번 보세요.
+User: 표지 색이 외로움 같아.
+AI: 작가가 직접 그린 그림이에요.
+User: 그러면 더 갖고 싶어.
+
+**Outro:**
+> She holds it and doesn't put it down again.
+>
+
+**결 — 결정 [세트 2]**
+AI: 다른 것도 함께 보시겠어요?
+User: 이거랑 저것도 같이 살게.
+AI: 잘 고르셨어요.
+User: 책이 나한테 고른 것 같아.
+
+**Outro:**
+> She smiles at both covers like meeting new friends.
+>
+
+---
+
+## sim3: 계산
+
+**📍 장소:** 망원동 독립서점 계산대
+
+**Goal:** To complete the purchase at the counter
+
+**intro_text:**
+She puts both books on the counter without looking at the prices.
+Numbers feel too loud in a quiet place like this.
+
+**기 — 계산 [세트 1]**
+AI: 두 권에 이만오천 원이에요.
+User: 카드로 해도 돼?
+AI: 네, 받아요.
+User: 여기, 부탁해.
+
+**Outro:**
+> She tucks both books under her arm before the receipt prints.
+>
+
+**승 — 마무리 [세트 2]**
+AI: 봉투에 넣어 드릴까요?
+User: 아니, 그냥 이대로 갈게.
+AI: 또 오세요.
+User: 매일 여기 오고 싶어.
+
+**Outro:**
+> She leaves looking slightly different from when she came in.
+>
+
+---
+
+---
+
+### TR-5: 망원동 빈티지샵
+
+**대분류:** Travel & Lifestyle
+**중분류:** 망원동 — 빈티지샵 탐방
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 가게 입장
+
+**📍 장소:** 망원동 빈티지샵
+
+**Goal:** To enter the vintage shop and look around
+
+**intro_text:**
+She slips in between racks of old coats.
+Everything here has lived a life before this one.
+
+**기 — 입장 [세트 1]**
+AI: 어서 오세요, 구경하세요.
+User: 여기 옛날 냄새 나.
+AI: 빈티지 물건들이 많거든요.
+User: 옷들이 다 이야기 있을 것 같아.
+
+**Outro:**
+> She runs her hand slowly along a row of hanging coats.
+>
+
+**승 — 탐색 [세트 2]**
+AI: 찾으시는 거 있으세요?
+User: 여기서 제일 특별한 거 뭐야?
+AI: 이번에 새로 들어온 것들 보세요.
+User: 어디서 볼 수 있어?
+
+**Outro:**
+> She already has three items draped over her arm.
+>
+
+---
+
+## sim2: 옷 고르기
+
+**📍 장소:** 망원동 빈티지샵
+
+**Goal:** To pick out a piece of vintage clothing
+
+**intro_text:**
+She finds a jacket that seems to have been waiting.
+She's not sure how she knows. She just does.
+
+**전 — 발견 [세트 1]**
+AI: 이 자켓 미국에서 온 거예요.
+User: 이거 원래 누가 입던 거야?
+AI: 70년대 미국 빈티지예요.
+User: 그 사람은 어떤 사람이었을까.
+
+**Outro:**
+> She holds the jacket up and stares at it for too long.
+>
+
+**결 — 결정 [세트 2]**
+AI: 입어보실래요?
+User: 응, 한번 입어봐도 돼?
+AI: 잘 어울리세요.
+User: 자켓이 나를 기다린 것 같아.
+
+**Outro:**
+> She looks at herself in the mirror like meeting a stranger.
+>
+
+---
+
+## sim3: 계산
+
+**📍 장소:** 망원동 빈티지샵 계산대
+
+**Goal:** To pay and complete the purchase
+
+**intro_text:**
+She carries the jacket to the counter without taking it off.
+She decided the moment she put it on.
+
+**기 — 계산 [세트 1]**
+AI: 이 자켓 사만오천 원이에요.
+User: 비싸다, 그래도 사야겠어.
+AI: 잘 고르셨어요.
+User: 어쩔 수 없어, 이건 내 거야.
+
+**Outro:**
+> She pays before she can change her mind.
+>
+
+**승 — 마무리 [세트 2]**
+AI: 예쁘게 포장해 드릴까요?
+User: 아니, 그냥 줘.
+AI: 또 오세요.
+User: 응, 다음에 또 올게.
+
+**Outro:**
+> She walks out wearing it already.
+>
+
+---
+
+---
+
+### TR-6: 망원동 감성 카페
+
+**대분류:** Travel & Lifestyle
+**중분류:** 망원동 — 감성 카페
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 입장 및 자리 잡기
+
+**📍 장소:** 망원동 감성 카페
+
+**Goal:** To enter the café and find a seat
+
+**intro_text:**
+She's walked past this café a hundred times.
+Today she finally goes in.
+
+**기 — 입장 [세트 1]**
+AI: 어서 오세요, 자리 앉으세요.
+User: 여기 구름 안에 있는 것 같아.
+AI: 편하게 앉으세요.
+User: 창가 자리 아직 있어?
+
+**Outro:**
+> She looks around slowly, taking everything in.
+>
+
+**승 — 착석 [세트 2]**
+AI: 저쪽 창가 자리 비었어요.
+User: 거기 앉을게, 고마워.
+AI: 천천히 둘러보세요.
+User: 빛이 예쁘게 들어오네.
+
+**Outro:**
+> She sets her bag down and just sits for a moment.
+>
+
+---
+
+## sim2: 주문
+
+**📍 장소:** 망원동 감성 카페
+
+**Goal:** To order a drink at the café
+
+**intro_text:**
+The menu is handwritten on a wooden board.
+She stares at it like it's a poem she's trying to understand.
+
+**전 — 주문 [세트 1]**
+AI: 주문 받아도 될까요?
+User: 따뜻한 거 제일 맛있는 게 뭐야?
+AI: 시그니처 라테가 인기예요.
+User: 그거 하나 줘.
+
+**Outro:**
+> She doesn't look at the price. She rarely does.
+>
+
+**결 — 확인 [세트 2]**
+AI: 사이즈는 어떻게 드릴까요?
+User: 제일 큰 거로 줘.
+AI: 잠깐만 기다리세요.
+User: 괜찮아, 천천히 해도 돼.
+
+**Outro:**
+> She turns back to the window while she waits.
+>
+
+---
+
+## sim3: 음료 받기
+
+**📍 장소:** 망원동 감성 카페
+
+**Goal:** To receive the drink and enjoy the moment
+
+**intro_text:**
+The latte arrives in a handmade ceramic cup.
+She holds it with both hands without drinking.
+
+**기 — 수령 [세트 1]**
+AI: 시그니처 라테 나왔어요.
+User: 향기가 좋아, 마시기 아까워.
+AI: 천천히 즐기세요.
+User: 여기 매일 오고 싶어.
+
+**Outro:**
+> She takes the first sip and closes her eyes for a second.
+>
+
+**승 — 여운 [세트 2]**
+AI: 더 필요한 거 있으세요?
+User: 아니, 지금 이대로 충분해.
+AI: 편하게 계세요.
+User: 창문이 그림 같아.
+
+**Outro:**
+> She stays until the light changes. Then a little longer.
+>
