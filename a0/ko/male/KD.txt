@@ -1,3 +1,105 @@
+# 🎬 KDRAMA / MOVIE (반말) >> Kdrama
+
+---
+
+### KD-1: 대박! 진짜?
+
+**대분류:** Kdrama/Movie
+**중분류:** Reactions
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Surprise!
+
+**Goal:** To react with excitement and envy to a friend's amazing concert experience and ask to see photos
+
+**📍 장소:** 학교/교실 (쉬는 시간)
+
+**intro_text:**
+Break time gossip. Wait... she went WHERE?!
+
+**기 — 놀람 [세트 1]**
+AI: 나 어제 BTS 콘서트 갔어!
+User: 대박! / 진짜?
+AI: 응, 진짜! 진짜 좋았어!
+User: 헐! / 미쳤어!
+
+**Outro:**
+> She actually went to a BTS concert?! 😱
+> But that's not even the best part...
+>
+
+**승 — 부러움 [세트 2]**
+AI: 사진 볼래?
+User: 당연하지! / 보여줘!
+AI: 여기! 이거!
+User: 와! 대박! / 미쳤다!
+
+**Outro:**
+> Those photos though... 📸
+> And wait — she's got even bigger news to share!
+>
+
+### sim2: Reacting to News
+
+**Goal:** To react with excitement and disbelief to a friend's surprising relationship news and express genuine curiosity about the details.
+
+**📍 장소:** 학교/교실 (동일)
+
+**승 — 소식 [세트 3]**
+AI: 나 여자친구 생겼어!
+User: 진짜? / 헐, 대박!
+AI: 응, 어제 고백 받았어!
+User: 축하해! / 미쳤어!
+
+**Outro:**
+> A confession?! Who? When? HOW?! 💘
+> The story gets even wilder...
+>
+
+**전 — 더 놀람 [세트 4]**
+AI: 사실 3년 동안 나 좋아했대.
+User: 헐! / 진짜?
+AI: 응, 나도 몰랐어!
+User: 대박이다! / 미쳤다!
+
+**Outro:**
+> Three years of secret feelings — finally out! 🤯
+> But not everything today is good news...
+>
+
+### sim3: Bad News
+
+**Goal:** To respond with shock and comfort to a friend who lost their phone and offer reassuring words.
+
+**📍 장소:** 학교/교실 (동일)
+
+**전 — 안 좋은 소식 [세트 5]**
+AI: 나 핸드폰 잃어버렸어.
+User: 헐! / 진짜?
+AI: 응, 택시에 놓고 내렸어.
+User: 어떡해! / 미쳤어!
+
+**Outro:**
+> A lost phone in a taxi? 😬
+> Can you say the right thing to help?
+>
+
+**결 — 위로 [세트 6]**
+AI: 어떡하지...
+User: 괜찮아! 찾을 수 있어!
+AI: 고마워.
+User: 응!
+
+**Outro:**
+> A concert, a confession, and a lost phone — all in one day! 😅
+> You handled every twist like a true Korean drama bestie. 👏
+>
+
+---
+
 # KD-2: 짜증나! 어떡해!
 
 - 대분류: Kdrama/Movie
