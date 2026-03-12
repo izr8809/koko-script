@@ -21,104 +21,101 @@
 21#KT|
 22#XB|**기 — 첫 인사 [세트 1]**
 23#JY|User: 안녕! 이름이 뭐야?
-24#HP|AI: …응.
-25#ZR|AI: …시윤.
-26#PW|AI: 너는?
-27#QS|User: 나는 ___야! / ___이야!
-28#VK|AI: …그래.
-29#WN|AI: …잘 왔어.
-30#TJ|
-31#XH|**Outro:**
-32#BM|> Cold silence... then "너는?" 🤔
-33#YP|> Wait — did they just ask your name back?
-34#HV|> "잘 왔어" — whoa. Don't get used to it.
-35#ZS|>
-36#PM|
-37#QV|**승 — 어디서 [세트 2]**
-38#RK|AI: 어디서 왔어?
-39#WT|User: ___에서 왔어!
-40#NX|AI: …멀다.
-41#JH|AI: 한국은 왜?
-42#BZ|User: 한국 좋아해! 다 좋아!
-43#YM|AI: …다?
-44#HS|AI: …뭐, 알았어.
-45#ZN|
-46#PK|**Outro:**
-47#QW|> "다 좋아?" — skeptical pause. Classic Siyun. 😑
-48#VT|> They asked THREE questions though. That's caring... right? 👀
-49#RX|>
-50#SJ|
-51#NB|---
-52#KY|
-53#TH|### sim2: 의외의 공통점
-54#XP|
-55#JM|**Goal:** To discover shared interests and talk about food with someone who pretends not to care.
-56#BV|
-57#YR|**📍 장소:** 밖 (동일)
-58#HW|
-59#ZK|**승 — 취미 [세트 3]**
-60#PJ|User: 시윤아, 뭐 좋아해?
-61#MN|AI: …왜?
-62#QX|AI: …책.
-63#VB|AI: 너는?
-64#RS|User: 나도 책 좋아해! / 나도!
-65#WH|AI: …진짜?
-66#TB|AI: …뭐 읽어?
-67#NP|
-68#KM|**Outro:**
-69#TZ|> "뭐 읽어?" — They just asked a follow-up. 😳
-70#XQ|> Siyun doesn't ask unless they actually care.
-71#JV|>
-72#BR|
-73#YS|**전 — 음식 [세트 4]**
-74#HK|AI: …밥 먹었어?
-75#ZV|User: 응! 파스타!
-76#PH|AI: …파스타?
-77#MR|AI: 나도 좋아해.
-78#QN|User: 진짜?!
-79#VW|AI: …그냥.
-80#RB|AI: …맛은 있지.
-81#SX|
-82#WJ|**Outro:**
-83#NY|> Same food. That pause was pure shock. 🍝
-84#KZ|> "맛은 있지" — reluctant agreement? From SIYUN? 🫣
-85#TP|>
-86#XS|
-87#JQ|---
-88#BW|
-89#YK|### sim3: 연락처 교환
-90#HM|
-91#ZJ|**Goal:** To make weekend plans and exchange KakaoTalk IDs with someone who'll never admit they want to.
-92#PB|
-93#MT|**📍 장소:** 밖 (동일, 헤어지기 전)
-94#QH|
-95#VN|**전 — 주말 [세트 5]**
-96#RY|User: 주말에 뭐 해? 같이 놀자!
-97#SK|AI: …왜?
-98#WZ|AI: …몰라.
-99#NM|AI: 어디?
-100#KP|User: 한강 어때? / 공원 어때?
-101#TV|AI: …한강?
-102#XR|AI: …뭐, 괜찮아.
-103#JZ|AI: …시간은 말해.
-104#BS|
-105#YV|**Outro:**
-106#HR|> "괜찮아" from Siyun? That's basically a love confession. 😏
-107#ZW|> "시간은 말해" — they're making plans. PLANS. 📅
-108#PT|>
-109#MK|
-110#QJ|**결 — 카톡 [세트 6]**
-111#VH|User: 카톡 있어? 연락하자!
-112#RN|AI: …왜?
-113#SP|AI: …알았어.
-114#WX|AI: 여기.
-115#NJ|User: 고마워! / 좋아!
-116#KB|AI: …답장 느려.
-117#TY|AI: 알아서 해.
-118#XN|AI: …근데 먼저 해.
-119#JK|
-120#BH|**Outro:**
-121#YQ|> Contact secured. With a warning label. ⚠️
-122#HT|> "답장 느려" — Translation: "I'll overthink every single reply."
-123#ZX|> "근데 먼저 해" — Translation: "Please text me first. Please." 🥺
-124#PS|>
+24#ZR|AI: …시윤.
+25#PW|AI: 너는?
+26#QS|User: 나는 ___야! / ___이야!
+27#VK|AI: …그래.
+28#WN|AI: …뭐, 반가워.
+29#TJ|
+30#XH|**Outro:**
+31#BM|> Cold silence... then "너는?" 🤔
+32#YP|> Wait — did they just ask your name back?
+> "뭐, 반가워" — whoa. Don't get used to it.
+34#ZS|>
+35#PM|
+36#QV|**승 — 어디서 [세트 2]**
+37#RK|AI: 어디서 왔어?
+38#WT|User: ___에서 왔어!
+39#NX|AI: …멀다.
+40#JH|AI: 왜 한국에?
+41#BZ|User: 한국 좋아해! 다 좋아!
+42#YM|AI: …다 좋아?
+43#HS|AI: …그래.
+44#ZN|
+45#PK|**Outro:**
+46#QW|> "다 좋아?" — skeptical pause. Classic Siyun. 😑
+47#VT|> They asked THREE questions though. That's caring... right? 👀
+48#RX|>
+49#SJ|
+50#NB|---
+51#KY|
+52#TH|### sim2: 의외의 공통점
+53#XP|
+54#JM|**Goal:** To discover shared interests and talk about food with someone who pretends not to care.
+55#BV|
+56#YR|**📍 장소:** 밖 (동일)
+57#HW|
+58#ZK|**승 — 취미 [세트 3]**
+59#PJ|User: 시윤아, 뭐 좋아해?
+60#MN|AI: …왜?
+61#QX|AI: …책.
+62#VB|AI: 너는?
+63#RS|User: 나도 좋아해!
+64#WH|AI: …진짜?
+65#TB|AI: …뭐 읽어?
+66#NP|
+67#KM|**Outro:**
+68#TZ|> "뭐 읽어?" — They just asked a follow-up. 😳
+69#XQ|> Siyun doesn't ask unless they actually care.
+70#JV|>
+71#BR|
+72#YS|**전 — 음식 [세트 4]**
+73#HK|AI: …밥 먹었어?
+74#ZV|User: 응! 파스타!
+75#PH|AI: …파스타?
+76#MR|AI: 나도 좋아해.
+77#QN|User: 진짜?!
+78#RB|AI: …맛은 있지.
+79#SX|
+80#WJ|**Outro:**
+81#NY|> Same food. That pause was pure shock. 🍝
+82#KZ|> "맛은 있지" — reluctant agreement? From SIYUN? 🫣
+83#TP|>
+84#XS|
+85#JQ|---
+86#BW|
+87#YK|### sim3: 연락처 교환
+88#HM|
+89#ZJ|**Goal:** To make weekend plans and exchange KakaoTalk IDs with someone who'll never admit they want to.
+90#PB|
+91#MT|**📍 장소:** 밖 (동일, 헤어지기 전)
+92#QH|
+93#VN|**전 — 주말 [세트 5]**
+94#RY|User: 주말에 뭐 해? 같이 놀자!
+95#SK|AI: …갑자기?
+96#WZ|AI: …몰라.
+97#NM|AI: 어디?
+98#KP|User: 한강 어때? / 공원 어때?
+99#TV|AI: …한강?
+100#XR|AI: …뭐, 괜찮아.
+101#JZ|AI: …언제야?
+102#BS|
+103#YV|**Outro:**
+104#HR|> "괜찮아" from Siyun? That's basically a love confession. 😏
+> "언제야?" — they're making plans. PLANS. 📅
+106#PT|>
+107#MK|
+108#QJ|**결 — 카톡 [세트 6]**
+109#VH|User: 카톡 있어? 연락하자!
+110#RN|AI: …뭐.
+111#SP|AI: …알았어.
+112#WX|AI: 여기.
+113#NJ|User: 고마워! / 좋아!
+114#KB|AI: …답장 느려.
+115#XN|AI: …근데 먼저 해.
+116#JK|
+117#BH|**Outro:**
+118#YQ|> Contact secured. With a warning label. ⚠️
+119#HT|> "답장 느려" — Translation: "I'll overthink every single reply."
+120#ZX|> "근데 먼저 해" — Translation: "Please text me first. Please." 🥺
+121#PS|>
