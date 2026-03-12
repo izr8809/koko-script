@@ -16,7 +16,7 @@
 **📍 Location:** Online (artist Discord / fan club)
 
 **intro_text:**
-Midnight EST. It's officially his birthday. My heart is racing...
+Midnight EST. It's officially her birthday. My heart is racing...
 
 **기 — Birthday [Set 1]**
 User: Happy birthday!!!
@@ -25,7 +25,7 @@ User: What did you do today?
 AI: I had cake with my team!
 
 **Outro:**
-> First birthday message delivered! 🎂 Did he get your special gift yet?
+> First birthday message delivered! 🎂 Did she get your special gift yet?
 > The suspense is killing you — and her.
 >
 
@@ -44,7 +44,7 @@ AI: I can't wait! Thank you so much!
 
 ### sim2: Fan Event
 
-**Goal:** To cheer for your favorite artist during his birthday live and react to her heartfelt birthday wish.
+**Goal:** To cheer for your favorite artist during her birthday live and react to her heartfelt birthday wish.
 
 **📍 Location:** Online (live stream)
 
@@ -55,7 +55,7 @@ AI: You guys make me so happy!
 User: We're happy too! Have the best day!
 
 **Outro:**
-> He is literally an angel! 👼 Shh... she's about to make his birthday wish.
+> She is literally an angel! 👼 Shh... she's about to make her birthday wish.
 > This is the moment every fan lives for.
 >
 
@@ -85,7 +85,7 @@ AI: Let's do this again next year!
 User: Obviously! We'll be here!
 
 **Outro:**
-> A promise to stay together forever! 💖 Say goodnight before  he turns off the camera.
+> A promise to stay together forever! 💖 Say goodnight before she turns off the camera.
 > This is the sweetest moment of the whole birthday.
 >
 
@@ -96,7 +96,7 @@ AI: I love you all!
 User: We love you too!
 
 **Outro:**
-> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind his lyrics.
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind her lyrics.
 > Sweet dreams — you're going to be replaying this all night.
 >
 
@@ -121,7 +121,7 @@ User: We love you too!
 Her new song is on repeat. But what does it actually mean?
 
 **기 — The lyrics [Set 1]**
-User: What is  he saying in this part?
+User: What is she saying in this part?
 AI: Which part?
 User: "I'm the problem, it's me" — this part!
 AI: It means she's saying she's the one causing the issues!
@@ -181,7 +181,7 @@ User: Thank you!
 **📍 Location:** Friend's place (same)
 
 **전 — New release [Set 5]**
-User: Did you hear his new song? Have you listened yet?
+User: Did you hear her new song? Have you listened yet?
 AI: Yes! I love it! What about you?
 User: I listened! The lyrics are so sad though.
 AI: Right? The part about "waiting" is so emotional.
@@ -234,10 +234,10 @@ AI: I'm so jealous! What happened?
 >
 
 **승 — The story [Set 2]**
-User: I got to shake his hand and talk to her!
+User: I got to shake her hand and talk to her!
 AI: What?! What did you say?
-User: I said "I love your music"! / I asked him what her favorite song to perform is!
-AI: Oh my god! What did he say?
+User: I said "I love your music"! / I asked her what her favorite song to perform is!
+AI: Oh my god! What did she say?
 
 **Outro:**
 > You said WHAT?! 🤯 The audacity. The courage. The legend.
@@ -260,14 +260,14 @@ AI: Yes! I'm in!
 
 **Outro:**
 > Next meet-and-greet: booked (mentally)! 🎫 Your friend is already planning the outfit.
-> But first — did you give him a gift?
+> But first — did you give her a gift?
 >
 
 **전 — The gift [Set 4]**
 AI: Did you bring her anything?
-User: Yes, I wrote him a letter! / I made him a little gift!
-AI: Did he read it?
-User: He said  he would read every single one!
+User: Yes, I wrote her a letter! / I made her a little gift!
+AI: Did she read it?
+User: She said she would read every single one!
 
 **Outro:**
 > She promised to read your letter! 💌 That's basically a love confession.

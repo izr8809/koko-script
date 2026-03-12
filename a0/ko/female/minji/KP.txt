@@ -37,8 +37,8 @@ User: 오늘 너무 멋있어요!
 AI: 진짜요? 고마워요!
 
 **Outro:**
-> He smiled at you! 😍
-> Get ready, he's about to compliment you.
+> She smiled at you! 😍
+> Get ready, she's about to compliment you.
 >
 
 ---
@@ -56,8 +56,8 @@ AI: 아니에요, 진짜 잘해요!
 User: 감사해요!
 
 **Outro:**
-> He noticed your Korean! 🇰🇷
-> Now, tell him what your favorite song is.
+> She noticed your Korean! 🇰🇷
+> Now, tell her what your favorite song is.
 >
 
 **전 — 좋아하는 노래 [세트 4]**
@@ -68,7 +68,7 @@ User: 오늘 불러주세요!
 
 **Outro:**
 > Request accepted! 🎶
-> Time is almost up. Quick, give him your gift!
+> Time is almost up. Quick, give her your gift!
 >
 
 ---
@@ -86,7 +86,7 @@ User: 편지예요!
 AI: 꼭 읽을게요!
 
 **Outro:**
-> He took your letter! 💌
+> She took your letter! 💌
 > Time to say the hardest word... goodbye.
 >
 

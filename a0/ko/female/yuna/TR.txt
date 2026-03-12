@@ -25,7 +25,9 @@ User: 사람 많네요.
 AI: 맞아요, 신나요.
 User: 뭐 먹어요?
 
+**Outro:**
 > She's already pointing at three different stalls at once.
+>
 
 **승 — 구경 [세트 2]**
 User: 이거 뭐예요?
@@ -33,7 +35,9 @@ AI: 떡볶이예요.
 User: 맛있겠다.
 AI: 같이 먹어요.
 
+**Outro:**
 > The spicy smell drifts through the crowd.
+>
 
 ---
 
@@ -53,7 +57,9 @@ User: 네, 귀엽네요.
 AI: 살까요?
 User: 좋아요.
 
+**Outro:**
 > She holds up three different items at once.
+>
 
 **승 — 계산 [세트 2]**
 User: 얼마예요?
@@ -61,7 +67,9 @@ AI: 오천 원이에요.
 User: 깎아 주세요.
 AI: 네, 사천 원요.
 
+**Outro:**
 > The vendor smiles and wraps it carefully.
+>
 
 ---
 
@@ -81,7 +89,9 @@ User: 나도 좋았어.
 AI: 또 와.
 User: 그래, 또 오자.
 
+**Outro:**
 > She ties her shopping bag and grins.
+>
 
 **승 — 귀가 [세트 2]**
 User: 집 멀어?
@@ -89,7 +99,9 @@ AI: 아니, 가까워.
 User: 잘 들어가.
 AI: 응, 너도.
 
+**Outro:**
 > She waves and disappears into the crowd.
+>
 
 ---
 
@@ -118,7 +130,9 @@ User: 좋아요, 들어가요.
 AI: 자리 있어요.
 User: 앉아요.
 
+**Outro:**
 > Steam rises from the pots inside.
+>
 
 **승 — 메뉴 [세트 2]**
 User: 뭐 있어요?
@@ -126,7 +140,9 @@ AI: 순대 있어요.
 User: 두 개요.
 AI: 네, 잠깐만요.
 
+**Outro:**
 > She peers at the menu board with wide eyes.
+>
 
 ---
 
@@ -146,7 +162,9 @@ User: 따뜻한 거요.
 AI: 오뎅탕 어때요?
 User: 좋아요.
 
+**Outro:**
 > The broth smells rich and comforting.
+>
 
 **승 — 식사 [세트 2]**
 User: 맛있어요?
@@ -154,7 +172,9 @@ AI: 네, 진짜요.
 User: 저도 맛있어요.
 AI: 다행이에요.
 
+**Outro:**
 > She smiles with her cheeks full.
+>
 
 ---
 
@@ -174,7 +194,9 @@ User: 아니야, 같이 내.
 AI: 그래, 반반.
 User: 얼마야?
 
+**Outro:**
 > She pulls out her phone to calculate.
+>
 
 **승 — 나가기 [세트 2]**
 User: 또 오자.
@@ -182,7 +204,9 @@ AI: 응, 꼭.
 User: 배불러.
 AI: 나도 배불러.
 
+**Outro:**
 > She pats her stomach and laughs quietly.
+>
 
 ---
 
@@ -211,7 +235,9 @@ User: 아늑하네요.
 AI: 자주 와요.
 User: 진짜요?
 
+**Outro:**
 > Soft music plays from a corner speaker.
+>
 
 **승 — 자리 [세트 2]**
 User: 어디 앉아요?
@@ -219,7 +245,9 @@ AI: 창가 어때요?
 User: 좋아요.
 AI: 가요, 빨리요.
 
+**Outro:**
 > She rushes to the window seat.
+>
 
 ---
 
@@ -239,7 +267,9 @@ User: 아이스 아메리카노요.
 AI: 저는 라떼요.
 User: 좋아요.
 
+**Outro:**
 > She approaches the counter with confidence.
+>
 
 **승 — 계산 [세트 2]**
 User: 제가 낼게요.
@@ -247,7 +277,9 @@ AI: 아니에요, 제가요.
 User: 다음에 사줘요.
 AI: 네, 알겠어요.
 
+**Outro:**
 > The barista smiles at their argument.
+>
 
 ---
 
@@ -267,7 +299,9 @@ User: 맛있어?
 AI: 응, 최고야.
 User: 나도 좋아.
 
+**Outro:**
 > Rain taps softly against the window.
+>
 
 **승 — 마무리 [세트 2]**
 User: 또 오자.
@@ -275,4 +309,6 @@ AI: 응, 자주 와.
 User: 좋아.
 AI: 나도 좋아.
 
+**Outro:**
 > She holds her empty cup and smiles at the rain.
+>
