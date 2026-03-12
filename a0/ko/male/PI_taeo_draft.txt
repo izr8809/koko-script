@@ -1,0 +1,121 @@
+1#HY|# 🌙 PERSONAL INTEREST (반말) >> Korean Life
+2#KM|
+3#BN|# PI-1: 어, 사람이다
+4#RW|
+5#HH|- 대분류: Personal Interest
+6#NN|- 중분류: First Meeting
+7#MK|- 난이도: A0 (Absolute Beginner)
+8#MB|- 14턴 (6세트, 3sim)
+9#JT|
+10#WH|Someone appeared out of nowhere.
+11#YR|He's staring at you. And smiling. ...Weird.
+12#TX|
+13#SV|---
+14#BY|
+15#VK|### sim1: 엉뚱한 첫 만남
+16#VP|
+17#BP|**Goal:** To meet someone new and exchange names — but nothing goes as expected.
+18#KS|
+19#WV|**📍 장소:** 밖 (연남동 골목)
+20#YQ|
+21#BT|**intro_text:**
+22#SM|Someone appeared out of nowhere.
+23#HP|He's staring at you. And smiling. ...Weird.
+24#KW|
+25#SH|**기 — 첫 만남 [세트 1]**
+26#TR|AI: 어, 사람이다.
+27#ZM|User: 응? / 안녕!
+28#TN|AI: 안녕. 나 태오야.
+29#YK|AI: 이름이 뭐야?
+30#TS|User: 나는 ___야! / ___이야!
+31#XZ|AI: 오. 좋은 이름이다.
+32#NT|
+33#HW|**Outro:**
+34#SS|> Wait — did he just say "Oh, a human"? 👁️
+35#BH|> Who starts a conversation like that?
+36#BB|>
+37#QZ|
+38#XM|**승 — 하늘 [세트 2]**
+39#TJ|AI: 오늘 하늘 봤어?
+40#JK|User: 하늘? / 응, 봤어!
+41#QW|AI: 오늘 하늘 맛있다.
+42#VN|AI: 어디서 왔어?
+43#NM|User: ___에서 왔어!
+44#ZV|AI: 좋은 데다.
+45#YJ|AI: 나는 여기가 좋아.
+46#JP|
+47#QB|**Outro:**
+48#WZ|> The sky is... delicious? 🤔
+49#QN|> This guy is strange. But somehow you want to hear more.
+50#HQ|>
+51#RX|
+52#ZX|---
+53#TY|
+54#PZ|### sim2: 예상 밖 공통점
+55#WT|
+56#VM|**Goal:** To talk about food and hobbies — Taeo style, where bread becomes a metaphor for you.
+57#KK|
+58#XB|**📍 장소:** 밖 (동일)
+59#PR|
+60#YS|**승 — 빵 [세트 3]**
+61#QY|AI: 빵 좋아해?
+62#JW|User: 응! / 아니!
+63#ZN|AI: 나는 빵이 좋아.
+64#PX|AI: 빵은 따뜻하잖아.
+65#ZT|User: 맞아! / 그래?
+66#KB|AI: 너도 따뜻해 보여.
+67#QX|
+68#YR|**Outro:**
+69#HK|> He compared you to bread. Warm bread. 🍞
+70#WR|> Is that a compliment? It definitely is.
+71#ZP|>
+72#TX|
+73#TT|**전 — 같이 먹자 [세트 4]**
+74#NJ|AI: 배고파.
+75#SP|User: 나도! / 그래?
+76#QT|AI: 뭐 먹고 싶어?
+77#VB|User: 빵! / 밥!
+78#RK|AI: 나도. 같이 먹자.
+79#PJ|AI: 언제?
+80#WM|User: 주말에! / 내일!
+81#MS|
+82#PM|**Outro:**
+83#XK|> From bread philosophy to lunch plans in 30 seconds. 🥐
+84#KY|> With Taeo, nothing goes where you expect.
+85#BK|>
+86#PB|
+87#ZS|---
+88#JS|
+89#VY|### sim3: 연락처 교환
+90#QN|
+91#SX|**Goal:** To exchange KakaoTalk IDs — because of course, Taeo asks out of nowhere.
+92#HT|
+93#NR|**📍 장소:** 밖 (동일)
+94#YQ|
+95#QV|**전 — 카톡 [세트 5]**
+96#WY|AI: 아, 맞다.
+97#HB|User: 뭐? / 왜?
+98#TV|AI: 카톡 있어?
+99#MV|AI: 카톡 해도 돼?
+100#XP|User: 응! / 좋아!
+101#PB|AI: 아이디 뭐야?
+102#ZS|User: ___이야!
+103#BQ|
+104#YP|**Outro:**
+105#XR|> KakaoTalk: secured. 📱
+106#NW|> Fair warning — his profile pic changes every 12 hours.
+107#VY|>
+108#QN|
+109#SX|**결 — 마무리 [세트 6]**
+110#HT|AI: 고마워.
+111#NR|AI: 연락할게.
+112#YQ|User: 응! / 좋아!
+113#QV|AI: 근데...
+114#WY|User: 응? / 뭐?
+115#HB|AI: 다음에 빵 먹자.
+116#TV|AI: 또 봐!
+117#MV|
+118#XP|**Outro:**
+119#PV|> He's bringing bread. Of course he is. 🍞
+120#ZT|> You have no idea what he'll say next. And that's exactly why you'll check your phone.
+121#BQ|>

@@ -1,0 +1,126 @@
+1#HY|# 💖 PERSONAL INTEREST (반말) >> Korean Life
+2#KM|
+3#BN|# PI-1: 안녕! 나는 도민이야
+4#RW|
+5#HH|- 대분류: Personal Interest
+6#NN|- 중분류: First Meeting
+7#MK|- 난이도: A0 (Absolute Beginner)
+8#VT|- 42줄 (6세트, 3sim)
+9#JT|
+10#WH|First meeting in Korea.
+11#YR|Deep breath... say hi!
+12#TX|
+13#SV|---
+14#BY|
+15#VK|### sim1: Nice to Meet You
+16#VP|
+17#BP|**Goal:** To introduce yourself and say where you are from.
+18#KS|
+19#WV|**📍 장소:** 밖
+20#YQ|
+21#BT|**intro_text:**
+22#PZ|First meeting in Korea.
+23#QM|Deep breath... say hi!
+24#KW|
+25#SH|**기 — 첫 만남 [세트 1]**
+26#ZP|AI: 안녕! 나는 도민이야!
+27#MQ|AI: 이름이 뭐야?
+28#VR|User: 나는 ___야! / ___이야!
+29#WS|AI: 오! 이름 진짜 좋다!
+30#NK|AI: 반가워!
+31#TX|User: 나도 반가워!
+32#JB|AI: 헤헤, 우리 이제 친구다!
+33#YH|
+34#TN|**Outro:**
+35#ZM|> First friend: unlocked! 🎉
+36#PQ|> But where in the world did they come from?
+37#VW|>
+38#SR|
+39#RV|**승 — 어디서 왔어? [세트 2]**
+40#SW|AI: 근데 어디서 왔어?
+41#KN|AI: 나는 서울!
+42#XT|User: 나는 ___에서 왔어!
+43#BJ|AI: 헐! 진짜? 멀리서 왔네!
+44#HZ|AI: 거기 좋아?
+45#MP|User: 응, 좋아!
+46#VQ|AI: 대박, 나도 가고 싶다!
+47#WR|
+48#TN|**Outro:**
+49#NS|> Hometown revealed! 🌍
+50#TK|> Now the real question — do you two actually vibe?
+51#XJ|>
+52#JY|
+53#BH|---
+54#ZK|
+55#PT|### sim2: Getting Closer
+56#MN|
+57#QX|**Goal:** To talk about things you like and try Korean food talk.
+58#VB|
+59#RJ|**📍 장소:** 밖 (동일)
+60#WH|
+61#SY|**승 — 뭐 좋아해? [세트 3]**
+62#ZR|AI: 아, 맞다!
+63#PW|AI: 뭐 좋아해?
+64#MS|User: ___ 좋아해!
+65#QK|AI: 진짜? 나도!
+66#VX|AI: 나는 음악 진짜 좋아해!
+67#NJ|User: 나도 음악! / 오, 좋다!
+68#TY|AI: 헤헤, 우리 잘 맞다!
+69#BQ|
+70#TN|**Outro:**
+71#ZH|> Vibe check: passed! ✔️
+72#PV|> Get ready for Korea's ultimate bonding topic... food. 🍖
+73#MX|>
+74#QB|
+75#RN|**전 — 맛있는 거 [세트 4]**
+76#WK|AI: 아, 나 배고프다!
+77#ST|AI: 한국 음식 먹어 봤어?
+78#JZ|User: 응! / 아직!
+79#YP|AI: 오! 삼겹살 알아?
+80#HM|AI: 진짜진짜 맛있어!
+81#ZW|User: 먹어 보고 싶어!
+82#PS|AI: 좋아! 나중에 같이 가자!
+83#MV|
+84#TN|**Outro:**
+85#QR|> Food date: loading... 🍽️
+86#NT|> Time to lock in those weekend plans!
+87#KJ|>
+88#XY|
+89#BW|---
+90#HN|
+91#ZT|### sim3: Let's Hang Out
+92#PK|
+93#MJ|**Goal:** To make weekend plans and get each other's KakaoTalk.
+94#QY|
+95#VH|**📍 장소:** 밖 (동일)
+96#RX|
+97#WB|**전 — 놀자 [세트 5]**
+98#SZ|AI: 아, 참!
+99#NP|AI: 주말에 뭐 해?
+100#TQ|User: 아직 몰라! / 없어!
+101#KX|AI: 오! 나도 없어!
+102#XS|AI: 같이 놀래?
+103#JV|User: 좋아! 뭐 할까?
+104#YB|AI: 밥 먹으러 가자!
+105#HK|
+106#TN|**Outro:**
+107#ZQ|> Weekend plans: locked in! 🥂
+108#PM|> But wait — how will you stay in touch?
+109#VN|>
+110#RW|
+111#SK|**결 — 또 보자 [세트 6]**
+112#WT|AI: 잠깐!
+113#NX|AI: 카톡 있어?
+114#TJ|User: 응, 있어!
+115#KB|AI: 오! 아이디 뭐야?
+116#XH|AI: 나한테 알려 줘!
+117#JM|User: 여기!
+118#YS|AI: 좋아! 연락할게! 또 보자!
+119#BZ|
+120#TN|**Outro:**
+121#ZS|> Contact secured! 🔒
+122#PH|> First friend, weekend plans, Kakao exchanged — you're officially in.
+123#MR|> Next up: the real test of compatibility begins...
+124#QW|>
+125#VT|
+126#RK|---
