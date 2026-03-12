@@ -27,6 +27,7 @@ User: 아니에요.
 
 **Outro:**
 > She adjusts her bag nervously, still looking at you.
+>
 
 **승 — 대화 시작 [세트 2]**
 User: 자주 와요, 여기?
@@ -54,6 +55,7 @@ User: 그러네요.
 
 **Outro:**
 > She's clearly happy to see you again.
+>
 
 **승 — 연락처 교환 [세트 2]**
 User: 연락해도 돼요?
@@ -81,6 +83,7 @@ User: 몰랐어.
 
 **Outro:**
 > She falls into step beside you naturally.
+>
 
 **승 — 편한 대화 [세트 2]**
 User: 오늘 뭐 했어?
@@ -117,6 +120,7 @@ User: 같이 공부해요.
 
 **Outro:**
 > She opens her book but keeps glancing up.
+>
 
 **승 — 설레는 분위기 [세트 2]**
 User: 시험 있어요?
@@ -144,6 +148,7 @@ User: 말해요.
 
 **Outro:**
 > She takes a deep breath and looks at you.
+>
 
 **승 — 고백 [세트 2]**
 User: 뭔데요?
@@ -171,6 +176,7 @@ User: 나도 좋아해.
 
 **Outro:**
 > She breaks into a wide smile and looks down.
+>
 
 **승 — 새로운 시작 [세트 2]**
 User: 오늘 뭐 해?
@@ -207,6 +213,7 @@ User: 네, 잘 지냈어요.
 
 **Outro:**
 > She stands still, clearly wanting to say more.
+>
 
 **승 — 대화 시도 [세트 2]**
 User: 시간 있어요?
@@ -234,6 +241,7 @@ User: 조금요.
 
 **Outro:**
 > She exhales slowly, like she's been holding that in for a while.
+>
 
 **승 — 화해 [세트 2]**
 User: 괜찮아요, 이제.
@@ -261,6 +269,7 @@ User: 나도 그랬어.
 
 **Outro:**
 > She leans against the door with a soft smile.
+>
 
 **승 — 새 출발 [세트 2]**
 User: 이제 자주 봐.

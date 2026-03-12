@@ -9,12 +9,12 @@
 
 ### sim1: 生日祝福
 
-**Goal:** To send your idol a heartfelt birthday message and tease him about a surprise gift you sent.
+**Goal:** To send your idol a heartfelt birthday message and tease her about a surprise gift you sent.
 
 **📍 장소:** 网上（微博超话留言）
 
 **intro_text:**
-Midnight. It's officially his birthday. My heart is racing...
+Midnight. It's officially her birthday. My heart is racing...
 
 **기 — 生日 [세트 1]**
 User: 生日快乐！
@@ -23,8 +23,8 @@ User: 今天做了什么？
 AI: 跟成员们一起吃蛋糕了！
 
 **Outro:**
-> First birthday message delivered! 🎂 Did he get your special gift yet?
-> The suspense is killing you — and him.
+> First birthday message delivered! 🎂 Did she get your special gift yet?
+> The suspense is killing you — and her.
 >
 
 **승 — 礼物 [세트 2]**
@@ -34,7 +34,7 @@ User: 秘密！/ 是信和礼物！
 AI: 好期待！谢谢！
 
 **Outro:**
-> Gift successfully sent! 🎁 Alert: He just started a surprise live stream!
+> Gift successfully sent! 🎁 Alert: She just started a surprise live stream!
 > Drop everything — the birthday live is starting.
 >
 
@@ -42,7 +42,7 @@ AI: 好期待！谢谢！
 
 ### sim2: 粉丝活动
 
-**Goal:** To cheer for your idol during his birthday live and react to his heartfelt birthday wish.
+**Goal:** To cheer for your idol during her birthday live and react to her heartfelt birthday wish.
 
 **📍 장소:** 网上（直播间）
 
@@ -53,7 +53,7 @@ AI: 有大家真的很幸福！
 User: 我也是。希望你幸福！
 
 **Outro:**
-> He is literally an angel! 👼 Shh... he's about to make his birthday wish.
+> She is literally an angel! 👼 Shh... she's about to make her birthday wish.
 > This is the moment every fan lives for.
 >
 
@@ -83,7 +83,7 @@ AI: 明年生日也一起过！
 User: 当然！
 
 **Outro:**
-> A promise to stay together forever! 💖 Say goodnight before he turns off the camera.
+> A promise to stay together forever! 💖 Say goodnight before she turns off the camera.
 > This is the sweetest moment of the whole birthday.
 >
 
@@ -94,7 +94,7 @@ AI: 爱你们！
 User: 我也爱你！
 
 **Outro:**
-> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind his lyrics.
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind her lyrics.
 > Sweet dreams — you're going to be replaying this all night.
 >
 
@@ -228,7 +228,7 @@ AI: 好羡慕！做了什么？
 
 **Outro:**
 > The story begins! 😱 Your friend is already jealous.
-> And it gets better — you actually talked to him.
+> And it gets better — you actually talked to her.
 >
 
 **승 — 讲故事 [세트 2]**
@@ -239,14 +239,14 @@ AI: 疯了！太厉害了！她说什么了？
 
 **Outro:**
 > You said WHAT?! 🤯 The audacity. The courage. The legend.
-> And his reaction? You need to hear this.
+> And her reaction? You need to hear this.
 >
 
 ---
 
 ### sim2: 细节
 
-**Goal:** To share his reaction, talk about the gift exchange, and make plans to go together next time.
+**Goal:** To share her reaction, talk about the gift exchange, and make plans to go together next time.
 
 **📍 장소:** 咖啡馆（同一地点）
 
@@ -258,7 +258,7 @@ AI: 真的？好！
 
 **Outro:**
 > Next fan meeting: booked (mentally)! 🎫 Your friend is already planning the outfit.
-> But first — did you give him a gift?
+> But first — did you give her a gift?
 >
 
 **전 — 礼物 [세트 4]**
@@ -268,7 +268,7 @@ AI: 她会看吗？
 User: 嗯，她说一定会看的！
 
 **Outro:**
-> He promised to read your letter! 💌 That's basically a love confession.
+> She promised to read your letter! 💌 That's basically a love confession.
 > The excitement still hasn't worn off — and it won't for a while.
 >
 
