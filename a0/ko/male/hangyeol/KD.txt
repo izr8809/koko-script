@@ -237,7 +237,7 @@ He's not talking. That never happens.
 
 User: 왜 말 없어?
 AI: 그냥.
-User: 너답지 않아.
+User: 왜 그래?
 AI: …알아.
 
 **Outro:**

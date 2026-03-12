@@ -92,7 +92,7 @@ AI: 편하게 앉으세요.
 
 **결 — 맛 [세트 6]**
 User: 맛있어요?
-AI: 네, 맛있어요.
+AI: 네, 인기 많아요.
 User: 감사합니다!
 AI: 또 오세요. 감사합니다.
 
@@ -229,7 +229,7 @@ Everything has a story here.
 User: 이거 얼마예요?
 AI: 오천 원이에요.
 User: 비싸요?
-AI: 아니요, 싸요.
+AI: 괜찮은 가격이에요.
 
 **Outro:**
 > Price checked!

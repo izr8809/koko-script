@@ -116,7 +116,7 @@ You're selected to meet her backstage briefly.
 User: 콘서트 기대돼요.
 AI: 잘 할게요. 기대하세요.
 User: 응원해요.
-AI: 고마워요. 힘이 돼요.
+AI: 고마워요. 기억할게요.
 
 **Outro:**
 > She adjusts her earpiece and looks ready to perform.

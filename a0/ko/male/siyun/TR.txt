@@ -24,7 +24,7 @@ Don't embarrass him.
 User: 아이스 아메리카노 주세요.
 AI: 사이즈는요?
 User: 기본이요.
-AI: 잠깐만요.
+AI: 네, 잠깐만요. 준비할게요.
 
 **Outro:**
 > Order placed. ☕
@@ -54,7 +54,7 @@ AI: 네!
 User: 카드 돼요?
 AI: 네, 돼요.
 User: 감사합니다!
-AI: 네!
+AI: 감사합니다!
 
 **Outro:**
 > Payment done! 💳
@@ -128,7 +128,7 @@ Let's see if you can.
 User: 한 명이요.
 AI: 이쪽이에요.
 User: 네, 감사합니다.
-AI: 잠깐만요.
+AI: 네, 알겠어요. 잠깐만요.
 
 **Outro:**
 > Seated! 🪑
@@ -158,7 +158,7 @@ AI: 알겠어요.
 User: 많이 매워요?
 AI: 조금 매워요.
 User: 덜 맵게 해주세요.
-AI: 알겠어요.
+AI: 네, 덜 맵게 해드릴게요.
 
 **Outro:**
 > Crisis averted! 🥵
@@ -169,7 +169,7 @@ AI: 알겠어요.
 User: 반찬 더 주세요.
 AI: 어떤 거요?
 User: 김치 더 주세요.
-AI: 잠깐만요.
+AI: 김치요? 네, 가져다드릴게요.
 
 **Outro:**
 > Refill secured! 🥢
@@ -244,7 +244,7 @@ AI: 출발할게요.
 User: 오래 걸려요?
 AI: 한 10분이요.
 User: 괜찮아요.
-AI: 네.
+AI: 네, 알겠습니다.
 
 **Outro:**
 > Traffic? No problem! 🛣️
@@ -296,7 +296,7 @@ AI: 네, 알겠습니다.
 User: 카드 돼요?
 AI: 네, 돼요.
 User: 감사합니다!
-AI: 네.
+AI: 감사합니다. 조심히 가세요.
 
 **Outro:**
 > Payment sorted! 💳

@@ -237,7 +237,7 @@ You spot her standing outside without an umbrella.
 User: 우산 없어요?
 AI: 금방 그칠 거예요.
 User: 쓰세요.
-AI: 괜찮아요. 걱정 마세요.
+AI: 괜찮아요. 제가 있어요.
 
 **Outro:**
 > You insist. She accepts reluctantly without meeting your eyes.

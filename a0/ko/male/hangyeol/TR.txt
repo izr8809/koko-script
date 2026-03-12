@@ -279,7 +279,7 @@ User: 아, 감사합니다!
 AI: 다음 역이야. 준비해!
 User: 벌써? / 알겠어!
 AI: 응! 빨리 일어나.
-User: 오케이!
+User: 알겠어요!
 
 **Outro:**
 > Getting off soon! 🏁

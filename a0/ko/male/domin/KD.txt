@@ -344,7 +344,7 @@ This is going to take more than a sorry.
 ### 기 — 화남 [세트 1]
 
 AI: 왜 전화 안 받았어?
-User: 미안, 못 봤어. / 핸드폰 안 가지고 있었어.
+User: 미안, 못 봤어. / 핸드폰 없었어.
 
 AI: 한 시간이나 기다렸어!
 User: 진짜 미안해. / 화 풀어~

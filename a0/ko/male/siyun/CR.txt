@@ -160,7 +160,7 @@ AI: 이렇게 해. 봐봐.
 User: 선배, 다 했어요.
 AI: 벌써? 봐볼게.
 
-User: 잘 했을까요?
+User: 잘 했어요?
 AI: 기다려. 말하지 마.
 
 **Outro:**
@@ -240,7 +240,7 @@ You're still working. So is he.
 User: 선배도 아직 있어요?
 AI: 응. 너도 아직이야?
 
-User: 저도 아직 못 끝냈어요.
+User: 아직이에요..
 AI: 천천히 해. 급하지 마.
 
 **Outro:**
