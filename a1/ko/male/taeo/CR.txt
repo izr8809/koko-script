@@ -1,0 +1,36 @@
+1#ZV|세트1: 출근 준비
+2#HH|오늘 하늘이 무거워 보여.
+3#NX|무거워? 비 올 것 같아?
+4#BY|아니, 생각이 많은 것 같아.
+5#KK|하늘이 생각을 해?
+6#BQ|He said it like a weather report. Completely serious.
+7#MM|세트2: 업무
+8#VV|이 보고서 어떻게 생각해?
+9#TP|숫자들이 외로워 보여.
+10#ZQ|숫자가 외로워?
+11#BS|혼자 있잖아, 줄마다.
+12#ZW|He reorganized the spreadsheet so the numbers felt less alone.
+13#PQ|세트3: 점심
+14#QJ|점심 뭐 먹을래?
+15#HW|빵이 먹고 싶어. 구름 같은 거.
+16#WK|구름 같은 빵?
+17#HH|폭신한 거 있잖아.
+18#XB|He found the fluffiest bread in the bakery. Naturally.
+19#RT|세트4: 오후 휴식
+20#ZT|잠깐 쉴래?
+21#PV|응, 창문 보고 싶어.
+22#RP|창문?
+23#HY|구름이 움직이잖아.
+24#XB|They watched the clouds for ten minutes. Neither spoke.
+25#KB|세트5: 동료 관계
+26#WT|팀 분위기 어때?
+27#ZT|다들 바빠 보여서 슬퍼.
+28#JT|슬퍼?
+29#WV|바쁘면 하늘을 못 보잖아.
+30#HR|He left a small plant on everyone's desk. Anonymously.
+31#SM|세트6: 퇴근
+32#PH|오늘 어땠어?
+33#QX|오늘 하늘이 오렌지였어.
+34#MZ|오렌지?
+35#TX|그게 제일 좋았어.
+36#XN|He took a photo of the sky every day. He had thousands.

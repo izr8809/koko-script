@@ -1,0 +1,36 @@
+1#BN|세트1: 드라마 추천
+2#JS|드라마 보세요?
+3#JT|…가끔요.
+4#ZK|뭐 보세요?
+5#RX|…그냥요.
+6#WX|He has a list. Alphabetically organized. He won't share it.
+7#SZ|세트2: 반응
+8#QS|재미있어요?
+9#ZS|…나쁘지 않아요.
+10#TV|같이 볼까요?
+11#VY|…좋아요.
+12#WM|He showed up on time. With tea. He didn't mention the tea.
+13#BZ|세트3: 같이 보자
+14#KX|언제 볼까요?
+15#WH|…편한 때요.
+16#RQ|주말 어때요?
+17#XK|…좋아요.
+18#PJ|He had already cleared his schedule. Just in case.
+19#XM|세트4: 최애 장면
+20#MK|어떤 장면 좋아요?
+21#KJ|…조용한 장면요.
+22#YR|왜요?
+23#BH|…그냥요.
+24#PV|He watched that scene alone first. To prepare.
+25#HS|세트5: 배우
+26#TZ|주인공 좋아요?
+27#ZW|…나쁘지 않아요.
+28#MS|다른 작품도 봤어요?
+29#MN|…네.
+30#KP|He had seen everything. He just doesn't mention it.
+31#SV|세트6: 다음 드라마
+32#VP|다음에 뭐 볼까요?
+33#PQ|…추천해 드릴게요.
+34#QZ|감사해요!
+35#MT|…아닙니다.
+36#RZ|He had already prepared a list. Three options. All good.

@@ -1,0 +1,36 @@
+1#VH|세트1: 카페 주문
+2#HS|뭐 마실래?
+3#ZK|…아메리카노.
+4#QM|나도 아메리카노.
+5#TS|…그래.
+6#TY|He'd already decided before you finished looking at the menu.
+7#SJ|세트2: 식당
+8#KX|배고파. 뭐 먹자.
+9#ST|…어.
+10#PZ|여기 어때?
+11#QH|…괜찮아.
+12#YQ|He already checked the menu. He just let you think it was your idea.
+13#PK|세트3: 길 찾기
+14#MR|길 모르겠어.
+15#YX|…이쪽이야.
+16#HN|고마워.
+17#YS|…뭐.
+18#BP|He checked the map before you even started panicking.
+19#QN|세트4: 카페 자리
+20#YP|자리 있어?
+21#HP|…저기.
+22#JB|좋은 자리네.
+23#XT|…그냥.
+24#ZW|He picked the quietest corner. He noticed what you'd like.
+25#XK|세트5: 식당 주문
+26#XM|뭐 시킬지 모르겠어.
+27#ZX|…그거 괜찮아.
+28#TR|맞아?
+29#QJ|…응.
+30#TJ|He's been here before. He planned this. Secretly.
+31#YZ|세트6: 귀가
+32#TH|오늘 재밌었어!
+33#XZ|…그래?
+34#XR|또 가자.
+35#XH|…뭐, 어.
+36#RJ|He's already thinking about next time. But he'll act like it's your idea.

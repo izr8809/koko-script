@@ -1,0 +1,36 @@
+1#ZK|세트1: 아티스트
+2#ZY|케이팝 좋아해?
+3#XN|…뭐.
+4#TS|누구 들어?
+5#VH|…그냥 이것저것.
+6#WX|This and that means one specific artist played on repeat since 2019.
+7#KX|세트2: 노래
+8#RP|이 노래 알아?
+9#HT|…알아.
+10#RS|좋아?
+11#BV|…나쁘진 않아.
+12#QN|It's in his playlist. Has been for two years.
+13#QP|세트3: 콘서트
+14#NQ|콘서트 가봤어?
+15#YZ|…응.
+16#KV|어땠어?
+17#PR|…좋았어.
+18#VJ|He has the ticket stub in his drawer. He knows exactly where.
+19#ZW|세트4: 최애 곡
+20#MS|최애 곡 있어?
+21#VP|…있어.
+22#MY|뭔데?
+23#XY|…비밀이야.
+24#KJ|It's emotional. Way more emotional than his face lets on.
+25#VY|세트5: 앨범
+26#WQ|새 앨범 들었어?
+27#WR|…들었어.
+28#PT|어때?
+29#QY|…괜찮아.
+30#YK|He pre-ordered it. He'll say he just happened to buy it.
+31#SW|세트6: 추천
+32#PN|노래 추천해 줘.
+33#HX|…들어봐.
+34#XR|고마워!
+35#KP|…뭐.
+36#NS|He thought about which song for three days before saying it.

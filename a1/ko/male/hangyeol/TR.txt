@@ -1,0 +1,36 @@
+1#TM|세트1: 카페 추천
+2#SK|근처에 카페 좋은 데 알아?
+3#PP|응! 내가 자주 가는 데 있어! 같이 가자!
+4#RV|거기 분위기 어때?
+5#VH|완전 좋아! 조용하고 커피도 맛있어!
+6#TP|He had already mapped the route in his head.
+7#JK|세트2: 식당 선택
+8#XM|오늘 점심 뭐 먹을지 모르겠어.
+9#YZ|삼겹살 어때? 내가 아는 맛집 있어!
+10#HX|거기 맛있어?
+11#RM|응! 완전 맛있어! 꼭 가봐야 해!
+12#KN|He was already walking toward the restaurant before she agreed.
+13#NK|세트3: 여행 계획
+14#MV|주말에 어디 놀러 가고 싶어.
+15#ZV|한강 어때? 날씨 좋으면 완전 좋잖아!
+16#WN|좋아! 같이 가자!
+17#HY|응! 뭐 먹을지도 생각해 놓을게!
+18#XB|He had already planned the entire picnic menu.
+19#RS|세트4: 길 안내
+20#NQ|지하철역 어떻게 가는지 알아?
+21#XW|응! 내가 데려다 줄게! 따라와!
+22#RR|고마워, 잘 알고 있네.
+23#QH|헤헤, 이 동네 자주 와서!
+24#BV|He had memorized every shortcut in the neighborhood.
+25#WT|세트5: 숙소 찾기
+26#HZ|이 근처에 숙소 찾고 있는데 모르겠어.
+27#XJ|내가 아는 데 있어! 가격도 괜찮아!
+28#WJ|진짜? 고마워!
+29#MY|같이 가서 확인해 볼까?
+30#WV|He had already looked up the reviews. All five stars.
+31#TJ|세트6: 여행 마무리
+32#SM|오늘 진짜 재미있었어! 고마워!
+33#PH|나도 완전 재미있었어! 또 가자!
+34#QX|응! 다음에 또 가자!
+35#MZ|헤헤, 기대돼!
+36#TX|He was already planning the next trip before they even got home.

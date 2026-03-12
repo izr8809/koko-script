@@ -1,0 +1,36 @@
+1#ZK|세트1: 음악
+2#ZY|음악 좋아하세요?
+3#XN|…네.
+4#TS|어떤 거요?
+5#VH|…조용한 거요.
+6#WX|He listens with earphones. Always. Even at home.
+7#KX|세트2: 아티스트
+8#RP|누구 좋아하세요?
+9#HT|…딱히요.
+10#RS|추천해 주세요.
+11#BV|…이거 들어보세요.
+12#QN|He had thought about this recommendation for a while.
+13#QP|세트3: 콘서트
+14#NQ|콘서트 가봤어요?
+15#YZ|…네.
+16#KV|어땠어요?
+17#PR|…좋았어요.
+18#VJ|He still has the ticket. In his wallet.
+19#ZW|세트4: 같이 듣기
+20#MS|같이 들을까요?
+21#VP|…좋아요.
+22#MY|이어폰 있어요?
+23#XY|…네.
+24#KJ|He handed over one earbud. Quietly. Carefully.
+25#VY|세트5: 최애 곡
+26#WQ|최애 곡 있어요?
+27#WR|…있어요.
+28#PT|뭔데요?
+29#QY|…나중에요.
+30#YK|He'll tell her eventually. When the moment is right.
+31#SW|세트6: 앨범
+32#PN|새 앨범 들었어요?
+33#HX|…네.
+34#XR|어때요?
+35#KP|…좋아요.
+36#NS|He pre-ordered it. He won't say that.

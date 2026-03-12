@@ -1,0 +1,36 @@
+1#RM|세트1: 드라마 추천
+2#RZ|요즘 드라마 보고 있어?
+3#KH|응, 주인공이 외로워 보이는 드라마.
+4#JQ|외로워 보이는 게 좋아?
+5#SZ|외로움이 솔직하잖아.
+6#JJ|He watches dramas to feel less alone. It works.
+7#WR|세트2: 반응
+8#YT|그 드라마 어떻게 생각해?
+9#VP|주인공 눈이 슬픈데 예뻐.
+10#VJ|슬픈 게 예뻐?
+11#YK|슬픔이 진짜잖아.
+12#PR|He paused on that frame for a long time.
+13#RZ|세트3: 같이 보자
+14#QR|같이 볼 드라마 찾고 있어.
+15#QP|비 오는 날 보면 좋은 거 있어.
+16#HH|비 오는 날?
+17#YK|비가 드라마를 더 진짜로 만들어.
+18#YW|He checked the forecast. Rain on Saturday. Perfect.
+19#NJ|세트4: 최애 장면
+20#RB|어떤 장면이 제일 좋아?
+21#XW|두 사람이 말 없이 있는 장면.
+22#BQ|말 없이?
+23#NW|말 없어도 다 알잖아, 그 장면에서.
+24#SW|He rewound it seven times. Counting.
+25#VN|세트5: 배우
+26#JQ|주인공 배우 어때?
+27#HN|눈빛이 비 같아.
+28#MR|비 같아?
+29#NB|촉촉하고 슬프잖아.
+30#MZ|He had a whole theory about actors with rain-like eyes.
+31#TY|세트6: 다음 추천
+32#VH|다음에 뭐 볼지 추천해 줄 수 있어?
+33#TH|조용한 드라마 좋아하면 이거 봐봐.
+34#JV|조용한 드라마?
+35#NK|소리보다 침묵이 많은 거.
+36#WZ|He had a ranked list. Sorted by silence.

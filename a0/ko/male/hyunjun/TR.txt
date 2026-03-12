@@ -1,0 +1,36 @@
+1#VH|세트1: 카페 주문
+2#KV|뭐 드실래요?
+3#WR|…아메리카노요.
+4#ZP|차가운 거요?
+5#BW|…네.
+6#YP|He already knew what she'd order. He ordered first.
+7#RK|세트2: 식당
+8#XN|뭐 드실래요?
+9#MJ|…이거 어때요?
+10#ST|좋아요!
+11#KZ|…드세요.
+12#WH|He had already checked the menu online.
+13#VQ|세트3: 길 찾기
+14#PB|여기 어디예요?
+15#NY|…이쪽이에요.
+16#RT|고마워요!
+17#ZM|…아닙니다.
+18#WK|He had memorized the route before they left.
+19#SJ|세트4: 도착
+20#XV|다 왔어요?
+21#BQ|…네.
+22#PH|빨리 왔네요.
+23#NT|…그냥요.
+24#MV|He had planned the fastest route. Of course.
+25#ZV|세트5: 카페 자리
+26#WN|자리 어디 앉을까요?
+27#HY|…저기요.
+28#XB|좋은 자리네요.
+29#RS|…그냥요.
+30#NQ|He picked the quietest corner. He always does.
+31#XW|세트6: 귀가
+32#RR|오늘 좋았어요?
+33#QH|…네.
+34#BV|또 와요.
+35#WT|…네.
+36#HZ|He waited until she got home safely. He checked.

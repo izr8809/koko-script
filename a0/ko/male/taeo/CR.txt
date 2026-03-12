@@ -1,0 +1,36 @@
+1#ZP|세트1: 출근
+2#MQ|오늘 엘리베이터 느려.
+3#VR|그래? 나는 몰랐어!
+4#WS|시간이 느린 거야.
+5#NK|시간이 느려?
+6#TX|The elevator is slow because time is slow. Classic Taeo logic.
+7#JB|세트2: 업무
+8#YH|이 서류 색깔이 슬프다.
+9#ZM|색깔이 슬퍼?
+10#QV|흰색은 외로워.
+11#RW|그렇구나...
+12#SN|He's not wrong. White paper does look lonely.
+13#KT|세트3: 점심
+14#BX|빵 먹을래?
+15#JP|응, 좋아!
+16#XH|빵은 구름이야.
+17#WV|구름이야?
+18#BK|He handed over the bread like it was a piece of sky.
+19#MM|세트4: 오후
+20#TX|창문 밖이 그림 같아.
+21#YV|진짜 예쁘다!
+22#JB|너도 그림 같아.
+23#QK|나도?
+24#ZR|He said it like a fact. No big deal. Just the truth.
+25#PH|세트5: 커피
+26#RW|커피 마셔?
+27#VM|응, 마셔!
+28#SB|커피는 쓴 위로야.
+29#QH|쓴 위로?
+30#WK|He sipped his coffee slowly, like he was listening to it.
+31#TB|세트6: 퇴근
+32#PN|오늘 하늘 맛있다.
+33#MZ|하늘이 맛있어?
+34#YP|응, 오렌지 맛.
+35#JW|오렌지 맛이야?
+36#XN|He looked up at the sky and smiled. That was enough.

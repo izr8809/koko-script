@@ -1,0 +1,36 @@
+1#BN|세트1: 드라마 추천
+2#JS|드라마 봐요?
+3#JT|네! 많이 봐요!
+4#ZK|뭐 봐요?
+5#RX|도깨비요!
+6#WX|He's been rewatching it for the third time this month.
+7#SZ|세트2: 반응
+8#QS|재미있어요?
+9#ZS|완전 재미있어요!
+10#TV|울었어요?
+11#VY|네, 많이 울었어요!
+12#WM|He cried at every single episode. No regrets.
+13#BZ|세트3: 같이 보자 (반말)
+14#KX|같이 볼까요?
+15#WH|응! 같이 보자!
+16#RQ|언제 볼래?
+17#XK|오늘 어때?
+18#PJ|He already had the streaming app open before she finished asking.
+19#XM|세트4: 최애 장면
+20#MK|최애 장면 있어?
+21#KJ|응! 비 장면!
+22#YR|왜 좋아?
+23#BH|완전 설레!
+24#PV|He acted it out. Twice. With sound effects.
+25#HS|세트5: 배우 얘기
+26#TZ|주인공 좋아?
+27#ZW|응, 완전 좋아!
+28#MS|왜 좋아?
+29#MN|눈빛이 좋아!
+30#KP|He has a dedicated folder of screenshots. Very organized.
+31#SV|세트6: 다음 드라마
+32#VP|다음에 뭐 볼까?
+33#PQ|슬의생 어때?
+34#QZ|좋아!
+35#MT|같이 보자!
+36#RZ|He already downloaded all 12 episodes. Just in case.

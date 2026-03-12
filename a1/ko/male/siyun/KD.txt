@@ -1,0 +1,36 @@
+1#BN|세트1: 요즘 드라마
+2#JS|요즘 드라마 많이 나오는 것 같아.
+3#JT|…그러게.
+4#ZK|요즘 뭐 보고 있어?
+5#RX|…그냥 좀 봐.
+6#WX|He has a spreadsheet. Rated. Reviewed. For his eyes only.
+7#SZ|세트2: 드라마 장르
+8#QS|어떤 장르 좋아해?
+9#ZS|…딱히 없어.
+10#TV|로맨스는 어때?
+11#VY|…뭐, 나쁘진 않아.
+12#WM|His most-watched genre is romance. The algorithm knows.
+13#BZ|세트3: 최애 캐릭터
+14#KX|이 드라마에서 누가 제일 좋아?
+15#WH|…그 남자.
+16#RQ|왜 그 캐릭터야?
+17#XK|…그냥 말 없잖아.
+18#PJ|Identifying with a character. He'd never say it out loud.
+19#XM|세트4: 같이 보자
+20#MK|다음 주에 같이 보면 어때?
+21#KJ|…어, 뭐.
+22#YR|그럼 내 집에서 볼까?
+23#BH|…원하면.
+24#PV|He showed up with snacks. Just happened to have them.
+25#HS|세트5: 감동 장면
+26#TZ|그 장면 진짜 감동적이었어.
+27#ZW|…그랬나.
+28#MS|너 그 장면에서 울 뻔 했잖아.
+29#MN|…안 울었어.
+30#KP|He paused the episode twice at that scene. Technical issues.
+31#SV|세트6: 다음 추천
+32#VP|다음에 볼 것 좀 추천해 줄 수 있어?
+33#PQ|…그거 봐봐.
+34#QZ|네가 좋아하는 거야?
+35#MT|…그냥 괜찮은 것 같아서.
+36#RZ|He watched it three times. It's his comfort show. You'll find out eventually.

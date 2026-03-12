@@ -1,0 +1,36 @@
+1#ZP|세트1: 출근 인사
+2#MQ|안녕하세요! 오늘도 화이팅이에요!
+3#VR|안녕하세요!
+4#WS|오늘 날씨 좋죠?
+5#NK|네, 좋아요!
+6#TX|He burst through the door like he invented Monday mornings.
+7#JB|세트2: 업무 요청
+8#YH|이거 봐 주세요.
+9#ZM|네, 알겠어요!
+10#QV|어려워요?
+11#RW|아니요, 쉬워요!
+12#SN|He did a tiny fist pump after finishing. Everyone saw.
+13#KT|세트3: 점심 (반말 전환)
+14#BX|말 놓을까요?
+15#JP|응! 말 놓자!
+16#XH|뭐 먹어?
+17#WV|치킨 어때?
+18#BK|He practically levitated at the word chicken.
+19#MM|세트4: 퇴근
+20#TX|다 끝났어?
+21#YV|응! 끝났어!
+22#JB|같이 나가자.
+23#QK|좋아! 가자!
+24#ZR|내일 봐.
+25#PH|응, 내일 봐! 헤헤.
+26#RW|He waved like he was leaving summer camp.
+27#VM|세트5: 동료 소개
+28#SB|새 동료야.
+29#QH|안녕하세요! 반가워요!
+30#WK|잘 부탁해요.
+31#TB|네, 잘 부탁드려요!
+32#PN|He already memorized their name and favorite snack.
+33#MZ|세트6: 회의
+34#YP|회의 있어요.
+35#JW|네, 알아요!
+36#XN|He arrived five minutes early with color-coded notes.

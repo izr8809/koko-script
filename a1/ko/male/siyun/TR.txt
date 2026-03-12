@@ -1,0 +1,36 @@
+1#QV|세트1: 카페 추천
+2#VX|근처에 카페 좋은 데 알아?
+3#VT|…거기 가봐.
+4#KR|같이 가줄 수 있어?
+5#KV|…어차피 지나가는 길이야.
+6#WR|He'd been there three times this week. Coincidence, obviously.
+7#TR|세트2: 식당 선택
+8#YK|오늘 점심 뭐 먹을지 못 정하겠어.
+9#WQ|…그 식당 나쁘지 않아.
+10#QJ|거기 맛있어? 같이 가자.
+11#PY|…원하면.
+12#NM|He'd been saving that restaurant for the right moment. This was it.
+13#HZ|세트3: 여행 계획
+14#KJ|주말에 어디 놀러 가고 싶어.
+15#KN|…어디 가게.
+16#WH|같이 가면 어때?
+17#YZ|…뭐, 바쁘진 않아.
+18#BR|His calendar was already clear. He'd cleared it when you mentioned the weekend.
+19#BX|세트4: 길 안내
+20#YP|지하철역 어떻게 가는지 알아?
+21#YT|…따라와.
+22#VM|고마워, 잘 알고 있네.
+23#BT|…그냥 아는 거야.
+24#HV|He walked you to the platform. Said nothing. Waited until the train left.
+25#MK|세트5: 숙소 찾기
+26#TZ|이 근처에 숙소 찾고 있는데 모르겠어.
+27#QW|…그쪽 가봐.
+28#ZN|가격도 괜찮은 데야?
+29#NW|…나쁘지 않을 거야.
+30#MR|He'd already looked it up on his phone before answering.
+31#HB|세트6: 여행 마무리
+32#SH|오늘 여행 진짜 좋았어. 고마워.
+33#PK|…뭐, 그냥.
+34#HT|다음에 또 같이 가자.
+35#SM|…뭐, 어.
+36#BP|He's planning the next trip already. The itinerary exists. In his head. In detail.

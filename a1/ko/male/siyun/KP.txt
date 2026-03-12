@@ -1,0 +1,36 @@
+1#QP|세트1: 아티스트 추천
+2#VM|요즘 어떤 아티스트 듣고 싶어?
+3#MX|…그냥 다 비슷비슷해.
+4#WZ|그래도 한 명만 추천해 줘.
+5#VT|…그 가수 들어봐.
+6#TV|He's been waiting for someone to ask. He had the answer ready.
+7#PJ|세트2: 콘서트 경험
+8#TQ|콘서트 가고 싶은데, 가봤어?
+9#XK|…몇 번.
+10#HZ|어땠어? 좋았어?
+11#QN|…나쁘진 않았어.
+12#QB|He cried a little. Front row. He booked it six months in advance.
+13#BS|세트3: 최애 노래
+14#PM|요즘 제일 많이 듣는 노래가 뭐야?
+15#MT|…딱히 없어.
+16#HV|그래도 하나만 알려줘.
+17#MB|…그거 들어봐.
+18#QR|Plays it every morning. Knows every lyric. Won't tell you that.
+19#QT|세트4: 앨범 얘기
+20#JV|이번 앨범 컨셉이 진짜 좋은 것 같아.
+21#NW|…그런 것 같더라.
+22#HN|너도 좋아하는 곡 있어?
+23#NT|…몇 개 있어.
+24#ZV|He has a ranked list. Typed up. Saved on his phone notes.
+25#RT|세트5: 음악 취향
+26#JM|너 음악 취향이 좀 독특한 것 같아.
+27#PK|…그래?
+28#YZ|좀 더 알려줘. 어떤 거 좋아해?
+29#HJ|…분위기 있는 거.
+30#BX|He means songs that feel like 3am and rain and being understood.
+31#SX|세트6: 같이 듣기
+32#YT|이어폰 나눠서 같이 들을까?
+33#ZM|…뭐, 어.
+34#XW|이 노래 어때?
+35#BP|…괜찮네.
+36#MV|He didn't let go of his earbud the entire time.

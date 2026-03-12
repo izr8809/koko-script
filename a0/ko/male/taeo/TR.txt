@@ -1,0 +1,36 @@
+1#VH|세트1: 카페
+2#KV|이 카페 공기가 달라.
+3#WR|달라?
+4#ZP|여기 시간이 느려.
+5#BW|시간이 느려?
+6#YP|He ordered the same drink every time. It tasted like Tuesday.
+7#RK|세트2: 식당
+8#XN|이 식당 슬프다.
+9#MJ|슬퍼?
+10#ST|의자가 외로워 보여.
+11#KZ|의자가 외로워?
+12#WH|He sat in the loneliest chair. On purpose.
+13#VQ|세트3: 길 찾기
+14#PB|여기 어디야?
+15#NY|저기야.
+16#RT|저기?
+17#ZM|구름 방향.
+18#WK|He pointed at the sky. She followed. It worked.
+19#SJ|세트4: 산책
+20#XV|산책할래?
+21#BQ|응, 좋아.
+22#PH|어디 가?
+23#NT|바람 따라가.
+24#MV|He walked slowly. He always does.
+25#ZV|세트5: 카페 자리
+26#WN|자리 어디 앉을까?
+27#HY|창가.
+28#XB|왜 창가야?
+29#RS|하늘 보이잖아.
+30#NQ|He always picks the window seat. The sky is company.
+31#XW|세트6: 귀가
+32#RR|오늘 좋았어?
+33#QH|응, 좋았어.
+34#BV|또 와?
+35#WT|바람이 부르면.
+36#HZ|He meant yes. In his own language.

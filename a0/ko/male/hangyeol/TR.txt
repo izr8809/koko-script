@@ -1,0 +1,36 @@
+1#VH|세트1: 카페 주문
+2#KV|뭐 마실래요?
+3#WR|아메리카노요!
+4#ZT|차가운 거요?
+5#ZP|네, 차가운 거요!
+6#BW|He already knew his order before entering the café.
+7#YP|세트2: 식당
+8#RK|뭐 먹을래요?
+9#XN|삼겹살 어때요?
+10#MJ|좋아요!
+11#ST|같이 가요!
+12#KZ|He was already walking toward the restaurant.
+13#WH|세트3: 길 찾기
+14#VQ|여기 어디예요?
+15#PB|저기예요!
+16#NY|고마워요!
+17#RT|같이 가요!
+18#ZM|He had already checked the map three times.
+19#WK|세트4: 도착
+20#SJ|다 왔어요?
+21#XV|네, 다 왔어요!
+22#BQ|빨리 왔네요.
+23#PH|헤헤, 신나요!
+24#NT|He took a photo immediately upon arrival.
+25#MV|세트5: 카페 자리
+26#ZV|자리 있어요?
+27#WN|저기 있어요!
+28#HY|좋은 자리네요.
+29#XB|헤헤, 좋죠?
+30#RS|He had scouted the best seat in advance.
+31#NQ|세트6: 귀가
+32#XW|재미있었어요?
+33#RR|네! 완전 재미있었어요!
+34#QH|또 와요.
+35#BV|네! 또 와요!
+36#WT|He was already planning the next outing on the way home.

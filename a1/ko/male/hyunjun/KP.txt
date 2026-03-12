@@ -1,0 +1,36 @@
+1#BW|세트1: 음악 취향
+2#YV|어떤 음악 좋아하세요?
+3#MX|…조용한 거요. 가사가 좋은 거.
+4#VB|추천해 주실 수 있어요?
+5#MX|…이거 들어보세요.
+6#JN|He thought about this recommendation for three days.
+7#RW|세트2: 아티스트
+8#SP|좋아하는 아티스트 있어요?
+9#TW|…딱히요.
+10#VY|그래도 한 명만요.
+11#HS|…이분이요.
+12#QK|He had an answer ready. He was waiting to be asked.
+13#MZ|세트3: 콘서트
+14#TZ|콘서트 가봤어요?
+15#HP|…네. 몇 번요.
+16#NZ|어떠셨어요?
+17#RQ|…좋았어요.
+18#TM|He still has every ticket stub. In a small box.
+19#BW|세트4: 같이 듣기
+20#MW|같이 들을까요? 이어폰 나눠도 돼요.
+21#KV|…좋아요.
+22#TR|이 노래 어때요?
+23#SR|…좋아요.
+24#QW|He didn't let go of his earbud the entire time.
+25#RW|세트5: 최애 곡
+26#JY|최애 곡 있으세요?
+27#QJ|…있어요.
+28#TK|뭔데요?
+29#KY|…나중에 알려드릴게요.
+30#BH|He'll tell her when the moment is right. He's been waiting.
+31#JY|세트6: 앨범 얘기
+32#ZZ|새 앨범 들으셨어요?
+33#YQ|…네.
+34#VM|어떠세요?
+35#XJ|…좋아요.
+36#BR|He pre-ordered it. He won't say that either.

@@ -1,0 +1,36 @@
+1#ZK|세트1: 음악
+2#ZY|이 노래 들어봤어?
+3#XN|아니, 뭔데?
+4#TS|구름 같은 노래야.
+5#VH|구름 같아?
+6#WX|He plays it when the sky looks heavy.
+7#KX|세트2: 아티스트
+8#RP|누구 좋아해?
+9#HT|목소리가 파란 사람.
+10#RS|파란 목소리?
+11#BV|들으면 알아.
+12#QN|He played the song. She understood immediately.
+13#QP|세트3: 콘서트
+14#NQ|콘서트 가봤어?
+15#YZ|응, 갔어.
+16#KV|어땠어?
+17#PR|공기가 달랐어.
+18#VJ|He still remembers the exact smell of that night.
+19#ZW|세트4: 최애 곡
+20#MS|최애 곡 있어?
+21#VP|있어.
+22#MY|뭔데?
+23#XY|비밀이야.
+24#KJ|It's the one he plays when he's most himself.
+25#VY|세트5: 같이 듣기
+26#WQ|같이 들을래?
+27#WR|응, 좋아.
+28#PT|이어폰 있어?
+29#QY|응.
+30#YK|They listened without talking. That was the point.
+31#SW|세트6: 노래 추천
+32#PN|노래 추천해 줘.
+33#HX|이거 들어봐.
+34#XR|어떤 노래야?
+35#KP|네 느낌이야.
+36#NS|He thought about it for a week before choosing.

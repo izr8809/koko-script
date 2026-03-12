@@ -1,0 +1,36 @@
+1#ZV|세트1: 출근 준비
+2#HH|오늘도 일찍 오셨네요.
+3#NX|…그냥 일찍 일어났어요.
+4#BY|커피는 드셨어요?
+5#KK|…이미 마셨어요.
+6#BQ|He got there early enough to notice when she arrived. Not that he was waiting.
+7#MM|세트2: 업무 요청
+8#VV|이 자료 검토해 주실 수 있어요?
+9#TP|…네. 바로 볼게요.
+10#ZQ|오늘까지 가능할까요?
+11#BS|…네. 오늘까지 드릴게요.
+12#ZW|He finished it an hour early. He didn't mention that.
+13#PQ|세트3: 점심
+14#QJ|점심 같이 드실래요?
+15#HW|…좋아요.
+16#WK|뭐 드시고 싶어요?
+17#HH|…아무거나 괜찮아요.
+18#XB|He had already chosen the restaurant. He just waited to be asked.
+19#RT|세트4: 야근
+20#ZT|오늘 야근 해야 할 것 같아요.
+21#PV|…저도 있어요.
+22#RP|같이 있으면 덜 힘들겠어요.
+23#HY|…그럴 수도 있어요.
+24#XB|He stayed. He didn't have to. He ordered dinner for two.
+25#KB|세트5: 동료 관계
+26#WT|팀 분위기 좋은 것 같아요.
+27#ZT|…그런가요.
+28#JT|현준 씨 덕분인 것 같아요.
+29#WV|…아닙니다.
+30#HR|He looked away. But something in his expression softened.
+31#SM|세트6: 퇴근 길
+32#PH|오늘 어디 가세요?
+33#QX|…집이요.
+34#MZ|같은 방향이면 같이 가요.
+35#TX|…어, 뭐.
+36#XN|He had checked the map beforehand. Same direction. Of course.

@@ -1,0 +1,36 @@
+1#ZV|세트1: 출근 준비
+2#HH|오늘도 일찍 왔네요!
+3#NX|네, 오늘 할 일이 많아서요!
+4#BY|커피는 마셨어요?
+5#KK|네, 마셨어요! 오늘 열심히 할게요!
+6#BQ|He arrived early enough to rearrange his desk for maximum efficiency.
+7#MM|세트2: 업무 요청
+8#VV|이 자료 검토해 줄 수 있어요?
+9#TP|네, 물론이죠! 바로 볼게요!
+10#ZQ|오늘까지 가능할까요?
+11#BS|네, 오늘까지 다 할 수 있어요!
+12#ZW|He finished it in half the time and asked for more work.
+13#PQ|세트3: 점심 (반말 전환)
+14#QJ|우리 말 놓을까요?
+15#HW|응! 말 놓자! 편하게 해!
+16#WK|뭐 먹고 싶어?
+17#HH|삼겹살 먹고 싶어! 배고파!
+18#XB|He was practically running to the restaurant.
+19#RT|세트4: 퇴근
+20#ZT|오늘 일 다 끝났어?
+21#PV|응! 다 끝냈어! 힘들었지만 재미있었어!
+22#RP|수고했어. 같이 나가자.
+23#HY|좋아! 버스 같이 타자!
+24#XB|He was already planning tomorrow's lunch menu.
+25#KB|세트5: 동료 관계
+26#WT|팀 분위기 어때?
+27#ZT|완전 좋아! 다들 친절해!
+28#JT|너 덕분에 더 좋아진 것 같아.
+29#WV|에이, 그런 거 아니야! 헤헤.
+30#HR|He was beaming. He'd been hoping someone would notice.
+31#SM|세트6: 야근
+32#PH|오늘 야근 해야 할 것 같아.
+33#QX|나도 있어! 같이 하면 덜 힘들잖아!
+34#MZ|고마워.
+35#TX|같이 하면 더 빨리 끝낼 수 있어!
+36#XN|He had already ordered delivery for two. Just in case.

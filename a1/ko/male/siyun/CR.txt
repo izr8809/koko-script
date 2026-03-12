@@ -1,0 +1,36 @@
+1#VH|세트1: 출근 준비
+2#YX|오늘도 일찍 왔네.
+3#MS|…그냥 일찍 일어났어.
+4#RP|커피는 마셨어?
+5#WX|…이미 마셨어.
+6#MV|He got here early enough to notice when you arrived. Not that he was waiting.
+7#JM|세트2: 프로젝트
+8#BQ|이번 프로젝트 어때?
+9#ZB|…별로 어렵진 않아.
+10#HW|같이 하면 어때?
+11#JR|…원하면 해.
+12#KM|He said if you want. His finger was already opening the document.
+13#KS|세트3: 점심 메뉴
+14#TV|오늘 점심 뭐 먹을지 모르겠어.
+15#KH|…그 집 괜찮던데.
+16#YM|거기 같이 가자.
+17#XR|…뭐, 어차피 가는 길이야.
+18#QX|He knew the restaurant hours. He'd been there before. Alone.
+19#VN|세트4: 야근
+20#WZ|오늘 야근 해야 할 것 같아.
+21#SM|…나도 있어.
+22#BX|같이 있으면 덜 힘들겠다.
+23#PM|…별로 안 힘든데.
+24#BY|He stayed. He didn't have to. But he did.
+25#NV|세트5: 동료 관계
+26#ZN|우리 팀 분위기 좋은 것 같아.
+27#NM|…그런가.
+28#PH|너 때문에 더 좋은 것 같아.
+29#KP|…뭔 소리야.
+30#WV|He looked away immediately. But his expression softened for just a second.
+31#NP|세트6: 퇴근 길
+32#TP|오늘 고생 많았어. 어디 가?
+33#HS|…그냥 집.
+34#SZ|나랑 같은 방향이면 같이 가자.
+35#PX|…어, 뭐.
+36#SY|Same direction. He'd checked the map before asking. Not that he'd admit it.

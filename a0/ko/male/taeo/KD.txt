@@ -1,0 +1,36 @@
+1#BN|세트1: 드라마 추천
+2#JS|이 드라마 봤어?
+3#JT|아니, 뭔데?
+4#ZK|슬픈 드라마야.
+5#RX|슬퍼?
+6#WX|He already knew the ending. He'd felt it before watching.
+7#SZ|세트2: 반응
+8#QS|어떻게 생각해?
+9#ZS|주인공이 외로워 보여.
+10#TV|외로워?
+11#VY|눈이 그래.
+12#WM|He paused the episode to look at the character's eyes.
+13#BZ|세트3: 같이 보자
+14#KX|같이 볼래?
+15#WH|응, 좋아.
+16#RQ|언제?
+17#XK|비 오는 날.
+18#PJ|He was already checking the weather forecast.
+19#XM|세트4: 최애 장면
+20#MK|어떤 장면 좋아?
+21#KJ|조용한 장면.
+22#YR|조용한 거?
+23#BH|말 없어도 알잖아.
+24#PV|He rewound that scene four times. In silence.
+25#HS|세트5: 배우
+26#TZ|주인공 좋아?
+27#ZW|눈빛이 슬퍼.
+28#MS|슬픈 게 좋아?
+29#MN|슬픔이 예뻐.
+30#KP|He collects sad things. He finds them beautiful.
+31#SV|세트6: 다음 드라마
+32#VP|다음에 뭐 볼까?
+33#PQ|비 오는 드라마.
+34#QZ|비 오는 드라마?
+35#MT|비가 솔직하잖아.
+36#RZ|He had a whole list. All rainy. All honest.

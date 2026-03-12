@@ -1,0 +1,36 @@
+1#TM|세트1: 카페 추천
+2#SK|카페 좋은 데 알아?
+3#PP|응, 시간이 느린 카페 있어.
+4#RV|시간이 느려?
+5#VH|거기 있으면 생각이 많아져.
+6#TP|He goes there when he needs to think. Which is always.
+7#JK|세트2: 식당 선택
+8#XM|점심 뭐 먹을까?
+9#YZ|구름 같은 거 먹고 싶어.
+10#HX|구름 같은 거?
+11#RM|폭신하고 하얀 거.
+12#KN|He meant tofu soup. She figured it out eventually.
+13#NK|세트3: 여행 계획
+14#MV|주말에 어디 가고 싶어?
+15#ZV|바람이 많은 곳.
+16#WN|바람이 많은 곳?
+17#HY|바람이 솔직하잖아.
+18#XB|He had a specific hill in mind. He'd been there alone before.
+19#RS|세트4: 길 찾기
+20#NQ|여기 어떻게 가는지 알아?
+21#XW|구름 방향으로 가면 돼.
+22#RR|구름 방향?
+23#QH|저쪽이잖아.
+24#BV|He pointed. It was the right direction. Somehow.
+25#WT|세트5: 산책
+26#HZ|산책할래?
+27#XJ|응, 바람 따라가자.
+28#WJ|바람 따라가?
+29#MY|바람이 길을 알잖아.
+30#WV|They walked for an hour. Neither checked the time.
+31#TJ|세트6: 귀가
+32#SM|오늘 좋았어?
+33#PH|응, 하늘이 오렌지였어.
+34#QX|오렌지?
+35#MZ|그게 제일 좋았어.
+36#TX|He took a photo. He always does. The sky keeps changing.

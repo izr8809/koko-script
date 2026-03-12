@@ -1,0 +1,36 @@
+1#HN|세트1: 드라마 추천
+2#WT|드라마 봐?
+3#VS|…가끔.
+4#PK|뭐 봐?
+5#SW|…그냥 아무거나.
+6#QK|His watch history tells a different story. Eight dramas. Last month.
+7#WH|세트2: 본 드라마
+8#HB|이거 재밌어.
+9#MQ|…그래?
+10#NR|봤어?
+11#YM|…봤어.
+12#VX|He watched it twice. He'll never mention the second time.
+13#KP|세트3: 같이 보기
+14#XV|같이 봐.
+15#SP|…뭐.
+16#SH|싫어?
+17#WQ|…안 싫어.
+18#XB|He sat down before you finished asking the question.
+19#VJ|세트4: 배우
+20#VZ|이 배우 좋아?
+21#QJ|…딱히.
+22#QZ|연기 잘 하잖아.
+23#BN|…그래.
+24#JR|He has a saved folder. Not labeled. Just there.
+25#XT|세트5: 결말
+26#JH|결말 어때?
+27#PX|…괜찮아.
+28#PH|슬프지 않아?
+29#RM|…별로.
+30#TK|He was quiet for a full ten minutes after the ending. Allergies.
+31#XN|세트6: 다음 작품
+32#NH|다음에 뭐 볼까?
+33#MZ|…모르겠어.
+34#XS|추천해 줘.
+35#NS|…그거 봐.
+36#XP|He'd already made a list. He just doesn't know how to hand it over.

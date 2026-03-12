@@ -1,0 +1,36 @@
+1#ZP|세트1: 출근 인사
+2#MQ|안녕하세요!
+3#VR|…네. 안녕하세요.
+4#WS|오늘 날씨 좋죠?
+5#NK|…네.
+6#TX|One word. But he looked up — for Hyunjun, that's a warm welcome.
+7#JB|세트2: 업무
+8#YH|이거 봐 주실 수 있어요?
+9#ZM|…네.
+10#QV|감사합니다!
+11#RW|…아닙니다.
+12#SN|He already had it done before she finished asking.
+13#KT|세트3: 점심
+14#BX|점심 드셨어요?
+15#JP|…아직이요.
+16#XH|같이 드실래요?
+17#WV|…좋아요.
+18#BK|He had already chosen the restaurant. He just waited to be asked.
+19#MM|세트4: 회의
+20#TX|회의 있어요.
+21#YV|…알아요.
+22#JB|같이 가요.
+23#QK|…네.
+24#ZR|He arrived two minutes early. He always does.
+25#PH|세트5: 퇴근 준비
+26#RW|퇴근 하세요?
+27#VM|…네.
+28#SB|수고하셨어요.
+29#QH|…수고하셨어요.
+30#WK|He held the elevator door. Without being asked.
+31#TB|세트6: 퇴근 후
+32#PN|내일 봐요.
+33#MZ|…네. 내일 봐요.
+34#YP|조심히 가세요!
+35#JW|…네. 조심히 가세요.
+36#XN|He watched until she got in the taxi safely.

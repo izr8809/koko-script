@@ -1,0 +1,36 @@
+1#BW|세트1: 음악 취향
+2#YV|어떤 음악 좋아해?
+3#MX|하늘 색깔이 바뀌는 것 같은 음악.
+4#VB|하늘 색깔?
+5#MX|들으면 색이 보이잖아.
+6#JN|He sees colors when he listens. He always has.
+7#RW|세트2: 아티스트
+8#SP|누구 좋아해?
+9#TW|목소리가 안개 같은 사람.
+10#VY|안개 같아?
+11#HS|들으면 알아.
+12#QK|He played the song. She saw the fog immediately.
+13#MZ|세트3: 콘서트
+14#TZ|콘서트 가봤어?
+15#HP|응, 갔어. 공기가 달랐어.
+16#NZ|공기가 달랐어?
+17#RQ|음악이 공기를 바꾸잖아.
+18#TM|He still remembers the exact temperature of that night.
+19#BW|세트4: 같이 듣기
+20#MW|같이 들을래? 이어폰 나눌게.
+21#KV|응, 좋아.
+22#TR|이 노래 어때?
+23#SR|색이 보여.
+24#QW|He smiled. She understood.
+25#RW|세트5: 최애 곡
+26#JY|최애 곡 있어?
+27#QJ|있어. 비밀이야.
+28#TK|왜 비밀이야?
+29#KY|너무 솔직해서.
+30#BH|It's the most honest thing about him. He guards it carefully.
+31#JY|세트6: 노래 추천
+32#ZZ|노래 추천해 줄 수 있어?
+33#YQ|응, 이거 들어봐.
+34#VM|어떤 노래야?
+35#XJ|네 느낌이야.
+36#BR|He thought about it for days. This was the right one.

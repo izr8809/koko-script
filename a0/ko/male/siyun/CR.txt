@@ -1,0 +1,36 @@
+1#JX|세트1: 출근 인사
+2#KV|안녕!
+3#JH|…어.
+4#YR|잘 잤어?
+5#ZN|…그냥.
+6#VP|He answered. That's basically his version of a warm welcome.
+7#HX|세트2: 업무 요청
+8#MS|이 파일 봤어?
+9#VH|…봤어.
+10#WB|어떻게 생각해?
+11#QB|괜찮아.
+12#NW|He's already thought about it. He just won't tell you that.
+13#SV|세트3: 점심
+14#KQ|밥 먹자.
+15#MX|…어.
+16#QV|뭐 먹을래?
+17#BJ|…아무거나.
+18#PQ|Translation: I'll eat whatever you choose. He's agreeing. In his language.
+19#XK|세트4: 회의
+20#WQ|회의 있어.
+21#HT|알아.
+22#TV|같이 가자.
+23#ZP|…가.
+24#XR|He said go ahead. Then walked right next to you. Of course he did.
+25#HZ|세트5: 퇴근 준비
+26#TR|퇴근 해?
+27#RV|…응.
+28#TP|나도 가.
+29#TH|…그래.
+30#SX|He waited until you packed your bag. Pure coincidence, obviously.
+31#KW|세트6: 퇴근 후
+32#BR|수고했어.
+33#WT|…뭐.
+34#SW|내일 봐.
+35#PT|…어.
+36#VQ|He lingered at the elevator. Just happened to leave at the same time.

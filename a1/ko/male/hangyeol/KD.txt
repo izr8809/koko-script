@@ -1,0 +1,36 @@
+1#RM|세트1: 드라마 추천
+2#RZ|요즘 드라마 보고 있어요?
+3#KH|네! 이상한 변호사 우영우 보고 있어요!
+4#JQ|재미있어요?
+5#SZ|완전 재미있어요! 꼭 봐야 해요!
+6#JJ|He became an unofficial ambassador for the show.
+7#WR|세트2: 반응
+8#YT|벌써 다 봤어요?
+9#VP|네! 하루 만에 다 봤어요! 멈출 수가 없었어요!
+10#VJ|마지막 부분 어땠어요?
+11#YK|완전 감동이었어요! 진짜 많이 울었어요!
+12#PR|He described the finale like he was accepting an award.
+13#RZ|세트3: 같이 보자 (반말)
+14#QR|다음에 같이 볼 드라마 찾고 있어.
+15#QP|슬기로운 의사생활 어때? 완전 좋아!
+16#HH|들어봤어. 같이 볼까?
+17#YK|응! 이번 주말에 보자!
+18#YW|He had already typed the title into the search bar.
+19#NJ|세트4: 최애 장면
+20#RB|최애 장면이 어디야?
+21#XW|비 오는 장면! 완전 설레잖아!
+22#BQ|왜 그 장면이 좋아?
+23#NW|두 사람이 처음으로 솔직해지는 장면이잖아!
+24#SW|He had watched that scene seventeen times. He counted.
+25#VN|세트5: 배우 얘기
+26#JQ|주인공 배우 좋아해?
+27#HN|응! 완전 좋아! 눈빛이 진짜 좋아!
+28#MR|다른 작품도 봤어?
+29#NB|응! 다 봤어! 전부 다 좋아!
+30#MZ|He has a spreadsheet. Sorted by rating. Color-coded.
+31#TY|세트6: 다음 추천
+32#VH|다음에 뭐 볼지 추천해 줄 수 있어?
+33#TH|응! 내가 좋아하는 거 다 추천해 줄게!
+34#JV|고마워!
+35#NK|같이 보면 더 재미있잖아!
+36#WZ|He already had a ranked watchlist ready to share.

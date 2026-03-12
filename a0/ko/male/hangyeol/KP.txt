@@ -1,0 +1,36 @@
+1#ZK|세트1: 아티스트
+2#ZY|케이팝 좋아해요?
+3#XN|네! 완전 좋아요!
+4#TS|누구 좋아해요?
+5#VH|아이유요!
+6#WX|His eyes lit up like he found a fellow fan.
+7#KX|세트2: 콘서트
+8#RP|콘서트 가봤어요?
+9#HT|네! 갔어요!
+10#RS|어땠어요?
+11#BV|완전 좋았어요!
+12#QN|He still has the lightstick. It's on his desk.
+13#QP|세트3: 노래 추천 (반말)
+14#NQ|노래 추천해 줄게.
+15#YZ|응! 고마워!
+16#KV|이 노래 어때?
+17#PR|완전 좋아!
+18#VJ|He added it to three different playlists immediately.
+19#ZW|세트4: 같이 듣기
+20#MS|같이 들을래?
+21#VP|응! 좋아!
+22#MY|이어폰 있어?
+23#XY|응, 있어!
+24#KJ|He handed over one earbud like it was the most natural thing.
+25#VY|세트5: 최애 곡
+26#WQ|최애 곡 있어?
+27#WR|응! 있어!
+28#PT|뭔데?
+29#QY|비밀이야!
+30#YK|He has a ranked list. Top 50. Updated monthly.
+31#SW|세트6: 앨범
+32#PN|새 앨범 들었어?
+33#HX|응! 들었어!
+34#XR|어때?
+35#KP|완전 좋아!
+36#NS|He pre-ordered the physical copy. And the limited edition.
