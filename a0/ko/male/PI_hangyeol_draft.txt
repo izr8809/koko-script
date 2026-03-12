@@ -1,119 +1,119 @@
-1#HY|# 💚 PERSONAL INTEREST (존댓말→반말) >> Korean Life
-2#KM|
-3#BN|# PI-1: 누나! 안녕하세요~
-4#RW|
-5#HH|- 대분류: Personal Interest
-6#NN|- 중분류: First Meeting
-7#MK|- 난이도: A0 (Absolute Beginner)
-8#MB|- 12턴 (6세트, 3sim)
-9#JT|
-10#WH|A younger guy just waved at you. Big smile, big energy.
-11#YR|He looks like a golden retriever in human form.
-12#TX|
-13#SV|---
-14#BY|
-15#VK|### sim1: 반가워요!
-16#VP|
-17#BP|**Goal:** To greet each other, exchange names, and share ages.
-18#KS|
-19#WV|**📍 장소:** 건대 앞
-20#YQ|
-21#BT|**intro_text:**
-22#SM|A younger guy just waved at you. Big smile, big energy.
-23#HP|He looks like a golden retriever in human form.
-24#KW|
-25#SH|**기 — 첫 인사 [세트 1]**
-26#TR|AI: 안녕하세요! 저는 한결이에요! 헤헤
-27#ZM|AI: 이름이 뭐예요?
-28#TN|User: 나는 ___야! / ___이야!
-29#YK|AI: 오! 반가워요!
-30#TS|AI: 저는 스물두 살이에요! 누나/형은요?
-31#XZ|User: 나는 ___살이야!
-32#NT|AI: 진짜요? 대박이다! 헤헤
-33#HW|
-34#SS|**Outro:**
-35#BH|> He already said your name three times. 🐶
-36#BB|> This boy has golden retriever energy and zero chill.
-37#QZ|>
-38#XM|
-39#TJ|**승 — 어디서 왔어요? [세트 2]**
-40#JK|AI: 어디서 오셨어요?
-41#QW|User: ___에서 왔어!
-42#VN|AI: 진짜요? 멋있다!
-43#NM|AI: 한국 좋아해요?
-44#ZV|User: 응, 좋아해! / 진짜 좋아해!
-45#YJ|AI: 저도요! 저 한국 진짜 좋아요! 헤헤
-46#JP|
-47#QB|**Outro:**
-48#WZ|> He said "저도요!" like you just became best friends. 🥹
-49#QN|> Next: finding out if you actually have anything in common.
-50#HQ|>
-51#RX|
-52#ZX|---
-53#TY|
-54#PZ|### sim2: 우리 통하네요!
-55#WT|
-56#VM|**Goal:** To discover shared hobbies, talk about food, and transition from formal to casual speech.
-57#KK|
-58#XB|**📍 장소:** 건대먹자골목
-59#PR|
-60#YS|**승 — 뭐 좋아해요? [세트 3]**
-61#QY|AI: 누나/형! 뭐 좋아해요?
-62#JW|User: 음악! / 드라마!
-63#ZN|AI: 오, 저도요! 진짜요?
-64#PX|AI: 저는 음악 진짜 좋아해요!
-65#ZT|User: 나도! / 진짜?
-66#KB|AI: 우리 통하네요! 헤헤
-67#QX|AI: 아, 누나/형! 편하게 말해도 돼요?
-68#HK|
-69#WR|**Outro:**
-70#ZP|> He just asked to drop the formalities. 😳
-71#TT|> That's basically a love confession in Korean age culture.
-72#NJ|>
-73#QT|
-74#PJ|**전 — 뭐 먹을래? [세트 4]**
-75#MS|AI: 누나, 배 안 고파? / 형, 배 안 고파?
-76#PM|User: 응, 고파! / 좀!
-77#XK|AI: 떡볶이 좋아해?
-78#KY|User: 좋아해! / 안 먹어 봤어!
-79#PB|AI: 진짜? 여기 떡볶이 맛있어!
-80#ZS|AI: 같이 먹자! 내가 사 줄게! 헤헤
-81#VY|
-82#SX|**Outro:**
-83#HT|> He's buying you food and already using 반말. 🍜
-84#NR|> This is moving fast. You're basically adopted now.
-85#WQ|>
-86#QV|
-87#WY|---
-88#HN|
-89#PV|### sim3: 또 만나자!
-90#BQ|
-91#MW|**Goal:** To make weekend plans and exchange KakaoTalk IDs.
-92#NW|
-93#RN|**📍 장소:** 건대먹자골목
-94#XT|
-95#SB|**전 — 주말에 뭐 해? [세트 5]**
-96#TZ|AI: 누나, 주말에 뭐 해? / 형, 주말에 뭐 해?
-97#VV|User: 아직 몰라! / 약속 없어!
-98#JB|AI: 진짜? 그럼 나랑 놀자!
-99#ZZ|User: 좋아! 뭐 할까?
-100#SQ|AI: 성수동 가자! 카페 가자!
-101#KP|AI: 거기 진짜 좋아! 헤헤
-102#MN|
-103#JH|**Outro:**
-104#VT|> Weekend plans? Locked in. 📅
-105#RK|> But you can't hang out if you don't have each other's Kakao...
-106#WB|>
-107#NX|
-108#TM|**결 — 카톡 해! [세트 6]**
-109#YN|AI: 누나, 카톡 해? / 형, 카톡 해?
-110#SJ|User: 응, 해!
-111#QH|AI: 아이디 뭐야? 알려 줘!
-112#BV|User: 여기!
-113#RP|AI: 좋아! 이모티콘 보낼게! 헤헤
-114#XW|AI: 누나/형, 또 보자! 기다릴게!
-115#HM|
-116#ZQ|**Outro:**
-117#NK|> Contact secured. Emoticon bomb incoming. 💣💚
-118#PS|> You just gained a younger friend who texts back in 0.2 seconds.
-119#JV|>
+1#KV|# 💚 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+2#MX|
+3#TP|# PI-1: 누나! 안녕하세요~
+4#WB|
+5#SJ|- 대분류: Personal Interest
+6#RN|- 중분류: First Meeting
+7#QH|- 난이도: A0 (Absolute Beginner)
+8#ZK|- 12턴 (6세트, 3sim)
+9#YM|
+10#BV|A younger guy just waved at you. Big smile, big energy.
+11#XT|He looks like a golden retriever in human form.
+12#PW|
+13#JR|---
+14#NS|
+15#HQ|### sim1: 반가워요!
+16#VZ|
+17#KT|**Goal:** To greet each other, exchange names, and share ages.
+18#MW|
+19#XR|**📍 장소:** 건대 앞
+20#PJ|
+21#SV|**intro_text:**
+22#BH|A younger guy just waved at you. Big smile, big energy.
+23#TN|He looks like a golden retriever in human form.
+24#WK|
+25#ZR|**기 — 첫 인사 [세트 1]**
+26#QM|AI: 안녕하세요! 저는 한결이에요! 헤헤
+27#YP|AI: 이름이 뭐예요?
+28#HB|User: 나는 ___야! / ___이야!
+29#VX|AI: 오! 반가워요!
+30#NJ|AI: 저는 스물두 살이에요! 누나/형은요?
+31#KS|User: 나는 ___살이야!
+32#RT|AI: 진짜요? 대박이다! 헤헤
+33#WM|
+34#PZ|**Outro:**
+35#XV|> He already said your name three times. 🐶
+36#JK|> This boy has golden retriever energy and zero chill.
+37#BN|>
+38#TH|
+39#SQ|**승 — 어디서 왔어요? [세트 2]**
+40#MR|AI: 어디서 오셨어요?
+41#ZW|User: ___에서 왔어!
+42#YN|AI: 진짜요? 멋있다!
+43#HV|AI: 한국 좋아해요?
+44#QX|User: 응, 좋아해! / 진짜 좋아해!
+45#KB|AI: 저도요! 저 한국 진짜 좋아요! 헤헤
+46#RP|
+47#WJ|**Outro:**
+48#NT|> He said "저도요!" like you just became best friends. 🥹
+49#VS|> Next: finding out if you actually have anything in common.
+50#XH|>
+51#PM|
+52#ZQ|---
+53#TK|
+54#YR|### sim2: 우리 통하네요!
+55#BW|
+56#JV|**Goal:** To discover shared hobbies — and hear him ask THE question.
+57#SN|
+58#HX|**📍 장소:** 건대먹자골목
+59#MZ|
+60#QK|**승 — 뭐 좋아해요? [세트 3]**
+61#KR|AI: 누나/형! 뭐 좋아해요?
+62#VP|User: 음악! / 드라마!
+63#WT|AI: 오, 저도요! 진짜요?
+64#XN|AI: 저는 음악 진짜 좋아해요!
+65#RB|User: 나도! / 진짜?
+66#ZJ|AI: 우리 잘 맞아요! 헤헤
+67#TM|AI: 누나/형... 나 반말해도 돼?
+68#PH|
+69#NQ|**Outro:**
+70#YW|> He just asked to drop the formalities. 😳
+71#SK|> In Korean culture, this is HUGE. Say yes.
+72#BX|>
+73#JM|
+74#HZ|---
+75#QV|
+76#MJ|### sim3: 또 만나자!
+77#WR|
+78#KN|**Goal:** To eat together, make weekend plans, and exchange KakaoTalk IDs — all in 반말.
+79#TX|
+80#ZS|**📍 장소:** 건대먹자골목
+81#PB|
+82#YV|**전 — 뭐 먹을래? [세트 4]**
+83#RQ|AI: 누나, 배 안 고파? / 형, 배 안 고파?
+84#VK|User: 응, 고파! / 좀!
+85#XJ|AI: 떡볶이 좋아해?
+86#NW|User: 좋아해! / 안 먹어 봤어!
+87#HT|AI: 진짜? 여기 떡볶이 맛있어!
+88#SZ|AI: 같이 먹자! 내가 사 줄게! 헤헤
+89#JQ|
+90#BM|**Outro:**
+91#WN|> Full 반말 unlocked. He's buying you food. 🍜
+92#KX|> You two are officially close now.
+93#TV|>
+94#QR|
+95#MP|**전 — 주말에 뭐 해? [세트 5]**
+96#RH|AI: 누나, 주말에 뭐 해? / 형, 주말에 뭐 해?
+97#VB|User: 아직 몰라! / 약속 없어!
+98#XW|AI: 진짜? 그럼 나랑 놀자!
+99#NZ|User: 좋아! 뭐 할까?
+100#JT|AI: 성수동 가자! ...아, 갈래요? 아니 갈래! 헤헤
+101#HK|AI: 거기 진짜 좋아!
+102#SB|
+103#WV|**Outro:**
+104#TQ|> Weekend plans? Locked in. 📅
+105#ZN|> Catch that? He slipped back to 존댓말 for a second. Old habits. 🐶
+106#PX|>
+107#YK|
+108#BJ|**결 — 카톡 해! [세트 6]**
+109#KW|AI: 누나, 카톡 해? / 형, 카톡 해?
+110#MH|User: 응, 해!
+111#RV|AI: 아이디 뭐야? 알려 줘!
+112#ZT|User: 여기!
+113#QJ|AI: 좋아! 이모티콘 보낼게! 헤헤
+114#XS|AI: 누나/형, 또 보자! 기다릴게!
+115#NK|
+116#HN|**Outro:**
+117#WS|> Contact secured. Emoticon bomb incoming. 💣💚
+118#TJ|> You just gained a younger friend who texts back in 0.2 seconds.
+119#BY|>
