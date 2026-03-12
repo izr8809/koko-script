@@ -1,0 +1,36 @@
+1#PM|세트1: 첫 인사, 이름 교환
+2#VK|저기요! 여기 앉아도 돼요? 저 ___이에요!
+3#WN|…자리 많은데. 그래, 앉아.
+4#SQ|이름이 뭐예요?
+5#BH|…시윤.
+6#TZ|He barely glanced up. But he made room — that's practically a hug from Siyun.
+7#KR|세트2: 어디서 왔어?
+8#XP|…한국 사람 아니잖아.
+9#MJ|네! ___에서 왔어요.
+10#ZB|…그래. 근데 한국어 괜찮은데.
+11#HV|진짜요? 고마워요!
+12#QW|"Not bad." From Siyun, that's a five-star review.
+13#NY|세트3: 뭐 좋아해?
+14#RK|시윤 씨 뭐 좋아해요?
+15#TS|…음악. 왜?
+16#JM|저도요! ___을/를 자주 들어요!
+17#WX|…나도 듣는데. 우연이야.
+18#PB|"Just a coincidence." Sure, Siyun. Sure it is.
+19#ZH|세트4: 밥 먹었어?
+20#KV|…근데 밥 먹었어?
+21#SJ|아직이요! 이 근처 맛집 알아요?
+22#BN|…한 군데 있긴 해. 가까워.
+23#YQ|진짜요? 가고 싶어요!
+24#RM|He shared his secret spot. In Siyun world, that's basically a dinner invitation.
+25#TX|세트5: 주말에 뭐 해?
+26#HK|시윤 씨 주말에 뭐 해요?
+27#ZW|…딱히. 왜?
+28#PJ|같이 ___에 갈래요? 혼자 가면 심심하잖아요!
+29#MV|…시간은 있어. 생각해 볼게.
+30#NQ|"I'll think about it." Translation: he's already planning his outfit.
+31#WB|세트6: 카톡 교환
+32#KS|카톡 알려 줘요! 약속 잡을게요!
+33#YP|…카톡?
+34#RH|네! 제 아이디 ___이에요!
+35#XN|…보내 줄게. 근데 쓸데없는 거 보내지 마.
+36#JV|"Don't send me random stuff." Translation: please text me. You just cracked Siyun's walls.

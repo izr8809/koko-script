@@ -1,124 +1,36 @@
-1#ZP|# 💙 PERSONAL INTEREST (반말) >> Korean Life
-2#MQ|
-3#VR|# PI-1: 안녕... 나는 시윤이야
-4#WS|
-5#NK|- 대분류: Personal Interest
-6#TX|- 중분류: First Meeting
-7#JB|- 난이도: A0 (Absolute Beginner)
-8#YH|- 12턴 (6세트, 3sim)
-9#ZM|
-10#PV|---
-11#QR|
-12#WK|### sim1: 어색한 첫 만남
-13#ST|
-14#XJ|**Goal:** To introduce yourself and exchange names with someone who seems completely uninterested.
-15#BY|
-16#HN|**📍 장소:** 밖
-17#ZQ|
-18#MV|**intro_text:**
-19#RW|You spotted someone reading alone at a café.
-20#SN|Cold eyes, sharp jawline. Say something... if you dare.
-21#KT|
-22#XB|**기 — 첫 인사 [세트 1]**
-23#JY|User: 안녕! 이름이 뭐야?
-24#HP|AI: …응.
-25#ZR|AI: …시윤.
-26#PW|AI: 너는?
-27#QS|User: 나는 ___야! / ___이야!
-28#VK|AI: …그래.
-29#WN|AI: …잘 왔어.
-30#TJ|
-31#XH|**Outro:**
-32#BM|> Cold silence... then "너는?" 🤔
-33#YP|> Wait — did they just ask your name back?
-34#HV|> "잘 왔어" — whoa. Don't get used to it.
-35#ZS|>
-36#PM|
-37#QV|**승 — 어디서 [세트 2]**
-38#RK|AI: 어디서 왔어?
-39#WT|User: ___에서 왔어!
-40#NX|AI: …멀다.
-41#JH|AI: 한국은 왜?
-42#BZ|User: 한국 좋아해! 다 좋아!
-43#YM|AI: …다?
-44#HS|AI: …뭐, 알았어.
-45#ZN|
-46#PK|**Outro:**
-47#QW|> "다 좋아?" — skeptical pause. Classic Siyun. 😑
-48#VT|> They asked THREE questions though. That's caring... right? 👀
-49#RX|>
-50#SJ|
-51#NB|---
-52#KY|
-53#TH|### sim2: 의외의 공통점
-54#XP|
-55#JM|**Goal:** To discover shared interests and talk about food with someone who pretends not to care.
-56#BV|
-57#YR|**📍 장소:** 밖 (동일)
-58#HW|
-59#ZK|**승 — 취미 [세트 3]**
-60#PJ|User: 시윤아, 뭐 좋아해?
-61#MN|AI: …왜?
-62#QX|AI: …책.
-63#VB|AI: 너는?
-64#RS|User: 나도 책 좋아해! / 나도!
-65#WH|AI: …진짜?
-66#TB|AI: …뭐 읽어?
-67#NP|
-68#KM|**Outro:**
-69#TZ|> "뭐 읽어?" — They just asked a follow-up. 😳
-70#XQ|> Siyun doesn't ask unless they actually care.
-71#JV|>
-72#BR|
-73#YS|**전 — 음식 [세트 4]**
-74#HK|AI: …밥 먹었어?
-75#ZV|User: 응! 파스타!
-76#PH|AI: …파스타?
-77#MR|AI: 나도 좋아해.
-78#QN|User: 진짜?!
-79#VW|AI: …그냥.
-80#RB|AI: …맛은 있지.
-81#SX|
-82#WJ|**Outro:**
-83#NY|> Same food. That pause was pure shock. 🍝
-84#KZ|> "맛은 있지" — reluctant agreement? From SIYUN? 🫣
-85#TP|>
-86#XS|
-87#JQ|---
-88#BW|
-89#YK|### sim3: 연락처 교환
-90#HM|
-91#ZJ|**Goal:** To make weekend plans and exchange KakaoTalk IDs with someone who'll never admit they want to.
-92#PB|
-93#MT|**📍 장소:** 밖 (동일, 헤어지기 전)
-94#QH|
-95#VN|**전 — 주말 [세트 5]**
-96#RY|User: 주말에 뭐 해? 같이 놀자!
-97#SK|AI: …왜?
-98#WZ|AI: …몰라.
-99#NM|AI: 어디?
-100#KP|User: 한강 어때? / 공원 어때?
-101#TV|AI: …한강?
-102#XR|AI: …뭐, 괜찮아.
-103#JZ|AI: …시간은 말해.
-104#BS|
-105#YV|**Outro:**
-106#HR|> "괜찮아" from Siyun? That's basically a love confession. 😏
-107#ZW|> "시간은 말해" — they're making plans. PLANS. 📅
-108#PT|>
-109#MK|
-110#QJ|**결 — 카톡 [세트 6]**
-111#VH|User: 카톡 있어? 연락하자!
-112#RN|AI: …왜?
-113#SP|AI: …알았어.
-114#WX|AI: 여기.
-115#NJ|User: 고마워! / 좋아!
-116#KB|AI: …답장 느려.
-117#TY|AI: 알아서 해.
-118#XN|AI: …근데 먼저 해.
-119#JK|
-120#BH|**Outro:**
-121#YQ|> Contact secured. With a warning label. ⚠️
-122#HT|> "답장 느려" — Translation: "I'll overthink every single reply."
-123#ZX|> "근데 먼저 해" — Translation: "Please text me first. Please." 🥺
-124#PS|>
+1#ZP|세트1: 첫 인사, 이름 교환
+2#MQ|안녕하세요! 저 ___이에요!
+3#VR|…아. 그래.
+4#WS|이름이 뭐예요?
+5#NK|…시윤.
+6#TX|He barely looked up. But he didn't walk away — that's a win.
+7#JB|세트2: 어디서 왔어?
+8#YH|…한국 사람 아니지?
+9#ZM|___에서 왔어요!
+10#QV|…한국어 괜찮네.
+11#RW|고마워요!
+12#SN|"Not bad." From Siyun, that's basically a standing ovation.
+13#KT|세트3: 뭐 좋아해?
+14#XJ|시윤 씨 뭐 좋아해요?
+15#BY|…음악.
+16#HP|저도! ___ 좋아해요!
+17#MZ|…어. 나도.
+18#QR|He shrugged it off. But same taste? He definitely noticed.
+19#NV|세트4: 밥 먹었어?
+20#BK|…밥 먹었어?
+21#WT|아직이요! 시윤 씨는요?
+22#XS|…나도. 안 먹음.
+23#JP|같이 먹어요!
+24#HM|He didn't say no. For Siyun, silence is basically a dinner date.
+25#RB|세트5: 주말에 뭐 해?
+26#TV|주말에 뭐 해요?
+27#ZK|…딱히.
+28#PH|같이 ___에 가요!
+29#MW|…언제?
+30#SX|He asked "when." That's not a no — it's a yes in disguise.
+31#KJ|세트6: 카톡 교환
+32#YN|카톡 있어요?
+33#BW|…있어.
+34#HQ|제 아이디 ___이에요!
+35#VT|…어. 나중에.
+36#XM|"Later." Translation: he already saved your ID.
