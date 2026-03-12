@@ -1,36 +1,323 @@
-1#BW|세트1: 아티스트 추천
-2#YV|케이팝 좋아하면 누구 들어?
-3#MX|아이유 완전 좋아해! 목소리가 너무 좋잖아!
-4#VB|나도 아이유 좋아해!
-5#MX|진짜? 우리 취향 같네! 헤헤!
-6#JN|He felt like he'd found his musical soulmate.
-7#RW|세트2: 콘서트 경험
-8#SP|콘서트 가봤어?
-9#TW|응! 작년에 갔는데 완전 좋았어!
-10#VY|유튜브랑 달라?
-11#HS|완전 달라! 직접 보면 진짜 다르잖아!
-12#QK|He still tears up thinking about it. Happy tears.
-13#MZ|세트3: 노래 추천 (반말)
-14#TZ|편하게 말해도 돼.
-15#HP|응! 그럼 노래 추천해 줄게!
-16#NZ|어떤 분위기 좋아해?
-17#RQ|잔잔한 거 좋아해!
-18#TM|He had a playlist ready for exactly this moment.
-19#BW|세트4: 같이 듣기
-20#MW|밤편지 들어봤어?
-21#KV|아니, 처음 들어봐.
-22#TR|같이 들을래? 이어폰 있어?
-23#SR|응, 있어!
-24#QW|He handed over one earbud like it was the most natural thing in the world.
-25#RW|세트5: 음악 취향
-26#JY|어떤 음악 좋아해?
-27#QJ|감성적인 거 좋아해! 가사가 좋은 거!
-28#TK|나도 그래! 취향 완전 같다!
-29#KY|헤헤, 그렇지?
-30#BH|He was already building a shared playlist in his head.
-31#JY|세트6: 앨범 얘기
-32#ZZ|새 앨범 나왔는데 들었어?
-33#YQ|응! 벌써 다 들었어! 완전 좋아!
-34#VM|최애 곡 있어?
-35#XJ|응! 세 번째 곡이 제일 좋아!
-36#BR|He had pre-ordered the album the day it was announced.
+# 🎤 K-POP (아이돌) >> Kpop
+
+# KP-1: 이름 꼭 기억할게요!
+
+- 대분류: Kpop
+- 중분류: Fan Meeting
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: First Hello
+
+**Goal:** To sit down at the fan sign table and actually have a real moment with Hangyeol.
+
+**📍 장소:** 팬미팅 사인회 (테이블)
+
+**intro_text:**
+He's already waving before you even reach the table.
+Big smile. Full energy. Like he's been waiting just for you.
+Sit down. He's already leaning in.
+
+**기 — 첫 만남 [세트 1]**
+AI: 어서 와요! 드디어 만났네요!
+User: 안녕하세요! 만나서 진짜 반가워요!
+AI: 저도요! 와줘서 정말 고마워요!
+User: 오늘 너무 설레요!
+
+**Outro:**
+> He said "finally." Like he'd been counting down too. 🌟
+> Now tell him your name — he's already asking.
+>
+
+**승 — 이름 [세트 2]**
+AI: 이름이 어떻게 돼요? 꼭 기억하고 싶어요!
+User: ___이에요!
+AI: 진짜 예쁜 이름이에요! 꼭 기억할게요!
+User: 감사해요!
+
+**Outro:**
+> He said your name like it was the best thing he'd heard all day. 💛
+> Now ask for what you came here for.
+>
+
+---
+
+### sim2: Sign and Stay
+
+**Goal:** To get your album signed and hold onto every last second with him.
+
+**📍 장소:** 팬미팅 사인회 (테이블, 동일)
+
+**승 — 사인 [세트 3]**
+AI: 사인 해드릴게요! 어디에 해드릴까요?
+User: 여기에 해주세요!
+AI: 네! 잠깐만요, 예쁘게 써드릴게요!
+User: 감사해요, 정말 소중히 할게요!
+
+**Outro:**
+> He took his time. He wanted it to be perfect for you. 📖
+> You still have a moment. Use it.
+>
+
+**전 — 대화 [세트 4]**
+AI: 오늘 멀리서 왔어요? 많이 힘들지 않았어요?
+User: 네! 조금 멀었는데 괜찮아요!
+AI: 고생했어요! 와줘서 진짜 기뻐요!
+User: 저도 너무 기뻐요!
+
+**Outro:**
+> He asked if you were tired. He actually wanted to know. 🐾
+> Staff is signaling. Time's almost up.
+>
+
+---
+
+### sim3: See You Again
+
+**Goal:** To give your gift and leave with a promise to come back.
+
+**📍 장소:** 팬미팅 사인회 (테이블, 동일)
+
+**전 — 선물 [세트 5]**
+User: 이거 드리고 싶어요! 직접 만들었어요!
+AI: 와, 진짜요? 너무 감사해요!
+User: 마음에 들었으면 좋겠어요!
+AI: 당연하죠! 정말 소중하게 간직할게요!
+
+**Outro:**
+> "당연하죠!" He didn't even hesitate. 💛
+> One last thing before you go.
+>
+
+**결 — 작별 [세트 6]**
+AI: 다음에 또 꼭 와요! 기다리고 있을게요!
+User: 네, 꼭 다시 올게요!
+AI: 약속이에요! 건강하게 잘 지내요!
+User: 한결씨도요! 감사해요!
+
+**Outro:**
+> "약속이에요." He held up his pinky. 🤙
+> Next up: See him on stage — louder, brighter, just for you.
+>
+
+---
+
+# KP-2: 여기 봐요!
+
+- 대분류: Kpop
+- 중분류: Concert
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Before the Show
+
+**Goal:** To find your seat and survive the electric wait before Hangyeol walks out.
+
+📍 장소: 콘서트장 객석 (공연 전)
+
+**intro_text:**
+The stage is lit up. The crowd is already screaming.
+Your heart is going way too fast.
+He's somewhere behind that curtain, probably bouncing on his heels.
+
+### 기 — 공연 전 [세트 1]
+
+AI: 안녕하세요! 자리 잘 찾으셨어요?
+User: 네! 드디어 왔어요!
+AI: 잘됐다! 오늘 진짜 신나게 즐겨요!
+User: 네, 정말 기대돼요!
+
+**Outro:**
+> He said "let's have fun" like he was already having it. 🎪
+> Tell him exactly how nervous you are right now.
+>
+
+### 승 — 기다림 [세트 2]
+
+AI: 많이 기다렸어요? 저도 엄청 기다렸어요!
+User: 네, 진짜 많이 기다렸어요!
+AI: 조금만 더요! 곧 시작할 것 같아요!
+User: 빨리 보고 싶어요!
+
+**Outro:**
+> "Me too, I've been waiting so long." He said it like a fan. ⏳
+> Lights about to go dark.
+>
+
+---
+
+## sim2: During the Show
+
+**Goal:** To scream, cheer, and catch the moment Hangyeol looks straight at you.
+
+📍 장소: 콘서트장 객석 (공연 중)
+
+### 승 — 공연 중 [세트 3]
+
+AI: 한결 나왔어요! 진짜 멋있지 않아요?
+User: 와, 진짜 대박이에요! 너무 멋있어요!
+AI: 이쪽 보고 있어요! 같이 응원해요!
+User: 한결아! 여기 봐요!
+
+**Outro:**
+> He pointed at this section. Your section. 🫵
+> The whole arena lost it. You lost it more.
+>
+
+### 전 — 앵콜 [세트 4]
+
+AI: 앵콜 나올 것 같아요! 같이 외쳐요!
+User: 앵콜! 앵콜! 한결아!
+AI: 나왔어요! 진짜 최고예요!
+User: 최고예요! 사랑해요!
+
+**Outro:**
+> Encore delivered. He came back waving right at the crowd. 🎤
+> The show is over. Your voice is gone. Worth it.
+>
+
+---
+
+## sim3: After the Show
+
+**Goal:** To celebrate the concert and lock in the next one.
+
+📍 장소: 콘서트장 밖 (공연 후)
+
+### 전 — 끝 [세트 5]
+
+User: 진짜 너무 좋았어요! 어떠셨어요?
+AI: 저도요! 오늘 진짜 최고였어요!
+User: 한결이 저 쪽 봤어요! 진짜 봤어요!
+AI: 진짜요?! 저도 봤어요! 대박이에요!
+
+**Outro:**
+> Post-concert high. Everything is glowing. 🌟
+> Lock in your next concert partner right now.
+>
+
+### 결 — 인사 [세트 6]
+
+AI: 오늘 진짜 즐거웠어요! 같이 응원해서 좋았어요!
+User: 저도요! 정말 행복했어요!
+AI: 다음 콘서트도 꼭 와요! 또 같이 즐겨요!
+User: 네, 꼭 올게요!
+
+**Outro:**
+> Concert buddy confirmed. He's already looking forward to next time. 🎫
+> Next up: He went live — and he's reading every comment.
+>
+
+---
+
+# KP-3: 댓글 봤어요, 기다렸어요!
+
+- 대분류: Kpop
+- 중분류: Support
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: He Went Live
+
+**Goal:** To join Hangyeol's live stream and get him to notice you in the chat.
+
+📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Notification: Hangyeol is live.
+The chat is exploding. He's reading out loud, laughing at comments.
+Type now — he's looking for familiar names.
+
+### 기 — 라이브 방송 [세트 1]
+
+AI: 왔어요? 기다리고 있었어요!
+User: 네! 바로 들어왔어요!
+AI: 역시! 댓글 보자마자 알아봤어요!
+User: 진짜요? 너무 기뻐요!
+
+**Outro:**
+> He found your name in a flood of comments. He was looking for it. 💬
+> He's still here. Keep going.
+>
+
+### 승 — 대화 [세트 2]
+
+User: 잘 지냈어요? 보고 싶었어요!
+AI: 저도요! 요즘 많이 생각했어요!
+User: 진짜요? 사랑해요!
+AI: 저도요! 오늘 라이브 끝까지 같이 있어요!
+
+**Outro:**
+> "I thought about you a lot lately." He said it to the camera. 💛
+> Now check your messages — he left you something.
+>
+
+---
+
+## sim2: The Reply
+
+**Goal:** To send Hangyeol a message and get a reply that makes your whole week.
+
+📍 장소: 온라인 (버블/위버스 메시지)
+
+### 승 — 답장 [세트 3]
+
+AI: 메시지 봤어요! 진짜 기뻤어요!
+User: 진짜요?! 읽어줬어요?
+AI: 당연하죠! 항상 다 읽어요!
+User: 너무 감사해요!
+
+**Outro:**
+> "당연하죠!" He reads every single one. Every time. 🌟
+> He's still typing. There's more.
+>
+
+### 전 — 질문 [세트 4]
+
+AI: 요즘 어떻게 지내고 있어요? 잘 지내고 있어요?
+User: 네! 한결씨 덕분에 잘 지내요!
+AI: 진짜요? 저도 팬들 덕분에 힘나요!
+User: 항상 응원할게요!
+
+**Outro:**
+> "Because of the fans." He means you specifically. 💛
+> Send one last message before he signs off.
+>
+
+---
+
+## sim3: Sending Love
+
+**Goal:** To send a final message and say goodnight to Hangyeol.
+
+📍 장소: 온라인 (버블/위버스, 동일)
+
+### 전 — 메시지 [세트 5]
+
+User: 오늘 라이브 진짜 좋았어요! 또 해요!
+AI: 진짜요? 저도 너무 좋았어요!
+User: 자주 라이브 해줘요! 기다릴게요!
+AI: 네, 자주 할게요! 기다려줘서 고마워요!
+
+**Outro:**
+> He promised. Out loud. And he meant it. 📩
+> One final exchange before the night ends.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 오늘 같이 있어줘서 진짜 고마워요!
+User: 저도요! 이제 자야 할 것 같아요!
+AI: 네, 푹 쉬어요! 좋은 꿈 꿔요!
+User: 한결씨도요! 잘 자요!
+
+**Outro:**
+> Goodnight exchanged. He waved at the camera before going offline. 🌙
+> Next up: Time to put on your professional face.
+>

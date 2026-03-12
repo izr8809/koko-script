@@ -1,36 +1,322 @@
-1#ZP|세트1: 출근 인사
-2#MQ|안녕하세요! 오늘도 화이팅이에요!
-3#VR|안녕하세요!
-4#WS|오늘 날씨 좋죠?
-5#NK|네, 좋아요!
-6#TX|He burst through the door like he invented Monday mornings.
-7#JB|세트2: 업무 요청
-8#YH|이거 봐 주세요.
-9#ZM|네, 알겠어요!
-10#QV|어려워요?
-11#RW|아니요, 쉬워요!
-12#SN|He did a tiny fist pump after finishing. Everyone saw.
-13#KT|세트3: 점심 (반말 전환)
-14#BX|말 놓을까요?
-15#JP|응! 말 놓자!
-16#XH|뭐 먹어?
-17#WV|치킨 어때?
-18#BK|He practically levitated at the word chicken.
-19#MM|세트4: 퇴근
-20#TX|다 끝났어?
-21#YV|응! 끝났어!
-22#JB|같이 나가자.
-23#QK|좋아! 가자!
-24#ZR|내일 봐.
-25#PH|응, 내일 봐! 헤헤.
-26#RW|He waved like he was leaving summer camp.
-27#VM|세트5: 동료 소개
-28#SB|새 동료야.
-29#QH|안녕하세요! 반가워요!
-30#WK|잘 부탁해요.
-31#TB|네, 잘 부탁드려요!
-32#PN|He already memorized their name and favorite snack.
-33#MZ|세트6: 회의
-34#YP|회의 있어요.
-35#JW|네, 알아요!
-36#XN|He arrived five minutes early with color-coded notes.
+# ☕ CAREER (건대 카페 알바)
+
+### CR-1: 어, 나도 첫날이야!
+
+**대분류:** Career
+**중분류:** Part-time Job First Day
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 출근
+
+**📍 장소:** 건대 카페 (입구)
+
+**Goal:** To meet Hangyeol and discover you're both starting your first day at the café.
+
+**intro_text:**
+First day at the café near Konkuk University.
+Someone's already outside, bouncing on his heels.
+
+**기 — 첫 만남 [세트 1]**
+AI: 저도 첫날이에요!
+User: 저도요!
+AI: 진짜요? 대박이에요!
+User: 잘 부탁해요!
+
+**Outro:**
+> He spotted you from ten meters away.
+> Waved like he already knew you.
+>
+
+**승 — 인사 [세트 2]**
+AI: 저 한결이에요. 이름이 뭐예요?
+User: 저 ___이에요.
+AI: 잘 부탁해요!
+User: 저도요!
+
+**Outro:**
+> He said your name out loud.
+> Like he was testing how it sounded.
+>
+
+---
+
+### sim2: 오전
+
+**📍 장소:** 건대 카페 (바 안)
+
+**Goal:** To learn café basics together and try not to break anything.
+
+**승 — 장비 [세트 3]**
+AI: 이 기계 어떻게 써요?
+User: 모르겠어요. / 이렇게요!
+AI: 아, 감사해요!
+User: 같이 배워요!
+
+**Outro:**
+> He asked you first.
+> Not the manager. You.
+>
+
+**전 — 연습 [세트 4]**
+AI: 커피 만들어 봤어요?
+User: 아직이요.
+AI: 저도요! 같이 해봐요!
+User: 좋아요!
+
+**Outro:**
+> His first pour was a disaster.
+> He laughed the loudest about it.
+>
+
+---
+
+### sim3: 오픈
+
+**📍 장소:** 건대 카페 (카운터)
+
+**Goal:** To open the café and survive your first customers together.
+
+**전 — 오픈 준비 [세트 5]**
+AI: 슬슬 오픈이에요!
+User: 떨려요.
+AI: 저도요! 같이 잘 해봐요!
+User: 네!
+
+**Outro:**
+> He did a tiny cheer by the espresso machine.
+> Just for the two of you.
+>
+
+**결 — 첫 손님 [세트 6]**
+AI: 손님 왔어요! 빨리요!
+User: 네!
+AI: 잘 했어요! 최고예요!
+User: 진짜요?
+
+**Outro:**
+> First customer: done. ☕
+> He high-fived you before you could even exhale.
+>
+
+---
+
+# CR-2: 잠깐, 내가 할게요!
+
+|- 대분류: Career
+|- 중분류: Lunch Rush Mistake
+|- 난이도: A0 (Absolute Beginner)
+|- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 피크 타임
+
+**Goal:** To survive the lunch rush and catch each other's mistakes in real time.
+
+📍 장소: 건대 카페 (바 안)
+
+**intro_text:**
+12PM sharp. The line is out the door.
+Hangyeol's moving fast. Maybe too fast.
+
+### 기 — 바빠요 [세트 1]
+
+AI: 대박, 엄청 바빠요!
+User: 빨리 해요!
+AI: 네! 할 수 있어요!
+User: 파이팅!
+
+**Outro:**
+> Golden retriever mode: fully activated.
+> Sweating. Still smiling.
+>
+
+### 승 — 실수 [세트 2]
+
+AI: 잠깐, 실수 했어요...
+User: 괜찮아요?
+AI: 죄송해요... 어떡해요?
+User: 제가 할게요! / 같이 해요!
+
+**Outro:**
+> His ears went red instantly.
+> You were already moving before he could spiral.
+>
+
+---
+
+## sim2: 복구
+
+**Goal:** To fix the mistake together and keep the line moving.
+
+📍 장소: 건대 카페 (바 안)
+
+### 승 — 도움 [세트 3]
+
+AI: 진짜 감사해요!
+User: 다음엔 같이 해요.
+AI: 네! 다행이에요!
+User: 잘 했어요!
+
+**Outro:**
+> The mistake? Customers never noticed.
+> He did. He won't forget.
+>
+
+### 전 — 마무리 [세트 4]
+
+AI: 이제 거의 다 됐어요!
+User: 다 됐어요!
+AI: 야호!
+User: 수고했어요!
+
+**Outro:**
+> He pumped his fist.
+> Out loud. Twice.
+>
+
+---
+
+## sim3: 피크 후
+
+**Goal:** To catch a breath after the rush and let the gratitude land properly.
+
+📍 장소: 건대 카페 (잠깐 쉬는 시간)
+
+### 전 — 감사 [세트 5]
+
+AI: 아까 진짜 감사해요.
+User: 아니에요!
+AI: 아니에요, 최고예요!
+User: 같이 한 거죠!
+
+**Outro:**
+> He said "thank you" four times.
+> You counted.
+>
+
+### 결 — 쉬는 시간 [세트 6]
+
+AI: 다리 아프죠?
+User: 진짜요!
+AI: 저도요! 잠깐 앉아요!
+User: 좋아요!
+
+**Outro:**
+> He sat down first. Scooted over. ☕
+> Made room without being asked.
+>
+
+---
+
+# CR-3: 떡볶이 같이 먹어요!
+
+|- 대분류: Career
+|- 중분류: After Work, First Meal Together
+|- 난이도: A0 (Absolute Beginner)
+|- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 마감
+
+**Goal:** To close the café and shift from work mode into something more relaxed.
+
+📍 장소: 건대 카페 (마감)
+
+**intro_text:**
+Closing time. Just the two of you left.
+Music's low. The rush is long gone.
+
+### 기 — 마감 [세트 1]
+
+AI: 드디어 마감이에요!
+User: 힘들었어요!
+AI: 그죠? 근데 재밌었어요!
+User: 맞아요!
+
+**Outro:**
+> He mopped the floor like he was dancing.
+> You didn't tell him he looked ridiculous.
+>
+
+### 승 — 배고파요 [세트 2]
+
+AI: 지금 배 안 고파요?
+User: 배고파요!
+AI: 저도요! 뭐 먹어요?
+User: 뭐 먹고 싶어요?
+
+**Outro:**
+> He stopped mopping mid-stroke.
+> He had an idea. You could already tell.
+>
+
+---
+
+## sim2: 떡볶이
+
+**Goal:** To pick a spot and let Hangyeol convince you to go eat tteokbokki.
+
+📍 장소: 건대 카페 앞 거리
+
+### 승 — 제안 [세트 3]
+
+AI: 떡볶이 어때요?
+User: 좋아요! / 매워요...
+AI: 제가 살게요! 꼭이요!
+User: 정말요?
+
+**Outro:**
+> He grabbed your sleeve a little.
+> Just to make sure you said yes.
+>
+
+### 전 — 이동 [세트 4]
+
+AI: 제가 아는 맛집이에요!
+User: 진짜요?
+AI: 네! 같이 가요!
+User: 좋아요, 가요!
+
+**Outro:**
+> He walked a step ahead every time.
+> Slowed down every time, too.
+>
+
+---
+
+## sim3: 같이 먹기
+
+**Goal:** To eat together and cross from coworkers into something more comfortable.
+
+📍 장소: 건대 포장마차
+
+### 전 — 반말 [세트 5]
+
+AI: 나 반말해도 돼?
+User: 어, 해! / 좋아!
+AI: 진짜? 야호!
+User: 나도 반말 할게.
+
+**Outro:**
+> He asked like it was a big deal.
+> It was.
+>
+
+### 결 — 마무리 [세트 6]
+
+AI: 떡볶이 맛있지?
+User: 완전! / 진짜 맛있어!
+AI: 또 오자! 나 엄청 좋아해!
+User: 나도!
+
+**Outro:**
+> He talked with his mouth full. 🌶️
+> Completely happy. Completely himself.
+>
+
+---

@@ -1,36 +1,336 @@
-1#ZK|세트1: 아티스트
-2#ZY|케이팝 좋아해?
-3#XN|…뭐.
-4#TS|누구 들어?
-5#VH|…그냥 이것저것.
-6#WX|This and that means one specific artist played on repeat since 2019.
-7#KX|세트2: 노래
-8#RP|이 노래 알아?
-9#HT|…알아.
-10#RS|좋아?
-11#BV|…나쁘진 않아.
-12#QN|It's in his playlist. Has been for two years.
-13#QP|세트3: 콘서트
-14#NQ|콘서트 가봤어?
-15#YZ|…응.
-16#KV|어땠어?
-17#PR|…좋았어.
-18#VJ|He has the ticket stub in his drawer. He knows exactly where.
-19#ZW|세트4: 최애 곡
-20#MS|최애 곡 있어?
-21#VP|…있어.
-22#MY|뭔데?
-23#XY|…비밀이야.
-24#KJ|It's emotional. Way more emotional than his face lets on.
-25#VY|세트5: 앨범
-26#WQ|새 앨범 들었어?
-27#WR|…들었어.
-28#PT|어때?
-29#QY|…괜찮아.
-30#YK|He pre-ordered it. He'll say he just happened to buy it.
-31#SW|세트6: 추천
-32#PN|노래 추천해 줘.
-33#HX|…들어봐.
-34#XR|고마워!
-35#KP|…뭐.
-36#NS|He thought about which song for three days before saying it.
+# 🎵 KPOP (반말)
+
+# KP-1: 이름 알아
+
+- 대분류: Kpop
+- 중분류: Fan Meeting
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: First Encounter
+
+**Goal:** To greet Siyun at the fan sign, get his autograph, and say your name without blanking out.
+
+**📍 장소:** 팬미팅 사인회 (테이블)
+
+**intro_text:**
+He's already holding his pen.
+No smile. No eye contact.
+Your turn. Don't waste it.
+
+**기 — 첫 만남 [세트 1]**
+User: 안녕하세요!
+AI: …어.
+User: 반가워요!
+AI: 그래.
+
+**Outro:**
+> Two words. From Siyun, that's basically a speech. 🧊
+> Now ask for what you actually came here for.
+>
+
+**승 — 사인 [세트 2]**
+User: 사인 해주세요!
+AI: 이름.
+User: ___이에요!
+AI: …됐어.
+
+**Outro:**
+> He wrote your name. He didn't have to do it carefully.
+> He did anyway. ✍️
+>
+
+---
+
+### sim2: He Knows You
+
+**Goal:** To have a short conversation and find out Siyun actually remembers you.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**승 — 기억 [세트 3]**
+AI: 자주 와?
+User: 네! / 항상 와요!
+AI: …알아.
+User: 기억해요?
+
+**Outro:**
+> He noticed before you even asked. 👀
+> He's waiting to see what you'll say next.
+>
+
+**전 — 대화 [세트 4]**
+AI: 좋아해?
+User: 네, 좋아해요!
+AI: …그래.
+User: 앞으로도 올게요!
+
+**Outro:**
+> "…그래." = Siyun for "I'll be here." 🥹
+> Time to hand over the gift you've been hiding.
+>
+
+---
+
+### sim3: Goodbye (For Now)
+
+**Goal:** To give Siyun your letter and say a goodbye that means something.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**전 — 선물 [세트 5]**
+User: 이거요.
+AI: 뭐야.
+User: 편지예요!
+AI: …받을게.
+
+**Outro:**
+> He took it without saying thank you.
+> But he held it tight. 💌
+>
+
+**결 — 작별 [세트 6]**
+AI: 조심히 가.
+User: 네, 감사해요!
+AI: …또 봐.
+User: 꼭이요!
+
+**Outro:**
+> "또 봐." He said it first.
+> That's basically a promise. ✨
+> Next up: See him on stage — if your heart can take it.
+>
+
+---
+
+# KP-2: 나만 봤어
+
+- 대분류: Kpop
+- 중분류: Concert
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Before the Show
+
+**Goal:** To chat with a fellow fan and survive the wait before the show.
+
+📍 장소: 콘서트장 객석 (공연 전)
+
+**intro_text:**
+The stage is dark. The crowd is already buzzing.
+The fan next to you looks just as nervous.
+Say something before the lights go down.
+
+### 기 — 공연 전 [세트 1]
+
+AI: 안녕하세요! 혼자예요?
+User: 네! / 네, 혼자요!
+
+AI: 자리 좋아요!
+User: 감사해요!
+
+**Outro:**
+> New fan friend found! 🎪
+> Share what you're really feeling inside.
+>
+
+### 승 — 기다림 [세트 2]
+
+AI: 떨려요?
+User: 네, 많이요! / 진짜 떨려요!
+
+AI: 저도요!
+User: 빨리 보고 싶어요!
+
+**Outro:**
+> The lights just went dark. 🌑
+> He's walking out right now.
+>
+
+---
+
+## sim2: During the Show
+
+**Goal:** To react during the concert and catch the moment Siyun looks your way.
+
+📍 장소: 콘서트장 객석 (공연 중)
+
+### 승 — 공연 중 [세트 3]
+
+AI: 시윤 나왔어요!
+User: 와, 멋있어요! / 대박이에요!
+
+AI: 이쪽 봤어요!
+User: 진짜요?! / 설레요!
+
+**Outro:**
+> He looked your way. Only yours. 👀
+> The whole arena screamed. He kept his face straight.
+>
+
+### 전 — 앵콜 [세트 4]
+
+AI: 앵콜! 앵콜!
+User: 다시 나올까요? / 더 보고 싶어요!
+
+AI: 진짜 나왔어요!
+User: 최고예요! / 와, 대박!
+
+**Outro:**
+> Encore delivered. 🎤
+> The show is over. Your heart is still racing.
+>
+
+---
+
+## sim3: After the Show
+
+**Goal:** To celebrate with a fellow fan and relive the best moment of the night.
+
+📍 장소: 콘서트장 밖 (공연 후)
+
+### 전 — 끝 [세트 5]
+
+User: 진짜 좋았어요!
+AI: 맞아요! 최고였어요!
+
+User: 시윤이 봤어요!
+AI: 나도 봤어요! / 진짜요?!
+
+**Outro:**
+> Post-concert high. 🌟
+> Lock in your next concert partner.
+>
+
+### 결 — 인사 [세트 6]
+
+AI: 오늘 진짜 좋았어요!
+User: 네, 저도요!
+
+AI: 다음에 또 와요!
+User: 네, 꼭이요!
+
+**Outro:**
+> Concert buddy confirmed. 🎫
+> Next up: He actually replied to your message.
+>
+
+---
+
+# KP-3: …봤어
+
+- 대분류: Kpop
+- 중분류: Support
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: He Went Live
+
+**Goal:** To join Siyun's live stream and get him to notice you in the comments.
+
+📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Notification: Siyun is live.
+The chat is moving fast. He's barely talking.
+Type now — he's actually reading.
+
+### 기 — 라이브 방송 [세트 1]
+
+AI: …왔어?
+User: 네! / 왔어요!
+
+AI: 그래.
+User: 수고했어요!
+
+**Outro:**
+> He found your message in a flood of comments. 💬
+> He's still here. Keep going.
+>
+
+### 승 — 대화 [세트 2]
+
+AI: 뭐 했어?
+User: 기다렸어요! / 라이브 기다렸어요!
+
+AI: …그래.
+User: 사랑해요!
+
+**Outro:**
+> Love sent. He received it in silence. 💖
+> Now check your messages — he left you something.
+>
+
+---
+
+## sim2: The Reply
+
+**Goal:** To send Siyun a message and get his shortest, most meaningful reply.
+
+📍 장소: 온라인 (버블/위버스 메시지)
+
+### 승 — 답장 [세트 3]
+
+AI: …봤어.
+User: 진짜요?! / 읽었어요?
+
+AI: 그래.
+User: 감사해요!
+
+**Outro:**
+> "봤어." Two syllables. Maximum Siyun. 🧊
+> He's still typing. Sort of.
+>
+
+### 전 — 질문 [세트 4]
+
+AI: 뭐가 좋았어?
+User: 다 좋아요! / 다 좋았어요!
+
+AI: …그래.
+User: 항상 응원할게요!
+
+**Outro:**
+> "…그래." = Siyun for "thank you." 🌟
+> Send one last message before he disappears.
+>
+
+---
+
+## sim3: Sending Love
+
+**Goal:** To send a final message and say goodnight to Siyun.
+
+📍 장소: 온라인 (버블/위버스, 동일)
+
+### 전 — 메시지 [세트 5]
+
+User: 오늘 영상 봤어요!
+AI: …어.
+
+User: 진짜 좋았어요!
+AI: …알아.
+
+**Outro:**
+> Message absorbed. He said "어." That's Siyun for "tell me more." 📩
+> One final exchange before the night ends.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 자.
+User: 잘 자요!
+
+AI: …어.
+User: 좋은 꿈 꿔요!
+
+**Outro:**
+> Goodnight exchanged. 🌙
+> Next up: Time to put on your professional face.
+>

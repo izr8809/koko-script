@@ -1,36 +1,417 @@
-1#VH|세트1: 카페 주문
-2#HS|뭐 마실래?
-3#ZK|…아메리카노.
-4#QM|나도 아메리카노.
-5#TS|…그래.
-6#TY|He'd already decided before you finished looking at the menu.
-7#SJ|세트2: 식당
-8#KX|배고파. 뭐 먹자.
-9#ST|…어.
-10#PZ|여기 어때?
-11#QH|…괜찮아.
-12#YQ|He already checked the menu. He just let you think it was your idea.
-13#PK|세트3: 길 찾기
-14#MR|길 모르겠어.
-15#YX|…이쪽이야.
-16#HN|고마워.
-17#YS|…뭐.
-18#BP|He checked the map before you even started panicking.
-19#QN|세트4: 카페 자리
-20#YP|자리 있어?
-21#HP|…저기.
-22#JB|좋은 자리네.
-23#XT|…그냥.
-24#ZW|He picked the quietest corner. He noticed what you'd like.
-25#XK|세트5: 식당 주문
-26#XM|뭐 시킬지 모르겠어.
-27#ZX|…그거 괜찮아.
-28#TR|맞아?
-29#QJ|…응.
-30#TJ|He's been here before. He planned this. Secretly.
-31#YZ|세트6: 귀가
-32#TH|오늘 재밌었어!
-33#XZ|…그래?
-34#XR|또 가자.
-35#XH|…뭐, 어.
-36#RJ|He's already thinking about next time. But he'll act like it's your idea.
+# ✈️ TRAVELING (존댓말)
+
+# TR-1: 아이스 아메리카노 주세요
+
+- 대분류: Traveling
+- 중분류: Cafe
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink and ask about the menu at a Hapjeong café.
+
+**📍 장소:** 합정 카페 카운터
+
+**intro_text:**
+First Korean café order. The barista is already looking at you.
+He's waiting. Say it.
+
+**기 — 주문 [세트 1]**
+User: 아이스 아메리카노 주세요.
+AI: 사이즈는요?
+User: 기본이요.
+AI: 잠깐만.
+
+**Outro:**
+> Order placed! ☕
+> But wait — that cake in the display is calling.
+>
+
+**승 — 추가 [세트 2]**
+User: 케이크 있어요?
+AI: 네, 있어요.
+User: 치즈 케이크 주세요.
+AI: 네!
+
+**Outro:**
+> Order complete! 🍰
+> Time to pay like a pro.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about payment methods and wait for your order.
+
+**📍 장소:** 합정 카페 카운터 (동일)
+
+**승 — 결제 [세트 3]**
+User: 카드 돼요?
+AI: 네, 돼요.
+User: 감사합니다!
+AI: 네!
+
+**Outro:**
+> Payment done! 💳
+> One more thing before you wait...
+>
+
+**전 — 기다리기 [세트 4]**
+User: 이름 불러드려요?
+AI: 이름이요?
+User: ___이에요.
+AI: 나오면 불러드릴게요.
+
+**Outro:**
+> Name given! 📝
+> Now the hardest part: waiting.
+>
+
+---
+
+### sim3: Getting the Drink
+
+**Goal:** To pick up your order and find a good seat.
+
+**📍 장소:** 합정 카페 픽업대 → 좌석
+
+**전 — 받기 [세트 5]**
+User: 이거 맞나요?
+AI: 네!
+User: 빨대 있어요?
+AI: 여기 있어요.
+
+**Outro:**
+> Coffee in hand! ☕
+> Now find the perfect spot.
+>
+
+**결 — 자리 [세트 6]**
+User: 자리 있어요?
+AI: 안쪽에 앉으세요.
+User: 감사합니다!
+AI: 네!
+
+**Outro:**
+> Mission accomplished! ☕🍰
+> You're officially a Hapjeong café regular.
+>
+
+---
+
+# TR-2: 이거 안 맵게 해주세요
+
+- 대분류: Traveling
+- 중분류: Restaurant
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To get seated and place a basic food and drink order.
+
+**📍 장소:** 식당
+
+**intro_text:**
+First Korean restaurant experience.
+Get ready for some serious spice!
+
+**기 — 자리 잡기 [세트 1]**
+User: 한 명이요.
+AI: 이쪽이에요.
+User: 네, 감사합니다.
+AI: 잠깐만.
+
+**Outro:**
+> Seated! 🪑
+> Now the real challenge: the menu.
+>
+
+**승 — 주문 [세트 2]**
+User: 비빔밥 하나 주세요.
+AI: 네!
+User: 물도 주세요.
+AI: 알겠어요.
+
+**Outro:**
+> Order placed! 🍲
+> But is Korean food too spicy?
+>
+
+---
+
+### sim2: The Spice Check
+
+**Goal:** To adjust the spice level and request side dish refills.
+
+**📍 장소:** 식당 (동일)
+
+**승 — 맵기 조절 [세트 3]**
+User: 많이 매워요?
+AI: 조금 매워요.
+User: 덜 맵게 해주세요.
+AI: 알겠어요.
+
+**Outro:**
+> Crisis averted! 🥵
+> Time to discover Korean side dishes.
+>
+
+**전 — 반찬 리필 [세트 4]**
+User: 반찬 더 주세요.
+AI: 어떤 거요?
+User: 김치 더 주세요.
+AI: 잠깐만요.
+
+**Outro:**
+> The food is amazing! 🥢
+> Now how do you wrap up the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill and say goodbye properly.
+
+**📍 장소:** 식당 카운터
+
+**전 — 결제 [세트 5]**
+User: 계산해 주세요!
+AI: 만 원이에요.
+User: 카드 돼요?
+AI: 네, 돼요.
+
+**Outro:**
+> Bill sorted! 💳
+> One last thing before you leave.
+>
+
+**결 — 인사 [세트 6]**
+User: 잘 먹었습니다!
+AI: 네!
+User: 감사합니다.
+AI: 또 오세요.
+
+**Outro:**
+> You're officially a foodie. 🏆
+> Next up: Time to catch a taxi.
+>
+
+---
+
+# TR-3: 여기서 세워주세요
+
+- 대분류: Traveling
+- 중분류: Taxi
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Getting In
+
+**Goal:** To give your destination and handle basic questions during the ride.
+
+📍 장소: 택시 안
+
+**intro_text:**
+You flagged down a taxi. The driver is waiting.
+Just say where you're going!
+
+### 기 — 타기 [세트 1]
+
+User: 합정역이요.
+AI: 타요.
+User: 네!
+AI: 출발할게.
+
+**Outro:**
+> Destination set! 🚕
+> Now settle in.
+>
+
+### 승 — 가는 중 [세트 2]
+
+User: 오래 걸려요?
+AI: 한 10분.
+User: 괜찮아요.
+AI: 응.
+
+**Outro:**
+> Traffic? No problem! 🛣️
+> The driver wants to chat.
+>
+
+## sim2: During the Ride
+
+**Goal:** To make polite small talk with the taxi driver.
+
+📍 장소: 택시 안 (동일)
+
+### 승 — 대화 [세트 3]
+
+User: 여행 오셨어요?
+AI: 아, 응.
+User: 한국 어때요?
+AI: 괜찮아.
+
+**Outro:**
+> Friendly driver unlocked! 😊
+> Almost there.
+>
+
+### 전 — 도착 [세트 4]
+
+User: 저기서 세워주세요.
+AI: 어디서.
+User: 저기 앞에서요.
+AI: 어, 알겠어.
+
+**Outro:**
+> Almost out! 🏁
+> Handle the payment.
+>
+
+## sim3: Arriving
+
+**Goal:** To pay and exit the taxi politely.
+
+📍 장소: 택시 안 → 도착지
+
+### 전 — 계산 [세트 5]
+
+User: 카드 돼요?
+AI: 돼.
+User: 감사합니다!
+AI: 응.
+
+**Outro:**
+> Payment sorted! 💳
+> One last exchange.
+>
+
+### 결 — 내리기 [세트 6]
+
+User: 다 왔어요?
+AI: 여기야.
+User: 감사합니다!
+AI: 조심해서 내려.
+
+**Outro:**
+> Arrived safely! 🎌
+> Next up: What if you can't find something?
+>
+
+---
+
+# TR-4: 화장실 어디예요?
+
+- 대분류: Traveling
+- 중분류: Emergency
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Bathroom
+
+**Goal:** To ask for directions to the bathroom.
+
+📍 장소: 쇼핑몰/건물 내부
+
+**intro_text:**
+You're in a shopping mall. Nature is calling.
+Find that bathroom — fast!
+
+### 기 — 화장실 [세트 1]
+
+User: 화장실 어디예요?
+AI: 저기.
+User: 감사합니다!
+AI: 응.
+
+**Outro:**
+> Directions received! 🚻
+> But wait — you still can't find it.
+>
+
+### 승 — 못 찾았어요 [세트 2]
+
+User: 못 찾겠어요.
+AI: 따라와.
+User: 감사합니다!
+AI: 여기야.
+
+**Outro:**
+> Crisis solved! 😅
+> What if someone speaks too fast?
+>
+
+## sim2: I Don't Understand
+
+**Goal:** To ask someone to slow down or repeat themselves.
+
+📍 장소: 길거리
+
+### 승 — 천천히 [세트 3]
+
+User: 천천히 말해주세요.
+AI: 아, 저기 편의점 옆.
+User: 아, 알겠어요!
+AI: 응.
+
+**Outro:**
+> Slow mode activated! 🐢
+> Still struggling?
+>
+
+### 전 — 다시 말해주세요 [세트 4]
+
+User: 다시 말해주세요.
+AI: 오 분 걸려.
+User: 오 분! 감사합니다.
+AI: 어.
+
+**Outro:**
+> Language barrier cleared! 🌐
+> One more challenge — you're lost.
+>
+
+## sim3: Getting Help
+
+**Goal:** To ask for and understand directions on the street.
+
+📍 장소: 합정 길거리
+
+### 전 — 도와주세요 [세트 5]
+
+User: 길을 모르겠어요.
+AI: 어디 가.
+User: 합정역이요.
+AI: 저쪽이야.
+
+**Outro:**
+> Direction received! 🗺️
+> Almost there.
+>
+
+### 결 — 해결 [세트 6]
+
+User: 감사합니다!
+AI: 응.
+User: 잘 가세요!
+AI: 조심해.
+
+**Outro:**
+> You found your way! 🏙️
+> Next up: Time to feel all the feelings in Korean.
+>
+
+---

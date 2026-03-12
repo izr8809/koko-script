@@ -1,36 +1,322 @@
-1#ZV|세트1: 출근 준비
-2#HH|오늘 하늘이 무거워 보여.
-3#NX|무거워? 비 올 것 같아?
-4#BY|아니, 생각이 많은 것 같아.
-5#KK|하늘이 생각을 해?
-6#BQ|He said it like a weather report. Completely serious.
-7#MM|세트2: 업무
-8#VV|이 보고서 어떻게 생각해?
-9#TP|숫자들이 외로워 보여.
-10#ZQ|숫자가 외로워?
-11#BS|혼자 있잖아, 줄마다.
-12#ZW|He reorganized the spreadsheet so the numbers felt less alone.
-13#PQ|세트3: 점심
-14#QJ|점심 뭐 먹을래?
-15#HW|빵이 먹고 싶어. 구름 같은 거.
-16#WK|구름 같은 빵?
-17#HH|폭신한 거 있잖아.
-18#XB|He found the fluffiest bread in the bakery. Naturally.
-19#RT|세트4: 오후 휴식
-20#ZT|잠깐 쉴래?
-21#PV|응, 창문 보고 싶어.
-22#RP|창문?
-23#HY|구름이 움직이잖아.
-24#XB|They watched the clouds for ten minutes. Neither spoke.
-25#KB|세트5: 동료 관계
-26#WT|팀 분위기 어때?
-27#ZT|다들 바빠 보여서 슬퍼.
-28#JT|슬퍼?
-29#WV|바쁘면 하늘을 못 보잖아.
-30#HR|He left a small plant on everyone's desk. Anonymously.
-31#SM|세트6: 퇴근
-32#PH|오늘 어땠어?
-33#QX|오늘 하늘이 오렌지였어.
-34#MZ|오렌지?
-35#TX|그게 제일 좋았어.
-36#XN|He took a photo of the sky every day. He had thousands.
+# 🎨 CAREER (반말)
+
+### CR-1: 오늘 하늘 색 진짜 좋다
+
+**대분류:** Career
+**중분류:** 공유 작업실
+**난이도:** A1 (Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 하늘
+
+**📍 장소:** 연남동 공유 작업실 (창가)
+
+**Goal:** To start a conversation by noticing the sky together.
+
+**intro_text:**
+First day at the shared workspace.
+The guy by the window speaks before you even sit down.
+
+**기 — 하늘 [세트 1]**
+AI: 오늘 하늘 색 진짜 좋지 않아?
+User: 어, 그러네. 파랗다.
+AI: 파란 맛이야. 달콤한 파란 맛.
+User: 달콤한 파란 맛이 뭐야.
+
+**Outro:**
+> Strange thing to say. But you looked up at the sky.
+> Who is this guy?
+>
+
+**승 — 첫인사 [세트 2]**
+AI: 아, 나 여기 자주 오는 태오야.
+User: 나는 ___.
+AI: 잘 부탁해. 자리 좋은 데 잡았네.
+User: 응, 여기 빛이 좋더라고.
+
+**Outro:**
+> Names exchanged. A small observation shared.
+> Somehow, that's already enough.
+>
+
+---
+
+### sim2: 자리
+
+**Goal:** To settle into the workspace and start working side by side.
+
+**📍 장소:** 연남동 공유 작업실 (작업 자리)
+
+**승 — 자리 [세트 3]**
+AI: 이 자리 진짜 좋아. 빛이 따뜻하잖아.
+User: 맞아, 오후에 특히 좋더라.
+AI: 오후 빛은 좀 졸려. 근데 그게 좋아.
+User: 그러네, 나도 그 느낌 좋아.
+
+**Outro:**
+> He notices things others walk past.
+> This workspace just got interesting.
+>
+
+**전 — 작업 [세트 4]**
+AI: 뭐 만들어? 디자인이야?
+User: 응, 요즘 작업 중인 거 있어.
+AI: 멋지겠다. 나중에 보여줘.
+User: 어, 좀 더 되면 보여줄게.
+
+**Outro:**
+> Two freelancers. Side by side.
+> The work begins.
+>
+
+---
+
+### sim3: 하루 끝
+
+**Goal:** To wrap up the first day at the workspace.
+
+**📍 장소:** 연남동 공유 작업실 (저녁)
+
+**전 — 마무리 [세트 5]**
+AI: 오늘 작업 잘 됐어? 어떤 것 같아?
+User: 그럭저럭. 생각보다 느렸어.
+AI: 괜찮아. 내일은 더 잘 될 거야.
+User: 어떻게 그렇게 확신해?
+
+**Outro:**
+> He speaks like he knows things.
+> Somehow, you believe him.
+>
+
+**결 — 내일 [세트 6]**
+AI: 하늘이 말해줬어. 오늘 색이 그랬거든.
+User: 뭔 소리야, 진짜.
+AI: 내일 봐. 잘 될 거야.
+User: 알겠어, 내일 봐.
+
+**Outro:**
+> The sky apparently told him.
+> You'll be back tomorrow.
+>
+
+---
+
+# CR-2: 소리로 한번 생각해봐
+
+- 대분류: Career
+- 중분류: 공유 작업실
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 막혔을 때
+
+**Goal:** To offer a creative idea when work feels stuck.
+
+📍 장소: 연남동 공유 작업실
+
+**intro_text:**
+You've been staring at the screen too long.
+Taeo notices before you say anything.
+
+### 기 — 막힘 [세트 1]
+
+AI: 막혔어? 표정이 그렇게 보여.
+User: 어, 좀 막혔어. 어떻게 알았어?
+AI: 눈 감아봐. 잠깐만 눈 감아봐.
+User: 갑자기 왜?
+
+**Outro:**
+> He saw it before you said a word.
+> Just close your eyes.
+>
+
+### 승 — 소리 [세트 2]
+
+AI: 이 작업이 무슨 소리일 것 같아?
+User: 소리? 무슨 소리 말하는 거야?
+AI: 어떤 소리가 떠올라? 뭐든 괜찮아.
+User: 음... 바람 소리인가?
+
+**Outro:**
+> Sound thinking. Literally.
+> Something is shifting.
+>
+
+---
+
+## sim2: 함께
+
+**Goal:** To work through an idea together.
+
+📍 장소: 연남동 공유 작업실
+
+### 승 — 시도 [세트 3]
+
+AI: 바람처럼 해봐. 가볍게 흘러가듯이.
+User: 바람처럼? 어떻게 하는 건데?
+AI: 힘 빼고. 그냥 바람 따라가.
+User: 알겠어, 한번 해볼게.
+
+**Outro:**
+> Simple. Strange. Weirdly effective.
+> You try it his way.
+>
+
+### 전 — 결과 [세트 4]
+
+AI: 어때? 좀 달라진 것 같아?
+User: 신기하게 됐어. 진짜로 됐어.
+AI: 맞지? 소리로 생각하면 달라져.
+User: 맞아, 고마워. 진짜 신기하다.
+
+**Outro:**
+> The strange advice worked.
+> Trust Taeo's instincts.
+>
+
+---
+
+## sim3: 계속
+
+**Goal:** To finish the work together.
+
+📍 장소: 연남동 공유 작업실 (오후)
+
+### 전 — 커피 [세트 5]
+
+AI: 커피 식었다. 따뜻할 때 마셔야 해.
+User: 그러네, 일하다 보니까 잊었어.
+AI: 따뜻한 거 마셔야 생각도 따뜻해져.
+User: 그런 논리가 어디 있어.
+
+**Outro:**
+> Even cold coffee becomes a lesson.
+> He makes everything feel like a metaphor.
+>
+
+### 결 — 믿음 [세트 6]
+
+AI: 잘 될 것 같아. 진짜로 그런 느낌이야.
+User: 진짜? 어떻게 알아?
+AI: 느낌이야. 비가 솔직하잖아, 나도 솔직해.
+User: 알겠어, 믿을게.
+
+**Outro:**
+> His feelings are rarely wrong.
+> You're starting to believe that.
+>
+
+---
+
+# CR-3: 빵 먹으면 아이디어 나온다니까
+
+- 대분류: Career
+- 중분류: 공유 작업실
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 야근
+
+**Goal:** To survive a late night before a deadline.
+
+📍 장소: 연남동 공유 작업실 (밤)
+
+**intro_text:**
+Deadline tomorrow. It's already late.
+Then Taeo walks in with a paper bag.
+
+### 기 — 빵 [세트 1]
+
+AI: 빵 사왔어. 단 거 먹어야 버텨.
+User: 어, 고마워. 어떻게 알고 왔어?
+AI: 야근 냄새가 나. 빵은 구름이야.
+User: 빵이 구름이라고?
+
+**Outro:**
+> He showed up with bread. Nobody asked him to.
+> That's just who he is.
+>
+
+### 승 — 이론 [세트 2]
+
+AI: 빵 먹으면 아이디어 나온다니까, 진짜야.
+User: 그게 무슨 말이야, 진짜로?
+AI: 먹어봐. 직접 느껴봐야 알아.
+User: 알겠어, 먹어볼게.
+
+**Outro:**
+> Bread theory: unscientific.
+> But somehow, it works.
+>
+
+---
+
+## sim2: 새벽
+
+**Goal:** To hold on through the late night together.
+
+📍 장소: 연남동 공유 작업실 (새벽)
+
+### 승 — 새벽 [세트 3]
+
+AI: 몇 시야? 밖에 하늘 색 바뀌었어.
+User: 새벽 두 시야. 진짜 늦었다.
+AI: 새벽 두 시 하늘은 맛있는 시간이야.
+User: 뭔 소리야, 진짜.
+
+**Outro:**
+> 2am and he's talking about the sky.
+> You're too tired to argue.
+>
+
+### 전 — 격려 [세트 4]
+
+AI: 조금만 더. 거의 다 왔어, 진짜야.
+User: 응, 할 수 있어. 조금만 더.
+AI: 다 돼가. 느낌이 좋아.
+User: 고마워. 덕분에 버티고 있어.
+
+**Outro:**
+> Almost there.
+> You're not alone tonight.
+>
+
+---
+
+## sim3: 완료
+
+**Goal:** To celebrate finishing the work together.
+
+📍 장소: 연남동 공유 작업실 (새벽, 마감 후)
+
+### 전 — 완료 [세트 5]
+
+AI: 다 했어? 드디어 끝난 거야?
+User: 응, 드디어 끝났어.
+AI: 잘했어. 진짜 잘 버텼어.
+User: 같이 있어줘서 됐어. 고마워.
+
+**Outro:**
+> Done. Finally done.
+> It feels better, shared.
+>
+
+### 결 — 내일 [세트 6]
+
+AI: 이제 자도 돼. 오늘 진짜 수고했어.
+User: 응, 고마워. 너도 수고했어.
+AI: 내일 빵 또 사올게. 더 맛있는 걸로.
+User: 기대할게. 내일 봐.
+
+**Outro:**
+> He already knows tomorrow will be hard too.
+> But that's okay. He'll bring bread.
+>
+
+---

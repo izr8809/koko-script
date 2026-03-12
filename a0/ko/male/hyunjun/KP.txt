@@ -1,36 +1,335 @@
-1#ZK|세트1: 음악
-2#ZY|음악 좋아하세요?
-3#XN|…네.
-4#TS|어떤 거요?
-5#VH|…조용한 거요.
-6#WX|He listens with earphones. Always. Even at home.
-7#KX|세트2: 아티스트
-8#RP|누구 좋아하세요?
-9#HT|…딱히요.
-10#RS|추천해 주세요.
-11#BV|…이거 들어보세요.
-12#QN|He had thought about this recommendation for a while.
-13#QP|세트3: 콘서트
-14#NQ|콘서트 가봤어요?
-15#YZ|…네.
-16#KV|어땠어요?
-17#PR|…좋았어요.
-18#VJ|He still has the ticket. In his wallet.
-19#ZW|세트4: 같이 듣기
-20#MS|같이 들을까요?
-21#VP|…좋아요.
-22#MY|이어폰 있어요?
-23#XY|…네.
-24#KJ|He handed over one earbud. Quietly. Carefully.
-25#VY|세트5: 최애 곡
-26#WQ|최애 곡 있어요?
-27#WR|…있어요.
-28#PT|뭔데요?
-29#QY|…나중에요.
-30#YK|He'll tell her eventually. When the moment is right.
-31#SW|세트6: 앨범
-32#PN|새 앨범 들었어요?
-33#HX|…네.
-34#XR|어때요?
-35#KP|…좋아요.
-36#NS|He pre-ordered it. He won't say that.
+# 🎤 K-POP (아이돌) >> Kpop
+
+# KP-1: 왔어요?
+
+- 대분류: Kpop
+- 중분류: Fan Meeting
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: First Sign
+
+**Goal:** To stand in front of Hyunjun at the fan sign and get through the moment without freezing.
+
+**📍 장소:** 팬미팅 사인회 (테이블)
+
+**intro_text:**
+He's already seated.
+Pen in hand. Eyes down.
+You're next in line.
+
+**기 — 첫 만남 [세트 1]**
+User: 안녕하세요!
+AI: …네.
+User: 반가워요!
+AI: 앉아요.
+
+**Outro:**
+> One word. He pulled out the chair himself. 🪑
+> Ask before the moment passes.
+>
+
+**승 — 사인 [세트 2]**
+User: 사인 해주세요!
+AI: 이름.
+User: ___이에요!
+AI: …됐어요.
+
+**Outro:**
+> He wrote it slowly.
+> He didn't have to. He did. ✍️
+>
+
+---
+
+### sim2: He Noticed
+
+**Goal:** To find out Hyunjun actually recognizes you from before.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**승 — 기억 [세트 3]**
+AI: 전에도 왔어요?
+User: 네! / 항상 와요!
+AI: …알아요.
+User: 기억해요?
+
+**Outro:**
+> He knew before you asked. 👀
+> He's waiting. Say something.
+>
+
+**전 — 대화 [세트 4]**
+AI: 좋아해요?
+User: 네, 좋아해요!
+AI: …그래요.
+User: 앞으로도 올게요!
+
+**Outro:**
+> "…그래요." That's Hyunjun for "I'll be here." 🥹
+> Hand over what you've been holding.
+>
+
+---
+
+### sim3: Goodbye (For Now)
+
+**Goal:** To give Hyunjun your letter and say a goodbye that lands.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**전 — 선물 [세트 5]**
+User: 이거요.
+AI: 뭐예요.
+User: 편지예요!
+AI: …받을게요.
+
+**Outro:**
+> No thank you. But he held it with both hands. 💌
+>
+
+**결 — 작별 [세트 6]**
+AI: 조심히 가요.
+User: 네, 감사해요!
+AI: …또 봐요.
+User: 꼭이요!
+
+**Outro:**
+> "또 봐요." He said it first.
+> That's basically a promise. ✨
+> Next up: See him on stage — if your heart can take it.
+>
+
+---
+
+# KP-2: 무대 위에서
+
+- 대분류: Kpop
+- 중분류: Concert
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Before the Show
+
+**Goal:** To catch Hyunjun backstage before the concert and get a few words out of him.
+
+📍 장소: 콘서트장 백스테이지 (공연 전)
+
+**intro_text:**
+The show starts in ten minutes.
+He's standing alone by the curtain.
+He sees you.
+
+### 기 — 공연 전 [세트 1]
+
+AI: 왔어요?
+User: 네! / 왔어요!
+
+AI: …수고했어요.
+User: 현준 씨도요!
+
+**Outro:**
+> He said "수고했어요" to a fan waiting in line. 🧊
+> He meant it.
+>
+
+### 승 — 기다림 [세트 2]
+
+User: 떨려요?
+AI: …아니요.
+
+User: 잘 할 거예요!
+AI: 알아요.
+
+**Outro:**
+> He said "알아요" without looking up.
+> He was already focused. 🎤
+>
+
+---
+
+## sim2: During the Show
+
+**Goal:** To catch the moment Hyunjun looks directly at you from the stage.
+
+📍 장소: 콘서트장 무대 (공연 중)
+
+### 승 — 공연 중 [세트 3]
+
+AI: 왔어요?
+User: 네! / 여기요!
+
+AI: …다행이에요.
+User: 최고예요!
+
+**Outro:**
+> He found you in the crowd. 👀
+> Ten thousand people. He looked your way.
+>
+
+### 전 — 앵콜 [세트 4]
+
+User: 앵콜! 앵콜!
+AI: …네.
+
+User: 한 곡 더요!
+AI: 알겠어요.
+
+**Outro:**
+> He came back out.
+> He looked straight at your section. 🎶
+>
+
+---
+
+## sim3: After the Show
+
+**Goal:** To say something to Hyunjun after the concert and get a real response.
+
+📍 장소: 콘서트장 출구 근처 (공연 후)
+
+### 전 — 끝 [세트 5]
+
+User: 진짜 좋았어요!
+AI: …그래요.
+
+User: 수고했어요!
+AI: 네.
+
+**Outro:**
+> Post-concert. He's exhausted.
+> He still stopped to listen. 🌟
+>
+
+### 결 — 인사 [세트 6]
+
+AI: 조심히 가요.
+User: 네, 감사해요!
+
+AI: …또 와요.
+User: 꼭이요!
+
+**Outro:**
+> "또 와요." Quiet. Direct.
+> Next up: He actually went live.
+>
+
+---
+
+# KP-3: …봤어요
+
+- 대분류: Kpop
+- 중분류: Support
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: He Went Live
+
+**Goal:** To join Hyunjun's live stream and get him to notice you in the comments.
+
+📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Notification: Hyunjun is live.
+No announcement. No warning.
+He's just there. Barely talking.
+
+### 기 — 라이브 방송 [세트 1]
+
+AI: …왔어요?
+User: 네! / 왔어요!
+
+AI: 그래요.
+User: 수고했어요!
+
+**Outro:**
+> He found your comment in the flood. 💬
+> He's still here. Keep going.
+>
+
+### 승 — 대화 [세트 2]
+
+AI: 뭐 했어요?
+User: 기다렸어요! / 라이브 기다렸어요!
+
+AI: …그래요.
+User: 사랑해요!
+
+**Outro:**
+> Love sent. He received it in silence. 💖
+> Check your messages — he left something.
+>
+
+---
+
+## sim2: The Reply
+
+**Goal:** To send Hyunjun a message and get his shortest, most meaningful reply.
+
+📍 장소: 온라인 (버블/위버스 메시지)
+
+### 승 — 답장 [세트 3]
+
+AI: …봤어요.
+User: 진짜요?! / 읽었어요?
+
+AI: 네.
+User: 감사해요!
+
+**Outro:**
+> "봤어요." Three syllables. Maximum Hyunjun. 🧊
+> He's still there.
+>
+
+### 전 — 질문 [세트 4]
+
+AI: 뭐가 좋았어요?
+User: 다 좋아요! / 다 좋았어요!
+
+AI: …그래요.
+User: 항상 응원할게요!
+
+**Outro:**
+> "…그래요." = Hyunjun for "thank you." 🌟
+> One last message before he disappears.
+>
+
+---
+
+## sim3: Sending Love
+
+**Goal:** To send a final message and say goodnight to Hyunjun.
+
+📍 장소: 온라인 (버블/위버스, 동일)
+
+### 전 — 메시지 [세트 5]
+
+User: 오늘 라이브 봤어요!
+AI: …네.
+
+User: 진짜 좋았어요!
+AI: …다행이에요.
+
+**Outro:**
+> "다행이에요." He typed it himself. 📩
+> One more exchange before the night ends.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 자요.
+User: 잘 자요!
+
+AI: …네.
+User: 좋은 꿈 꿔요!
+
+**Outro:**
+> Goodnight exchanged. 🌙
+> Next up: Time to put on your professional face.
+>

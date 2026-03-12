@@ -1,36 +1,423 @@
-1#VH|세트1: 카페 주문
-2#KV|뭐 마실래요?
-3#WR|아메리카노요!
-4#ZT|차가운 거요?
-5#ZP|네, 차가운 거요!
-6#BW|He already knew his order before entering the café.
-7#YP|세트2: 식당
-8#RK|뭐 먹을래요?
-9#XN|삼겹살 어때요?
-10#MJ|좋아요!
-11#ST|같이 가요!
-12#KZ|He was already walking toward the restaurant.
-13#WH|세트3: 길 찾기
-14#VQ|여기 어디예요?
-15#PB|저기예요!
-16#NY|고마워요!
-17#RT|같이 가요!
-18#ZM|He had already checked the map three times.
-19#WK|세트4: 도착
-20#SJ|다 왔어요?
-21#XV|네, 다 왔어요!
-22#BQ|빨리 왔네요.
-23#PH|헤헤, 신나요!
-24#NT|He took a photo immediately upon arrival.
-25#MV|세트5: 카페 자리
-26#ZV|자리 있어요?
-27#WN|저기 있어요!
-28#HY|좋은 자리네요.
-29#XB|헤헤, 좋죠?
-30#RS|He had scouted the best seat in advance.
-31#NQ|세트6: 귀가
-32#XW|재미있었어요?
-33#RR|네! 완전 재미있었어요!
-34#QH|또 와요.
-35#BV|네! 또 와요!
-36#WT|He was already planning the next outing on the way home.
+# 🌙 TRAVELING (존댓말)
+
+# TR-1: 여기 제 단골이에요
+
+- 대분류: Traveling
+- 중분류: Cafe
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+**Outro:**
+> Café unlocked! ☕
+> Hangyeol's Konkuk go-to — now it's yours too.
+>
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink, choose a size, and try the café's famous snacks.
+
+**📍 장소:** 건대 카페 카운터
+
+**intro_text:** Hangyeol's favorite café near Konkuk. He practically lives here!
+
+**기 — 주문 [세트 1]**
+AI: 안녕하세요! 뭐 드릴까요?
+User: 아이스 아메리카노 주세요. / 따뜻한 라떼 주세요.
+AI: 사이즈는요?
+User: 기본이요. / 큰 거요.
+
+**Outro:**
+> Drink ordered! ☕
+> Hangyeol says the snacks here are incredible, too.
+>
+
+**승 — 추가 [세트 2]**
+AI: 더 필요하신 거 있으세요?
+User: 쿠키 있어요? / 괜찮아요.
+AI: 네, 있어요!
+User: 하나 주세요. / 됐어요.
+
+**Outro:**
+> Snack sorted! 🍪
+> Time to pay like a true regular.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To pay for your order and give your name for pickup.
+
+**📍 장소:** 카페 카운터 (동일)
+
+**승 — 결제 [세트 3]**
+AI: 칠천 원이에요!
+User: 카드 돼요? / 현금이요.
+AI: 네, 됩니다!
+User: 네!
+
+**Outro:**
+> Payment done! 💳
+> Just one more thing before the wait begins.
+>
+
+**전 — 기다리기 [세트 4]**
+AI: 이름이 어떻게 되세요?
+User: ___이요.
+AI: 나오면 불러 드릴게요!
+User: 네!
+
+**Outro:**
+> Name given! 📝
+> The hardest part: waiting for your coffee.
+>
+
+---
+
+### sim3: Getting the Drink
+
+**Goal:** To pick up your drink and settle into a cozy window seat.
+
+**📍 장소:** 카페 픽업대 → 카페 좌석
+
+**전 — 받기 [세트 5]**
+AI: 아이스 아메리카노 나왔어요!
+User: 감사합니다!
+AI: 빨대 드릴까요?
+User: 네, 주세요. / 괜찮아요.
+
+**Outro:**
+> Coffee in hand! ☕
+> Now find the perfect window seat.
+>
+
+**결 — 자리 [세트 6]**
+User: 자리 있어요?
+AI: 창가 자리 있어요!
+User: 감사합니다!
+AI: 맛있게 드세요!
+
+**Outro:**
+> Mission accomplished! ☕🪑
+> Hangyeol's café — officially your new spot. Next up: real Konkuk street food!
+>
+
+---
+
+# TR-2: 떡볶이 하나요!
+
+- 대분류: Traveling
+- 중분류: Pojangmacha
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+**Outro:**
+> Street food champion! 🍢
+> Spicy, chewy, perfect — just like Konkuk's famous night market.
+>
+
+---
+
+### sim1: 포장마차 도착
+
+**Goal:** To order tteokbokki and pick a drink at the street food stall.
+
+**📍 장소:** 건대 야시장 포장마차
+
+**intro_text:** Konkuk's legendary night market. Hangyeol is already drooling.
+
+**기 — 주문 [세트 1]**
+AI: 어서 오세요! 뭐 드릴까요?
+User: 떡볶이 주세요! / 떡볶이 하나요!
+AI: 한 인분이요?
+User: 네, 하나요. / 두 개요.
+
+**Outro:**
+> Tteokbokki ordered! 🌶️
+> Now pick something to drink before the heat hits.
+>
+
+**승 — 음료 [세트 2]**
+AI: 음료는요?
+User: 어묵 국물 주세요. / 아이스티 주세요.
+AI: 네, 잠시만요!
+User: 감사합니다!
+
+**Outro:**
+> Drink sorted! 🥤
+> The food is almost ready — brace yourself!
+>
+
+---
+
+### sim2: 음식 조절
+
+**Goal:** To adjust the spice level and ask for a refill of side items.
+
+**📍 장소:** 건대 야시장 포장마차 (동일)
+
+**승 — 맵기 [세트 3]**
+AI: 얼마나 맵게 해드릴까요?
+User: 안 맵게요! / 조금만 맵게요.
+AI: 알겠어요!
+User: 네, 감사합니다!
+
+**Outro:**
+> Spice sorted! 🌶️
+> Surviving the heat? Now master the refill.
+>
+
+**전 — 리필 [세트 4]**
+User: 저기요! 더 주세요.
+AI: 어떤 거 더 드릴까요?
+User: 어묵 더요. / 이거 더요.
+AI: 네, 잠시만요!
+
+**Outro:**
+> Refill unlocked! 🥢
+> How do you wrap up the perfect street food trip?
+>
+
+---
+
+### sim3: 계산하기
+
+**Goal:** To pay the bill and say a proper farewell at the pojangmacha.
+
+**📍 장소:** 건대 야시장 포장마차 (동일)
+
+**전 — 결제 [세트 5]**
+User: 얼마예요?
+AI: 오천 원이에요!
+User: 카드 돼요? / 현금이요.
+AI: 네, 됩니다!
+
+**Outro:**
+> Bill sorted! 💳
+> One last thing to say before you go.
+>
+
+**결 — 인사 [세트 6]**
+User: 잘 먹었습니다!
+AI: 감사합니다! 또 오세요!
+User: 또 올게요!
+AI: 안녕히 가세요!
+
+**Outro:**
+> Mission accomplished! 🏆
+> Konkuk street food: officially conquered. Next up: catch the bus with Hangyeol!
+>
+
+---
+
+# TR-3: 제 카드 쓰세요
+
+- 대분류: Traveling
+- 중분류: Bus
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+**Outro:**
+> Safe on board! 🚌
+> Hangyeol's card to the rescue — friendship level up!
+>
+
+---
+
+### sim1: 버스 정류장
+
+**Goal:** To find the right bus and borrow Hangyeol's transit card.
+
+**📍 장소:** 건대 버스 정류장
+
+**intro_text:** Running for the bus with Hangyeol. He knows every route by heart!
+
+**기 — 버스 확인 [세트 1]**
+User: 저기요, 이 버스 건대 가요?
+AI: 네, 건대입구역 가요!
+User: 감사합니다!
+AI: 네!
+
+**Outro:**
+> Bus found! 🚌
+> But wait — you don't have a transit card.
+>
+
+**승 — 카드 [세트 2]**
+AI: 카드 없어?
+User: 응, 없어. / 잃어버렸어.
+AI: 내 거 써. 괜찮아.
+User: 고마워!
+
+**Outro:**
+> Card borrowed! 💳
+> Hangyeol's got you covered. Now hop on!
+>
+
+---
+
+### sim2: 버스 안
+
+**Goal:** To check in with another passenger and prepare to get off at the right stop.
+
+**📍 장소:** 버스 안
+
+**승 — 정거장 확인 [세트 3]**
+AI: 어디서 내리세요?
+User: 건대입구역이요.
+AI: 두 정거장이에요!
+User: 아, 감사합니다!
+
+**Outro:**
+> Stop confirmed! 🗺️
+> Settle in and enjoy the ride.
+>
+
+**전 — 하차 준비 [세트 4]**
+AI: 다음 역이야. 준비해!
+User: 벌써? / 알겠어!
+AI: 응! 빨리 일어나.
+User: 오케이!
+
+**Outro:**
+> Getting off soon! 🏁
+> Time to make a smooth exit.
+>
+
+---
+
+### sim3: 도착
+
+**Goal:** To get off the bus safely and return Hangyeol's card.
+
+**📍 장소:** 버스 → 건대입구역 앞
+
+**전 — 내리기 [세트 5]**
+AI: 건대입구역입니다!
+User: 감사합니다!
+AI: 조심히 내리세요!
+User: 네!
+
+**Outro:**
+> Arrived safely! 🏢
+> Almost done — return that card!
+>
+
+**결 — 카드 반환 [세트 6]**
+User: 카드 고마워!
+AI: 괜찮아. 다음엔 챙겨.
+User: 알겠어. 고마워!
+AI: 별거 아냐!
+
+**Outro:**
+> Mission accomplished! ✅
+> Hangyeol never lets you down. Next up: the Konkuk night market — try not to get lost!
+>
+
+---
+
+# TR-4: 야, 나 어디야?
+
+- 대분류: Traveling
+- 중분류: Emergency
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+**Outro:**
+> Found each other! 🎉
+> Lost in Konkuk's night market — but Hangyeol always shows up.
+>
+
+---
+
+### sim1: 길을 잃음
+
+**Goal:** To ask passersby for directions and realize you're completely lost.
+
+**📍 장소:** 건대 어울마당 야시장
+
+**intro_text:** Konkuk night market. Hangyeol said meet him here. But... where is here exactly?
+
+**기 — 길 묻기 [세트 1]**
+User: 저기요, 야시장 어디예요?
+AI: 아, 저쪽이에요!
+User: 감사합니다!
+AI: 쭉 가세요!
+
+**Outro:**
+> Direction received! 🗺️
+> But... you still can't find it.
+>
+
+**승 — 못 찾음 [세트 2]**
+User: 저기요, 모르겠어요.
+AI: 저도 잘 몰라요.
+User: 아, 알겠어요.
+AI: 죄송해요!
+
+**Outro:**
+> Still lost! 😅
+> Time to call in the expert: Hangyeol.
+>
+
+---
+
+### sim2: 한결에게 연락
+
+**Goal:** To contact Hangyeol and share your location so he can find you.
+
+**📍 장소:** 야시장 근처 거리
+
+**승 — 전화 [세트 3]**
+AI: 야, 어디야?
+User: 야시장인데. / 길 잃었어.
+AI: 진짜? 어떡해.
+User: 빨리 와줘!
+
+**Outro:**
+> Hangyeol called! 📱
+> He's on his way — but where exactly are you?
+>
+
+**전 — 위치 공유 [세트 4]**
+AI: 주변에 뭐 보여?
+User: 편의점 보여. / 카페 있어.
+AI: 아, 알았어. 기다려!
+User: 빨리!
+
+**Outro:**
+> Location shared! 📍
+> Hangyeol is on his way. Hang tight!
+>
+
+---
+
+### sim3: 한결과 만남
+
+**Goal:** To stay calm while waiting and reunite with Hangyeol at last.
+
+**📍 장소:** 야시장 근처 (동일)
+
+**전 — 대기 [세트 5]**
+AI: 누구 기다리세요?
+User: 네, 친구요.
+AI: 아, 그렇군요!
+User: 네, 감사해요.
+
+**Outro:**
+> Almost reunited! ⏰
+> Just a few more minutes...
+>
+
+**결 — 만남 [세트 6]**
+AI: 여기 있었어?
+User: 한결아! / 어, 여기!
+AI: 이제 알았지? 조심해.
+User: 알겠어. 고마워!
+
+**Outro:**
+> Reunited! 🎉
+> Lost in the night market, found by Hangyeol — the best Konkuk guide ever!
+>

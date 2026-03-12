@@ -1,36 +1,336 @@
-1#ZK|세트1: 음악
-2#ZY|이 노래 들어봤어?
-3#XN|아니, 뭔데?
-4#TS|구름 같은 노래야.
-5#VH|구름 같아?
-6#WX|He plays it when the sky looks heavy.
-7#KX|세트2: 아티스트
-8#RP|누구 좋아해?
-9#HT|목소리가 파란 사람.
-10#RS|파란 목소리?
-11#BV|들으면 알아.
-12#QN|He played the song. She understood immediately.
-13#QP|세트3: 콘서트
-14#NQ|콘서트 가봤어?
-15#YZ|응, 갔어.
-16#KV|어땠어?
-17#PR|공기가 달랐어.
-18#VJ|He still remembers the exact smell of that night.
-19#ZW|세트4: 최애 곡
-20#MS|최애 곡 있어?
-21#VP|있어.
-22#MY|뭔데?
-23#XY|비밀이야.
-24#KJ|It's the one he plays when he's most himself.
-25#VY|세트5: 같이 듣기
-26#WQ|같이 들을래?
-27#WR|응, 좋아.
-28#PT|이어폰 있어?
-29#QY|응.
-30#YK|They listened without talking. That was the point.
-31#SW|세트6: 노래 추천
-32#PN|노래 추천해 줘.
-33#HX|이거 들어봐.
-34#XR|어떤 노래야?
-35#KP|네 느낌이야.
-36#NS|He thought about it for a week before choosing.
+# 🎤 K-POP (아이돌) >> Kpop
+
+# KP-1: 오늘 여기 왔어요
+
+- 대분류: Kpop
+- 중분류: Fan Meeting
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 처음 만남
+
+**Goal:** To meet Taeo at the fan sign and get through the moment without forgetting how to speak.
+
+**📍 장소:** 팬미팅 사인회 (테이블)
+
+**intro_text:**
+He's already looking at you.
+Not past you. At you.
+Like he's been waiting.
+
+**기 — 첫 만남 [세트 1]**
+AI: 와줬어요.
+User: 네! 왔어요!
+AI: 하늘 색 좋은 날이에요.
+User: 맞아요!
+
+**Outro:**
+> He noticed the sky before he noticed the crowd. 🌤️
+> Now he's noticing you.
+>
+
+**승 — 사인 [세트 2]**
+User: 사인 해주세요!
+AI: 이름이 뭐예요?
+User: ___이에요!
+AI: 예쁜 이름이에요.
+
+**Outro:**
+> He said your name like it meant something.
+> He wrote it slowly. ✍️
+>
+
+---
+
+### sim2: 잠깐 더
+
+**Goal:** To keep the conversation going just a little longer than you expected.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**승 — 기억 [세트 3]**
+AI: 자주 와요?
+User: 네! 항상 와요!
+AI: 알아요.
+User: 기억해요?
+
+**Outro:**
+> He knew before you asked. 👀
+> He's still looking at you.
+>
+
+**전 — 대화 [세트 4]**
+AI: 오늘 어땠어요?
+User: 너무 좋아요!
+AI: 저도요.
+User: 앞으로도 올게요!
+
+**Outro:**
+> "저도요." Simple. Real. 🌿
+> Hand over what you brought.
+>
+
+---
+
+### sim3: 작별 인사
+
+**Goal:** To give Taeo your letter and say goodbye without your voice shaking.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**전 — 선물 [세트 5]**
+User: 이거요.
+AI: 뭐예요?
+User: 편지예요!
+AI: 소중히 읽을게요.
+
+**Outro:**
+> He held it with both hands. 💌
+> Like it was fragile.
+>
+
+**결 — 작별 [세트 6]**
+AI: 비 오는 날 또 와요.
+User: 네, 올게요!
+AI: 기다릴게요.
+User: 꼭이요!
+
+**Outro:**
+> "기다릴게요." He said it first.
+> That's basically a promise. ✨
+> Next up: See him on stage — if your heart can take it.
+>
+
+---
+
+# KP-2: 무대 위에서
+
+- 대분류: Kpop
+- 중분류: Concert
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 공연 전
+
+**Goal:** To find your seat and feel the air before the show starts.
+
+📍 장소: 콘서트장 객석 (공연 전)
+
+**intro_text:**
+The stage is dark. The crowd is already buzzing.
+Something about tonight feels different.
+Then the lights change.
+
+### 기 — 공연 전 [세트 1]
+
+AI: 안녕하세요. 왔어요?
+User: 네! 왔어요!
+
+AI: 오늘 밤 하늘 봤어요?
+User: 아니요! / 못 봤어요!
+
+**Outro:**
+> He's asking about the sky before the show. 🌙
+> That's just who he is.
+>
+
+### 승 — 기다림 [세트 2]
+
+AI: 떨려요?
+User: 네, 많이요!
+
+AI: 저도 떨려요.
+User: 빨리 보고 싶어요!
+
+**Outro:**
+> The lights just went dark. 🌑
+> He's walking out right now.
+>
+
+---
+
+## sim2: 공연 중
+
+**Goal:** To catch the moment Taeo looks your way and holds it.
+
+📍 장소: 콘서트장 객석 (공연 중)
+
+### 승 — 공연 중 [세트 3]
+
+AI: 태오 나왔어요!
+User: 와, 멋있어요!
+
+AI: 이쪽 봤어요!
+User: 진짜요?! / 설레요!
+
+**Outro:**
+> He looked your way. Held it for a second. 👀
+> The whole arena screamed. He stayed calm.
+>
+
+### 전 — 앵콜 [세트 4]
+
+AI: 앵콜! 앵콜!
+User: 다시 나올까요?
+
+AI: 진짜 나왔어요!
+User: 최고예요!
+
+**Outro:**
+> Encore delivered. 🎤
+> The show is over. Your heart is still racing.
+>
+
+---
+
+## sim3: 공연 후
+
+**Goal:** To come back down to earth after the show ends.
+
+📍 장소: 콘서트장 밖 (공연 후)
+
+### 전 — 끝 [세트 5]
+
+User: 진짜 좋았어요!
+AI: 맞아요! 최고였어요!
+
+User: 태오 봤어요!
+AI: 나도 봤어요!
+
+**Outro:**
+> Post-concert high. 🌟
+> Lock in your next concert partner.
+>
+
+### 결 — 인사 [세트 6]
+
+AI: 오늘 와줘서 고마워요.
+User: 네, 저도 감사해요!
+
+AI: 다음에 또 봐요.
+User: 네, 꼭이요!
+
+**Outro:**
+> Concert night confirmed. 🎫
+> Next up: He actually went live.
+>
+
+---
+
+# KP-3: 라이브 켰어요
+
+- 대분류: Kpop
+- 중분류: Support
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 라이브 방송
+
+**Goal:** To join Taeo's live stream and get him to notice you in the comments.
+
+📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Notification: Taeo is live.
+The chat is moving fast. He's talking about the moon.
+Type now — he's actually reading.
+
+### 기 — 라이브 방송 [세트 1]
+
+AI: 왔어요?
+User: 네! / 왔어요!
+
+AI: 오늘 달 예뻐요.
+User: 진짜요?!
+
+**Outro:**
+> He found your message in a flood of comments. 💬
+> He's still here. Keep going.
+>
+
+### 승 — 대화 [세트 2]
+
+AI: 뭐 하다 왔어요?
+User: 기다렸어요!
+
+AI: 고마워요.
+User: 사랑해요!
+
+**Outro:**
+> Love sent. He received it quietly. 💖
+> Now check your messages — he left you something.
+>
+
+---
+
+## sim2: 메시지
+
+**Goal:** To send Taeo a message and get his most poetic reply.
+
+📍 장소: 온라인 (버블/위버스 메시지)
+
+### 승 — 답장 [세트 3]
+
+AI: 읽었어요.
+User: 진짜요?! / 읽었어요?
+
+AI: 네 목소리가 파래요.
+User: 파래요?
+
+**Outro:**
+> "네 목소리가 파래요." You'll think about that for days. 🌊
+> He's still typing.
+>
+
+### 전 — 질문 [세트 4]
+
+AI: 뭐가 좋았어요?
+User: 다 좋아요!
+
+AI: 고마워요.
+User: 항상 응원할게요!
+
+**Outro:**
+> "고마워요." Soft. Real. 🌿
+> Send one last message before he disappears.
+>
+
+---
+
+## sim3: 잘 자요
+
+**Goal:** To say goodnight to Taeo before the live ends.
+
+📍 장소: 온라인 (버블/위버스, 동일)
+
+### 전 — 메시지 [세트 5]
+
+User: 오늘 라이브 좋았어요!
+AI: 저도요.
+
+User: 또 해줘요!
+AI: 비 오는 날 할게요.
+
+**Outro:**
+> He'll go live on a rainy day. Just for you. 🌧️
+> One final exchange before the night ends.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 자요, 이제.
+User: 잘 자요!
+
+AI: 좋은 꿈 꿔요.
+User: 태오도요!
+
+**Outro:**
+> Goodnight exchanged. 🌙
+> Next up: Time to put on your professional face.
+>

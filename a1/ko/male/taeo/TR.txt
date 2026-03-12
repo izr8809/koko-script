@@ -1,36 +1,413 @@
-1#TM|세트1: 카페 추천
-2#SK|카페 좋은 데 알아?
-3#PP|응, 시간이 느린 카페 있어.
-4#RV|시간이 느려?
-5#VH|거기 있으면 생각이 많아져.
-6#TP|He goes there when he needs to think. Which is always.
-7#JK|세트2: 식당 선택
-8#XM|점심 뭐 먹을까?
-9#YZ|구름 같은 거 먹고 싶어.
-10#HX|구름 같은 거?
-11#RM|폭신하고 하얀 거.
-12#KN|He meant tofu soup. She figured it out eventually.
-13#NK|세트3: 여행 계획
-14#MV|주말에 어디 가고 싶어?
-15#ZV|바람이 많은 곳.
-16#WN|바람이 많은 곳?
-17#HY|바람이 솔직하잖아.
-18#XB|He had a specific hill in mind. He'd been there alone before.
-19#RS|세트4: 길 찾기
-20#NQ|여기 어떻게 가는지 알아?
-21#XW|구름 방향으로 가면 돼.
-22#RR|구름 방향?
-23#QH|저쪽이잖아.
-24#BV|He pointed. It was the right direction. Somehow.
-25#WT|세트5: 산책
-26#HZ|산책할래?
-27#XJ|응, 바람 따라가자.
-28#WJ|바람 따라가?
-29#MY|바람이 길을 알잖아.
-30#WV|They walked for an hour. Neither checked the time.
-31#TJ|세트6: 귀가
-32#SM|오늘 좋았어?
-33#PH|응, 하늘이 오렌지였어.
-34#QX|오렌지?
-35#MZ|그게 제일 좋았어.
-36#TX|He took a photo. He always does. The sky keeps changing.
+# ✈️ TRAVELING (존댓말)
+
+# TR-1: 이 빵 하나 주세요
+
+- 대분류: Traveling
+- 중분류: Bakery
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 주문하기
+
+**Goal:** To order bread and a drink at Taeo's favorite Yeonnam-dong bakery.
+
+**📍 장소:** 연남동 빵집 카운터
+
+**intro_text:**
+Taeo's bakery. The one he always talks about.
+The smell of fresh bread hits you at the door.
+
+**기 — 주문 [세트 1]**
+User: 안녕하세요! 이 빵 하나 주세요.
+AI: 네, 어떤 빵으로 드릴까요?
+User: 크루아상 하나 주세요.
+AI: 알겠어요. 잠깐만 기다려 주세요.
+
+**Outro:**
+> Bread ordered! 🥐
+> But a croissant alone feels incomplete.
+>
+
+**승 — 음료 [세트 2]**
+User: 혹시 아메리카노도 있어요?
+AI: 네, 아이스랑 따뜻한 거 다 있어요.
+User: 아이스 아메리카노 하나 주세요.
+AI: 네, 같이 준비해 드릴게요.
+
+**Outro:**
+> Bread and coffee. ☕🥐
+> Now handle the payment.
+>
+
+---
+
+### sim2: 계산하기
+
+**Goal:** To ask about the price and pay.
+
+**📍 장소:** 연남동 빵집 카운터 (동일)
+
+**승 — 가격 [세트 3]**
+User: 혹시 다 해서 얼마예요?
+AI: 크루아상이랑 아메리카노 해서 팔천 원이에요.
+User: 카드로 결제해도 될까요?
+AI: 네, 카드 되세요.
+
+**Outro:**
+> Price confirmed! 💳
+> Almost done here.
+>
+
+**전 — 결제 [세트 4]**
+User: 여기요, 감사합니다.
+AI: 감사합니다. 영수증 드릴까요?
+User: 아니요, 괜찮아요.
+AI: 네, 맛있게 드세요!
+
+**Outro:**
+> All paid up! 🛍️
+> Time to find a spot.
+>
+
+---
+
+### sim3: 자리 잡기
+
+**Goal:** To find a seat and enjoy the moment.
+
+**📍 장소:** 연남동 빵집 내부
+
+**전 — 자리 [세트 5]**
+User: 혹시 안에 자리 있어요?
+AI: 네, 창가 쪽에 자리 있어요.
+User: 거기 앉아도 될까요?
+AI: 네, 편하게 앉으세요.
+
+**Outro:**
+> Window seat secured! 🪑
+> Taeo would sit exactly here.
+>
+
+**결 — 맛 [세트 6]**
+User: 크루아상이 정말 맛있네요!
+AI: 감사해요. 자주 오세요!
+User: 네, 또 올게요.
+AI: 기다릴게요. 즐거운 시간 되세요!
+
+**Outro:**
+> Mission complete! 🥐
+> Taeo was right about this place.
+>
+
+---
+
+# TR-2: 공원 가는 길 좀 알려주세요
+
+- 대분류: Traveling
+- 중분류: Park
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 길 묻기
+
+**Goal:** To ask for directions to the park and confirm the route.
+
+**📍 장소:** 연남동 골목
+
+**intro_text:**
+Taeo mentioned a park nearby. The kind with old trees.
+You can't find it. Someone's walking by.
+
+**기 — 공원 [세트 1]**
+User: 저기요, 공원 가는 길 좀 알려주세요.
+AI: 저쪽으로 쭉 가시면 나와요.
+User: 걸어서 얼마나 걸려요?
+AI: 한 오 분 정도면 돼요.
+
+**Outro:**
+> Direction received! 🗺️
+> Five minutes. Easy.
+>
+
+**승 — 확인 [세트 2]**
+User: 이 길로 쭉 가면 되는 거죠?
+AI: 네, 맞아요. 큰 나무 보이면 다 온 거예요.
+User: 아, 알겠어요. 감사합니다!
+AI: 네, 즐거운 산책 하세요.
+
+**Outro:**
+> On the right path! 🌿
+> Big tree. Got it.
+>
+
+---
+
+### sim2: 공원에서
+
+**Goal:** To find a bench and explore the walking trail.
+
+**📍 장소:** 연남동 공원
+
+**승 — 벤치 [세트 3]**
+User: 저기요, 이 자리 비어 있어요?
+AI: 네, 앉으셔도 돼요.
+User: 감사합니다. 여기 자주 오세요?
+AI: 네, 날씨 좋을 때 자주 와요.
+
+**Outro:**
+> Bench found! 🌳
+> The park has its own quiet rhythm.
+>
+
+**전 — 산책로 [세트 4]**
+User: 혹시 산책로가 어디에 있어요?
+AI: 저쪽 나무 옆으로 가시면 있어요.
+User: 한 바퀴 도는 데 얼마나 걸려요?
+AI: 천천히 걸으면 한 이십 분 정도 돼요.
+
+**Outro:**
+> Trail found! 🚶
+> Twenty minutes of Yeonnam air.
+>
+
+---
+
+### sim3: 공원 나가기
+
+**Goal:** To find the exit and ask about the nearby market.
+
+**📍 장소:** 연남동 공원 출구
+
+**전 — 출구 [세트 5]**
+User: 저기요, 출구가 어느 쪽이에요?
+AI: 저쪽 방향으로 나가시면 돼요.
+User: 감사합니다. 근처에 시장도 있어요?
+AI: 네, 나가시면 바로 보여요.
+
+**Outro:**
+> Exit found! 🚪
+> And the market is right there.
+>
+
+**결 — 다음 [세트 6]**
+User: 오늘 날씨가 정말 좋네요.
+AI: 그러게요. 산책하기 딱 좋은 날이에요.
+User: 네, 감사합니다. 좋은 하루 되세요!
+AI: 네, 즐거운 시간 되세요.
+
+**Outro:**
+> Perfect Yeonnam afternoon. 🌸
+> Next stop: the flea market.
+>
+
+---
+
+# TR-3: 이거 좀 깎아주실 수 있어요?
+
+- 대분류: Traveling
+- 중분류: Flea Market
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 구경하기
+
+**Goal:** To browse items and ask about prices at the flea market.
+
+**📍 장소:** 연남동 벼룩시장
+
+**intro_text:**
+Weekend flea market in Yeonnam-dong.
+Every table has something with a story. Taeo loves this place.
+
+**기 — 구경 [세트 1]**
+User: 저기요, 이거 얼마예요?
+AI: 그거 오천 원이에요.
+User: 생각보다 싸네요. 뭐로 만든 거예요?
+AI: 도자기로 만든 빈티지 컵이에요.
+
+**Outro:**
+> Price checked! 🏷️
+> Vintage ceramic. Not bad.
+>
+
+**승 — 물건 [세트 2]**
+User: 이거 오래된 거예요?
+AI: 네, 한 삼십 년 됐어요.
+User: 와, 진짜요? 예쁘다.
+AI: 감사해요. 하나밖에 없는 거예요.
+
+**Outro:**
+> Thirty years old. One of a kind. ☕
+> Taeo would definitely pick this up.
+>
+
+---
+
+### sim2: 흥정하기
+
+**Goal:** To negotiate a price politely and pay.
+
+**📍 장소:** 연남동 벼룩시장 (동일)
+
+**승 — 흥정 [세트 3]**
+User: 혹시 좀 깎아주실 수 있어요?
+AI: 얼마 생각하세요?
+User: 사천 원에 해주실 수 있어요?
+AI: 네, 그렇게 해 드릴게요.
+
+**Outro:**
+> Deal made! 🤝
+> Four thousand won. Flea market skills unlocked.
+>
+
+**전 — 계산 [세트 4]**
+User: 카드로 결제해도 될까요?
+AI: 죄송해요, 여기는 현금만 돼요.
+User: 아, 알겠어요. 현금 있어요.
+AI: 감사합니다. 잘 쓰세요!
+
+**Outro:**
+> Paid in cash! 💵
+> The vintage cup is yours.
+>
+
+---
+
+### sim3: 마무리
+
+**Goal:** To wrap up shopping and say goodbye.
+
+**📍 장소:** 연남동 벼룩시장 출구
+
+**전 — 포장 [세트 5]**
+User: 혹시 봉투 하나 주실 수 있어요?
+AI: 네, 잠깐만요. 여기 있어요.
+User: 감사합니다. 깨지지 않게 싸주실 수 있어요?
+AI: 네, 제가 잘 싸 드릴게요.
+
+**Outro:**
+> All wrapped up! 🛍️
+> Handle with care.
+>
+
+**결 — 인사 [세트 6]**
+User: 오늘 장사 잘 되셨어요?
+AI: 네, 덕분에 잘 됐어요. 감사해요.
+User: 다음 주에 또 올게요!
+AI: 네, 기다릴게요. 또 오세요!
+
+**Outro:**
+> See you next weekend! 🌸
+> This market feels like Taeo's world.
+>
+
+---
+
+# TR-4: 연남동까지 가주세요
+
+- 대분류: Traveling
+- 중분류: Bus / Taxi
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 버스 타기
+
+**Goal:** To get on the right bus and confirm the stop.
+
+**📍 장소:** 연남동 버스 정류장
+
+**intro_text:**
+Long day in Yeonnam-dong. Bread, park, market.
+Time to head home. The bus is pulling up.
+
+**기 — 버스 [세트 1]**
+User: 저기요, 이 버스 홍대 가요?
+AI: 네, 홍대 지나가요.
+User: 몇 정류장이나 가야 해요?
+AI: 두 정류장만 가시면 돼요.
+
+**Outro:**
+> Right bus! 🚌
+> Two stops. Get on.
+>
+
+**승 — 요금 [세트 2]**
+User: 요금이 얼마예요?
+AI: 천이백 원이에요. 카드 되세요.
+User: 네, 카드로 할게요. 감사합니다.
+AI: 네, 안쪽으로 들어가세요.
+
+**Outro:**
+> Fare paid! 💳
+> Find a seat.
+>
+
+---
+
+### sim2: 버스 안
+
+**Goal:** To ask about the stop and get off at the right place.
+
+**📍 장소:** 버스 안
+
+**승 — 정류장 [세트 3]**
+User: 저기요, 홍대 정류장이 다음이에요?
+AI: 네, 다음 정류장이에요.
+User: 내릴 때 버튼 눌러야 해요?
+AI: 네, 저기 버튼 누르시면 돼요.
+
+**Outro:**
+> Almost there! 🛣️
+> Button pressed. Ready to go.
+>
+
+**전 — 내리기 [세트 4]**
+User: 여기서 내리면 되는 거죠?
+AI: 네, 여기서 내리세요.
+User: 감사합니다. 안녕히 가세요!
+AI: 네, 조심히 내리세요.
+
+**Outro:**
+> Off the bus! 🚏
+> One more ride to go.
+>
+
+---
+
+### sim3: 택시 귀가
+
+**Goal:** To take a taxi home and arrive safely.
+
+**📍 장소:** 택시 안
+
+**전 — 목적지 [세트 5]**
+User: 안녕하세요! 연남동으로 가주세요.
+AI: 네, 어디쪽으로 가실 거예요?
+User: 연남동 공원 근처로 가주세요.
+AI: 네, 알겠어요. 출발할게요.
+
+**Outro:**
+> Destination set! 🚕
+> Almost home.
+>
+
+**결 — 도착 [세트 6]**
+User: 저기 골목 앞에서 세워주실 수 있어요?
+AI: 네, 잠깐만요. 여기서 세워 드릴게요.
+User: 감사합니다. 얼마예요?
+AI: 팔천 원이에요. 카드 되세요.
+
+**Outro:**
+> Home! 🏠
+> Another Yeonnam-dong day, done.
+>
+
+---

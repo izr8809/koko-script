@@ -1,36 +1,336 @@
-1#BW|세트1: 음악 취향
-2#YV|어떤 음악 좋아해?
-3#MX|하늘 색깔이 바뀌는 것 같은 음악.
-4#VB|하늘 색깔?
-5#MX|들으면 색이 보이잖아.
-6#JN|He sees colors when he listens. He always has.
-7#RW|세트2: 아티스트
-8#SP|누구 좋아해?
-9#TW|목소리가 안개 같은 사람.
-10#VY|안개 같아?
-11#HS|들으면 알아.
-12#QK|He played the song. She saw the fog immediately.
-13#MZ|세트3: 콘서트
-14#TZ|콘서트 가봤어?
-15#HP|응, 갔어. 공기가 달랐어.
-16#NZ|공기가 달랐어?
-17#RQ|음악이 공기를 바꾸잖아.
-18#TM|He still remembers the exact temperature of that night.
-19#BW|세트4: 같이 듣기
-20#MW|같이 들을래? 이어폰 나눌게.
-21#KV|응, 좋아.
-22#TR|이 노래 어때?
-23#SR|색이 보여.
-24#QW|He smiled. She understood.
-25#RW|세트5: 최애 곡
-26#JY|최애 곡 있어?
-27#QJ|있어. 비밀이야.
-28#TK|왜 비밀이야?
-29#KY|너무 솔직해서.
-30#BH|It's the most honest thing about him. He guards it carefully.
-31#JY|세트6: 노래 추천
-32#ZZ|노래 추천해 줄 수 있어?
-33#YQ|응, 이거 들어봐.
-34#VM|어떤 노래야?
-35#XJ|네 느낌이야.
-36#BR|He thought about it for days. This was the right one.
+# 🎤 K-POP (아이돌) >> Kpop
+
+# KP-1: 오늘 여기까지 와줬어요
+
+- 대분류: Kpop
+- 중분류: Fan Meeting
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 처음 만남
+
+**Goal:** To meet Taeo at the fan sign and actually hold a conversation with him.
+
+**📍 장소:** 팬미팅 사인회 (테이블)
+
+**intro_text:**
+He's already looking at you.
+Not past you. At you.
+Like he's been waiting for this exact moment.
+
+**기 — 첫 만남 [세트 1]**
+AI: 오늘 여기까지 와줬어요. 고마워요.
+User: 네! 정말 기다렸어요!
+AI: 오늘 하늘 색 봤어요? 되게 좋은 날이에요.
+User: 맞아요, 날씨 진짜 좋더라고요!
+
+**Outro:**
+> He noticed the sky before he noticed the crowd. 🌤️
+> Now he's noticing you.
+>
+
+**승 — 사인 [세트 2]**
+User: 사인 꼭 받고 싶었어요. 해주실 수 있어요?
+AI: 물론이죠. 이름이 어떻게 돼요?
+User: ___이에요!
+AI: 예쁜 이름이에요. 천천히 써줄게요.
+
+**Outro:**
+> He said your name like it meant something.
+> He wrote it slowly. ✍️
+>
+
+---
+
+### sim2: 잠깐 더
+
+**Goal:** To keep the conversation going just a little longer than you expected.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**승 — 기억 [세트 3]**
+AI: 자주 와요? 어디선가 본 것 같아서요.
+User: 네! 항상 오려고 노력해요!
+AI: 알아요. 기억하고 있었어요.
+User: 진짜로요? 기억해줬어요?
+
+**Outro:**
+> He knew before you asked. 👀
+> He's still looking at you.
+>
+
+**전 — 대화 [세트 4]**
+AI: 오늘 여기 오면서 어땠어요? 힘들지 않았어요?
+User: 아니요! 오히려 너무 설레고 좋았어요!
+AI: 그 마음이 느껴져요. 저도 그래요.
+User: 앞으로도 계속 응원할게요!
+
+**Outro:**
+> "저도 그래요." Simple. Real. 🌿
+> Hand over what you brought.
+>
+
+---
+
+### sim3: 작별 인사
+
+**Goal:** To give Taeo your letter and say goodbye without your voice shaking.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**전 — 선물 [세트 5]**
+User: 이거 드리고 싶었어요. 직접 준비했어요.
+AI: 이게 뭐예요? 직접 만든 거예요?
+User: 네, 편지예요. 꼭 읽어줬으면 해요!
+AI: 소중히 읽을게요. 진짜로요.
+
+**Outro:**
+> He held it with both hands. 💌
+> Like it was fragile.
+>
+
+**결 — 작별 [세트 6]**
+AI: 비 오는 날에도 또 와줄 수 있어요?
+User: 네, 비 와도 꼭 올게요!
+AI: 기다릴게요. 그날도 하늘 색 얘기해요.
+User: 꼭이요! 약속해요!
+
+**Outro:**
+> "기다릴게요." He said it first.
+> That's basically a promise. ✨
+> Next up: See him on stage — if your heart can take it.
+>
+
+---
+
+# KP-2: 무대 위에서 봤어요
+
+- 대분류: Kpop
+- 중분류: Concert
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 공연 전
+
+**Goal:** To find your seat and feel the air before the show starts.
+
+📍 장소: 콘서트장 객석 (공연 전)
+
+**intro_text:**
+The stage is dark. The crowd is already buzzing.
+Something about tonight feels different.
+Then the lights change.
+
+### 기 — 공연 전 [세트 1]
+
+AI: 안녕하세요. 오늘 여기까지 와줬어요?
+User: 네! 정말 기대하고 왔어요!
+
+AI: 오늘 밤 하늘 봤어요? 별이 많이 떠 있어요.
+User: 아직 못 봤어요! 공연 끝나고 볼게요!
+
+**Outro:**
+> He's asking about the sky before the show. 🌙
+> That's just who he is.
+>
+
+### 승 — 기다림 [세트 2]
+
+AI: 많이 떨려요? 오늘 처음 오는 거예요?
+User: 네, 많이 떨려요! 처음은 아니에요!
+
+AI: 저도 사실 매번 떨려요. 무대 전에는 항상요.
+User: 빨리 보고 싶어요! 멋있을 것 같아요!
+
+**Outro:**
+> The lights just went dark. 🌑
+> He's walking out right now.
+>
+
+---
+
+## sim2: 공연 중
+
+**Goal:** To catch the moment Taeo looks your way and holds it.
+
+📍 장소: 콘서트장 객석 (공연 중)
+
+### 승 — 공연 중 [세트 3]
+
+AI: 태오 나왔어요! 저기 보여요?
+User: 와, 진짜 멋있어요! 설레요!
+
+AI: 이쪽 봤어요. 잠깐 눈이 마주쳤어요.
+User: 진짜요?! 심장 터질 것 같아요!
+
+**Outro:**
+> He looked your way. Held it for a second. 👀
+> The whole arena screamed. He stayed calm.
+>
+
+### 전 — 앵콜 [세트 4]
+
+AI: 앵콜! 앵콜! 같이 외쳐요!
+User: 다시 나올 것 같아요? 기대돼요!
+
+AI: 진짜 나왔어요! 오늘 밤 다 줄 것 같아요.
+User: 최고예요! 너무 좋아요!
+
+**Outro:**
+> Encore delivered. 🎤
+> The show is over. Your heart is still racing.
+>
+
+---
+
+## sim3: 공연 후
+
+**Goal:** To come back down to earth after the show ends.
+
+📍 장소: 콘서트장 밖 (공연 후)
+
+### 전 — 끝 [세트 5]
+
+User: 진짜 너무 좋았어요! 어떠셨어요?
+AI: 맞아요. 오늘은 특히 더 좋았어요.
+
+User: 태오 봤어요! 눈 마주쳤어요!
+AI: 나도 봤어요. 기억하고 있어요.
+
+**Outro:**
+> Post-concert high. 🌟
+> Lock in your next concert partner.
+>
+
+### 결 — 인사 [세트 6]
+
+AI: 오늘 와줘서 고마워요. 진짜로요.
+User: 네, 저도 너무 감사해요!
+
+AI: 다음에 또 봐요. 비 오는 날도 괜찮아요.
+User: 네, 꼭 또 올게요!
+
+**Outro:**
+> Concert night confirmed. 🎫
+> Next up: He actually went live.
+>
+
+---
+
+# KP-3: 라이브 켰어요
+
+- 대분류: Kpop
+- 중분류: Support
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 라이브 방송
+
+**Goal:** To join Taeo's live stream and get him to notice you in the comments.
+
+📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Notification: Taeo is live.
+The chat is moving fast. He's talking about the moon.
+Type now — he's actually reading.
+
+### 기 — 라이브 방송 [세트 1]
+
+AI: 왔어요? 기다리고 있었어요.
+User: 네! 알림 보고 바로 들어왔어요!
+
+AI: 오늘 달이 되게 예뻐요. 봤어요?
+User: 진짜요?! 지금 바로 볼게요!
+
+**Outro:**
+> He found your message in a flood of comments. 💬
+> He's still here. Keep going.
+>
+
+### 승 — 대화 [세트 2]
+
+AI: 뭐 하다가 들어왔어요? 바쁜 거 아니었어요?
+User: 아니요! 태오 라이브 기다리고 있었어요!
+
+AI: 고마워요. 그 말이 오늘 제일 좋은 말이에요.
+User: 사랑해요! 항상 응원해요!
+
+**Outro:**
+> Love sent. He received it quietly. 💖
+> Now check your messages — he left you something.
+>
+
+---
+
+## sim2: 메시지
+
+**Goal:** To send Taeo a message and get his most poetic reply.
+
+📍 장소: 온라인 (버블/위버스 메시지)
+
+### 승 — 답장 [세트 3]
+
+AI: 메시지 읽었어요. 다 읽었어요.
+User: 진짜요?! 읽어줬어요?
+
+AI: 네 목소리가 파란색이에요. 왜인지 모르겠는데.
+User: 파란색이요? 무슨 뜻이에요?
+
+**Outro:**
+> "네 목소리가 파란색이에요." You'll think about that for days. 🌊
+> He's still typing.
+>
+
+### 전 — 질문 [세트 4]
+
+AI: 오늘 공연에서 뭐가 제일 좋았어요?
+User: 다 좋았어요! 하나만 고르기 너무 어려워요!
+
+AI: 고마워요. 그 말 들으니까 기분이 좋아요.
+User: 항상 응원할게요! 계속 함께할게요!
+
+**Outro:**
+> "기분이 좋아요." Soft. Real. 🌿
+> Send one last message before he disappears.
+>
+
+---
+
+## sim3: 잘 자요
+
+**Goal:** To say goodnight to Taeo before the live ends.
+
+📍 장소: 온라인 (버블/위버스, 동일)
+
+### 전 — 메시지 [세트 5]
+
+User: 오늘 라이브 정말 좋았어요! 행복했어요!
+AI: 저도요. 오늘 밤 공기가 좋았어요.
+
+User: 또 해줘요! 자주 보고 싶어요!
+AI: 비 오는 날 할게요. 그날 꼭 들어와요.
+
+**Outro:**
+> He'll go live on a rainy day. Just for you. 🌧️
+> One final exchange before the night ends.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 이제 자요. 오늘 고마웠어요.
+User: 잘 자요! 좋은 꿈 꿔요!
+
+AI: 좋은 꿈 꿔요. 하늘 색 좋은 꿈이면 좋겠어요.
+User: 태오도요! 잘 자요!
+
+**Outro:**
+> Goodnight exchanged. 🌙
+> Next up: Time to put on your professional face.
+>
