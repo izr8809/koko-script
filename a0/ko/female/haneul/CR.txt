@@ -47,7 +47,7 @@ AI: 조용히 해. 집중할 거야.
 You settle in. She has a camera on the table.
 The room is quiet except for the scratch of a pen.
 
-**전 — 카메라 [세트 3]**
+**승 — 카메라 [세트 3]**
 AI: 카메라 있어? 궁금해.
 User: 없어요.
 AI: 핸드폰도 괜찮아.
@@ -57,7 +57,7 @@ User: 핸드폰만요.
 > She nods slowly, eyes still on the window light.
 >
 
-**결 — 작업 [세트 4]**
+**전 — 작업 [세트 4]**
 User: 뭐 해요?
 AI: 그림 그려. 오늘 하늘.
 User: 뭐 그려요?
@@ -75,7 +75,7 @@ AI: 오늘 본 색 그려.
 An hour passes. She puts down her pen.
 She finally looks at you properly.
 
-**기 — 이름 [세트 5]**
+**전 — 이름 [세트 5]**
 AI: 이름 뭐야? 알고 싶어.
 User: ___.
 AI: 하늘이야. 이름 예쁘지?
@@ -85,7 +85,7 @@ User: 예쁜 이름이다.
 > She smiles and looks back at the sky outside. Like she's checking if it matches her name.
 >
 
-**승 — 다음에 [세트 6]**
+**결 — 다음에 [세트 6]**
 User: 내일도 와요?
 AI: 아마 올 거야.
 User: 또 봐요.
@@ -140,7 +140,7 @@ AI: 움직이지 마. 빛 좋다.
 She leans over to see what you're working on.
 Her eyes are calm. Observant.
 
-**전 — 작업물 [세트 3]**
+**승 — 작업물 [세트 3]**
 AI: 이거 뭐야? 보여줘.
 User: 내 작업이야.
 AI: 색 좋다. 마음에 들어.
@@ -150,7 +150,7 @@ User: 정말?
 > She looks at it once more, like she's memorizing the colors.
 >
 
-**결 — 소개 [세트 4]**
+**전 — 소개 [세트 4]**
 User: 하늘 거 봐도 돼?
 AI: 봐. 아직 다 안 했어.
 User: 멋있다.
@@ -168,7 +168,7 @@ AI: 아직 멀었어. 하늘 색 더 넣을 거야.
 Both of you pause at the same time.
 A rare moment of nothing.
 
-**기 — 커피 [세트 5]**
+**전 — 커피 [세트 5]**
 AI: 커피 마셔? 내가 줄게.
 User: 어.
 AI: 잠깐 기다려. 금방 돼.
@@ -178,7 +178,7 @@ User: 고마워.
 > She goes to the corner and comes back with two paper cups, humming something.
 >
 
-**승 — 쉬기 [세트 6]**
+**결 — 쉬기 [세트 6]**
 User: 잠깐 쉬자.
 AI: 나도 쉬고 있었어.
 User: 나도.
@@ -233,7 +233,7 @@ AI: 서두르지 마. 노을 봐.
 The studio is nearly empty now.
 You both linger a little.
 
-**전 — 오늘 [세트 3]**
+**승 — 오늘 [세트 3]**
 AI: 오늘 어땠어? 좋았어?
 User: 좋았어.
 AI: 나도 좋았어. 빛이 예뻤어.
@@ -243,7 +243,7 @@ User: 왜 좋았어?
 > She looks at the empty studio like it still holds the day's colors.
 >
 
-**결 — 생각 [세트 4]**
+**전 — 생각 [세트 4]**
 User: 여기 자주 와?
 AI: 거의 매일 와. 좋아해.
 User: 나도 올게.
@@ -261,7 +261,7 @@ AI: 같이 있으면 좋겠다.
 She slings her camera bag over one shoulder.
 Pauses at the door.
 
-**기 — 인사 [세트 5]**
+**전 — 인사 [세트 5]**
 AI: 잘 가. 오늘 재밌었어.
 User: 응, 잘 가.
 AI: 내일도 꼭 와.
@@ -271,7 +271,7 @@ User: 올게.
 > She steps out and looks up at the evening sky, like she's saying goodbye to it too.
 >
 
-**승 — 다음 [세트 6]**
+**결 — 다음 [세트 6]**
 User: 내일 몇 시야?
 AI: 낮에 올 거야. 빛 좋을 때.
 User: 알겠어.

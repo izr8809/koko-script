@@ -18,7 +18,7 @@
 **📍 장소:** 학교/교실 (쉬는 시간)
 
 **intro_text:**
-Break time gossip. Wait... she went WHERE?!
+Break time gossip. Wait... he went WHERE?!
 
 **기 — 놀람 [세트 1]**
 AI: 나 어제 BTS 콘서트 갔어!
@@ -27,7 +27,7 @@ AI: 응, 진짜! 진짜 좋았어!
 User: 헐! / 미쳤어!
 
 **Outro:**
-> She actually went to a BTS concert?! 😱
+> He actually went to a BTS concert?! 😱
 > But that's not even the best part...
 >
 
@@ -39,7 +39,7 @@ User: 와! 대박! / 미쳤다!
 
 **Outro:**
 > Those photos though... 📸
-> And wait — she's got even bigger news to share!
+> And wait — he's got even bigger news to share!
 >
 
 ### sim2: Reacting to News

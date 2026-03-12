@@ -16,7 +16,7 @@
 **📍 장소:** 강남 예약 레스토랑 입구
 
 **intro_text:**
-Gangnam. Friday night. You have a reservation.
+Hyunjun made the reservation. He texted the address — nothing else.
 Walk in like you belong here.
 
 **기 — 예약 확인 [세트 1]**
@@ -26,7 +26,7 @@ User: ___이에요.
 AI: 이쪽으로 오세요.
 
 **Outro:**
-> Reservation confirmed! 🍽️
+> The host didn't blink — the reservation was under "현준."
 > Now the real test: the menu.
 >
 
@@ -37,7 +37,7 @@ User: 네.
 AI: 이쪽 자리 괜찮으세요?
 
 **Outro:**
-> Seated by the window! 🌆
+> Window seat. Hyunjun always reserves the same one.
 > Time to order.
 >
 
@@ -56,7 +56,7 @@ User: 미디엄이요.
 AI: 네, 알겠습니다.
 
 **Outro:**
-> Order placed! 🥩
+> Hyunjun recommended the steak. He's never wrong about food.
 > Don't forget the drinks.
 >
 
@@ -67,7 +67,7 @@ User: 일반이요.
 AI: 네, 가져다드릴게요.
 
 **Outro:**
-> Drinks sorted! 💧
+> He texted: "탄산수 마셔요." You ordered still water anyway.
 > Now just wait and enjoy the view.
 >
 
@@ -86,7 +86,7 @@ User: 네.
 AI: 여기 영수증이에요.
 
 **Outro:**
-> Bill paid! 💳
+> You paid like it was nothing. Hyunjun taught you well.
 > One last thing before you go.
 >
 
@@ -97,7 +97,7 @@ User: 또 올게요.
 AI: 감사합니다. 또 오세요.
 
 **Outro:**
-> Dinner done like a pro. 🏆
+> You texted Hyunjun: "잘 먹었어요." His reply: "당연하죠."
 > Next up: time to shop.
 >
 
@@ -119,8 +119,8 @@ AI: 감사합니다. 또 오세요.
 **📍 장소:** 강남 백화점 1층
 
 **intro_text:**
-Gangnam department store. Clean floors, quiet staff.
-You know what you're looking for.
+Hyunjun sent you here. "3층 가세요." That's all he said.
+Clean floors, quiet staff. You know what you're looking for.
 
 **기 — 문의 [세트 1]**
 User: 이거 있어요?
@@ -129,7 +129,7 @@ User: 보여주세요.
 AI: 이쪽으로 오세요.
 
 **Outro:**
-> Item found! 🛍️
+> The staff recognized Hyunjun's name when you walked in.
 > Now check the details.
 >
 
@@ -140,7 +140,7 @@ User: 검정으로 주세요.
 AI: 잠깐만요.
 
 **Outro:**
-> Color sorted! 🖤
+> Hyunjun texted: "검정이 나아요." You were already holding it.
 > Time to pay.
 >
 
@@ -159,7 +159,7 @@ User: 카드요.
 AI: 여기 대주세요.
 
 **Outro:**
-> Payment done! 💳
+> Done. Hyunjun would approve — efficient, no hesitation.
 > Check the receipt.
 >
 
@@ -170,7 +170,7 @@ User: 감사합니다.
 AI: 감사합니다.
 
 **Outro:**
-> Receipt in hand! 🧾
+> Receipt secured. Hyunjun always keeps his.
 > One more stop before you leave.
 >
 
@@ -189,7 +189,7 @@ User: 네, 여기요.
 AI: 잠깐만요.
 
 **Outro:**
-> Exchange started! 🔄
+> You handled it yourself this time. Hyunjun would say "잘했어요."
 > Almost done.
 >
 
@@ -200,7 +200,7 @@ User: 감사합니다.
 AI: 감사합니다. 또 오세요.
 
 **Outro:**
-> Exchange complete! ✅
+> You sent Hyunjun a photo. His reply: "잘 골랐어요."
 > Next stop: coffee.
 >
 
@@ -222,8 +222,8 @@ AI: 감사합니다. 또 오세요.
 **📍 장소:** 강남 카페 카운터
 
 **intro_text:**
-Gangnam café. Minimal design, long menu.
-You already know what you want.
+Hyunjun's regular café. He said: "아메리카노 드세요. 거기 맛있어요."
+Minimal design, long menu. You already know what you want.
 
 **기 — 음료 주문 [세트 1]**
 User: 아이스 아메리카노 주세요.
@@ -232,7 +232,7 @@ User: 라지요.
 AI: 네, 알겠습니다.
 
 **Outro:**
-> Coffee ordered! ☕
+> You ordered exactly what he recommended. He knows this place.
 > Something to eat?
 >
 
@@ -243,7 +243,7 @@ User: 하나 주세요.
 AI: 네!
 
 **Outro:**
-> Snack added! 🍰
+> You checked your phone — he'd already texted "치즈케이크 드세요" ten minutes ago.
 > Time to pay.
 >
 
@@ -262,7 +262,7 @@ User: 감사합니다.
 AI: 이름이 어떻게 되세요?
 
 **Outro:**
-> Payment done! 💳
+> The barista asked your name. Not his — yours, this time.
 > Give your name.
 >
 
@@ -273,7 +273,7 @@ User: 네.
 AI: 잠깐만 기다려 주세요.
 
 **Outro:**
-> Name given! 📝
+> Hyunjun's usual seat is the corner. Quiet, good light.
 > Now find a seat.
 >
 
@@ -292,7 +292,7 @@ User: 감사합니다.
 AI: 네!
 
 **Outro:**
-> Seat found! 🪑
+> You sat in his spot. It feels like his world for a moment.
 > Wait for your name.
 >
 
@@ -303,7 +303,7 @@ User: 감사합니다.
 AI: 맛있게 드세요.
 
 **Outro:**
-> Coffee in hand! ☕
+> You sent him a photo of the coffee. His reply: "거기 좋죠?"
 > Gangnam afternoon, sorted.
 >
 
@@ -325,8 +325,8 @@ AI: 맛있게 드세요.
 **📍 장소:** 강남 거리 (택시 탑승)
 
 **intro_text:**
-Night in Gangnam. You're heading home.
-One tap, one ride.
+Hyunjun called the taxi. He texted: "조심히 가세요."
+Night in Gangnam. One tap, one ride.
 
 **기 — 목적지 [세트 1]**
 User: 역삼역이요.
@@ -335,7 +335,7 @@ User: 네.
 AI: 안전벨트 매주세요.
 
 **Outro:**
-> Destination set! 🚕
+> He booked the ride before you even asked.
 > Settle in.
 >
 
@@ -346,7 +346,7 @@ User: 네.
 AI: 막히면 더 걸릴 수 있어요.
 
 **Outro:**
-> ETA confirmed! 🕐
+> Hyunjun texted: "도착하면 연락하세요."
 > Almost home.
 >
 
@@ -365,7 +365,7 @@ User: 네, 여기요.
 AI: 네, 알겠습니다.
 
 **Outro:**
-> Stop requested! 📍
+> You handled it yourself. Hyunjun would nod once — his version of "잘했어요."
 > Almost there.
 >
 
@@ -376,7 +376,7 @@ User: 감사합니다.
 AI: 네, 조심히 가세요.
 
 **Outro:**
-> Arrived! 🏠
+> Almost there. He's probably still at the office.
 > Time to pay.
 >
 
@@ -395,7 +395,7 @@ User: 여기요.
 AI: 감사합니다.
 
 **Outro:**
-> Payment done! 💳
+> Smooth. He'd say "잘했어요" — but only once.
 > One last step.
 >
 
@@ -406,7 +406,7 @@ User: 수고하세요.
 AI: 조심히 들어가세요.
 
 **Outro:**
-> Home safe! 🌙
+> You texted: "도착했어요." His reply: "잘 들어가세요. 내일 봐요."
 > Gangnam day, complete.
 >
 

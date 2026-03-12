@@ -47,7 +47,7 @@ AI: 천만에요!
 The signing is over.
 Yuna hops up from her seat and calls you over for photos.
 
-**기 — 준비 [세트 1]**
+**승 — 준비 [세트 3]**
 AI: 사진 찍어요!
 User: 네, 찍어요.
 AI: 가까이 와요!
@@ -57,7 +57,7 @@ User: 알겠어요.
 > She wraps her arm around you and grins at the camera.
 >
 
-**승 — 확인 [세트 2]**
+**전 — 확인 [세트 4]**
 User: 잘 나왔어요?
 AI: 예쁘게 나왔어요!
 User: 같이 봐요.
@@ -75,7 +75,7 @@ AI: 봐요!
 The event is wrapping up.
 Yuna catches your eye and suddenly switches to casual speech.
 
-**기 — 반말 전환 [세트 1]**
+**전 — 반말 전환 [세트 5]**
 AI: 잠깐, 반말 해도 돼?
 User: 응, 해.
 AI: 고마워!
@@ -85,7 +85,7 @@ User: 괜찮아.
 > She leans over and whispers something just for you.
 >
 
-**승 — 편한 대화 [세트 2]**
+**결 — 편한 대화 [세트 6]**
 User: 또 와?
 AI: 응, 또 와!
 User: 기다릴게.
@@ -140,7 +140,7 @@ AI: 잘 할게요!
 The main set is over.
 The crowd is screaming for more, and Yuna can't stop smiling.
 
-**기 — 앵콜 요청 [세트 1]**
+**승 — 앵콜 요청 [세트 3]**
 AI: 더 볼래요?
 User: 네, 더요!
 AI: 한 곡만요.
@@ -150,7 +150,7 @@ User: 감사해요!
 > The crowd erupts as the opening notes ring out.
 >
 
-**승 — 환호 [세트 2]**
+**전 — 환호 [세트 4]**
 User: 최고예요!
 AI: 감사해요!
 User: 또 해요.
@@ -168,7 +168,7 @@ AI: 알겠어요!
 The concert is over and everyone is heading out.
 Yuna is near the exit, glowing, and spots you in the crowd.
 
-**기 — 반말 [세트 1]**
+**전 — 반말 [세트 5]**
 AI: 어땠어?
 User: 최고였어.
 AI: 진짜?
@@ -178,7 +178,7 @@ User: 응, 정말.
 > She reaches out and briefly squeezes your hand.
 >
 
-**승 — 소감 [세트 2]**
+**결 — 소감 [세트 6]**
 User: 힘들었어?
 AI: 아니, 재밌었어!
 User: 다행이야.
@@ -233,7 +233,7 @@ AI: 맞아요!
 Yuna is reading comments out loud.
 She suddenly points at the screen and calls on you.
 
-**기 — 질문 [세트 1]**
+**승 — 질문 [세트 3]**
 AI: 질문 있어요?
 User: 네, 있어요.
 AI: 뭐예요?
@@ -243,7 +243,7 @@ User: 좋아하는 노래요.
 > She tilts her head, thinks for a second, then lights up.
 >
 
-**승 — 노래 [세트 2]**
+**전 — 노래 [세트 4]**
 User: 불러줘요.
 AI: 네, 불러요!
 User: 좋아요.
@@ -261,7 +261,7 @@ AI: 들어요!
 The stream is almost over.
 Yuna leans into the camera and switches to casual speech out of nowhere.
 
-**기 — 반말 전환 [세트 1]**
+**전 — 반말 전환 [세트 5]**
 AI: 반말 해도 돼?
 User: 응, 해.
 AI: 편하다!
@@ -271,7 +271,7 @@ User: 나도.
 > She smiles straight into the camera like she's talking only to you.
 >
 
-**승 — 마무리 [세트 2]**
+**결 — 마무리 [세트 6]**
 User: 내일도 와?
 AI: 응, 올게!
 User: 기다릴게.

@@ -1,4 +1,4 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
 # PI-1: 안녕! 나는 ___야
 
@@ -179,7 +179,7 @@ AI: 나는 밖! 밖에 나가는 거 최고야!
 User: 오, 나랑 같아! / 에너지 많다!
 
 **Outro:**
-> Indoors? He doesn't know her. Outside is where the fun lives.
+> Indoors? Never heard of it. Outside is where the fun lives.
 > One more round — what is he up to these days?
 >
 

@@ -51,7 +51,7 @@ AI: 같이 먹어요.
 Yuna spots a cute accessories stall.
 She grabs your sleeve and runs over.
 
-**기 — 쇼핑 [세트 1]**
+**승 — 쇼핑 [세트 3]**
 AI: 이거 예쁘죠?
 User: 네, 귀엽네요.
 AI: 살까요?
@@ -61,7 +61,7 @@ User: 좋아요.
 > She holds up three different items at once.
 >
 
-**승 — 계산 [세트 2]**
+**전 — 계산 [세트 4]**
 User: 얼마예요?
 AI: 오천 원이에요.
 User: 깎아 주세요.
@@ -83,7 +83,7 @@ AI: 네, 사천 원요.
 The stalls are closing one by one.
 Yuna switches to casual speech without warning.
 
-**기 — 정리 [세트 1]**
+**전 — 정리 [세트 5]**
 AI: 재밌었어.
 User: 나도 좋았어.
 AI: 또 와.
@@ -93,7 +93,7 @@ User: 그래, 또 오자.
 > She ties her shopping bag and grins.
 >
 
-**승 — 귀가 [세트 2]**
+**결 — 귀가 [세트 6]**
 User: 집 멀어?
 AI: 아니, 가까워.
 User: 잘 들어가.
@@ -156,7 +156,7 @@ AI: 네, 잠깐만요.
 The food arrives quickly.
 Yuna pours the drinks with great care.
 
-**기 — 주문 [세트 1]**
+**승 — 주문 [세트 3]**
 AI: 뭐 마셔요?
 User: 따뜻한 거요.
 AI: 오뎅탕 어때요?
@@ -166,7 +166,7 @@ User: 좋아요.
 > The broth smells rich and comforting.
 >
 
-**승 — 식사 [세트 2]**
+**전 — 식사 [세트 4]**
 User: 맛있어요?
 AI: 네, 진짜요.
 User: 저도 맛있어요.
@@ -188,7 +188,7 @@ AI: 다행이에요.
 The meal is almost over.
 Yuna leans back and sighs happily.
 
-**기 — 계산 [세트 1]**
+**전 — 계산 [세트 5]**
 AI: 내가 낼게.
 User: 아니야, 같이 내.
 AI: 그래, 반반.
@@ -198,7 +198,7 @@ User: 얼마야?
 > She pulls out her phone to calculate.
 >
 
-**승 — 나가기 [세트 2]**
+**결 — 나가기 [세트 6]**
 User: 또 오자.
 AI: 응, 꼭.
 User: 배불러.
@@ -261,7 +261,7 @@ AI: 가요, 빨리요.
 Yuna studies the menu board carefully.
 She seems to have a plan already.
 
-**기 — 주문 [세트 1]**
+**승 — 주문 [세트 3]**
 AI: 뭐 마셔요?
 User: 아이스 아메리카노요.
 AI: 저는 라떼요.
@@ -271,7 +271,7 @@ User: 좋아요.
 > She approaches the counter with confidence.
 >
 
-**승 — 계산 [세트 2]**
+**전 — 계산 [세트 4]**
 User: 제가 낼게요.
 AI: 아니에요, 제가요.
 User: 다음에 사줘요.
@@ -293,7 +293,7 @@ AI: 네, 알겠어요.
 The drinks arrive.
 Yuna wraps both hands around her cup and grins.
 
-**기 — 대화 [세트 1]**
+**전 — 대화 [세트 5]**
 AI: 따뜻하다.
 User: 맛있어?
 AI: 응, 최고야.
@@ -303,7 +303,7 @@ User: 나도 좋아.
 > Rain taps softly against the window.
 >
 
-**승 — 마무리 [세트 2]**
+**결 — 마무리 [세트 6]**
 User: 또 오자.
 AI: 응, 자주 와.
 User: 좋아.

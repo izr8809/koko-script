@@ -26,8 +26,8 @@ User: 이 빵이요.
 AI: 네, 잠깐만요.
 
 **Outro:**
-> Order placed!
-> But what about a drink?
+> The bread smells like a warm color.
+> Something to drink with it, maybe.
 >
 
 **승 — 음료 [세트 2]**
@@ -37,8 +37,8 @@ User: 아메리카노 주세요.
 AI: 알겠습니다. 준비할게요.
 
 **Outro:**
-> Bread and coffee.
-> Time to pay.
+> Bread and coffee — a cloud and its shadow.
+> Almost time to make it yours.
 >
 
 ---
@@ -56,8 +56,8 @@ User: 카드 돼요?
 AI: 네, 카드 돼요.
 
 **Outro:**
-> Price checked!
-> Almost done.
+> Six thousand won tastes about right.
+> A fair price for something soft.
 >
 
 **전 — 결제 [세트 4]**
@@ -67,8 +67,8 @@ User: 봉투 있어요?
 AI: 여기 있어요. 드릴게요.
 
 **Outro:**
-> All paid up!
-> Now find a spot to enjoy it.
+> The bag is warm in your hands.
+> Now find a window with good light.
 >
 
 ---
@@ -86,8 +86,8 @@ User: 감사합니다.
 AI: 편하게 앉으세요.
 
 **Outro:**
-> Seat found!
-> Taeo would approve of this spot.
+> This seat catches the afternoon light just right.
+> Taeo always picks the warmest corner.
 >
 
 **결 — 맛 [세트 6]**
@@ -97,8 +97,8 @@ User: 감사합니다!
 AI: 또 오세요. 감사합니다.
 
 **Outro:**
-> Mission complete!
-> Taeo was right about this place.
+> The bread tasted like a good day.
+> Taeo's sky is always right.
 >
 
 ---
@@ -129,8 +129,8 @@ User: 멀어요?
 AI: 아니요, 가까워요.
 
 **Outro:**
-> Direction received!
-> Almost there.
+> The sky is wider in that direction.
+> Follow the light.
 >
 
 **승 — 확인 [세트 2]**
@@ -140,8 +140,8 @@ User: 감사합니다!
 AI: 조금만 더 가세요.
 
 **Outro:**
-> On the right path!
-> The park is waiting.
+> The air already smells greener here.
+> You're walking toward the right color.
 >
 
 ---
@@ -159,8 +159,8 @@ User: 감사합니다.
 AI: 여기 좋은 자리예요.
 
 **Outro:**
-> Bench found!
-> Taeo would love this view.
+> The bench faces the widest part of the sky.
+> Taeo would sit here and taste the blue.
 >
 
 **전 — 산책 [세트 4]**
@@ -170,8 +170,8 @@ User: 감사합니다!
 AI: 천천히 걸어 가세요.
 
 **Outro:**
-> Walk begins!
-> The air is good here.
+> The wind knows this path already.
+> Let it carry you.
 >
 
 ---
@@ -189,8 +189,8 @@ User: 감사합니다.
 AI: 조심히 가세요.
 
 **Outro:**
-> Exit found!
-> One more stop today.
+> The sky shifts color at the gate.
+> One more flavor left in this day.
 >
 
 **결 — 다음 [세트 6]**
@@ -200,8 +200,8 @@ User: 감사합니다!
 AI: 즐거운 시간 되세요.
 
 **Outro:**
-> Next destination: the market!
-> Taeo's neighborhood keeps giving.
+> The market smells like stories and warm bread.
+> Taeo's neighborhood tastes like it never ends.
 >
 
 ---
@@ -232,8 +232,8 @@ User: 비싸요?
 AI: 괜찮은 가격이에요.
 
 **Outro:**
-> Price checked!
-> Not bad at all.
+> Five thousand won for something with a past.
+> That feels like the right taste.
 >
 
 **승 — 물건 [세트 2]**
@@ -243,8 +243,8 @@ User: 예뻐요.
 AI: 감사합니다. 골라 보세요.
 
 **Outro:**
-> Vintage find!
-> Taeo would pick this up.
+> Old things hold colors no one makes anymore.
+> Taeo sees that right away.
 >
 
 ---
@@ -262,8 +262,8 @@ User: 사천 원이요?
 AI: 네, 좋아요.
 
 **Outro:**
-> Deal made!
-> Flea market skills unlocked.
+> A little less money, the same warm weight in your hand.
+> Some things taste better when you ask.
 >
 
 **전 — 계산 [세트 4]**
@@ -273,8 +273,8 @@ User: 현금 있어요.
 AI: 감사합니다. 잘 쓰세요.
 
 **Outro:**
-> Paid in cash!
-> The vintage cup is yours.
+> The cup feels like it was waiting for you.
+> It already has a color that fits.
 >
 
 ---
@@ -292,8 +292,8 @@ User: 감사합니다.
 AI: 잘 담았어요. 조심하세요.
 
 **Outro:**
-> All wrapped up!
-> Time to head home.
+> Wrapped gently, like bread in a cloth.
+> The afternoon light is turning golden.
 >
 
 **결 — 인사 [세트 6]**
@@ -303,8 +303,8 @@ User: 또 올게요!
 AI: 기다릴게요. 또 오세요.
 
 **Outro:**
-> See you next weekend!
-> This market feels like Taeo's world.
+> The sky is softer when you leave with something warm.
+> This market tastes like Taeo's world.
 >
 
 ---
@@ -335,8 +335,8 @@ User: 홍대요.
 AI: 네, 이 버스 맞아요.
 
 **Outro:**
-> Right bus!
-> Get on.
+> The right bus feels like catching a cloud at the right moment.
+> Step on.
 >
 
 **승 — 요금 [세트 2]**
@@ -346,8 +346,8 @@ User: 카드 돼요?
 AI: 네, 카드 돼요.
 
 **Outro:**
-> Fare paid!
-> Find a seat.
+> A small price for a window seat and a moving sky.
+> Sit by the glass.
 >
 
 ---
@@ -365,8 +365,8 @@ User: 감사합니다.
 AI: 곧 도착해요.
 
 **Outro:**
-> Almost there!
-> Two more stops.
+> Two stops — just enough sky left to watch.
+> The light is shifting already.
 >
 
 **전 — 내리기 [세트 4]**
@@ -376,8 +376,8 @@ User: 감사합니다!
 AI: 조심히 내리세요.
 
 **Outro:**
-> Off the bus!
-> One more ride to go.
+> The air tastes different when you step off.
+> One more ride under the evening sky.
 >
 
 ---
@@ -395,8 +395,8 @@ User: 빨리 가주세요.
 AI: 네, 바로 출발할게요.
 
 **Outro:**
-> Destination set!
-> Almost home.
+> The city blurs past like watercolor.
+> Home is where the warm bread waits.
 >
 
 **결 — 도착 [세트 6]**
@@ -406,8 +406,8 @@ User: 감사합니다!
 AI: 조심히 들어가세요.
 
 **Outro:**
-> Home!
-> Another Yeonnam-dong day, done.
+> The sky turned soft on the way back.
+> Another Yeonnam-dong day, tasted whole.
 >
 
 ---

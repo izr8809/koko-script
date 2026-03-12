@@ -49,7 +49,7 @@ AI: 같이 잘 해요!
 Yuna is giving you a quick tour of the café.
 She doesn't wait for you to ask questions.
 
-**기 — 메뉴 설명 [세트 3]**
+**승 — 메뉴 설명 [세트 3]**
 AI: 이게 메뉴판이에요.
 User: 어렵네요.
 AI: 금방 외워요.
@@ -59,7 +59,7 @@ User: 해볼게요.
 > She taps the menu board cheerfully, pointing at everything.
 >
 
-**승 — 주문 연습 [세트 4]**
+**전 — 주문 연습 [세트 4]**
 User: 이건 뭐예요?
 AI: 라떼예요. 많이 팔려요.
 User: 알겠어요.
@@ -77,7 +77,7 @@ AI: 잘 할 거예요.
 It's your first break together.
 Yuna plops down next to you and leans in.
 
-**기 — 반말 제안 [세트 5]**
+**전 — 반말 제안 [세트 5]**
 AI: 나 반말해도 돼요?
 User: 네, 편하게 해요.
 AI: 고마워! 편하다.
@@ -87,7 +87,7 @@ User: 나도.
 > She grins and kicks her legs up on the chair.
 >
 
-**승 — 편한 대화 [세트 6]**
+**결 — 편한 대화 [세트 6]**
 User: 힘들어?
 AI: 조금. 재밌어.
 User: 나도 그래.
@@ -142,7 +142,7 @@ AI: 잘 하고 있어요.
 The rush is finally over.
 Yuna drops into a chair next to you with a sigh.
 
-**기 — 피로 표현 [세트 3]**
+**승 — 피로 표현 [세트 3]**
 AI: 힘드셨죠? 쉬어요.
 User: 바쁘네요, 여기.
 AI: 주말엔 더요.
@@ -152,7 +152,7 @@ User: 그렇군요.
 > She hands you a drink without saying anything.
 >
 
-**승 — 카페 얘기 [세트 4]**
+**전 — 카페 얘기 [세트 4]**
 User: 여기 얼마나 됐어요?
 AI: 두 달요. 재밌어요.
 User: 좋겠어요.
@@ -170,7 +170,7 @@ AI: 같이 하면 더요.
 The last customer just left.
 Yuna stretches and turns to you.
 
-**기 — 반말 전환 [세트 5]**
+**전 — 반말 전환 [세트 5]**
 AI: 말 편하게 해도 돼요?
 User: 네, 그래요.
 AI: 잘 했어, 오늘.
@@ -180,7 +180,7 @@ User: 너도.
 > She starts wiping down the counter, humming to herself.
 >
 
-**승 — 청소 대화 [세트 6]**
+**결 — 청소 대화 [세트 6]**
 User: 뭐 도와줄까?
 AI: 테이블 닦아줘.
 User: 알겠어.
@@ -235,7 +235,7 @@ AI: 바닥만요.
 Cleaning is done.
 Yuna grabs her bag and turns to you.
 
-**기 — 퇴근 준비 [세트 3]**
+**승 — 퇴근 준비 [세트 3]**
 AI: 다 끝났어요! 수고했어요.
 User: 드디어요.
 AI: 오늘 어땠어요?
@@ -245,7 +245,7 @@ User: 재밌었어요.
 > She claps her hands together and looks satisfied.
 >
 
-**승 — 퇴근 대화 [세트 4]**
+**전 — 퇴근 대화 [세트 4]**
 User: 집 어디예요?
 AI: 신촌이요. 가까워요.
 User: 좋겠어요.
@@ -263,7 +263,7 @@ AI: 같이 나가요!
 You're standing outside the café after the shift.
 Yuna zips up her jacket and smiles at you.
 
-**기 — 반말 제안 [세트 5]**
+**전 — 반말 제안 [세트 5]**
 AI: 나 반말해도 돼?
 User: 응, 해.
 AI: 오늘 진짜 고마워.
@@ -273,7 +273,7 @@ User: 나도.
 > She waves and starts walking, then glances back.
 >
 
-**승 — 작별 [세트 6]**
+**결 — 작별 [세트 6]**
 User: 또 보자.
 AI: 응! 내일 봐.
 User: 잘 가.

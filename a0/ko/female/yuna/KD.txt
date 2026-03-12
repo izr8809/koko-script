@@ -47,7 +47,7 @@ AI: 그럼 또 봐요.
 You meet again unexpectedly at the convenience store.
 She spots you first.
 
-**기 — 반가운 재회 [세트 1]**
+**승 — 반가운 재회 [세트 3]**
 AI: 또 만났네요.
 User: 진짜요?
 AI: 동네가 좁죠.
@@ -57,7 +57,7 @@ User: 그러네요.
 > She's clearly happy to see you again.
 >
 
-**승 — 연락처 교환 [세트 2]**
+**전 — 연락처 교환 [세트 4]**
 User: 연락해도 돼요?
 AI: 좋아요, 네.
 User: 번호 알려줘요.
@@ -75,7 +75,7 @@ AI: 잠깐만요.
 You've bumped into each other enough times now.
 She greets you like an old friend.
 
-**기 — 편안한 만남 [세트 1]**
+**전 — 편안한 만남 [세트 5]**
 AI: 또 왔어?
 User: 응, 산책하러.
 AI: 나도 자주 와.
@@ -85,7 +85,7 @@ User: 몰랐어.
 > She falls into step beside you naturally.
 >
 
-**승 — 편한 대화 [세트 2]**
+**결 — 편한 대화 [세트 6]**
 User: 오늘 뭐 했어?
 AI: 수업 들었어.
 User: 힘들었겠다.
@@ -140,7 +140,7 @@ AI: 같이 해요, 그럼.
 A cozy café after studying together.
 She seems nervous about something.
 
-**기 — 할 말이 있어요 [세트 1]**
+**승 — 할 말이 있어요 [세트 3]**
 AI: 있잖아요.
 User: 네?
 AI: 드릴 말 있어요.
@@ -150,7 +150,7 @@ User: 말해요.
 > She takes a deep breath and looks at you.
 >
 
-**승 — 고백 [세트 2]**
+**전 — 고백 [세트 4]**
 User: 뭔데요?
 AI: 저, 좋아해요.
 User: 진짜요?
@@ -168,7 +168,7 @@ AI: 네, 진짜요.
 The next day after the confession.
 She's waiting for you at the school gate.
 
-**기 — 다음 날 [세트 1]**
+**전 — 다음 날 [세트 5]**
 AI: 어젯밤에 생각했어.
 User: 나도.
 AI: 어떻게 생각해?
@@ -178,7 +178,7 @@ User: 나도 좋아해.
 > She breaks into a wide smile and looks down.
 >
 
-**승 — 새로운 시작 [세트 2]**
+**결 — 새로운 시작 [세트 6]**
 User: 오늘 뭐 해?
 AI: 너랑 있고 싶어.
 User: 나도.
@@ -233,7 +233,7 @@ AI: 저도요.
 Waiting for the bus together.
 She's the first one to speak honestly.
 
-**기 — 솔직한 대화 [세트 1]**
+**승 — 솔직한 대화 [세트 3]**
 AI: 미안해요, 그때.
 User: 저도요.
 AI: 많이 서운했죠?
@@ -243,7 +243,7 @@ User: 조금요.
 > She exhales slowly, like she's been holding that in for a while.
 >
 
-**승 — 화해 [세트 2]**
+**전 — 화해 [세트 4]**
 User: 괜찮아요, 이제.
 AI: 다행이에요.
 User: 다시 친하게 지내요.
@@ -261,7 +261,7 @@ AI: 네, 그래요.
 She walks you to her door.
 Formality falls away completely.
 
-**기 — 완전한 화해 [세트 1]**
+**전 — 완전한 화해 [세트 5]**
 AI: 오늘 고마워.
 User: 나도.
 AI: 많이 보고 싶었어.
@@ -271,7 +271,7 @@ User: 나도 그랬어.
 > She leans against the door with a soft smile.
 >
 
-**승 — 새 출발 [세트 2]**
+**결 — 새 출발 [세트 6]**
 User: 이제 자주 봐.
 AI: 당연하지.
 User: 약속해.

@@ -1,4 +1,4 @@
-# 🌙 TRAVELING (존댓말)
+# ✈️ TRAVELING (존댓말)
 
 # TR-1: 여기 제 단골이에요
 
@@ -6,11 +6,6 @@
 - 중분류: Cafe
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
-
-**Outro:**
-> Café unlocked! ☕
-> Hangyeol's Konkuk go-to — now it's yours too.
->
 
 ---
 
@@ -113,11 +108,6 @@ AI: 맛있게 드세요!
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
-**Outro:**
-> Street food champion! 🍢
-> Spicy, chewy, perfect — just like Konkuk's famous night market.
->
-
 ---
 
 ### sim1: 포장마차 도착
@@ -219,11 +209,6 @@ AI: 안녕히 가세요!
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
-**Outro:**
-> Safe on board! 🚌
-> Hangyeol's card to the rescue — friendship level up!
->
-
 ---
 
 ### sim1: 버스 정류장
@@ -324,11 +309,6 @@ AI: 별거 아냐!
 - 중분류: Emergency
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
-
-**Outro:**
-> Found each other! 🎉
-> Lost in Konkuk's night market — but Hangyeol always shows up.
->
 
 ---
 

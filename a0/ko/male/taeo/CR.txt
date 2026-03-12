@@ -64,7 +64,7 @@ User: 그러네, 맞아.
 AI: 뭐 만들어?
 User: 디자인이야.
 AI: 멋지다. 보고 싶어.
-User: 열심히 중이야.
+User: 열심히 하고 있어.
 
 **Outro:**
 > Two freelancers. Side by side.
