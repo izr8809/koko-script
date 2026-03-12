@@ -1,36 +1,442 @@
-1#ZP|세트1: 첫 인사, 이름 교환
-2#MQ|안녕하세요! 저 ___이에요!
-3#VR|시윤이야. 반말 해.
-4#WS|이름이 뭐예요?
-5#NK|방금 말했어. 시윤.
-6#TX|He told you his name once. Don't make him say it again — that's already more words than most people get.
-7#JB|세트2: 어디서 왔어?
-8#YH|어디서 왔어?
-9#ZM|___에서 왔어요!
-10#QV|멀리서 왔네. 밥 먹었어?
-11#RW|고마워요!
-12#SN|You said where you're from. He asked if you'd eaten. That's Korean for "I care."
-13#KT|세트3: 뭐 좋아해?
-14#XJ|시윤 씨 뭐 좋아해요?
-15#BY|음악. 너는?
-16#HP|저도! ___ 좋아해요!
-17#MZ|그래? 취향 괜찮네.
-18#QR|He approved your taste. That's a rare compliment from Siyun. Save it.
-19#NV|세트4: 밥 먹었어?
-20#BK|밥 먹었어? 또 안 먹었지?
-21#WT|아직이요! 시윤 씨는요?
-22#XS|나도 안 먹었어. 같이 가.
-23#JP|같이 먹어요!
-24#HM|He didn't invite you to eat — he told you. There's a difference.
-25#RB|세트5: 주말에 뭐 해?
-26#TV|주말에 뭐 해요?
-27#ZK|딱히 없어. 왜?
-28#PH|같이 ___에 가요!
-29#MW|좋아. 늦지 마.
-30#SX|He said yes — then immediately set a rule. That's his love language.
-31#KJ|세트6: 카톡 교환
-32#YN|카톡 있어요?
-33#BW|있어. 번호 줘.
-34#HQ|제 아이디 ___이에요!
-35#VT|저장했어. 나중에 연락해.
-36#XM|"Saved it." He won't text first. But he'll reply in three seconds flat.
+# 💖 PERSONAL INTEREST (반말) >> Korean Life
+
+# PI-1: 안녕! 나는 ___야
+
+- 대분류: Personal Interest
+- 중분류: First Meeting
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+First meeting in Korea.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, state where you are from, and briefly share why you like Korea.
+
+**📍 장소:** 밖
+
+**intro_text:**
+First meeting in Korea.
+Deep breath... say hi!
+
+**기 — 첫 만남 [세트 1]**
+AI: 시윤이야. 반말 해. 이름이 뭐야?
+User: 나는 ___야! / ___이야!
+AI: 방금 말했어. 시윤. 어디서 왔어?
+User: ___에서 왔어!
+
+**Outro:**
+> He told you his name once. Don't make him say it again — that's already more words than most people get.
+> But wait... why are you *really* here in Korea?
+>
+
+**승 — 알아가기 [세트 2]**
+AI: 멀리서 왔네. 한국 좋아해?
+User: 응, 좋아해! / 진짜 좋아해!
+AI: 한국 왜 좋아해? 밥 먹었어?
+User: 드라마! / 음식!
+
+**Outro:**
+> You said why you like Korea. He asked if you'd eaten. That's Korean for "I care."
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+
+**📍 장소:** 밖 (동일)
+
+**승 — 취미 [세트 3]**
+User: 시윤아, 뭐 좋아해?
+AI: 음악. 너는?
+User: 나도 음악! / 드라마 좋아해!
+AI: 그래? 취향 괜찮네.
+
+**Outro:**
+> He approved your taste. That's a rare compliment from Siyun. Save it.
+> Now, prepare for the ultimate Korean obsession... Food.
+>
+
+**전 — 음식 [세트 4]**
+AI: 밥 먹었어? 또 안 먹었지?
+User: 아직! / 응, 먹었어!
+AI: 나도 안 먹었어. 같이 가.
+User: 같이 먹자! / 좋아!
+
+**Outro:**
+> He didn't invite you to eat — he told you. There's a difference.
+> This is your golden chance. Make a move and ask him out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
+
+**📍 장소:** 밖 (동일, 쉬는 시간)
+
+**전 — 놀자 [세트 5]**
+User: 주말에 뭐 해?
+AI: 딱히 없어. 왜?
+User: 같이 놀래?
+AI: 좋아. 늦지 마.
+
+**Outro:**
+> He said yes — then immediately set a rule. That's his love language.
+> ...Wait! Don't let him walk away without getting his Kakao ID!
+>
+
+**결 — 연락 [세트 6]**
+User: 카톡 있어?
+AI: 있어. 번호 줘.
+User: 여기! 내 아이디 ___야!
+AI: 저장했어. 나중에 연락해.
+
+**Outro:**
+> "Saved it." He won't text first. But he'll reply in three seconds flat.
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---
+
+# PI-2: MBTI가 뭐야?
+
+- 대분류: Personal Interest
+- 중분류: Small Talk
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: The Basics
+
+**Goal:** To ask and answer questions about age and where you live.
+
+📍 장소: 카페
+
+**intro_text:**
+You made it to the café. Now the real small talk begins.
+Age, location... and then the question everyone asks.
+
+### 기 — 나이 [세트 1]
+
+AI: 몇 살이야?
+User: ___살이야!
+
+AI: 그래? 나는 24살. 형이네.
+User: 진짜? / 오, 형이야?
+
+**Outro:**
+> Age revealed. He's 24 — and already acting like your senior.
+> Now find out where he actually lives.
+>
+
+### 승 — 어디 살아 [세트 2]
+
+User: 어디 살아?
+AI: 합정. 너는?
+
+User: 서울이야! / 홍대 근처야!
+AI: 가깝네. 밥 먹을 데 많아.
+
+**Outro:**
+> Neighbors? Maybe. He already knows all the good restaurants nearby.
+> Get ready — the MBTI question is coming.
+>
+
+## sim2: MBTI Talk
+
+**Goal:** To discuss MBTI types and talk about personality.
+
+📍 장소: 카페 (동일)
+
+### 승 — MBTI [세트 3]
+
+User: MBTI 뭐야?
+AI: INTJ. 너는?
+
+User: ENFP야! / 모르겠어!
+AI: ENFP? ...시끄럽겠다.
+
+**Outro:**
+> He judged your MBTI in two seconds. Classic INTJ.
+> Now dig a little deeper into who he really is.
+>
+
+### 전 — 성격 [세트 4]
+
+AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
+User: 밖에 나가는 거! / 집이 좋아!
+
+AI: 나는 집. 근데 너랑은 나가줄게.
+User: 오, 고마워!
+
+**Outro:**
+> He's a homebody. But he'll make an exception for you. Don't waste it.
+> One more round — what's he been up to these days?
+>
+
+## sim3: More About You
+
+**Goal:** To talk about what you've been doing lately.
+
+📍 장소: 카페 (동일)
+
+### 전 — 요즘 뭐 해 [세트 5]
+
+AI: 요즘 뭐 해?
+User: 한국어 공부! / 드라마 봐!
+
+AI: 한국어 어때? 어렵지?
+User: 응, 재밌어! / 좀 어려워.
+
+**Outro:**
+> He asked how your Korean is going. He'll quiz you on it later — guaranteed.
+> Time to wrap this up and make plans to talk again.
+>
+
+### 결 — 마무리 [세트 6]
+
+AI: 다음에 더 얘기하자. 밥 꼭 먹어.
+User: 응, 좋아!
+
+AI: 카톡 해. 늦게까지 깨있지 마.
+User: 응!
+
+**Outro:**
+> New friend unlocked. He already gave you two rules before leaving.
+> Next up: Turn that chat into actual plans.
+>
+
+---
+
+# PI-3: 주말에 뭐 해?
+
+- 대분류: Personal Interest
+- 중분류: Making Plans
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+📍 장소: 온라인 (카톡)
+
+**intro_text:**
+The text bubble is blinking.
+Time to shoot your shot — ask him to hang out!
+
+### 기 — 주말 [세트 1]
+
+User: 주말에 뭐 해?
+AI: 딱히 없어. 왜?
+
+User: 같이 놀래?
+AI: 좋아. 뭐 먹을래?
+
+**Outro:**
+> He said yes. And immediately pivoted to food. Classic Siyun.
+> Now figure out what you're actually doing.
+>
+
+### 승 — 어디 갈까 [세트 2]
+
+User: 파스타 먹으러 갈래? 밥 먹으러 갈래?
+AI: 파스타. 합정에 맛집 있어. 거기 가자.
+
+User: 좋아!
+AI: 배고프지? 아침 먹었어?
+
+**Outro:**
+> Destination: Hapjeong pasta spot. He already had a place in mind.
+> Now nail down the details — when and where exactly?
+>
+
+## sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+📍 장소: 온라인 (카톡, 동일)
+
+### 승 — 시간 [세트 3]
+
+AI: 몇 시에 만날까?
+User: 2시? / 저녁에!
+
+AI: 2시. 합정역 앞.
+User: 응!
+
+**Outro:**
+> Time locked in. He didn't ask — he confirmed.
+> One more check and you're all set.
+>
+
+### 전 — 확인 [세트 4]
+
+AI: 그럼 토요일 2시, 합정역.
+User: 응!
+
+AI: 늦지 마. 진짜 늦으면 안 돼.
+User: 알겠어! / 안 늦어!
+
+**Outro:**
+> Plans confirmed. He said "don't be late" twice. He means it.
+> Saturday is coming... are you ready for the real thing?
+>
+
+## sim3: Day of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+📍 장소: 합정역 앞 (야외)
+
+### 전 — 당일 [세트 5]
+
+AI: 나왔어? 뛰지 마. 천천히 와.
+User: 응, 거의 다 왔어! / 나가고 있어!
+
+AI: 나 도착했어. 빨리 와. 근데 뛰지 마.
+User: 금방 가!
+
+**Outro:**
+> He told you not to run — twice. But he's already standing there waiting.
+> Just one more step — actually find each other.
+>
+
+### 결 — 만남 [세트 6]
+
+User: 어디야?
+AI: 여기. 이쪽.
+
+User: 아, 봤어!
+AI: 밥부터 먹자. 배고프지?
+
+**Outro:**
+> You found each other. His first words? "Let's eat." Some things never change.
+> Next up: Staying in touch between hangouts.
+>
+
+---
+
+# PI-4: 카톡 해!
+
+- 대분류: Personal Interest
+- 중분류: Staying in Touch
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: First Text
+
+**Goal:** To start a casual conversation over text.
+
+📍 장소: 온라인 (카톡)
+
+**intro_text:**
+You have his KakaoTalk ID.
+Now what? Just... text him!
+
+### 기 — 첫 카톡 [세트 1]
+
+User: 뭐 해?
+AI: 집에 있어. 너는?
+
+User: 나도 집! 심심해.
+AI: 심심하면 밥이라도 먹어.
+
+**Outro:**
+> Conversation started. His first instinct? Make sure you've eaten.
+> Now keep it going — ask about his day.
+>
+
+### 승 — 대화 [세트 2]
+
+AI: 오늘 뭐 했어?
+User: 영화 봤어. / 드라마 봤어.
+
+AI: 뭐 봤어? 이상한 거 보지 마.
+User: 새로 나온 거! / 비밀!
+
+**Outro:**
+> He asked what you watched and immediately gave a warning. Typical.
+> Time to take it up a notch — share something fun.
+>
+
+## sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
+
+📍 장소: 온라인 (카톡, 동일)
+
+### 승 — 사진 [세트 3]
+
+AI: 나 지금 여기야.
+User: 어디야? / 와, 좋다!
+
+AI: 합정 카페. 다음에 같이 가자.
+User: 가자! / 응, 가고 싶어!
+
+**Outro:**
+> Café photo from Hapjeong. He's already planning your next outing.
+> Now send him something funny.
+>
+
+### 전 — 재미 [세트 4]
+
+User: 이거 봤어?
+AI: 뭐야? 안 봤어.
+
+User: 진짜 웃겨! 봐봐!
+AI: 알겠어. 볼게. 자기 전에 핸드폰 그만 해.
+
+**Outro:**
+> You sent a link. He said he'd watch it — then told you to get off your phone. Classic.
+> The night is winding down... time to say goodnight.
+>
+
+## sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+📍 장소: 온라인 (카톡, 동일)
+
+### 전 — 저녁 [세트 5]
+
+AI: 밥 먹었어? 라면 먹지 마.
+User: 응, 먹었어. / 아직!
+
+User: 너는?
+AI: 나는 파스타 해 먹었어.
+
+**Outro:**
+> Dinner check done. He even told you what NOT to eat. He cares in his own way.
+> Almost time to wrap up for the night.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 나 이제 잘 거야. 너도 자. 늦게까지 깨있지 마.
+User: 잘 자!
+
+User: 내일 봐!
+AI: 응. 내일 봐. 이 닦고 자.
+
+**Outro:**
+> Goodnight said. He reminded you to brush your teeth. That's peak Siyun.
+> Next up: Taking your Korean out into the real world.
+>
+
+---
+
+# ✈️ TRAVELING (존댓말)
