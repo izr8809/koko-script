@@ -56,7 +56,7 @@ User: 드라마요! / 음식이요!
 User: 현준 씨, 뭐 좋아해요?
 AI: 커피 좋아해요. 자주 마셔요. 당신은요?
 User: 저도 커피! / 드라마 좋아해요!
-AI: 여기 커피 맛있어요. 드세요.
+AI: 좋네요. 다음에 같이 해요.
 
 **Outro:**
 > A second coffee appeared at your desk. He'd already ordered it before you asked.
@@ -66,7 +66,7 @@ AI: 여기 커피 맛있어요. 드세요.
 **전 — 음식 [세트 4]**
 AI: 밥 먹었어요?
 User: 아직이에요! / 네, 먹었어요!
-AI: 아직이에요? 같이 가요. 제가 살게요.
+AI: 그래요. 같이 가요.
 User: 같이 먹어요! / 고마워요!
 
 **Outro:**
@@ -163,7 +163,7 @@ User: MBTI 뭐예요?
 AI: ISTJ예요. 당신은요?
 
 User: ENFP예요! / 모르겠어요!
-AI: ENFP요? 재밌겠네요.
+AI: 재밌어요. 저는 계획적인 편이에요.
 
 **Outro:**
 > ISTJ. Organized, reliable, efficient. The MBTI equivalent of a pressed suit.
@@ -194,7 +194,7 @@ User: 오, 좋아요!
 AI: 요즘 뭐 해요?
 User: 한국어 공부요! / 드라마 봐요!
 
-AI: 한국어 어때요? 어려워요?
+AI: 좋네요. 재밌어요?
 User: 재밌어요! / 좀 어려워요.
 
 **Outro:**
@@ -273,7 +273,7 @@ AI: 제가 예약할게요.
 AI: 몇 시에 만날까요?
 User: 6시요? / 저녁에요!
 
-AI: 6시 좋아요. 삼성역 앞이요.
+AI: 좋아요. 삼성역 앞이요.
 User: 네!
 
 **Outro:**

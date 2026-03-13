@@ -130,7 +130,7 @@ She's already ordered — and she got you something too.
 AI: 몇 살이에요?
 User: ___살이에요!
 
-AI: 저는 21살이에요! 언니/오빠다!
+AI: 저는 21살이에요! 나이 차이 얼마 안 나네!
 User: 진짜? / 오, 그래?
 
 **Outro:**
@@ -163,7 +163,7 @@ User: MBTI 뭐야?
 AI: ENFP! 나 완전 E야! 너는?
 
 User: ENFP야! / 모르겠어!
-AI: 우리 진짜 잘 맞을 것 같아!
+AI: 나 MBTI 완전 좋아해! 나중에 같이 얘기하자!
 
 **Outro:**
 > ENFP energy — she's already calling you her best friend.
@@ -194,8 +194,8 @@ User: 오, 나랑 같아! / 나는 좀 달라!
 AI: 요즘 뭐 해?
 User: 한국어 공부! / 드라마 봐!
 
-AI: 대박! 한국어 잘하잖아!
-User: 아니야! / 고마워!
+AI: 대박! 나는 요즘 노래 연습해!
+User: 진짜? 멋있다! / 오, 좋겠다!
 
 **Outro:**
 > She's your biggest cheerleader and you just met.
@@ -273,7 +273,7 @@ AI: 완전 좋아!
 AI: 몇 시에 만날까?
 User: 1시? / 낮에!
 
-AI: 1시 좋아! 신촌역 앞?
+AI: 좋아! 신촌역 앞에서 보자!
 User: 응!
 
 **Outro:**
@@ -384,7 +384,7 @@ User: 오, 좋겠다!
 AI: 나 지금 여기야! 봐봐!
 User: 어디야? / 와, 좋겠다!
 
-AI: 신촌이야! 다음에 같이 가자!
+AI: 한강이야! 다음에 같이 가자!
 User: 가자! / 응, 가고 싶어!
 
 **Outro:**

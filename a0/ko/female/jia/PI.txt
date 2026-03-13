@@ -163,11 +163,11 @@ User: MBTI 뭐예요?
 AI: ISTJ예요. 계획 좋아해요.
 
 User: ENFP예요! / 모르겠어요!
-AI: 재밌네요. 다른 스타일이에요.
+AI: 저는 계획 없으면 불안해요.
 
 **Outro:**
-> She didn't say "we're compatible." She said "different style."
-> But she's still here — so you passed.
+> Whatever you said, she filed it away and pivoted back to herself.
+> Classic Jia — she reveals just enough to keep it moving.
 >
 
 ### 전 — 성격 [세트 4]
@@ -273,7 +273,7 @@ AI: 좋은 곳 있어요. 제가 정할게요.
 AI: 몇 시가 좋아요?
 User: 1시요? / 저녁에요!
 
-AI: 1시 좋아요. 강남역 3번 출구요.
+AI: 좋아요. 강남역 3번 출구요.
 User: 네!
 
 **Outro:**
@@ -283,7 +283,7 @@ User: 네!
 
 ### 전 — 확인 [세트 4]
 
-AI: 토요일 1시, 강남역 3번 출구예요.
+AI: 토요일이요. 강남역 3번 출구예요.
 User: 네!
 
 AI: 시간 맞춰 오세요.
@@ -416,7 +416,7 @@ AI: 네, 볼게요. 감사해요.
 AI: 저녁 먹었어요?
 User: 네, 먹었어요. / 아직이요!
 
-AI: 아직이면 빨리 드세요. 건강이 중요해요.
+AI: 저는 방금 먹었어요. 건강이 중요해요.
 User: 네! / 먹을게요!
 
 **Outro:**

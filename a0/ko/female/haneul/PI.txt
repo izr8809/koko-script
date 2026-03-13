@@ -56,7 +56,7 @@ User: 드라마! / 음식!
 User: 하늘아, 뭐 좋아해?
 AI: 사진 찍는 거 좋아해. 너는?
 User: 나도 사진! / 음악 좋아해!
-AI: 진짜? 뭔가 느낌이 비슷해.
+AI: 좋다. 나는 사진 찍어. 색 담는 거 좋아해.
 
 **Outro:**
 > Something clicked — like a perfect frame in a photo.
@@ -130,7 +130,7 @@ The light is golden. Time to learn more about each other.
 AI: 몇 살이야?
 User: ___살이야!
 
-AI: 나는 24살이야. 비슷하다!
+AI: 나는 24살이야. 나이는 숫자일 뿐이야.
 User: 진짜? / 오, 그래?
 
 **Outro:**
@@ -163,7 +163,7 @@ User: MBTI 뭐야?
 AI: 나는 INFP야. 너는?
 
 User: ENFP야! / 모르겠어!
-AI: 좋다. 느낌이 따뜻해.
+AI: 괜찮아. 나는 INFP야. 하늘 같은 거래. 자유롭고.
 
 **Outro:**
 > INFP meets you — she says it feels like warm light.
@@ -273,7 +273,7 @@ AI: 거기 좋아!
 AI: 몇 시에 만날까?
 User: 2시? / 오후에!
 
-AI: 2시 좋아! 망원역 앞?
+AI: 좋아! 망원역 앞에서 만나자.
 User: 응!
 
 **Outro:**
@@ -283,7 +283,7 @@ User: 응!
 
 ### 전 — 확인 [세트 4]
 
-AI: 그럼 토요일 2시, 망원역!
+AI: 그럼 토요일, 망원역!
 User: 응!
 
 AI: 카메라 가져올게!

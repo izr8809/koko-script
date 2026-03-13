@@ -36,11 +36,11 @@ User: ___에서 왔어!
 **승 — 알아가기 [세트 2]**
 AI: 멀리서 왔네. 한국 좋아해?
 User: 응, 좋아해! / 진짜 좋아해!
-AI: 한국 왜 좋아해? 밥 먹었어?
+AI: 나도 좋아해. 뭐가 좋아?
 User: 드라마! / 음식!
 
 **Outro:**
-> You said why you like Korea. He asked if you'd eaten. That's Korean for "I care."
+> You said why you like Korea. He said he likes it too. That's as warm as Siyun gets.
 > Red flag or green flag? Let's see if your hobbies match.
 >
 
@@ -66,7 +66,7 @@ AI: 그래? 취향 괜찮네.
 **전 — 음식 [세트 4]**
 AI: 밥 먹었어? 또 안 먹었지?
 User: 아직! / 응, 먹었어!
-AI: 나도 안 먹었어. 같이 가.
+AI: 어쨌든 같이 가. 밥 먹자.
 User: 같이 먹자! / 좋아!
 
 **Outro:**
@@ -163,10 +163,10 @@ User: MBTI 뭐야?
 AI: INTJ. 너는?
 
 User: ENFP야! / 모르겠어!
-AI: ENFP? ...시끄럽겠다.
+AI: 나는 혼자 있는 게 편해.
 
 **Outro:**
-> He judged your MBTI in two seconds. Classic INTJ.
+> INTJ who likes being alone. He just told you something real.
 > Now dig a little deeper into who he really is.
 >
 
@@ -175,11 +175,11 @@ AI: ENFP? ...시끄럽겠다.
 AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
 User: 밖에 나가는 거! / 집이 좋아!
 
-AI: 나는 집. 근데 너랑은 나가줄게.
+AI: 나는 집. 근데 너랑이면 상관없어.
 User: 오, 고마워!
 
 **Outro:**
-> He's a homebody. But he'll make an exception for you. Don't waste it.
+> He's a homebody. But with you? Doesn't matter where. Don't waste it.
 > One more round — what's he been up to these days?
 >
 
@@ -194,11 +194,11 @@ User: 오, 고마워!
 AI: 요즘 뭐 해?
 User: 한국어 공부! / 드라마 봐!
 
-AI: 한국어 어때? 어렵지?
+AI: 나는 요즘 음악 듣고 있어.
 User: 응, 재밌어! / 좀 어려워.
 
 **Outro:**
-> He asked how your Korean is going. He'll quiz you on it later — guaranteed.
+> You shared what you're into. He pivoted to music — he opens up in his own way.
 > Time to wrap this up and make plans to talk again.
 >
 
@@ -273,7 +273,7 @@ AI: 배고프지? 아침 먹었어?
 AI: 몇 시에 만날까?
 User: 2시? / 저녁에!
 
-AI: 2시. 합정역 앞.
+AI: 합정역 앞. 늦지 마.
 User: 응!
 
 **Outro:**
