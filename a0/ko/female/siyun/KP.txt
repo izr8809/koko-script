@@ -81,11 +81,19 @@ AI: 꼭 와. 안 오면 섭섭해.
 User: 꼭 올게요.
 AI: 약속이야. 잊지 마.
 
+**Outro:**
+> A promise with Seoyeon. She doesn't say it twice.
+>
+
 **결 — 마지막 순간 [세트 6]**
 User: 건강해야 해요.
 AI: 너도 밥 잘 먹어. 걱정돼.
 User: 팬이에요, 진짜로.
 AI: 알아. 고마워. 잘 가.
+
+**Outro:**
+> She turned away first. But she glanced back — just once.
+>
 
 ---
 
