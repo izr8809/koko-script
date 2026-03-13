@@ -86,7 +86,7 @@ It's your first break together.
 Yuna plops down next to you and leans in.
 
 **전 — 반말 제안 [세트 5]**
-AI: 나 반말해도 돼요?
+AI: 저 반말해도 돼요?
 User: 네, 편하게 해요.
 AI: 고마워! 편하다.
 User: 나도.
@@ -296,7 +296,7 @@ You're standing outside the café after the shift.
 Yuna zips up her jacket and smiles at you.
 
 **전 — 반말 제안 [세트 5]**
-AI: 나 반말해도 돼?
+AI: 저 반말해도 돼요?
 User: 응, 해.
 AI: 오늘 진짜 고마워.
 User: 나도.
