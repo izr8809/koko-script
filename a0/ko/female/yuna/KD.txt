@@ -35,6 +35,10 @@ AI: 네, 자주요.
 User: 저도요.
 AI: 그럼 또 봐요.
 
+**Outro:**
+> She waves goodbye with a little bounce in her step. 👋
+>
+
 ---
 
 ## sim2: 편의점 앞에서
@@ -63,6 +67,10 @@ AI: 좋아요, 네.
 User: 번호 알려줘요.
 AI: 잠깐만요.
 
+**Outro:**
+> She types her number in with a shy grin. 📱
+>
+
 ---
 
 ## sim3: 동네 공원에서 (반말 전환)
@@ -90,6 +98,10 @@ User: 오늘 뭐 했어?
 AI: 수업 들었어.
 User: 힘들었겠다.
 AI: 좀 그랬어.
+
+**Outro:**
+> She nudges your shoulder playfully and laughs. 😆
+>
 
 ---
 
@@ -128,6 +140,10 @@ AI: 네, 내일요.
 User: 저도요.
 AI: 같이 해요, 그럼.
 
+**Outro:**
+> She scoots her chair closer with a bright smile. 😊
+>
+
 ---
 
 ## sim2: 카페에서
@@ -156,6 +172,10 @@ AI: 저, 좋아해요.
 User: 진짜요?
 AI: 네, 진짜요.
 
+**Outro:**
+> Her cheeks turn red as she hides behind her coffee cup. ☕
+>
+
 ---
 
 ## sim3: 학교 앞에서 (반말 전환)
@@ -183,6 +203,10 @@ User: 오늘 뭐 해?
 AI: 너랑 있고 싶어.
 User: 나도.
 AI: 그럼 가자.
+
+**Outro:**
+> She grabs your hand and pulls you along, giggling. 💕
+>
 
 ---
 
@@ -221,6 +245,10 @@ AI: 네, 있어요.
 User: 얘기할게요.
 AI: 저도요.
 
+**Outro:**
+> She walks beside you quietly, matching your pace. 🚶‍♀️
+>
+
 ---
 
 ## sim2: 버스 정류장에서
@@ -249,6 +277,10 @@ AI: 다행이에요.
 User: 다시 친하게 지내요.
 AI: 네, 그래요.
 
+**Outro:**
+> She lets out a relieved laugh and links her arm with yours. 🤗
+>
+
 ---
 
 ## sim3: 집 앞에서 (반말 전환)
@@ -276,3 +308,7 @@ User: 이제 자주 봐.
 AI: 당연하지.
 User: 약속해.
 AI: 응, 약속할게.
+
+**Outro:**
+> She holds out her pinky with a determined little nod. 🤙
+>

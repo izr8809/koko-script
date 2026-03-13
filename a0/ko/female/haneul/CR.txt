@@ -35,6 +35,10 @@ AI: 앉아. 여기 좋아.
 User: 고마워요.
 AI: 조용히 해. 집중할 거야.
 
+**Outro:**
+> She turns back to the window, already somewhere far away. 🌤️
+>
+
 ---
 
 ### sim2: 작업 중
@@ -63,6 +67,10 @@ AI: 그림 그려. 오늘 하늘.
 User: 뭐 그려요?
 AI: 오늘 본 색 그려.
 
+**Outro:**
+> She holds up her sketch — soft blues and golds, like a sky only she remembers. 🎨
+>
+
 ---
 
 ### sim3: 인사
@@ -90,6 +98,10 @@ User: 내일도 와요?
 AI: 아마 올 거야.
 User: 또 봐요.
 AI: 내일 하늘 더 예쁘겠다.
+
+**Outro:**
+> She waves without looking back, already gazing at the clouds drifting home. ☁️
+>
 
 ---
 
@@ -128,6 +140,10 @@ AI: 좋아. 거기 서 봐.
 User: 고마워.
 AI: 움직이지 마. 빛 좋다.
 
+**Outro:**
+> She takes the photo and smiles at the screen — like she caught something only she can see. 📷
+>
+
 ---
 
 ### sim2: 작업물
@@ -156,6 +172,10 @@ AI: 봐. 아직 다 안 했어.
 User: 멋있다.
 AI: 아직 멀었어. 하늘 색 더 넣을 거야.
 
+**Outro:**
+> She tilts her head, already mixing new colors in her mind. 🌈
+>
+
 ---
 
 ### sim3: 쉬는 시간
@@ -183,6 +203,10 @@ User: 잠깐 쉬자.
 AI: 나도 쉬고 있었어.
 User: 나도.
 AI: 바람 좋다. 창문 열자.
+
+**Outro:**
+> The breeze comes in and she closes her eyes, breathing it in like a color she wants to keep. 🍃
+>
 
 ---
 
@@ -221,6 +245,10 @@ AI: 챙기고 있어. 천천히.
 User: 나도 챙긴다.
 AI: 서두르지 마. 노을 봐.
 
+**Outro:**
+> She stands at the window, watching the sunset like it's painting something just for her. 🌅
+>
+
 ---
 
 ### sim2: 오늘 감상
@@ -249,6 +277,10 @@ AI: 거의 매일 와. 좋아해.
 User: 나도 올게.
 AI: 같이 있으면 좋겠다.
 
+**Outro:**
+> She says it quietly, like she's talking to the room itself. 💫
+>
+
 ---
 
 ### sim3: 다음 만남
@@ -276,3 +308,7 @@ User: 내일 몇 시야?
 AI: 낮에 올 거야. 빛 좋을 때.
 User: 알겠어.
 AI: 또 보자. 기다릴게.
+
+**Outro:**
+> She walks away slowly, her camera bag swinging, already looking up at tomorrow's sky. 🌙
+>

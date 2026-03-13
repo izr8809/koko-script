@@ -53,7 +53,7 @@ A small park near the river.
 She's sitting alone on a bench, camera in hand.
 She's not taking photos. Just holding it.
 
-**기 — 자리 [세트 1]**
+**기 — 자리 [세트 3]**
 AI: 여기 앉아도 돼? 옆자리.
 User: 네.
 AI: 고마워. 바람 좋다.
@@ -63,7 +63,7 @@ User: 카메라 있어요?
 > She sets the camera gently on her lap, watching the wind move through the trees.
 >
 
-**승 — 이름 [세트 2]**
+**승 — 이름 [세트 4]**
 User: 이름 뭐예요?
 AI: 하늘이야. 이름 예쁘지?
 User: 예쁜 이름이다.
@@ -85,7 +85,7 @@ AI: 하늘 보면 생각 나지?
 The alley ends where a small road begins.
 She stops walking. Doesn't say anything yet.
 
-**기 — 헤어짐 [세트 1]**
+**기 — 헤어짐 [세트 5]**
 AI: 나 여기까지야. 집 가야 해.
 User: 아, 그래요?
 AI: 오늘 재밌었어.
@@ -95,7 +95,7 @@ User: 잘 가요.
 > She waves once, then turns toward the fading light.
 >
 
-**승 — 마지막 [세트 2]**
+**승 — 마지막 [세트 6]**
 User: 또 봐요.
 AI: 또 볼 수 있을까?
 User: 왜요?
@@ -160,7 +160,7 @@ By the Han River at night.
 She's sitting with her knees pulled up.
 The water is dark.
 
-**기 — 고백 후 [세트 1]**
+**기 — 고백 후 [세트 3]**
 AI: 어색해? 나도 좀 떨려.
 User: 조금요.
 AI: 나도 떨려. 괜찮아.
@@ -170,7 +170,7 @@ User: 솔직하다.
 > She smiles. Small. Real. Like the river reflecting moonlight.
 >
 
-**승 — 마음 [세트 2]**
+**승 — 마음 [세트 4]**
 User: 무서워요?
 AI: 무서워. 근데 좋아.
 User: 나도요.
@@ -192,7 +192,7 @@ AI: 같이 무서우면 괜찮아.
 It started raining while you were talking.
 She didn't move. Not even one step.
 
-**기 — 비 [세트 1]**
+**기 — 비 [세트 5]**
 AI: 우산 없어? 비 온다.
 User: 없어요.
 AI: 나도 없어. 비 좋다.
@@ -202,7 +202,7 @@ User: 어떡해요.
 > She looks up at the rain, catching drops on her face like they're gifts.
 >
 
-**승 — 비 속에서 [세트 2]**
+**승 — 비 속에서 [세트 6]**
 User: 가자.
 AI: 어디 갈까? 같이 가자.
 User: 아무 데나.
@@ -266,7 +266,7 @@ AI: 알아. 나도 다 알아.
 She's back on the rooftop. Alone this time.
 Holding the camera. Not taking photos.
 
-**기 — 보고 싶다 [세트 1]**
+**기 — 보고 싶다 [세트 3]**
 AI: 보고 싶다. 진짜 많이.
 User: 저도요.
 AI: 그래? 다행이다.
@@ -276,7 +276,7 @@ User: 진짜로요.
 > She lowers the camera and looks at the empty sky.
 >
 
-**승 — 기억 [세트 2]**
+**승 — 기억 [세트 4]**
 User: 잊어요?
 AI: 아직 못 잊었어.
 User: 나도 아직이에요.
@@ -299,7 +299,7 @@ The same alley. Months later.
 She's there again. Same spot. Same mural.
 Like time never passed. Or like too much of it did.
 
-**기 — 재회 [세트 1]**
+**기 — 재회 [세트 5]**
 AI: 또 왔어. 여기 좋지?
 User: 하늘아.
 AI: 왔구나. 보고 싶었어.
@@ -309,7 +309,7 @@ User: 보고 싶었어요.
 > She looks at you carefully, like the sunlight just came back after months of clouds.
 >
 
-**승 — 다시 [세트 2]**
+**승 — 다시 [세트 6]**
 User: 어떻게 지냈어요?
 AI: 사진 많이 찍었어.
 User: 나는 힘들었어요.

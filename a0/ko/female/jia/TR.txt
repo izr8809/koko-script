@@ -35,6 +35,10 @@ AI: 네, 성함이 어떻게 되세요?
 User: 지아 씨 이름으로요.
 AI: 확인해 드릴게요. 잠깐만요.
 
+**Outro:**
+> 🪪 She handles it without breaking stride. Reservation confirmed.
+>
+
 ---
 
 ### sim2: 주문
@@ -47,7 +51,7 @@ AI: 확인해 드릴게요. 잠깐만요.
 You're seated at the table.
 Jia is skimming the menu, already knowing what she wants.
 
-**기 — 추천 [세트 1]**
+**기 — 추천 [세트 3]**
 User: 뭐가 맛있어요?
 AI: 여기 다 맛있어요.
 User: 추천해 줘요.
@@ -57,11 +61,15 @@ AI: 파스타 드세요. 괜찮아요.
 > She sets down her menu and looks at you briefly.
 >
 
-**승 — 주문 [세트 2]**
+**승 — 주문 [세트 4]**
 User: 파스타 주세요.
 AI: 어떤 것으로 드릴까요?
 User: 이거요.
 AI: 네, 알겠습니다.
+
+**Outro:**
+> 🍝 She closes the menu with a quiet snap. Order placed, no fuss.
+>
 
 ---
 
@@ -75,7 +83,7 @@ AI: 네, 알겠습니다.
 Dinner was excellent.
 The check is on the table.
 
-**기 — 계산 [세트 1]**
+**기 — 계산 [세트 5]**
 User: 계산해 주세요.
 AI: 네, 영수증 가져다 드릴게요.
 User: 감사해요.
@@ -85,11 +93,15 @@ AI: 또 오세요. 감사합니다.
 > Jia stands up and puts on her coat smoothly.
 >
 
-**승 — 마무리 [세트 2]**
+**승 — 마무리 [세트 6]**
 User: 좋았어요.
 AI: 다행이에요. 맛있었어요?
 User: 다음엔 내가 낼게요.
 AI: 괜찮아요. 제가 할게요.
+
+**Outro:**
+> 🧥 She heads for the door without looking back. Evening handled.
+>
 
 ---
 
@@ -128,6 +140,10 @@ AI: 3층에 가요. 같이 가요.
 User: 같이 가요.
 AI: 이쪽으로 따라오세요.
 
+**Outro:**
+> 🛗 She steps onto the escalator without slowing down. She knows the way.
+>
+
 ---
 
 ### sim2: 쇼핑 중
@@ -140,7 +156,7 @@ AI: 이쪽으로 따라오세요.
 You're on the third floor.
 Jia is looking at something while you browse.
 
-**기 — 물건 [세트 1]**
+**기 — 물건 [세트 3]**
 User: 이거 어때요?
 AI: 괜찮아요. 잘 어울려요.
 User: 살까요?
@@ -150,11 +166,15 @@ AI: 마음에 들면 사세요.
 > She glances at the price tag and gives a subtle nod of approval.
 >
 
-**승 — 직원 [세트 2]**
+**승 — 직원 [세트 4]**
 User: 이 사이즈 있어요?
 AI: 잠깐만요. 확인해 드릴게요.
 User: 감사해요.
 AI: 네, 여기 있습니다.
+
+**Outro:**
+> 🛍️ She takes the bag from the counter with a brief nod. Done.
+>
 
 ---
 
@@ -168,7 +188,7 @@ AI: 네, 여기 있습니다.
 You head downstairs to the food hall.
 Jia knows all the good spots.
 
-**기 — 식품관 [세트 1]**
+**기 — 식품관 [세트 5]**
 User: 여기가 좋아요?
 AI: 여기 물건 좋아요.
 User: 뭐 추천해요?
@@ -178,11 +198,15 @@ AI: 이거 드세요. 맛있어요.
 > She picks up a small item and inspects it carefully.
 >
 
-**승 — 구매 [세트 2]**
+**승 — 구매 [세트 6]**
 User: 이거 주세요.
 AI: 네, 선물 포장 해드릴까요?
 User: 네, 부탁해요.
 AI: 잠깐만 기다려 주세요.
+
+**Outro:**
+> 🎁 She waits with arms crossed, perfectly patient. Purchase complete.
+>
 
 ---
 
@@ -221,6 +245,10 @@ AI: 여기 좋아요. 앉으세요.
 User: 조용하네요.
 AI: 그래서 좋아해요.
 
+**Outro:**
+> ☕ She settles into her seat like she owns the place. Comfortable silence.
+>
+
 ---
 
 ### sim2: 주문
@@ -233,7 +261,7 @@ AI: 그래서 좋아해요.
 You're at the counter, looking at the menu board.
 Jia already knows her order.
 
-**기 — 메뉴 [세트 1]**
+**기 — 메뉴 [세트 3]**
 User: 뭐 시켜요?
 AI: 아메리카노 마실게요.
 User: 추천해요?
@@ -243,11 +271,15 @@ AI: 여기 라테 맛있어요.
 > She steps aside so you can order at the register.
 >
 
-**승 — 주문 [세트 2]**
+**승 — 주문 [세트 4]**
 User: 라테 주세요.
 AI: 사이즈는 어떻게 해 드릴까요?
 User: 미디움이요.
 AI: 네, 잠깐만요.
+
+**Outro:**
+> 🧾 She pays before you even reach for your wallet. Smooth as always.
+>
 
 ---
 
@@ -261,7 +293,7 @@ AI: 네, 잠깐만요.
 Drinks have arrived. You're both seated.
 Jia is checking her phone briefly.
 
-**기 — 대화 [세트 1]**
+**기 — 대화 [세트 5]**
 User: 요즘 바빠요?
 AI: 항상 바빠요. 괜찮아요.
 User: 쉬어야 해요.
@@ -271,8 +303,12 @@ AI: 이게 쉬는 거예요.
 > She looks out the window briefly, then back at her drink.
 >
 
-**승 — 마무리 [세트 2]**
+**승 — 마무리 [세트 6]**
 User: 다음엔 또 와요.
 AI: 좋아요. 같이 와요.
 User: 좋았어요.
 AI: 다행이에요. 저도 좋았어요.
+
+**Outro:**
+> 🚶‍♀️ She finishes her coffee and stands. A good afternoon, neatly wrapped up.
+>

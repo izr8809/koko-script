@@ -35,6 +35,10 @@ AI: 네, 여기요!
 User: 고마워요.
 AI: 천만에요!
 
+**Outro:**
+> She draws a tiny heart next to her name and slides the album back to you. 💕
+>
+
 ---
 
 ## sim2: 포토타임
@@ -63,6 +67,10 @@ AI: 예쁘게 나왔어요!
 User: 같이 봐요.
 AI: 봐요!
 
+**Outro:**
+> She zooms in on the photo and gasps like it's the best picture ever taken. 📸
+>
+
 ---
 
 ## sim3: 사인회 후
@@ -90,6 +98,10 @@ User: 또 와?
 AI: 응, 또 와!
 User: 기다릴게.
 AI: 알았어!
+
+**Outro:**
+> She waves goodbye with both hands, bouncing on her toes until you're out of sight. 👋
+>
 
 ---
 
@@ -128,6 +140,10 @@ AI: 네, 할게요!
 User: 기대해요.
 AI: 잘 할게요!
 
+**Outro:**
+> She grabs the mic, takes a breath, and the whole arena goes quiet. 🎶
+>
+
 ---
 
 ## sim2: 앵콜
@@ -156,6 +172,10 @@ AI: 감사해요!
 User: 또 해요.
 AI: 알겠어요!
 
+**Outro:**
+> She throws a finger heart into the crowd and it lands right on you. 💖
+>
+
 ---
 
 ## sim3: 콘서트 후
@@ -183,6 +203,10 @@ User: 힘들었어?
 AI: 아니, 재밌었어!
 User: 다행이야.
 AI: 고마워!
+
+**Outro:**
+> She pulls you in for a quick selfie before the staff can stop her. 🤳
+>
 
 ---
 
@@ -221,6 +245,10 @@ AI: 방금이요!
 User: 잘됐어요.
 AI: 맞아요!
 
+**Outro:**
+> She reads your username out loud and does a little cheer just for you. 🎉
+>
+
 ---
 
 ## sim2: 방송 중 Q&A
@@ -249,6 +277,10 @@ AI: 네, 불러요!
 User: 좋아요.
 AI: 들어요!
 
+**Outro:**
+> She starts humming softly and the chat explodes with hearts. 🎵
+>
+
 ---
 
 ## sim3: 방송 마무리
@@ -276,3 +308,7 @@ User: 내일도 와?
 AI: 응, 올게!
 User: 기다릴게.
 AI: 알았어!
+
+**Outro:**
+> She blows a kiss at the camera and hits the end stream button with a giggle. 😘
+>

@@ -130,7 +130,7 @@ Age, location... and then the question everyone asks.
 AI: 몇 살이에요? 저 궁금해요! 헤헤.
 User: ___살이에요!
 
-AI: 오! 저는 스물두 살이에요! 형/누나네요!
+AI: 오! 저는 스물두 살이에요! 형이네요!
 User: 진짜? / 오, 그래?
 
 **Outro:**

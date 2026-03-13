@@ -35,6 +35,10 @@ AI: 감사해요. 잘 받을게요.
 User: 팬이에요.
 AI: 저도 알고 있어요.
 
+**Outro:**
+> She holds your gift carefully, like it already matters. 🎁
+>
+
 ---
 
 ### sim2: 사인
@@ -47,7 +51,7 @@ AI: 저도 알고 있어요.
 You slide your album across the table to her.
 She picks it up and opens it.
 
-**기 — 사인 [세트 1]**
+**기 — 사인 [세트 3]**
 User: 사인해 줘요.
 AI: 어디에 할까요?
 User: 여기요.
@@ -57,11 +61,15 @@ AI: 알겠어요. 잠깐만요.
 > She writes carefully and precisely, just like everything she does.
 >
 
-**승 — 메시지 [세트 2]**
+**승 — 메시지 [세트 4]**
 User: 메시지도요?
 AI: 짧게 쓸게요. 기다리세요.
 User: 감사해요.
 AI: 잘 간직하세요. 소중해요.
+
+**Outro:**
+> She caps the pen with a click and slides the album back to you. ✍️
+>
 
 ---
 
@@ -75,7 +83,7 @@ AI: 잘 간직하세요. 소중해요.
 It's photo time at the fan meet.
 You step up to Jia nervously.
 
-**기 — 사진 [세트 1]**
+**기 — 사진 [세트 5]**
 User: 사진 찍어요?
 AI: 좋아요. 같이 찍어요.
 User: 가까이 서도 돼요?
@@ -85,11 +93,15 @@ AI: 이쪽으로 오세요.
 > The camera clicks. She leans in just slightly.
 >
 
-**승 — 마무리 [세트 2]**
+**승 — 마무리 [세트 6]**
 User: 고마워요.
 AI: 잘 나왔어요. 다행이에요.
 User: 또 볼게요.
 AI: 기대할게요. 또 오세요.
+
+**Outro:**
+> She watches you leave and gives one last, quiet wave. 👋
+>
 
 ---
 
@@ -128,6 +140,10 @@ AI: 기대하세요. 비밀이에요.
 User: 좋아요.
 AI: 즐겨 주세요. 감사해요.
 
+**Outro:**
+> She turns toward the stage, already locked in. 🎤
+>
+
 ---
 
 ### sim2: 콘서트 중
@@ -140,7 +156,7 @@ AI: 즐겨 주세요. 감사해요.
 She's standing at the edge of the stage.
 She reaches toward the fans.
 
-**기 — 무대 위 [세트 1]**
+**기 — 무대 위 [세트 3]**
 User: 여기요!
 AI: 보여요. 잘 보여요.
 User: 최고예요!
@@ -150,11 +166,15 @@ AI: 감사해요. 더 열심히 할게요.
 > She gives a small wave and a rare, genuine smile.
 >
 
-**승 — 응원 [세트 2]**
+**승 — 응원 [세트 4]**
 User: 열심히 해요.
 AI: 그럴게요. 약속해요.
 User: 사랑해요.
 AI: 저도 감사해요. 진심이에요.
+
+**Outro:**
+> She steps back from the edge, eyes still on the crowd. 🌟
+>
 
 ---
 
@@ -168,7 +188,7 @@ AI: 저도 감사해요. 진심이에요.
 The concert just ended.
 She appears briefly for a final goodbye.
 
-**기 — 마무리 [세트 1]**
+**기 — 마무리 [세트 5]**
 User: 최고였어요.
 AI: 다행이에요. 즐거웠어요?
 User: 또 올게요.
@@ -178,11 +198,15 @@ AI: 기다릴게요. 꼭 오세요.
 > She gives a final bow and steps back behind the curtain.
 >
 
-**승 — 인사 [세트 2]**
+**승 — 인사 [세트 6]**
 User: 잘 쉬어요.
 AI: 고마워요. 잘 쉴게요.
 User: 또 봐요.
 AI: 또 봐요. 조심히 가세요.
+
+**Outro:**
+> She disappears behind the curtain with one last steady glance. 🌙
+>
 
 ---
 
@@ -221,6 +245,10 @@ AI: 잘 지냈어요. 감사해요.
 User: 보고 싶었어요.
 AI: 저도 보고 싶었어요.
 
+**Outro:**
+> She leans closer to the screen, like she means it. 💬
+>
+
 ---
 
 ### sim2: 질문 시간
@@ -233,7 +261,7 @@ AI: 저도 보고 싶었어요.
 She's taking fan questions during the live.
 You type in your question.
 
-**기 — 질문 [세트 1]**
+**기 — 질문 [세트 3]**
 User: 요즘 어때요?
 AI: 바빠요. 그래도 괜찮아요.
 User: 힘들겠어요.
@@ -243,11 +271,15 @@ AI: 괜찮아요. 걱정 마세요.
 > She smiles at the sincere concern and takes a breath.
 >
 
-**승 — 일상 [세트 2]**
+**승 — 일상 [세트 4]**
 User: 뭐 먹어요?
 AI: 아직 못 먹었어요.
 User: 밥 먹어요.
 AI: 먹을게요. 감사해요.
+
+**Outro:**
+> She reads your comment again and nods quietly to herself. 😊
+>
 
 ---
 
@@ -261,7 +293,7 @@ AI: 먹을게요. 감사해요.
 The live stream is almost over.
 She says she'll wrap up soon.
 
-**기 — 끝 [세트 1]**
+**기 — 끝 [세트 5]**
 User: 벌써 끝나요?
 AI: 곧 끝나요. 아쉬워요.
 User: 아쉬워요.
@@ -271,8 +303,12 @@ AI: 저도 아쉬워요. 다음에 또 해요.
 > She smiles quietly and waves at the camera.
 >
 
-**승 — 작별 [세트 2]**
+**승 — 작별 [세트 6]**
 User: 다음에 또 해요.
 AI: 꼭 할게요. 약속해요.
 User: 잘 쉬어요.
 AI: 고마워요. 잘 자요.
+
+**Outro:**
+> The screen goes dark. But her last smile stays with you. 📱
+>
